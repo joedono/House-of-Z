@@ -14,6 +14,8 @@ There will be a couple guards outside the warehouse, but it's possible the playe
 
 The guards will be welcoming at first, seeing the players as willing converts, or at least hapless saps here for fresh conversion. They'll be particularly eager since the players have obviously not been as affected by the sigils yet. Probably less so if the party brought too much artificial light with them.
 
+The Cult Fanatic is actually Caleb, nearly fully converted to a Yuan-Ti Malison. He'll have snake eyes, a snake tongue, scales everywhere, and speak with elongated "s" sounds. He'll react with delight at seeing the party again, and relish the chance to bring them under his power again. He thinks he has a higher station within the cult than he does. As soon as the party shows signs of hostility, Caleb will order the attack.
+
 ## Entering the Warehouse
 The secret staircase in the back corner of the warehouse stands open. If the party bluffed their way past the guards, they won't be harassed as they make their way through the warehouse. They'll have the opportunity to surprise the enemies in the encounter below down in the ritual room.
 
