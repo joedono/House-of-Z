@@ -86,3 +86,6 @@ Tabitha's elven assistant. A young woman, especially by elven standards. She's s
 
 ## Sisava
 Yuan-ti Abomination. Enactor of the Ritual of Transformation that is taking over Loftran. The final boss of the first leg of the adventure. He's a loyal follower of Zehir and is attempting to enact Zehir's will on the world by transforming all of its inhabitants into loyal Yuan-ti acolytes of Zehir.
+
+## Viserion
+An ancient black dragon. Responsible for the death of Archebald Elmwall, the destruction of Ardin's village, and gifting Sisava with the components needed for the transformation ritual that threatened all of Loftran.
