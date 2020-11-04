@@ -61,6 +61,7 @@ Kellen's betrayal
 Cure or kill Kellen and retrieve the Panacea
 Defeat Sisava
 **Level Up! - Level 5**
+Find the King or investigate Ibal's murder case
 
 ## Timeline so Far
 3 3 Days in jail + 1 night at House of Sunlight
