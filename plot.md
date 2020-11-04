@@ -30,7 +30,7 @@ The players now have to:
 ## Chapter 3
 The second night. The players have a handful of options for where to stay, each with their own hazards. When they present the information from their investigations to either the clerics or the wizards, they eventually conclude they need two weapons powerful enough to destroy the power source of the poisoning ritual: a source of great light and a source of great restoration.
 
-## Chapter 4-A
+## Chapter 4
 The party elects to put together the great antidote. There are a number of ingredients needed. The clerics or wizards can get their hands on all but one: Mimic Ivy. It likes to grow in areas with ripening fruits. It takes on the appearance of not-quite-ripe fruit and stays that way, never ripening. This means the primary method for detecting an infestation is a farm or vineyard that has started experiencing reduced harvest. The players have two choices for where to look: the vineyards to the north-east, or the farms to the south.
 
 The vineyard experiencing trouble belongs to Makaria. With a bit of work, the party can gain access to the vineyard and locate the ivy. The farmlands to the south have the problem of being close to one of the older sigils, meaning that the farmers are more affected by it and less likely to want to help the players, especially if they drop that they're trying to stop the sigils work. The farmers exhibit stage 3 or 4 symptoms of sigil poisoning, which includes general animosity towards people not affected by the sigils.
