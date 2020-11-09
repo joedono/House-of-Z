@@ -9,7 +9,7 @@ The party might encounter a town preacher, espousing the virtues of poison, how 
 ## Yuan-Ti Appearances - DONE
 While the party is walking from one destination to another, they start to encounter legitimate Yuan-Ti people, up to Malisons (people with snake heads, arms, or legs). None of these people will be openly hostile towards the party, but if the party catches their eye, they'll have a derisive look, like they're looking at a filthy stain in the carpet. If the party follows one of these people, they'll act completely normal, going about their lives, shopping, meeting friends for lunch, going home, reading, sleeping, etc.
 
-## Missionaries
+## Missionaries - DONE
 While the party is at the House of Sunlight at some point, have an incident where a snake-eyed cleric comes to the door handling out pamphlets, advertising having all your sins forgiven and basking in the darkness brought about by our new lord and savior, Zehir. The pamphlet will advertise a "transformation ceremony" that takes place every night now in the old warehouse on Linen Street. See Marsh's side quest. The missionary's shadow will appear to look at the players as they leave.
 
 ## City Construction - DONE
@@ -30,7 +30,6 @@ As the nights go on, fewer shadow demons will appear. They'll be replaced with h
 See Shadow Dragon Template MM 85
 
 ## Marsh at the House of Sunlight
---- BOOKMARK ---
 One of the times that the party returns to the House of Sunlight, Marsh will be there waiting for them. He'll implore them to help him find his parents.
 
 ## King's Decree
