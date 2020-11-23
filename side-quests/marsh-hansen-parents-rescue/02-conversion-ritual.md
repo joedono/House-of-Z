@@ -24,7 +24,6 @@ If the players fought their way in, then the encounter below will be waiting in 
 Either way, Marsh's parents and all the other citizen converts who showed up that night will be stashed in the ritual room. They will cower in fear if the fight happens in the ritual room.
 
 ## Battle for Rescue
--- BOOKMARK --
 1 Yuan-Ti Priest - https://www.dndbeyond.com/monsters/yuan-ti-priest
 2 Yuan-Ti Broodguard - https://www.dndbeyond.com/monsters/yuan-ti-broodguard
 2 Yuan-Ti Pureblood (optional) - https://www.dndbeyond.com/monsters/yuan-ti-pureblood

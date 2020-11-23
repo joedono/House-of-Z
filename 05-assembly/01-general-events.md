@@ -23,19 +23,23 @@ Probably after the party finishes at the Wizard's College, they'll learn that th
 
 Another day or two later, and the king will issue another decree, encouraging people to turn in any "blasphemous traitors to the crown" in to the guards, and saying that they can be recognized by their round pupils. This should come near the end of the adventure, to show that the king has completely lost it and is a full-fledged convert to the Venomers.
 
+## Makaria Reward - DONE
+If the players helped Makaria with her Mimic Ivy problem, they'll receive a package from a courier. The package contains two magic items from Table B (DM 144), 600gp, a bottle of fine wine, and an invitation to a party Makaria is hosting in two weeks at her mansion.
+
+Potion of Fire Breath - Ardin
+Potion of Poison Resistance - Ardin
+
+## Protection and Concealment - DONE
+The party may want some form of protection against the ritual that is transforming the city. Sister Thia or Tabitha, the alchemist, will be able to provide a charm that will stave off the effects, but only for a few days. Less if the party spends too much time close to a sigil.
+
 ## Wizard's Study Session
+-- BOOKMARK --
 If the party goes back to the Wizard's College, then they'll run into Cathlene and Theresa. If they don't, then this can be triggered by a `sending` spell cast by Theresa. The elements haven't changed in the forbidden section. They'll also mention that Cathlene's practical exam is coming up and that her studying hasn't been doing very well. Theresa will remember that some of the party was pulled aside and tested for magical aptitude and suggest that some fresh opponents might help. She'll ask the players if a few of them might consent to a friendly magical duel against Cathlene.
 
 ## Drinking and Dancing
 If the party decides they need a drink, the tavern where Fran and Theryn were arrested for fighting is called The Bloody Tankard. It's a lower-middle class pub. The regulars usually like to blow off steam. There's a betting board and a fighting ring, but it's rarely used in favor of all-out brawls in the main area. Alternatively, the players can go to The Emerald Glass, a higher class bar with more expensive wine, live music, and good food. If they go to there, they might find Aiden supplying wine to the tavern.
 
-## Makaria Reward
-If the players helped Makaria with her Mimic Ivy problem, they'll receive a package from a courier. The package contains two magic items from Table B (DM 144), a bottle of fine wine, and an invitation to a party Makaria is hosting in two weeks at her mansion.
-
 ## Monster Evolution
 As the nights go on, fewer shadow demons will appear. They'll be replaced with honest-to-goodness monsters that are usually native to the Underdark. They'll always have either darkness or poison qualities, and the majority will have snake-like attributes. Eventually, they'll start appearing during the day too, although they'll wander the streets like common citizens, seen by the populace as little more than stray cats.
 
 See Shadow Dragon Template MM 85
-
-## Protection and Concealment
-The party may want some form of protection against the ritual that is transforming the city. Sister Thia or Tabitha, the alchemist, will be able to provide a charm that will stave off the effects, but only for a few days. Less if the party spends too much time close to a sigil.
