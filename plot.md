@@ -45,3 +45,20 @@ The party pays a visit to Aiden's wine shop, learned that the Makaria vineyard h
 
 ## Chapter 5
 Having obtained the Mimic Ivy, the party now has to wait a couple days for the Hatching Stone to be charged and for the Panacea to be brewed. This leaves them with some downtime, but the city is waiting for them. They check back in at the House of Sunlight, and Marsh is there waiting for them.
+
+### Side Quests (time killers)
+Marsh leads the party on a mission to rescue his parents, who are now devout members of the Venomers, but don't really know what they've gotten into. The party rescues them and brings them back to the House of Sunlight for restoration.
+
+The party gets a call from Theresa at the Wizards' College. Cathlene has a practical magic exam coming up and is having a lot of trouble studying. The exam is on improvisation and how to deal with non-wizard opponents. Theresa enlists the party to serve as stand-ins for the veteran wizards Cathlene will be dueling with during the actual exam.
+
+On one of the evenings before the Panacea is ready, a fully corrupted Brother Kellen and other acolytes betray the House of Sunlight and steal the fully charged Large Hatching Stone. They also sabotage the beltower (again). Kellen and the other acolytes bring the stone to the Maple Leaves residence, where Sisava is waiting to receive it with an army of snakes, Yuan-Ti, and shadow creatures defending him. The party must retrieve the stone before Sisava disappears with it. They must either kill or restore Kellen. If they kill him, then Sisava will leave a trail for them to follow. If they restore him, then he'll remember where he was taken. The party now knows that the cauldron that serves as the heart of this ritual is in the top floor of Loftran Castle. Marsh knows a secret way in. If the party discusses raiding the castle in front of him, he'll volunteer the information.
+
+## Chapter 6
+The party raids the castle, either through the front door, one of the side entrances, or through the sewer/caves beneath the castle that Marsh knows about. There is a party happening. Fully corrupted nobles wander the halls constantly. If the players are caught, the guards will be alerted. The players must make their way upstairs to the attic ritual room where they meet Sisava and his remaining forces. Sisava will mention that his master, Viserion, has already gotten what he needs from the city.
+
+After defeating Sisava, the city is saved. The party will find the queen and her children in a safe room, but no king. There'll be a party to honor the players, and they'll be given the Eloreth mansion, that has a nice secret.
+
+## Hooks for next arc
+- Ibal still has a murder to solve
+- The king of Loftran is missing
+- The door in the Eloreth Mansion is locked with powerful magics

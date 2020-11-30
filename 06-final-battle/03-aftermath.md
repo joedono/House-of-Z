@@ -18,7 +18,7 @@ The players will be invited to a fantastic party thrown by the queen. They'll be
 ### Mansion
 The mansion used to belong to a noble family named Eloreth, an elven family that recently abandoned their position in the city to pursue ventures in other regions in the world. It was all rather mysterious, actually. Turns out that there will be a secret basement with a dormant portal to the Fey Wild. The place will be dingy, but serviceable. It'll be a lot easier to maintain with staff, but it's unlikely that the party can afford that right now.
 
-On the other hand, when they leave and come back for the first time, the place will have been cleaned by Brownies, which will serve as the first clue to the existance of the portal.
+On the other hand, when they leave and come back for the first time, the place will have been cleaned by Brownies, which will serve as the first clue to the existence of the portal.
 
 ## Bittersweet Celebration
 The celebration will be bittersweet though. No one knows where the king has disappeared to. Open future quest for the party.
