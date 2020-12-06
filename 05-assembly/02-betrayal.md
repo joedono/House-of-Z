@@ -10,25 +10,11 @@ If the players are within the church on the evening when the rituals are complet
 
 Thia will then leave to activate the belltower.
 
-## The Journey
-The party arrives on the street just outside the Maple Leaves. There is a freshly activated sigil on the ground just outside the place, and a humanoid figure standing over it. The humandoid is a Yuan-Ti Malison, a cultist from the Venomers. Inside the sigil ring is a Shadow Dragon Wyrmling, a great winged shadow creature. Strewn around are several groups of corpses, three of which rise as Shadows.
-
-### Encounter
-Yuan-ti Malison (type 1, snake head) - MM 309 https://www.dndbeyond.com/monsters/yuan-ti-malison-type-1
-Blue (Shadow) Dragon Wyrmling - MM 91 https://www.dndbeyond.com/monsters/blue-dragon-wyrmling
-Shadow x3 - MM 269 https://www.dndbeyond.com/monsters/shadow
-
-#### Shadow Dragon Attributes
-Damage Resistances. The dragon has resistance to necrotic damage.
-Skill Proficiency: Stealth. The dragon's proficiency bonus is doubled for its Dexterity (Stealth) checks.
-Living Shadow. While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.
-Shadow Stealth. While in dim light or darkness, the dragon can take the Hide action as a bonus action.
-Sunlight Sensitivity. While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
-New Action: Bite. If the dragon deals acid, cold, fire, lightning, or poison damage with its  bite, change that damage type to necrotic.
-New Action: Shadow Breath. Any damage-dealing breath weapon possessed by the dragon deals necrotic damage instead of its original damage type. A humanoid reduced to 0 hit points by this damage dies, and an undead shadow rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
+## Arrival
+The party arrives on the street just outside the Maple Leaves. There is a flash of green light from either behind or on top of the building, signaling to the players that there is a freshly activated sigil inside. The residence looms menacingly in front of them. Then the screams start and residents start streaming out in a panic.
 
 ## Maple Leaves
-After the fight, the party may enter the Maple Leaves. Being just outside the sphere of light granted by the House of Sunlight, the place is mostly abandoned. But the surprise appearance of the sigil just as the sun set has driven the few latecomers inside in a panic. There will be a handful of civilian NPCs for the party to rescue inside the residence hall as they explore.
+The party will find a mix of snakes, yuan-ti cultists, and panicked residents inside the Maple Leaves that the players can rescue. After fighting their way through enough of the enemies inside, the party will encounter Kellen giving the Large Hatching Stone to Sisava, the mastermind behind the ritual in Loftran.
 
 ### Boss Encounter
 Sisava, Yuan-ti Abomination - MM 308 https://www.dndbeyond.com/monsters/yuan-ti-abomination
