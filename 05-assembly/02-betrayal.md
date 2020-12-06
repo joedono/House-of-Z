@@ -16,16 +16,19 @@ The party arrives on the street just outside the Maple Leaves. There is a flash 
 ## Maple Leaves
 The party will find a mix of snakes, yuan-ti cultists, and panicked residents inside the Maple Leaves that the players can rescue. After fighting their way through enough of the enemies inside, the party will encounter Kellen giving the Large Hatching Stone to Sisava, the mastermind behind the ritual in Loftran.
 
-### Boss Encounter
-Sisava, Yuan-ti Abomination - MM 308 https://www.dndbeyond.com/monsters/yuan-ti-abomination
-
-Snakes...Lots of Snakes
-Constrictor Snake - https://www.dndbeyond.com/monsters/constrictor-snake
-Flying Snake - https://www.dndbeyond.com/monsters/flying-snake
-Poisonous Snake - https://www.dndbeyond.com/monsters/poisonous-snake
-Swarm of Poisonous Snakes - https://www.dndbeyond.com/monsters/swarm-of-poisonous-snakes
-
 Objective: Grab Kellen, feed him the panacea, and escape back into the House of Sunlight's sphere of safety
+
+### Encounters
+
+#### Minions
+Cult Fanatic - https://www.dndbeyond.com/monsters/cult-fanatic
+Poisonous Snake - https://www.dndbeyond.com/monsters/poisonous-snake
+Flying Snake - https://www.dndbeyond.com/monsters/flying-snake
+Constrictor Snake - https://www.dndbeyond.com/monsters/constrictor-snake
+
+#### Boss Encounter
+Sisava, Yuan-ti Abomination - MM 308 https://www.dndbeyond.com/monsters/yuan-ti-abomination
+Brother Kellen - see custom character sheet
 
 ## Reinforcements
 As the battle draws to a close (it doesn't matter which side is winning), Thia will arrive with reinforcements. They will bathe the area outside Maple Leaves with Daylight spells, and start moving around inside, effectively "smoking out" any shadow creatures or Yuan-Ti creatures. Sisava will flee out a window and disappear into the night.
