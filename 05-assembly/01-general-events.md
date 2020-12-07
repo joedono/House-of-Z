@@ -33,7 +33,6 @@ Potion of Poison Resistance - Ardin
 The party may want some form of protection against the ritual that is transforming the city. Sister Thia or Tabitha, the alchemist, will be able to provide a charm that will stave off the effects, but only for a few days. Less if the party spends too much time close to a sigil.
 
 ## Wizard's Study Session
--- BOOKMARK --
 If the party goes back to the Wizard's College, then they'll run into Cathlene and Theresa. If they don't, then this can be triggered by a `sending` spell cast by Theresa. The elements haven't changed in the forbidden section. They'll also mention that Cathlene's practical exam is coming up and that her studying hasn't been doing very well. Theresa will remember that some of the party was pulled aside and tested for magical aptitude and suggest that some fresh opponents might help. She'll ask the players if a few of them might consent to a friendly magical duel against Cathlene.
 
 ## Drinking and Dancing

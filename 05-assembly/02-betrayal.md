@@ -14,6 +14,7 @@ Thia will then leave to activate the belltower.
 The party arrives on the street just outside the Maple Leaves. There is a flash of green light from either behind or on top of the building, signaling to the players that there is a freshly activated sigil inside. The residence looms menacingly in front of them. Then the screams start and residents start streaming out in a panic.
 
 ## Maple Leaves
+--- BOOKMARK ---
 The party will find a mix of snakes, yuan-ti cultists, and panicked residents inside the Maple Leaves that the players can rescue. After fighting their way through enough of the enemies inside, the party will encounter Kellen giving the Large Hatching Stone to Sisava, the mastermind behind the ritual in Loftran.
 
 Objective: Grab Kellen, feed him the panacea, and escape back into the House of Sunlight's sphere of safety
