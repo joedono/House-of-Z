@@ -20,5 +20,7 @@ The mansion used to belong to a noble family named Eloreth, an elven family that
 
 On the other hand, when they leave and come back for the first time, the place will have been cleaned by Brownies, which will serve as the first clue to the existence of the portal.
 
-## Bittersweet Celebration
-The celebration will be bittersweet though. No one knows where the king has disappeared to. Open future quest for the party.
+## Next Adventure
+- Ibal's Murder Mystery
+- Find the King
+- Locked door in Eloreth Mansion
