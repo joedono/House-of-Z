@@ -14,7 +14,6 @@ Thia will then leave to activate the belltower.
 The party arrives on the street just outside the Maple Leaves. There is a flash of green light from either behind or on top of the building, signaling to the players that there is a freshly activated sigil inside. The residence looms menacingly in front of them. Then the screams start and residents start streaming out in a panic.
 
 ## Maple Leaves
---- BOOKMARK ---
 The party will find a mix of snakes, yuan-ti cultists, and panicked residents inside the Maple Leaves that the players can rescue. After fighting their way through enough of the enemies inside, the party will encounter Kellen giving the Large Hatching Stone to Sisava, the mastermind behind the ritual in Loftran.
 
 Objective: Grab Kellen, feed him the panacea, and escape back into the House of Sunlight's sphere of safety
@@ -35,6 +34,7 @@ Brother Kellen - see custom character sheet
 As the battle draws to a close (it doesn't matter which side is winning), Thia will arrive with reinforcements. They will bathe the area outside Maple Leaves with Daylight spells, and start moving around inside, effectively "smoking out" any shadow creatures or Yuan-Ti creatures. Sisava will flee out a window and disappear into the night.
 
 ## Aftermath
+--- BOOKMARK ---
 If Kellen is still alive and takes a dose of the Panacea, he'll come to his senses. He'll apologize profusely to the players. After some time to collect himself and recover, he'll remember that he and his acolytes were coming back to the House of Sunlight. Just as they were passing by Loftran Castle, Kellen's memory goes blank. He remembers flashes of what happened next. A great gate opening with the king's banner, being flanked on all sides by Yuan-Ti, seeing more of them standing guard within a great chamber, a voice saying with authority "Take them down to be converted", being led down a staircase, a dark room with a bubbling cauldron, blood and pain, a dark voice saying "Soon all of you will be mine", then waking up on the road again with a different purpose.
 
 Players advance to level 4 now.

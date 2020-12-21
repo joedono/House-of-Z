@@ -1,7 +1,7 @@
 # Quest Ideas
 
 ## Wizard's Final Exam
-Cathlene's final exam is coming up in a few months and she needs help studying. Maybe take her on a quest to get some real world experience.
+Cathlene's final exam is coming up in a few months and she needs help studying. Maybe take her on a quest to get some real world experience. She has a grudge against Fran.
 
 ## Missing King
 The king of Loftran is missing. The queen will impart onto the players a quest to go find him. He's been taken by Viserion, the ancient black dragon who was behind the Loftran transformation ritual as well as the destruction of Ardin's tribe. He needs the king for something in his blood. He's also behind the murder of Archebald Elmwall, the corruption of Isaac and Bartel Elmwall, and the torture and maiming of Isabella Elmwall. He's been masquerading as Isabella for months.
