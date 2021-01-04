@@ -104,6 +104,9 @@ She's a wirey human with thick glasses who takes great pride in her work. She's 
 ### Helen
 Tabitha's elven assistant. A young woman, especially by elven standards. She's survived longer than any of Tabitha's previous assistants, which gets her some special privileges in the shop. Met in Tabitha's shop.
 
+### Rat Man Jenkins
+An insane human who lives in the Loftran sewers. Has become a bit of a scary bedtime story for the peasants of Loftran. Harmless, but creepy.
+
 ## Villains
 
 ### Sisava

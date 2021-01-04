@@ -34,7 +34,6 @@ Brother Kellen - see custom character sheet
 As the battle draws to a close (it doesn't matter which side is winning), Thia will arrive with reinforcements. They will bathe the area outside Maple Leaves with Daylight spells, and start moving around inside, effectively "smoking out" any shadow creatures or Yuan-Ti creatures. Sisava will flee out a window and disappear into the night.
 
 ## Aftermath
---- BOOKMARK ---
 If Kellen is still alive and takes a dose of the Panacea, he'll come to his senses. He'll apologize profusely to the players. After some time to collect himself and recover, he'll remember that he and his acolytes were coming back to the House of Sunlight. Just as they were passing by Loftran Castle, Kellen's memory goes blank. He remembers flashes of what happened next. A great gate opening with the king's banner, being flanked on all sides by Yuan-Ti, seeing more of them standing guard within a great chamber, a voice saying with authority "Take them down to be converted", being led down a staircase, a dark room with a bubbling cauldron, blood and pain, a dark voice saying "Soon all of you will be mine", then waking up on the road again with a different purpose.
 
 Players advance to level 4 now.
