@@ -1,5 +1,22 @@
 # NPCs
 
+## Royalty
+
+### King Samuel of Loftran
+The missing king of Loftran
+
+### Queen Amafrey of Loftran
+The queen of Loftran. Assumes the mantel of rule after the ritual of Zehir fails and King Samuel is revealed missing.
+
+### Prince Sigurd of Loftran
+Eldest son of the king of Loftran. A very proper lad who thinks he's untouchable because he's royalty. Has absolute faith that his father is just away for a short while and in absolutely no danger.
+
+### Princess Marta of Loftran
+Second child of the royal family of Loftran. A tomboy. Wants absolutely nothing to do with ruling, marriage, or anything. Very interested in adventuring and magic.
+
+### Daughter Selise of Loftran
+Youngest child of the royal family of Loftran. Only 4 or 5 years old. Doesn't really know what's going on. Exhibits more of her giant heritage. She looks 15.
+
 ## Prison Guards & Prisoners
 
 ### Malcom - DECEASED
