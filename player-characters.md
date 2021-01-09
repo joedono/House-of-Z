@@ -12,7 +12,7 @@ Time In Prison - 5 Days - Awaiting Sentencing
 ## Brian
 Ardin - Male Firbolg Warlock
 
-Once a member of a firbolg clan living a peaceful, quiet life as shepherds of the forest, all of that changed in one night for Ardin. Death and destruction swooped down from the skies as a dragon burned through his village while he was off exploring the forest. Returning home to find nothing left, despair riddled his mind, leaving him wandering for days until exhaustion and starvation brought him to death's door. Mielikki (Goddess of the Forest) looked upon this child of the forest and sent a unicorn to save him, the same entity to which he bound himself in becoming a warlock.
+Once a member of a firbolg clan living a peaceful, quiet life as shepherds of the forest, all of that changed in one night for Ardin. Death and destruction swooped down from the skies as a dragon burned through his village while he was off exploring the forest. The tribe had been guarding the skull of an ancient dragon, maybe that's what it wanted. Returning home to find nothing left, despair riddled his mind, leaving him wandering for days until exhaustion and starvation brought him to death's door. Mielikki (Goddess of the Forest) looked upon this child of the forest and sent a unicorn to save him, the same entity to which he bound himself in becoming a warlock.
 
 Ardin came into town, was looking around the market for something to eat, bumped into one of a less than accepting guards causing him to spill his breakfast, which prompted said guard and his two like minded partners to start harassing him and throwing him into jail for stealing.
 
@@ -34,7 +34,9 @@ Time In Prison - New Arrival
 ## Kyle
 Valmar Nohrmari - Non-binary Tiefling Sorceror
 
-Valmar was never liked by their peers because anytime they were around, weird things happened. When they had the chance they decided to move into the local mountain range. They had recently ventured down to one of the villages in the area when they were attacked by the villagers claiming that they were a demon. When they woke, they found themselves in prison. Strangely, they now keep losing track of large periods of time and they don’t know why.
+Valmar was never liked by his peers because anytime he were around, weird things happened. When he had the chance, he decided to move into the local mountain range. He had recently ventured down to one of the villages in the area when he was attacked by the villagers claiming that he was a demon. When he woke, he found himself in prison. Strangely, he now keeps losing track of large periods of time and he doesn't know why.
+
+It turns out that Valmar had found a containment vessel for an ancient evil, the soul of the ancient black dragon Anguisa. After he opened the vessel, Anguisa's soul attempted to escape, but Valmar's wild magic activated and contained it in a compartment in Valmar's mind. Unfortunately, the containment wasn't complete when Valmar was spotted by the villagers. They saw the shadow behind him, thought him a monster, and lynched him. Liara happened upon him after the lynching, and attempting to heal him. Valmar's magic saw the missing ingredient in her, and pulled her in to aid in the containment. Now they fight to keep Anguisa imprisoned in shifts, with no memory of the fights.
 
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
