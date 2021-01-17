@@ -41,4 +41,4 @@ Through the channels available to the party, they can learn that the garden was 
 
 This will probably be the first time the party has heard of the giants that built the world. Loftran is built on the heart of one of those giants. Their remains are all over the world. Many who believe in the truth of this myth also believe that the giants are long dead, but some believe that a few survived and are merely sleeping.
 
-Viserion's end goal is yet to be determined, but she's not in the city anymore.
+Viserion's end goal is yet to be determined, but she's not in the city anymore. The nearest other civilizations are Hazelton and Bramhold, to the south.

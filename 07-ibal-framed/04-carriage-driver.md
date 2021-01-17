@@ -4,7 +4,7 @@ The Elmwall carriage driver is a female dwarf named Riswynn. She lives in a cabi
 Isabella gave the carriage driver the night off the night that Archebald was murdered. The driver lives in a small apartment on the border of the Elmwall estate, next to the stables, with a wife and daughter. The party does not need to enter the Estate proper in order to reach the apartment.
 
 ## Carriage Driver's Apartment
-The apartment is empty when the party arrives. Riswynn is taking her family on a carriage tour of the city, a favorite past time of theirs. The party can investigate the stables, but they won't find much. They're well kept, with one horse grazing in a fenced-in field with a young colt. The apartment is locked, but easily picked.
+The apartment is empty when the party arrives. Riswynn is taking her family on a carriage tour of the city, a favorite past-time of theirs. The party can investigate the stables, but they won't find much. They're well kept, with one horse grazing in a fenced-in field with a young colt. The apartment is locked, but easily picked.
 
 Within the apartment, it's a nondescript home. There's a central living area with a dining table and a kitchen, there's a bedroom with two small beds in it for Riswynn's children, and a second bedroom with one larger bed for Riswynn and her husband.
 
