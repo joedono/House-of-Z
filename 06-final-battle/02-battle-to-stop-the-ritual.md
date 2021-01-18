@@ -18,7 +18,6 @@ He is accompanied by:
   - Swarm of Poisonous Snakes - https://www.dndbeyond.com/monsters/swarm-of-poisonous-snakes
 
 ### Sisava - Phase 2
---- BOOKMARK ---
 Combine Sisava with the Shadow Dragon template. Basically, fix him in Snake form, give him a fly speed of 60, and the Shadow Breath attack
 
 #### Shadow Breath
@@ -28,3 +27,13 @@ Use the Young White Dragon as a template for the breath attack - https://www.dnd
 
 Cold Breath (Recharge 5–6)
 The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+#### Legendary Actions (3/round)
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Bite Attack - The dragon makes a bite attack
+
+Wing Attack (Costs 2 Actions) - The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 10 (2d6 + 3) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+Sisava is holding a Rod of Retribution - https://www.dndbeyond.com/magic-items/rod-of-retribution - Ardin picked it up
