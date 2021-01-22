@@ -41,7 +41,17 @@ One night, Isabella was awoken up by thumping in the house. She followed it into
 ## Secret Garden
 The party can find the secret door without too much issue. It'll be the only door on the first floor other than the door to the wine cellar that goes down. After a short trek down a dirt tunnel, they'll come to an open space with a carefully tended garden. There will be dimming hatching stones embedded in the ceiling. Investigating the stones will reveal that they have been processed to emit sunlight, probably to aid in the growth of the plants. The garden has a few small flowers and herbs still growing in varying dazzling colors that none of the party recognizes. There's even a couple that appear to be shimmering, almost as if they're changing colors right before the party's eyes. There is a large divet in the center of the garden where something has been dug out or harvested. Along the wall is a shelf with jugs full of liquid chemicals and bags full of solid ones. Clearly, there was some advanced alchemy going on down here. The party can gain more information about the experiments with a high Survival, Medicine, or Arcana check, or by getting the chemicals and remaining plants in front of someone at the Wizard's College or Tabitha.
 
-The last thing the party might find is a note. Archebald wrote to Visera, professing his new love for her, and his apology that he can't give her everything she needs to complete her experiment. He apologizes profusely for having failed her.
+The last thing the party might find is a pair of notes. One will be a note that Archebald wrote to Visera, professing his new love for her, and his apology that he can't give her everything she needs to complete her experiment. He apologizes profusely for having failed her. The other will be a list of locations, with some of them crossed out.
+- **Loftran Leyline Magic**
+- **Blood of the Giants**
+- **Anguisa's Skull - Kornith Forest (Firbolg Village)**
+- Abyss
+- Pelvis - Third Finger Peak Mountain
+- Finger Bones x3 - Seacracker Islands
+- Spine - Mount Stratha
+- Skull - Mountains E of Southspark
+- Ribs - Lindenvale?
+- Other Bones - Unknown
 
 ## The Garden
 Through the channels available to the party, they can learn that the garden was tapping in to an incredible wellspring of magical energy. The soil is practically bleeding it. The flowers and herbs within the garden are charged with it and have very unique properties. No one will be able to tell what was grown in the middle, but it will have immense magical power. It's a Spiritwell Flower. It could be used to fuel spells on the same scale as the transformation ritual, but it would be complete in a matter of hours instead of weeks. It could be used to open portals to other worlds. It might even be able to wake the giants.
