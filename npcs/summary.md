@@ -50,20 +50,36 @@ Half-Elf Cleric. The other master of the House of Sunlight.
 ### Isabella, Bartel, and Isaac Elmwall
 The wife and two sons of Ibal's murder victim.
 
-### Archeblad Elmwall - DECEASED
+### Archebald Elmwall - DECEASED
 Male human. Prominent member of society. Owns and operates Loftran's most successful vineyard and winery. The murder victim in the crime Ibal was arrested for.
 
-### Aiden Collander
-Male Human Merchant. Prominent (and loud) merchant of fresh fruits and fine wines. Met in the House of Sunlight. Met again while searching for Mimic Ivy.
+### Riswynn
+Dwarven female. Carriage Driver for the Elmwalls.
+
+---
 
 ### Makaria
 Female tiefling with lavendar skin. Noble vineyard owner and business rival to Archebald Elmwall, and hence a potential suspect in his murder. Met on her estate while searching for Mimic Ivy.
+
+### Bel'krell the doorman
+Red tiefling. Works as a doorman for Makaria. Very Geaves-mannerisms, such as the tendency to say "mmmmmm, yessss" in a monotone voice.
+
+### Baelor Oakenbarrel
+Dwarven alchemist. Primary wine-maker of the Makaria estate. Takes an incredible amount of pride in his work, and looks down on anyone who criticizes it, or wine and wine-making in general.
+
+### Bart
+Human groundskeeper for the Makaria estate.
+
+---
 
 ### Enna Nailo
 Female half-elf. Childhood friend of Archebald Elmwall. Noblewoman in her own right. Her husband owns a failing textile company, which includes the warehouse and shop on Linen Street. Archebald helps Enna's family out every so often. Their friendship is precious to Enna, but she was always jealous of Archebald's success, making her a potential suspect in his murder.
 
 ### Seebo Timbers
 Male gnome. Former business partner to Archebald Elmwall. Archebald dissolved their partnership after Seebo tried to convince Archebald to invest in Seebo's slave trading business. Seebo went into business for himself, but without the startup investment, his slave trading business never really took off. Seebo resents Archebald for denying this opportunity, making Seebo a potential suspect in his murder.
+
+### Aiden Collander
+Male Human Merchant. Prominent (and loud) merchant of fresh fruits and fine wines. Met in the House of Sunlight. Met again while searching for Mimic Ivy.
 
 ## Wizard's College
 

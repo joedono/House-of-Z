@@ -23,6 +23,7 @@ Isaac's body can be found in the master bedroom. He hung himself with a bedsheet
 Isabella herself is chained up in the wine cellar. She's been down there for about a month when the transformation ritual started, kept alive by Viserion as a source of information and a plaything. She's missing both of her eyes. She'll have no idea that Archebald is dead or what the state of things upstairs is. She'll be in no state to offer more information than that right away. If the party takes pity on her, they can nurse her back to relative health over a long rest.
 
 ### Fight Encounter - Bartel
+-- BOOKMARK --
 Bartel's mutterings will gradually turn to screeches. The suit of armor on the wall will come to life, and various vermin will emerge from the walls. Bartel himself will transform, taking on a grotesque appearance, not unlike the Yuan-Ti transformations the party has seen before, but much more unstable. Bartel will bleed from open wounds, and his eyes will be different sizes. Bartel uses the stats from a Babau. His blood will congeal into a creature that uses the Black Pudding stat block.
 
 Animated Armor - https://www.dndbeyond.com/monsters/animated-armor

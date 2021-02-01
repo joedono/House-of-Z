@@ -1,6 +1,9 @@
-Ibal - 18
-Theryn - 18
-Ardin - 12
-Shadow Dragon - 11 | 133 - 9 26 39 49 56 58 62 75 80 98 108 117 124 131 134
-Fran - 4
-Valmar - 4
+Armor - 19 | 33 - 17 21
+Liara - 18
+-- BOOKMARK --
+Theryn - 14
+Ardin - 11
+Bartel - 10 | 105 - 3 7 33 50 57 62 64 76
+Ibal - 8
+Black Pudding - 6 | 100 - 13 18 31 41 52
+Fran - 5
