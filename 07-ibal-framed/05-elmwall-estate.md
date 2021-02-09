@@ -30,6 +30,15 @@ Animated Armor - https://www.dndbeyond.com/monsters/animated-armor
 Babau - https://www.dndbeyond.com/monsters/babau
 Black Pudding - https://www.dndbeyond.com/monsters/black-pudding
 
+#### Rewards
+In the study, the party will find a number of interesting things:
+- Hat of Disguise - https://www.dndbeyond.com/magic-items/hat-of-disguise
+- Lantern of Tracking (Dragons) - https://www.dndbeyond.com/magic-items/lantern-of-tracking-dragons
+- Boots of Elvenkind - https://www.dndbeyond.com/magic-items/boots-of-elvenkind
+- 2000gp
+- Blueprints for a secret chamber to be built off of the wine cellar
+- A note that Archebald wrote to a woman named Visera, professing his new love for her, and his apology that he can't give her everything she needs to complete her experiment. He apologizes profusely for having failed her.
+
 ## Isabella's Interrogation
 Isabella won't know how long she's been locked in the basement, but she'll have no knowledge of her husband's death or the transformation ritual around the city. She won't recognize Ibal or any of the other party members. She'll be distraught over Isaac and Archebald's deaths, and Bartel's, if the party killed him.
 
@@ -37,15 +46,21 @@ She'll recount the events leading up to her imprisonment if asked.
 
 Archebald invited in a new friend one day. He introduced this person as Visera. She was an elven woman of noble bearing, with piercing green eyes. Isabella welcomed this new guest into their home. The three of them talked about this and that, mostly about how business was in Loftran. Visera was looking to purchase some land and wanted some advice. Archebald couldn't resist talking about how fertile the land was and how proud he was of his family for keeping this slice of especially fertile land. Isabella noticed Visera's interest perk up at the mention of the Elmwall land's qualities, but paid it no attention. All was well for a while after that, but Archebald kept finding more excuses to invite Visera over, but Isabella never heard of her actually purchasing an estate in Loftran. She was just... around. She was around so much that Isaac and Bartel started referring to her as "Aunt V." Visera was always paying compliments to how fertile the land was. After they had been "friends" for several weeks, Isabella noticed a new door had been built on the first floor. The door was always locked and Archebald forbade her from attempting to open it or finding out what was down there.
 
-One night, Isabella was awoken up by thumping in the house. She followed it into one of the guest bedrooms and found Visera standing over Archebald. He was dazed, but with a large smile on his face. She was.... monstrous. As Isabella watched, Visera's skin turned black and scaled. Isabella cried out and dropped her candle and the... thing whirled on her. It lunged at her. The next thing she knew, Isabella woke up chained to the stone in the wine cellar. The Visera... thing, came to visit her, to thank her for inviting it into their home. Then it transformed into Isabella and laughed its way back upstairs. It would come down from time to time, to bring bits of food, and to take things from Isabella. First it was her hair, then it was her blood, finally it was her eyes.
+One night, Isabella was awoken up by thumping in the house. She followed it into one of the guest bedrooms and found Visera standing over Archebald. He was dazed, but with a large smile on his face. She was.... monstrous. As Isabella watched, Visera's skin turned black. Isabella cried out and dropped her candle and the... thing whirled on her. It lunged at her. The next thing she knew, Isabella woke up chained to the stone in the wine cellar. The Visera... thing, came to visit her, to thank her for inviting it into their home. Then it transformed into Isabella and laughed its way back upstairs. It would come down from time to time, to bring bits of food, and to take things from Isabella. First it was her hair, then it was her blood, finally it was her eyes.
 
 ## Secret Garden
 The party can find the secret door without too much issue. It'll be the only door on the first floor other than the door to the wine cellar that goes down. After a short trek down a dirt tunnel, they'll come to an open space with a carefully tended garden. There will be dimming hatching stones embedded in the ceiling. Investigating the stones will reveal that they have been processed to emit sunlight, probably to aid in the growth of the plants. The garden has a few small flowers and herbs still growing in varying dazzling colors that none of the party recognizes. There's even a couple that appear to be shimmering, almost as if they're changing colors right before the party's eyes. There is a large divet in the center of the garden where something has been dug out or harvested. Along the wall is a shelf with jugs full of liquid chemicals and bags full of solid ones. Clearly, there was some advanced alchemy going on down here. The party can gain more information about the experiments with a high Survival, Medicine, or Arcana check, or by getting the chemicals and remaining plants in front of someone at the Wizard's College or Tabitha.
 
-The last thing the party might find is a pair of notes. One will be a note that Archebald wrote to Visera, professing his new love for her, and his apology that he can't give her everything she needs to complete her experiment. He apologizes profusely for having failed her. The other will be a list of locations, with some of them crossed out.
+The party will find a few items of interest here
+- Deck of Illusions - https://www.dndbeyond.com/magic-items/deck-of-illusions
+- Handy Haversack - https://www.dndbeyond.com/magic-items/handy-haversack
+- Spell Scroll (Speak with Plants) - https://www.dndbeyond.com/spells/speak-with-plants
+- Potion of Growth - https://www.dndbeyond.com/magic-items/potion-of-growth
+
+The last thing the party might find is a sheet of parchement with a list of locations, some of them crossed out.
 - **Loftran Leyline Magic**
 - **Blood of the Giants**
-- **Anguisa's Skull - Kornith Forest (Firbolg Village)**
+- **Anguisa's Skull - Kornith Forest**
 - Abyss
 - Pelvis - Third Finger Peak Mountain
 - Finger Bones x3 - Seacracker Islands
