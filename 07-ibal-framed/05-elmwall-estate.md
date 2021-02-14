@@ -58,14 +58,15 @@ The party will find a few items of interest here
 - Potion of Growth - https://www.dndbeyond.com/magic-items/potion-of-growth
 
 The last thing the party might find is a sheet of parchement with a list of locations, some of them crossed out.
-- **Loftran Leyline Magic**
-- **Blood of the Giants**
 - **Anguisa's Skull - Kornith Forest**
+- Anguisa's Soul - Durrstahft *vessel missing??*
+- **Loftran Leyline Magic**
 - Abyss
 - Pelvis - Third Finger Peak Mountain
 - Finger Bones x3 - Seacracker Islands
+- **Blood of the Giants**
 - Spine - Mount Stratha
-- Skull - Mountains E of Southspark
+- Skull - East of Southspark?
 - Ribs - Lindenvale?
 - Other Bones - Unknown
 
