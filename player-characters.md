@@ -5,7 +5,7 @@ Ibal Ralovyre - Male Elf Rogue
 
 Ibal had a typical high elven childhood - tutors, classes, all manner of learning, but where his peers later turned to magical academia, he was drawn to the less arcane: history, psychology, physicals - the how and why of the world.  He left the echo chamber of elven society to expand his horizons, to investigate and observe. That's how, one day, he found himself being led away from the scene of a murder he was investigating by local law enforcement, explaining his need to pursue the truth and trying to prove his innocence in; neither of which worked well on the officers in charge.
 
-Born in The Heavenly Cay in the Seacracker Islands
+*Born in The Heavenly Cay in the Seacracker Islands*
 Crime - Murder
 Time In Prison - 5 Days - Awaiting Sentencing
 **Plot Hook - Framed for murder**
@@ -17,7 +17,7 @@ Once a member of a firbolg clan living a peaceful, quiet life as shepherds of th
 
 Ardin came into town, was looking around the market for something to eat, bumped into one of a less than accepting guards causing him to spill his breakfast, which prompted said guard and his two like minded partners to start harassing him and throwing him into jail for stealing.
 
-Born in Kornith Forest
+*Born in Kornith Forest*
 Crime - Stealing (Racism)
 Time In Prison - New Arrival
 **Plot Hook - Dragon burned his village and killed everyone**
@@ -29,7 +29,7 @@ Liara grew up in a family of scholars, dedicating her life to the monastic ideal
 
 After Valmar was beaten up (and also stripped naked) by their townsfolk, they were left naked and bleeding out on the side of the street. Which is where Liara came across him. She tried to heal them and their wild magic kicked in, sucking her soul into their body. She also falls unconscious due to the effects of this, and the guards come across their shared body on the side of the street, assuming them to be drunk. They are arrested for public indecency.
 
-Born and raised in a monstary on Mount Stratha
+*Born and raised in a monstary on Mount Stratha*
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
 **Plot Hook - Merged with Valmer. Quest to get her body back and find her book of Ancient Text, which was stolen by the followers of Zehir.**
@@ -41,7 +41,7 @@ Valmar was never liked by his peers because anytime he were around, weird things
 
 It turns out that Valmar had found a containment vessel for an ancient evil, the soul of the ancient black dragon Anguisa. After he opened the vessel, Anguisa's soul attempted to escape, but Valmar's wild magic activated and contained it in a compartment in Valmar's mind. Unfortunately, the containment wasn't complete when Valmar was spotted by the villagers. They saw the shadow behind him, thought him a monster, and lynched him. Liara happened upon him after the lynching, and attempting to heal him. Valmar's magic saw the missing ingredient in her, and pulled her in to aid in the containment. Now they fight to keep Anguisa imprisoned in shifts, with no memory of the fights.
 
-Born in or near the city of Durrstahft
+*Born in or near the city of Durrstahft*
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
 **Plot Hook - Discovery background (discovered "something" powerful and/or ancient). Village lynching. Merged with Liara**
@@ -51,7 +51,7 @@ Theryn Ruinlief (pronounced Theer-rehn Roon-leef) - Male Half-Elf Ranger
 
 Theeryn never really fit in with either his father's human side or his mother's elf side. He was sort of accepted by the humans, but with a sense of "You're still not welcomed here." Amongst the elves, he was flat out ostracized, told to keep away upon pain of death. Because of this, he found solace in the frontiers, away from society, and finding companionship with animals. However, he also developed a severe problem with alcohol. When arriving at a town, he typically rolls to the nearest tavern, and gets royally angry drunk, causing regular fistfights, and getting in trouble with the local guards. After a string of these incidents, he was finally locked away, hence his trip to the prison. He has since sobered up, but not without consequences; he's edgy around both humans and elves, and particularly anxious around any venue with alcohol. He will often forgo a drink to not go back down that road again.
 
-Life on the road
+*Life on the road*
 Crime - Public Intoxication and Fighting
 Time In Prison - 2 Days
 **Plot Hook - Tavern Brawling leads to discovery of an underground fight club**
@@ -61,7 +61,7 @@ Fran "Fishin" Brewis - Male Dwarf Fighter
 
 Likes the sea. It's pronounced "FrAHn" and he gets punchy when people get it wrong - which is why he's in prison at the moment.
 
-Born in the city of Durrstahft
+*Born in the city of Durrstahft*
 Crime - Fighting
 Time In Prison - 2 Days
 **Plot Hook - Tavern Brawling leads to discovery of an underground fight club**
