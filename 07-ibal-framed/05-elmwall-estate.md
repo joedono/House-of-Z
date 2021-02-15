@@ -42,7 +42,7 @@ In the study, the party will find a number of interesting things:
 The party can find the secret door without too much issue. It'll be the only door on the first floor other than the door to the wine cellar that goes down. After a short trek down a dirt tunnel, they'll come to an open space with a carefully tended garden. There will be dimming hatching stones embedded in the ceiling. Investigating the stones will reveal that they have been processed to emit sunlight, probably to aid in the growth of the plants. The garden has a few small flowers and herbs still growing in varying dazzling colors that none of the party recognizes. There's even a couple that appear to be shimmering, almost as if they're changing colors right before the party's eyes. There is a large divet in the center of the garden where something has been dug out or harvested. Along the wall is a shelf with jugs full of liquid chemicals and bags full of solid ones. Clearly, there was some advanced alchemy going on down here. The party can gain more information about the experiments with a high Survival, Medicine, or Arcana check, or by getting the chemicals and remaining plants in front of someone at the Wizard's College or Tabitha.
 
 The party will find a few items of interest here
-- Deck of Illusions (30 cards) - https://www.dndbeyond.com/magic-items/deck-of-illusions
+- Deck of Illusions (25 cards) - https://www.dndbeyond.com/magic-items/deck-of-illusions
 - Handy Haversack - https://www.dndbeyond.com/magic-items/handy-haversack
 - Spell Scroll (Speak with Plants) - https://www.dndbeyond.com/spells/speak-with-plants
 - Potion of Growth - https://www.dndbeyond.com/magic-items/potion-of-growth
