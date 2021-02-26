@@ -1,4 +1,4 @@
-| Item                             | Holder       | Obtained             | ID'd | Used |
+| Item                             | Holder       | Obtained             | ID'd | Uses |
 | -------------------------------- | ------------ | -------------------- | ---- | ---- |
 | Rod of Retribution               | Ardin        | Sisava's Corpse      | X    | N/A  |
 | Potion of Poison Resistance      | Ardin        | Sisava's Corpse      | X    | 1    |
@@ -7,7 +7,7 @@
 | Cloak of Protection              | Ibal         | Hatching Stone Mines | X    | N/A  |
 | Dust of Disappearance            | Ibal         | Hatching Stone Mines | X    | 1    |
 | Bead of Force                    | Theryn       | Hatching Stone Mines | X    | 1    |
-| Potion of Fire Breath            | Theryn       | Linen Street         | X    | 1    |
+| Potion of Fire Breath            | Theryn       | Linen Street         | X    | 0    |
 | Potion of Sieging                | Theryn       | Tabitha              | X    | 1    |
 | Hat of Disguise                  | Liara/Valmar | Elmwall Study        | X    | N/A  |
 | Lantern of Tracking (Dragons)    | Theryn       | Elmwall Study        | X    | N/A  |
