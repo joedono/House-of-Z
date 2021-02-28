@@ -47,8 +47,11 @@ Half-Elf Cleric. The other master of the House of Sunlight.
 
 ## Nobles
 
-### Isabella, Bartel, and Isaac Elmwall
-The wife and two sons of Ibal's murder victim.
+### Isabella Elmwall
+The wife of Ibal's murder victim.
+
+### Bartel, and Isaac Elmwall - DECEASED
+Two sons of Ibal's murder victim.
 
 ### Archebald Elmwall - DECEASED
 Male human. Prominent member of society. Owns and operates Loftran's most successful vineyard and winery. The murder victim in the crime Ibal was arrested for.

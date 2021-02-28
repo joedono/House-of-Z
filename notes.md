@@ -62,12 +62,3 @@ Cure or kill Kellen and retrieve the Panacea
 Defeat Sisava
 **Level Up! - Level 5**
 Investigate Ibal's murder case
-
-## Timeline so Far
-3 3 Days in jail + 1 night at House of Sunlight
-4 1 day at the Wizard's college
-5 1 day in the Hatching Stone Mines
-6 1 day retrieving Mimic Ivy and returning the ingredients (maybe activate another sigil tonight)
-7 1 day of downtime (definitely activate another sigil tonight if you didn't last night)
-8 1 more day of downtime + evening with the assembled ingredients + evening spent chasing Kellen (activate sigil)
-9 1 day storming the castle
