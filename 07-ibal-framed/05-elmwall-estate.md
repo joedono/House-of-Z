@@ -43,7 +43,7 @@ The party can find the secret door without too much issue. It'll be the only doo
 
 The party will find a few items of interest here
 - Deck of Illusions (25 cards) - https://www.dndbeyond.com/magic-items/deck-of-illusions
-- Handy Haversack - https://www.dndbeyond.com/magic-items/handy-haversack
+- Handy Haversack full of adventuring gear and an Alchemy Kit - https://www.dndbeyond.com/magic-items/handy-haversack
 - Spell Scroll (Speak with Plants) - https://www.dndbeyond.com/spells/speak-with-plants
 - Potion of Growth - https://www.dndbeyond.com/magic-items/potion-of-growth
 
@@ -68,7 +68,6 @@ This will probably be the first time the party has heard of the giants that buil
 Viserion's end goal is yet to be determined, but she's not in the city anymore. The nearest other civilizations are Hazelton and Bramhold, to the south.
 
 ## Isabella's Interrogation
--- BOOKMARK --
 Isabella won't know how long she's been locked in the basement, but she'll have no knowledge of her husband's death or the transformation ritual around the city. She won't recognize Ibal or any of the other party members. She'll be distraught over Isaac and Archebald's deaths, and Bartel's, if the party killed him.
 
 She'll recount the events leading up to her imprisonment if asked.

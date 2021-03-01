@@ -12,7 +12,8 @@
 | Hat of Disguise                  | Liara/Valmar | Elmwall Study        | X    | N/A  |
 | Lantern of Tracking (Dragons)    | Theryn       | Elmwall Study        | X    | N/A  |
 | Boots of Elvenkind               | Ibal         | Elmwall Study        | X    | N/A  |
-| Deck of Illusions                | Ibal         | Elmwall Garden       |      | 25   |
+| Deck of Illusions                | Ardin        | Elmwall Garden       | X    | 25   |
 | Handy Haversack                  | Ardin        | Elmwall Garden       | X    | N/A  |
 | Spell Scroll (Speak with Plants) | Ardin        | Elmwall Garden       | X    | 1    |
 | Potion of Growth                 | Ardin        | Elmwall Garden       | X    | 1    |
+| Potion of Watchful Rest          | Theryn       | Tabitha              | X    | 1    |

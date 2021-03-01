@@ -59,6 +59,9 @@ Male human. Prominent member of society. Owns and operates Loftran's most succes
 ### Riswynn
 Dwarven female. Carriage Driver for the Elmwalls.
 
+### Albert Glendale
+Human male. Head butler of the Elmwall Estate.
+
 ---
 
 ### Makaria

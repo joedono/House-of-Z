@@ -1,7 +1,6 @@
 # Random NPCs
 
 ## Humans
-- Albert Glendale
 - Geoffrey Barinfold
 - Hubert Marsk
 

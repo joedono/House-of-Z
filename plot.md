@@ -4,7 +4,8 @@
 - The king of Loftran is missing
 - The door in the Eloreth Mansion is locked with powerful magics
   - Password is "Pepper Orangepearl"
-  - Party currently knows the name "Pepper"
+  - Party currently knows the name "Pepper Orange"
+  - Speaking the name will open the door and reveal a secret room. The room has a teleportation circle that the magic users in the party can memorize the sigil sequence for, an arcane laboratory with many books, alchemical supplies, a magic item or three, and the making of the portal. This was actually what happened to the previous owner of the mansion. They opened a portal to the Abyss and disappeared through it.
 
 ## Overarching Plot
 Viserion is trying to cast a spell to resurrect the giants of old, who formed the world and warred over the land before the time of man. Doing so will visit untold destruction on anything small, including mankind. He needs a number of things in order to perform the ritual.
