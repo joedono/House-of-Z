@@ -20,7 +20,7 @@ Ardin came into town, was looking around the market for something to eat, bumped
 *Born in Kornith Forest*
 Crime - Stealing (Racism)
 Time In Prison - New Arrival
-**Plot Hook - Dragon burned his village and killed everyone**
+**Plot Hook - Viserion, the ancient Black Dragon, burned his village, killed everyone, and took the skull, which belonged to his mate, Anguisa**
 
 ## Lyndsey
 Liara - Non-binary "Tiefling" Cleric
@@ -39,7 +39,7 @@ Valmar Nohrmari - Non-binary Tiefling Sorceror
 
 Valmar was never liked by his peers because anytime he were around, weird things happened. When he had the chance, he decided to move into the local mountain range. He had recently ventured down to one of the villages in the area when he was attacked by the villagers claiming that he was a demon. When he woke, he found himself in prison. Strangely, he now keeps losing track of large periods of time and he doesn't know why.
 
-It turns out that Valmar had found a containment vessel for an ancient evil, the soul of the ancient black dragon Anguisa. After he opened the vessel, Anguisa's soul attempted to escape, but Valmar's wild magic activated and contained it in a compartment in Valmar's mind. Unfortunately, the containment wasn't complete when Valmar was spotted by the villagers. They saw the shadow behind him, thought him a monster, and lynched him. Liara happened upon him after the lynching, and attempting to heal him. Valmar's magic saw the missing ingredient in her, and pulled her in to aid in the containment. Now they fight to keep Anguisa imprisoned in shifts, with no memory of the fights.
+It turns out that Valmar had found a containment vessel for an ancient evil, the soul of the ancient black dragon Anguisa. After he opened the vessel, Anguisa's soul attempted to escape, but Valmar's wild magic activated and contained it in a compartment in Valmar's mind. Unfortunately, the containment wasn't complete when Valmar was spotted by the villagers. They saw the shadow behind him, thought him a monster, and lynched him. Liara happened upon him after the lynching, and attempting to heal him. Valmar's magic saw the missing ingredient in her, and pulled her in to aid in the containment. Now they fight to keep Anguisa imprisoned in shifts, with no memory of the fights...yet
 
 *Born in or near the city of Durrstahft*
 Crime - Public Indecency and Drunken Belligerence

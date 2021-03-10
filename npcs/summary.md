@@ -1,9 +1,15 @@
 # NPCs
 
+## Eloreth Mansion
+The mansion the party owns in Loftran City
+
+### Pepper Orangepearl
+The Brownie that came with the house. Keeps the house tidy so long as she is provided with a nightly supply of treats and no one tries to catch her. Her name unlocks the secret door to the magical lab in the mansion.
+
 ## Royalty
 
 ### King Samuel of Loftran
-The missing king of Loftran
+The missing king of Loftran. Captured by Viserion. Current whereabouts unknown.
 
 ### Queen Amafrey of Loftran
 The queen of Loftran. Assumes the mantel of rule after the ritual of Zehir fails and King Samuel is revealed missing.
@@ -61,6 +67,15 @@ Dwarven female. Carriage Driver for the Elmwalls.
 
 ### Albert Glendale
 Human male. Head butler of the Elmwall Estate.
+
+### Atala Jassan
+Human female. Maid of the Elmwall Estate
+
+### Althaea Amakiir
+Elven female. Cook for the Elmwall Estate
+
+### Reed Tosscobble
+Halfling male. Groundskeeper for the Elmwall Estate
 
 ---
 
@@ -124,6 +139,9 @@ Half-elf engineer. Not actually at the mines. Was the engineer on duty at the ti
 A survivor of the lift disaster three months ago, and Foreman Clast's brother (half-orc). He has managed to survive down here due to his ingenuity and determination. He has managed to keep his filtration suit functioning by patching it with scraps from the other miners and adventurers who were stranded down here with him. Despite that, he is showing signs of Stage 7 Aether Poisoning. He's been surviving on rations and the meat of the creatures down here, which of course causes his aether poisoning to get worse. He'll have a noticeable bulge on the back of his head, but the filtration suit will prevent the players from seeing what it is. Of course, it's a crystal growth on the back of his skull. Met in the Deep Floor of the Hatching Stone Mines.
 
 ## Misc
+
+### Kathra Dankil
+Dwarven woman. Clerk in the royal court house. Most likely to collect Ibal's statement. Very dismissive and sticks to her routine, not unlike the bank clerks from the Witcher.
 
 ### Horsemaster Brom
 Male Dwarf Stablemaster. Maintains a handful of stables in the NW section of town, as well as a horse farm near the edge of town. Met in the House of Sunlight in chapter 1. He technically owns Pumpkin the goat.

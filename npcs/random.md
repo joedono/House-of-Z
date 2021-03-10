@@ -4,16 +4,13 @@
 - Geoffrey Barinfold
 - Hubert Marsk
 
-- Atala Jassan
 - Kara Bersk
-- Kerri Buckman
 
 ## Elves
 - Adran Galanodel
 - Erden Liodon
 - Peren Melimne
 
-- Althaea Amakiir
 - Birel Hilimion
 - Shava Siannodel
 
@@ -24,10 +21,8 @@
 
 - Dagnal Fireforge
 - Ilde Ungart
-- Kathra Dankil
 
-## Orcs
-- Feng
+## Half-Orcs
 - Grom
 - Krusk
 
@@ -47,7 +42,6 @@
 ## Halfling
 - Eldon Brushgather
 - Garret Tealeaf
-- Reed Tosscobble
 
 - Lidda Hilltopple
 - Nedda Goodbarrel
@@ -56,7 +50,6 @@
 ## Dragonborn
 - Arjhan Daardendrian
 - Heskan Kimbatuul
-- Tarhun Turnuroth
 
 - Daar Myastan
 - Havilar Delmirev
