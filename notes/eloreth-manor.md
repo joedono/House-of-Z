@@ -6,9 +6,9 @@ The mansion used to belong to a noble family named Eloreth, an elven family that
 ## Layout
 The manor has 2 stories. It has:
 - A reception hall or lobby
-- 4 main bedrooms
-- 2 guest bedrooms
-- Servant's quarters for 4
+- 2 main bedrooms
+- 1 guest bedroom
+- Servant's quarters for 2
 - Kitchen
 - Dining Room
 - Study
