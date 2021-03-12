@@ -18,6 +18,8 @@ The party turned in for rest at their Eloreth Mansion. Ardin identified the deck
 
 After buying some healing potions and a Potion of Watchful Rest, Tabitha described the job. She had ordered something from Durrstaft, high in the mountains, and hired the mercenary group known as the Red Drakes to deliver it to her across the treacherous-but-speedy Frostfall Pass. The delivery was due three days ago, and Tabitha is worried about the possibility of her special "something" going missing. She said it could be used for dangerous things if it falls into the wrong hands. She offered 300gp per party member for successfully retrieving the item, or 500gp per party member if they manage to bring back any of the Red Drakes. She also threw in the offer of enrolling the party in her "continuous discount" program. Once a week, they can purchase a single item from her shop at a heavy discount.
 
-The party agreed, but they still have quite a few things left to do before they set out of the city: Ibal has to present his case to the queen (and possibly cash in their favor), the party wants to take the mysterious list to the Wizard's College to see what they can learn about it, they have to hire some help to keep the mansion stocked and in good condition while they're gone.
+The party agreed, but they still have quite a few things left to do before they set out of the city: Ibal has to present his case to the queen (and possibly cash in their favor), the party wants to learn more about the mysterious list, and they have to decide whether to wait for housekeeper applicants to show up or build a mailbox to receive applications.
+
+And so we begin, on the street just outside of Tabitha's Alchemy Shop...
 
 ## 2021-03-14
