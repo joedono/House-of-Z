@@ -1,7 +1,7 @@
 # NPCs
 
-## Eloreth Mansion
-The mansion the party owns in Loftran City
+## Eloreth Manor
+The manor the party owns in Loftran City
 
 ### Pepper Orangepearl
 The Brownie that came with the house. Keeps the house tidy so long as she is provided with a nightly supply of treats and no one tries to catch her. Her name unlocks the secret door to the magical lab in the mansion.
