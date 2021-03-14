@@ -4,11 +4,11 @@ Ardin rolls a 20 on the job posting for housekeeper(s). That's enough to bring i
 The party can wait around for applicants to show up (which is the common method) or they can set up a mail box for people to drop off applications at.
 
 ## Applicants
-**Feng** - Male half-orc. Used to work as a janitor at the Black Rose Inn. His father, Cecil, owns the inn. Feng is here in Loftran, striking out on his own, plying his trade. He dreams of working for a noble house, and will be a little disappointed when he finds out the party is more of a ragtag group of adventurers. He'll have no problem working in a house with a fey creature, but will unwittingly attract ghosts occasionally. He's good at cleaning and stocking, but horrible at cooking.
+**Feng** - Male half-orc. Used to work as a janitor at the Black Rose Inn (setup for Beneath the Black Rose module). His father, Cecil, owns the inn. Feng is here in Loftran, striking out on his own, plying his trade. He dreams of working for a noble house, and will be a little disappointed when he finds out the party is more of a ragtag group of adventurers. He'll have no problem working in a house with a fey creature, but will unwittingly attract ghosts occasionally. He's good at cleaning and stocking, but horrible at cooking.
 
 Rate - 20gp/month
 
-**Kerri Buckman** - Female human. A middle-aged widow with three grown children (two sons and a daughter). Basically lives alone and is looking for something to keep her busy. She's good at cleaning, stocking, and cooking. She **does** have issues working in a house with a fey creature, believing that it'll steal her things or whisk her away to the Feywild while she sleeps. If she isn't told up-front about the Brownie, she'll gradually become suspicious over about a month's time. Sooner if the party makes a mess and it gets cleaned up before she gets to it. One condition for her employment is that at least one guest room must be kept empty in case any of her children come to visit.
+**Kerri Buckman** - Female human. A middle-aged widow with three grown children (two sons and a daughter). Basically lives alone and is looking for something to keep her busy. She's above-average at cleaning, stocking, and cooking. She **does** have issues working in a house with a fey creature, believing that it'll steal her things or whisk her away to the Feywild while she sleeps. If she isn't told up-front about the Brownie, she'll gradually become suspicious over about a month's time. Sooner if the party makes a mess and it gets cleaned up before she gets to it. One condition for her employment is that at least one guest room must be kept empty in case any of her children come to visit.
 
 Rate - 10gp/month
 
