@@ -6,7 +6,9 @@ The manor the party owns in Loftran City
 ### Pepper Orangepearl
 The Brownie that came with the house. Keeps the house tidy so long as she is provided with a nightly supply of treats and no one tries to catch her. Her name unlocks the secret door to the magical lab in the mansion.
 
-## Royalty
+---
+
+## Loftran Castle
 
 ### King Samuel of Loftran
 The missing king of Loftran. Captured by Viserion. Current whereabouts unknown.
@@ -22,6 +24,11 @@ Second child of the royal family of Loftran. A tomboy. Wants absolutely nothing 
 
 ### Daughter Selise of Loftran
 Youngest child of the royal family of Loftran. Only 4 or 5 years old. Doesn't really know what's going on. Exhibits more of her giant heritage. She looks 15.
+
+### Kathra Dankil
+Dwarven woman. Clerk in the royal court house. Most likely to collect Ibal's statement. Very dismissive and sticks to her routine, not unlike the bank clerks from the Witcher.
+
+---
 
 ## Prison Guards & Prisoners
 
@@ -43,6 +50,8 @@ Malcom's wife and daughter. Met in the House of Sunlight in chapter 1. Gave the 
 ### Faldren
 Male Halfling. Eldon's brother. Met in the House of Sunlight.
 
+---
+
 ## House of Sunlight
 
 ### Brother Kellen
@@ -50,6 +59,8 @@ Gnomish Cleric. One of the masters of the House of Sunlight.
 
 ### Sister Thia
 Half-Elf Cleric. The other master of the House of Sunlight.
+
+---
 
 ## Nobles
 
@@ -102,13 +113,15 @@ Male gnome. Former business partner to Archebald Elmwall. Archebald dissolved th
 ### Aiden Collander
 Male Human Merchant. Prominent (and loud) merchant of fresh fruits and fine wines. Met in the House of Sunlight. Met again while searching for Mimic Ivy.
 
+---
+
 ## Wizard's College
 
 ### Cathlene Brenther
-Female Human student of wizardry. Lives in the NW section of town, but attends school at the Wizard's College. The party met her at the House of Sunlight after their prison escape. Met in the House of Sunlight in chapter 1.
+Female Human student of wizardry. Very responsible upper-classman. Lives in the NW section of town, but attends school at the Wizard's College. The party met her at the House of Sunlight after their prison escape. Met in the House of Sunlight in chapter 1.
 
 ### Theresa
-A wizarding student at the Wizard's College and part-time librarian. Helps out the party when they come seeking knowledge about the ritual. Met in the Wizard's Library while looking for information about the Venomers ritual.
+A wizarding student at the Wizard's College and part-time librarian. Slightly air-headed underclassman who has trouble studying for practical exams. Helps out the party when they come seeking knowledge about the ritual. Met in the Wizard's Library while looking for information about the Venomers ritual.
 
 ### High Magus Vilafor
 High Magus at the Wizard's College. A stuck-up old geezer who holds the keys to the forbidden section of the wizard's library. He has a familiar named Pookie that he dotes on extensively, with baby-talk and everything.
@@ -116,10 +129,14 @@ High Magus at the Wizard's College. A stuck-up old geezer who holds the keys to 
 ### Pookie
 Vilafor’s familiar. Usually a sprite. Pookie is sick of all the baby-naming and sick of being talked down to by Vilafor. So sick that she’s likely to give the players the passcode to the Forbidden Section of the Wizard’s Library just to spite Vilafor.
 
+---
+
 ## Seat of War
 
 ### Harold and Byron
 A human and dwarf soldier. Part of the city guard. The party meets them in the trauma ward at the Seat of War. They were unaffected by the quelling effect of the sigils and their mental state is deteriorating due to them witnessing the shadows come alive and murder people.
+
+---
 
 ## Hatching Stone Mines
 
@@ -138,10 +155,9 @@ Half-elf engineer. Not actually at the mines. Was the engineer on duty at the ti
 ### Keth Clast
 A survivor of the lift disaster three months ago, and Foreman Clast's brother (half-orc). He has managed to survive down here due to his ingenuity and determination. He has managed to keep his filtration suit functioning by patching it with scraps from the other miners and adventurers who were stranded down here with him. Despite that, he is showing signs of Stage 7 Aether Poisoning. He's been surviving on rations and the meat of the creatures down here, which of course causes his aether poisoning to get worse. He'll have a noticeable bulge on the back of his head, but the filtration suit will prevent the players from seeing what it is. Of course, it's a crystal growth on the back of his skull. Met in the Deep Floor of the Hatching Stone Mines.
 
-## Misc
+---
 
-### Kathra Dankil
-Dwarven woman. Clerk in the royal court house. Most likely to collect Ibal's statement. Very dismissive and sticks to her routine, not unlike the bank clerks from the Witcher.
+## Misc
 
 ### Horsemaster Brom
 Male Dwarf Stablemaster. Maintains a handful of stables in the NW section of town, as well as a horse farm near the edge of town. Met in the House of Sunlight in chapter 1. He technically owns Pumpkin the goat.
@@ -170,4 +186,4 @@ An insane human who lives in the Loftran sewers. Has become a bit of a scary bed
 Yuan-ti Abomination. Enactor of the Ritual of Transformation that is taking over Loftran. The final boss of the first arc of the adventure. He's a loyal follower of Zehir and is attempting to enact Zehir's will on the world by transforming all of its inhabitants into loyal Yuan-ti acolytes of Zehir.
 
 ### Viserion
-An ancient black dragon. Responsible for the death of Archebald Elmwall, the destruction of Ardin's village, and gifting Sisava with the components needed for the transformation ritual that threatened all of Loftran.
+An ancient black dragon. Responsible for the death of Archebald Elmwall, the destruction of Ardin's village, and gifting Sisava with the components needed for the transformation ritual that threatened all of Loftran. Major villain for most of the campaign. Is trying to resurrect/reconstruct one of the giants who created the world to use as a weapon in the war between Tiamat and the Celestials.
