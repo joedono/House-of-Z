@@ -9,3 +9,6 @@ The *special order* is a Black Dragon Egg. It is the long-dormant offspring of V
 Bruga's Maul+1 is a Warhammer+1. It still has the spirit of the dwarven shield maiden Verna in it.
 
 Refer to The Snow Stalkers for further details: file:///E:/Users/Joe/Documents/RPG/D&D%205.0/Campaigns/Bundle%20of%20Horror%202/5%20-%20The%20Snow%20Stalkers%20V1/The%20Snow%20Stalkers%20V1.pdf
+
+## BOOKMARK
+The party just entered Area 1 with the frozen river and the snow apes

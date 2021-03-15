@@ -2,9 +2,6 @@
 
 ## Humans
 - Geoffrey Barinfold
-- Hubert Marsk
-
-- Kara Bersk
 
 ## Elves
 - Adran Galanodel
@@ -27,15 +24,12 @@
 - Krusk
 
 - Engong
-- Neega
 - Volen
 
 ## Gnome
-- Alston Garrick
 - Brocc Nackle
 - Gimble Timbers
 
-- Breena Folkor
 - Lilli Beren
 - Orla Scheppen
 

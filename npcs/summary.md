@@ -129,6 +129,9 @@ High Magus at the Wizard's College. A stuck-up old geezer who holds the keys to 
 ### Pookie
 Vilafor’s familiar. Usually a sprite. Pookie is sick of all the baby-naming and sick of being talked down to by Vilafor. So sick that she’s likely to give the players the passcode to the Forbidden Section of the Wizard’s Library just to spite Vilafor.
 
+### Breena Folkor
+Gnome female. Part-time librarian and student at the Wizard's College.
+
 ---
 
 ## Seat of War
@@ -168,8 +171,20 @@ Halfling farming couple. Potential victims of a Mimic Ivy infestation. Suffering
 ### Marsh Hansen
 Human street-rat. On the hunt to find his parents after the sigil corrupted their minds. Immune to the sigil's influence himself for some reason. Met in the House of Sunlight in chapter 5. Accompanied the players to rescue his parents.
 
+### Hubert Hansen
+Marsh's dad
+
+### Kara Hansen
+Marsh's mother
+
 ### Linda Linen
 Female elven owner of The Softest Sheet, a linen shop in the Textile District. Places a high value on taste in clothing, to the point where her way of saying "hello" is to evaluate and criticize/compliment a person's outfit. Met in her shop. Gave Ardin two new cloaks and information about the conversion ritual in her warehouse.
+
+### Neega
+Female half-orc proprietor of Threads & Thrashings. The tailor shop close to Linen Street.
+
+### Alston Garrick
+Male gnome. Assistant at Threads & Thrashings.
 
 ### Tabitha
 She's a wirey human with thick glasses who takes great pride in her work. She's the greatest alchemist in Loftran. She'll offer to sell the players the recipe for a Panacea potion for 10,000gp. Since they don't have that much, she'll give it to them in exchange for being part of her "living trials" program. She'll give them a magical bag and say that every so often, she sends potions to her "subjects" along with a sheet of parchment. The parchment has instructions on it, whether to drink or pour the liquid on something. The person at the other end of the bag must follow the instructions, write the result on the parchment, and send it back through the bag. She expects this to be done within a day. Met in her shop. Successfully contracted the party.

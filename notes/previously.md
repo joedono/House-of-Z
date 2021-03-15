@@ -23,3 +23,14 @@ The party agreed, but they still have quite a few things left to do before they 
 And so we begin, inside Tabitha's Alchemy Shop...
 
 ## 2021-03-14
+Previously, on I've Got A Hole In My Pocket:
+
+Many things were done! Ibal was acquitted of his crime after presenting all his evidence to a very grateful Kathra Dankil, a clerk in the queen's office who loved getting things off her TODO pile. Theryn enjoyed a nice little walk around the castle and made some new friends. Ardin bought everyone a set of stylish winter clothing from Threads & Thrashings and lumber to make a dropbox. Fran and Valmar hired the Hansen family to watch their house for about two weeks while the party is out adventuring and waiting for other applicants to come in. The party bunked in for the night in a manor that's feeling more and more like a home. Liara had a nightmare about an army of snake people made of darkness threatening her before Valmar stepped in and saved her.
+
+The next morning, the party received the final piece to the puzzle of the mysterious room. The name of the Brownie, Pepper Orangepearl. The door opened to reveal a wizard's dream workshop, with books and magical equipment scattered everywhere. On the other side was a teleportation circle that could be used to teleport back to the manor from anywhere by a spellcaster powerful enough to know how. Finally, on the far wall was a sinister black scorch mark with remnants of demonic energy still wisping off of it. After some exhaustive research, the party discovered that the scorch mark is most likely the remains of a portal to the Abyss. Maybe the Eloreth wizards opened the portal themselves and vanished through it. Maybe something *pulled* them through. Whatever the case, Liara and Ardin determined that the portal remnants are not dangerous unless someone foolhardy attempts the ritual again.
+
+The party packed up and set out for the mountains around Durrstaft. They were bound for Frostfall Pass, the last known location of the Red Drakes and Tabitha's mysterious "special delivery". After a hard, but manageable, hike up the switchbacks, the party encountered a frozen river.
+
+...and heard growling amidst the trees.
+
+## 2021-03-28

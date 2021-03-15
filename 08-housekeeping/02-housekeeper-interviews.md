@@ -3,6 +3,8 @@ Ardin rolls a 20 on the job posting for housekeeper(s). That's enough to bring i
 
 The party can wait around for applicants to show up (which is the common method) or they can set up a mail box for people to drop off applications at.
 
+The party hired the Hansens to house-sit while they trek through the mountains. They'll be collecting the applications while the party is out.
+
 ## Applicants
 **Feng** - Male half-orc. Used to work as a janitor at the Black Rose Inn (setup for Beneath the Black Rose module). His father, Cecil, owns the inn. Feng is here in Loftran, striking out on his own, plying his trade. He dreams of working for a noble house, and will be a little disappointed when he finds out the party is more of a ragtag group of adventurers. He'll have no problem working in a house with a fey creature, but will unwittingly attract ghosts occasionally. He's good at cleaning and stocking, but horrible at cooking.
 

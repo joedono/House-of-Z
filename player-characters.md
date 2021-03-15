@@ -3,7 +3,13 @@
 ## Andrey
 Ibal Ralovyre - Male Elf Rogue
 
-Ibal had a typical high elven childhood - tutors, classes, all manner of learning, but where his peers later turned to magical academia, he was drawn to the less arcane: history, psychology, physicals - the how and why of the world.  He left the echo chamber of elven society to expand his horizons, to investigate and observe. That's how, one day, he found himself being led away from the scene of a murder he was investigating by local law enforcement, explaining his need to pursue the truth and trying to prove his innocence in; neither of which worked well on the officers in charge.
+Ibal had a “typical” childhood for his station growing up on “The Heavenly Cay” of the Seacracker Isles - tutors, classes, all manner of learning, but where his peers later turned to magical academia and the halls of the Ivory Tower (the foremost school of magic), he was drawn to the less arcane: history, psychology, physicals - the how and why of the world.  He left the echo chamber of society to expand his horizons, to investigate and observe. That's how, one day, he found himself being led away from the scene of a murder he was investigating by local law enforcement, explaining his need to pursue the truth and trying to prove his innocence in; neither of which worked well on the officers in charge.
+
+Ibal is the third Child from a lesser noble family who made their fortune and names via artifice Father Folas Ralovyre (517) and Mother Chalia Ralovyre (456). Ibal’s parents think he is going through a phase and expect him to fall in line with the study of magic, as “he certainly has the intelligence and attention to detail for it,” at some point in the future. Be that as it may as he’s barely an adult (by elven standards) and they’ve allowed him his indulgences and his studies into the Psyche and Behavior.
+
+Elder Brother Rhys took on the family trade and became a skilled artificer. Their relationship is professional, but being 322 himself, and old enough to have a child Ibal’s age (despite being unmarried); Rhys sees Ibal as a bit of an impetuous child. He often wonders whether their parents are being too lenient with Ibal, but generally trusts their judgement.
+
+Middle Sister Allannia is an accomplished wizard and teacher at the Ivory Tower looking for less practical and more interesting uses for magic. As the middle child and in truth being closer in age (193) to Ibal than Rhys, Allannia is a doting older sister and perhaps takes the most interest in Ibal’s studies and interests.
 
 *Born in The Heavenly Cay in the Seacracker Islands*
 Crime - Murder
