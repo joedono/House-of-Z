@@ -29,3 +29,8 @@ The Skull, located East of the town of Southspark, has mistakenly sensed imminen
 Another bone, the subject of chapter 9, has a different problem. This bone can generate convincing illusions: terrain, objects, people, animals, etc. A roving band of monsters camped too close to the bone's resting place, so it generated illusions of stronger monsters to chase them away. The real monsters wound up pledging loyalty to the illusions, and raided the nearby human settlement with bolstered numbers. The bone generated illusions of human reinforcements to try and chase the monsters away, but then the monsters retreated *closer* to the bone and the humans followed. The bone generated more monster illusions, and so on. The town and the monster settlement are now more illusion than real, and the bone shows no signs of coming up with another solution.
 
 Other bones will have similar world-altering effects. Take inspiration from Control and the SCP Wiki.
+
+## Party Motivation
+In order to get the party motivated to actually go and check up on the other bones, have the bone in chapter 9 contact them through an illusion once the conflict is resolved. Explain that it can sense that its siblings are broadcasting distress signals. Some are stronger than others, but all are in danger. With the conflict around this bone resolved, it can reset itself and properly deal with the threat from Viserion, should it come around.
+
+Now the stage is set for any number of outcomes for future conflicts. Viserion could beat the party to harvesting the bone essence, the party could beat Viserion to resetting the bone's defenses. They could arrive together, or the party could come into conflict with one of Viserion's henchmen.
