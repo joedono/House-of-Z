@@ -62,4 +62,5 @@ Cure or kill Kellen and retrieve the Panacea
 Defeat Sisava
 **Level Up! - Level 5**
 Investigate Ibal's murder case
+Logistics
 Snowstalkers
