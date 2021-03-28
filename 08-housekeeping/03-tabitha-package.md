@@ -6,7 +6,7 @@ Tabitha will be expecting a shipment *from* Durrstahft by way of the mountain pa
 
 The *special order* is a Black Dragon Egg. It is the long-dormant offspring of Viserion and Anguisa. Viserion doesn't know that it exists, as Anguisa was killed/sealed before she could hatch it. Seeing the egg will provoke an intense reaction from Anguisa's soul inside Valmar/Liara, giving them a headache and hearing a faint voice in their head. The egg can be hatched by submerging it in boiling acid, but the party won't know that on their own. Tabitha will, but she'll refuse to tell them. Tabitha thought the package was just the egg-shell ("nearly whole" she was told). She planned on using shavings from the egg shell in her potions. She didn't know there was still a living dragon inside. She might still try to keep it, but will also be willing to hand it over to the players. She's only mildly concerned about keeping something that dangerous in her shop.
 
-The gem of seeing by the bear trap doesn't exist (I can't give them truesight before the City of Illusions quest)
+The gem of seeing by the bear trap doesn't exist (I can't give them truesight before the City of Illusions quest). Instead, the party will find an Astral Shard in Karina's workshop after the final fight https://www.dndbeyond.com/magic-items/astral-shard
 
 Bruga's Maul+1 is a Warhammer+1. It still has the spirit of the dwarven shield maiden Verna in it.
 
