@@ -5,7 +5,7 @@ An adventure suitable for any non-city settlement nearby where a giant's bone is
 - Pelvis - Third Finger Peak Mountain & Southspark
 - Spine - Mount Stratha & Hazelton
 
-But this can be adapted for anywhere. Just calibrate the response from the humans accordingly.
+But this can be adapted for anywhere with a giant's bone. Just calibrate the response from the humans accordingly.
 
 ## Summary
 A roving heard of monsters has moved into the area and is dangerously close to discovering the giant bone's hiding place. The group can be kobolds, goblins, orcs, maybe a hag leading a troupe of corrupted children, whatever. The point is, the pack makes up a small army that can have a variety of different types of fighters and beasts within it.
