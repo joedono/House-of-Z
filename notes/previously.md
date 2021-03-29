@@ -34,3 +34,10 @@ The party packed up and set out for the mountains around Durrstaft. They were bo
 ...and heard growling amidst the trees.
 
 ## 2021-03-28
+Previously, on What's This? What's This? What the Fuck is This?
+
+The party made their trek up the Durrstaft Mountains on their way to Frostfall Pass, taking the reverse route that the Red Drakes would have taken to get to Loftran. The threat of a blizzard loomed in the sky. During the climb, the party encountered a frozen river guarded by "white people." After some shenanigans getting across, the party discovered an owlbear whose eyes had been brutally removed. Theryn successfully calmed the creature and conversed with it via a Speak with Animals spell. The party learned little, other than it was severely traumatized. The party moved on and discovered a body wrapped in a Red Drake cloak hanging from a tree and spinning in the wind. Fran got his leg caught in a bear trap, and the party discovered that the body belongs to a dear. After several more hours of hiking, the party finally made it to Frostfall pass and discovered the Red Drake encampment, along with the body of Iovus, the human rogue member of the mercenary band, and Verna, the extremely rude spirit of a dwarven shield maiden inhabiting a wonderfully crafted warhammer.
+
+After a night's rest in the Tiny Hut, which was disturbed by some creepy noises outside, the party discovered what looked like an owlbear cave, with Thalia, the tiefling mage member of the Red Drakes. She came rigged with an explosive vial, but was promptly Revivified by Liara. She pointed the party at a secret door at the back of the cave, which the party discovered hid all kinds of gruesomness. Among other things, the party discovered Garlan, the dragonborn druid and third member of the Red Drakes. That just leaves Bruga, Verna's owner and a half-orc fighter. Before the party could explore further, the creature that had been stalking them finally showed itself: a four-legged patchwork creature the size of a car.
+
+Roll initiative.
