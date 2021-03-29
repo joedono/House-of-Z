@@ -17,3 +17,6 @@
 | Spell Scroll (Speak with Plants) | Ardin        | Elmwall Garden       | X    | 1    |
 | Potion of Growth                 | Ardin        | Elmwall Garden       | X    | 1    |
 | Potion of Watchful Rest          | Theryn       | Tabitha              | X    | 1    |
+| Potion of Animal Friendship      | Ardin        | Red Drake Tent       | X    | 1    |
+| Warhammer +1                     | Fran         | Red Drake Tent       | X    | 1    |
+| Medical Equipment                | Liara        | Karina Lab           | X    | 3    |

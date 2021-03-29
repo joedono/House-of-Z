@@ -1,15 +1,19 @@
-Ardin -
-Fran -
 Valmar -
-Ibal -
 Theryn -
+Ibal -
+Fran -
+Ardin -
+Snow Mutant - XX | 152 -
 
-Ape 1 - 22
-Ape 2 - 20
-Owlbear - 14
-Ape 3 - 13
-Ape 4 - 12
-Ape 5 - 11
-Ape 6 - 10
-Ape 7 - 9
-Ape 8 - 5
+---
+
+Thalia - 31hp
+
+---
+
+Karina - XX | 90 -
+Imperfect Specimen 1 - XX | 39 -
+Imperfect Specimen 2 - XX | 39 -
+Imperfect Specimen 3 - XX | 39 -
+Imperfect Specimen 4 - XX | 39 -
+Imperfect Specimen 5 - XX | 39 -
