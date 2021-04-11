@@ -13,13 +13,16 @@ Refer to The Snow Stalkers for further details: file:///E:/Users/Joe/Documents/R
 --BOOKMARK--
 The party has explored much of Karina's lab. They found Garlan, but haven't freed him yet. They were just about to enter the final room when the Snow Mutant appeared and attacked.
 
+Poisoned - A poisoned creature has disadvantage on attack rolls and ability checks.
+DON'T FORGET LEGENDARY ACTIONS
+
 ## Aftermath
 There will be two lasting consequences from this encounter:
 
 ### Karina's Last Act
 Karina is a long-time arch-nemesis of Tabitha. Near the end of the battle, she'll attempt to get close to Ibal and shove several of her explosive vials into the Bag of Sending. If she succeeds, the resulting explosion back at Tabitha's shop will destroy much of the merchandise and kill Helen, Tabitha's assistant.
 
-Tabitha might swear revenge until she learns that the party has already dispatched Karina. Tabitha will immediately start putting together an exhibition to Karina's lab (and might hire the party again). If the Snow Mutant is still alive, it might come back to harass the party again, with a pack of loyal snow apes (or something).
+Tabitha might swear revenge until she learns that the party has already dispatched Karina. Tabitha will immediately start putting together an expedition to Karina's lab (and might hire the party again). If the Snow Mutant is still alive, it might come back to harass the party again, with a pack of loyal snow apes (or something).
 
 ### The Special Delivery
 The *special order* is a fully intact Black Dragon Egg, picked up in the region around Durrstahft. It is the long-dormant offspring of Viserion and Anguisa. Viserion doesn't know that it exists, as Anguisa was killed/sealed before she could hatch it. Seeing the egg will provoke an intense reaction from Anguisa's soul inside Valmar/Liara. She'll attempt to seize control of the body and attack the party, prompting Liara/Valmar to make successive DC 17 Wisdom saving throws. The first check is made normally. Upon failure, Liara/Valmar are thrust away from the "light", and can thereafter work together to sieze control, granting advantage on subsequent Wisdom saving throws through the Help action. Upon the first success, the spirit of Anguisa is imprisoned in the mind cage once again, and no further saves are necessary (for now).
