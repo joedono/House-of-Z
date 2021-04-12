@@ -10,7 +10,6 @@ Bruga's Maul+1 is a Warhammer+1. It still has the spirit of the dwarven shield m
 
 Refer to The Snow Stalkers for further details: file:///E:/Users/Joe/Documents/RPG/D&D%205.0/Campaigns/Bundle%20of%20Horror%202/5%20-%20The%20Snow%20Stalkers%20V1/The%20Snow%20Stalkers%20V1.pdf
 
---BOOKMARK--
 The party has explored much of Karina's lab. They found Garlan, but haven't freed him yet. They were just about to enter the final room when the Snow Mutant appeared and attacked.
 
 Poisoned - A poisoned creature has disadvantage on attack rolls and ability checks.
@@ -24,6 +23,9 @@ Karina is a long-time arch-nemesis of Tabitha. Near the end of the battle, she'l
 
 Tabitha might swear revenge until she learns that the party has already dispatched Karina. Tabitha will immediately start putting together an expedition to Karina's lab (and might hire the party again). If the Snow Mutant is still alive, it might come back to harass the party again, with a pack of loyal snow apes (or something).
 
+THIS FAILED!!
+
+-- BOOKMARK --
 ### The Special Delivery
 The *special order* is a fully intact Black Dragon Egg, picked up in the region around Durrstahft. It is the long-dormant offspring of Viserion and Anguisa. Viserion doesn't know that it exists, as Anguisa was killed/sealed before she could hatch it. Seeing the egg will provoke an intense reaction from Anguisa's soul inside Valmar/Liara. She'll attempt to seize control of the body and attack the party, prompting Liara/Valmar to make successive DC 17 Wisdom saving throws. The first check is made normally. Upon failure, Liara/Valmar are thrust away from the "light", and can thereafter work together to sieze control, granting advantage on subsequent Wisdom saving throws through the Help action. Upon the first success, the spirit of Anguisa is imprisoned in the mind cage once again, and no further saves are necessary (for now).
 

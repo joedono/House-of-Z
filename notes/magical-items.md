@@ -19,4 +19,7 @@
 | Potion of Watchful Rest          | Theryn       | Tabitha              | X    | 1    |
 | Potion of Animal Friendship      | Ardin        | Red Drake Tent       | X    | 1    |
 | Warhammer +1                     | Fran         | Red Drake Tent       | X    | 1    |
-| Medical Equipment                | Liara        | Karina Lab           | X    | 3    |
+| Medical Equipment                | Liara        | Karina's Lab         | X    | 3    |
+| Goggles of Night                 | Ardin        | Karina's Lab         | X    | N/A  |
+| Antitoxin                        | Ardin        | Karina's Lab         | X    | 2    |
+| Essence of Ether                 | Ardin        | Karina's Lab         | X    | 2    |
