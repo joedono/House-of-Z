@@ -41,3 +41,12 @@ The party made their trek up the Durrstaft Mountains on their way to Frostfall P
 After a night's rest in the Tiny Hut, which was disturbed by some creepy noises outside, the party discovered what looked like an owlbear cave, with Thalia, the tiefling mage member of the Red Drakes. She came rigged with an explosive vial, but was promptly Revivified by Liara. She pointed the party at a secret door at the back of the cave, which the party discovered hid all kinds of gruesomness. Among other things, the party discovered Garlan, the dragonborn druid and third member of the Red Drakes. That just leaves Bruga, Verna's owner and a half-orc fighter. Before the party could explore further, the creature that had been stalking them finally showed itself: a four-legged patchwork creature the size of a car.
 
 Roll initiative.
+
+## 2021-04-11
+Previously, on Game Over, Man!!
+
+After some careful preparation and a few well-rolled stealth checks, the party made mincemeat of the monstrosity that had been stalking them since they arrived in Frostfall Pass. The creature fled, clutching to it's one remaining hit point. The party then discovered the laboratory of the deranged alchemist, Karina, and her imperfect monstrosities. A battle ensued. Valmar and Theryn were slain, with Theryn being sent from the realm of unconsciousness into true death for a brief time. Fortunately, the imperfect monsters that were providing a buffer to Karina couldn't live very long outside of their vats with no nutrient feeding tubes attached. Sensing the tide of battle shifting, Karina attempted to flee her cave, only to be brought down by Ardin's Cone of Cold spell.
+
+The party gathered the remaining Red Drakes and what gear they could find of use in the lab. They found the "special delivery" that Tabitha had sent them for, with Garlan taking a special interest in keeping a hold of it. Thalia, Bruga, and Garlan held a small funeral for Iovus, their remaining member, who had been tied up and left to die of exposure after having his teeth and tongue removed. Ardin then impressed them with a warm and dry place to sleep for the night at the foot of the Durrstahft Mountains.
+
+Ardin identified the vials and goggles the group retrieved from the lab. Ibal sent a status update to Tabitha, who replied and asked about the status of her package. Ardin, Ibal, and Garlan opened the box and discovered what appeared to be a fully intact Black Dragon Egg. Questions abound.
