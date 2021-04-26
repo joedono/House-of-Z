@@ -132,6 +132,12 @@ Vilafor’s familiar. Usually a sprite. Pookie is sick of all the baby-naming an
 ### Breena Folkor
 Gnome female. Part-time librarian and student at the Wizard's College.
 
+### Baern Frostbeard
+Dwarf Professor. Head of the humanoid biological research department.
+
+### Geoffrey Barinfold
+Baern's assistant
+
 ---
 
 ## Seat of War
@@ -157,6 +163,13 @@ Half-elf engineer. Not actually at the mines. Was the engineer on duty at the ti
 
 ### Keth Clast
 A survivor of the lift disaster three months ago, and Foreman Clast's brother (half-orc). He has managed to survive down here due to his ingenuity and determination. He has managed to keep his filtration suit functioning by patching it with scraps from the other miners and adventurers who were stranded down here with him. Despite that, he is showing signs of Stage 7 Aether Poisoning. He's been surviving on rations and the meat of the creatures down here, which of course causes his aether poisoning to get worse. He'll have a noticeable bulge on the back of his head, but the filtration suit will prevent the players from seeing what it is. Of course, it's a crystal growth on the back of his skull. Met in the Deep Floor of the Hatching Stone Mines.
+
+---
+
+## The Heavenly Cay
+
+### Professor Adran Galanodel
+Head of biological research at the Ivory Tower. Academic advisor to Professor Baern Frostbeard, the head of biological research at the Wizard's College in Loftran.
 
 ---
 

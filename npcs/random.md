@@ -1,10 +1,8 @@
 # Random NPCs
 
 ## Humans
-- Geoffrey Barinfold
 
 ## Elves
-- Adran Galanodel
 - Erden Liodon
 - Peren Melimne
 
@@ -12,7 +10,6 @@
 - Shava Siannodel
 
 ## Dwarves
-- Baern Frostbeard
 - Durin Ironfist
 - Tordek Battlehammer
 
