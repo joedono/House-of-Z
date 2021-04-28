@@ -14,7 +14,7 @@ Middle Sister Allannia is an accomplished wizard and teacher at the Ivory Tower 
 *Born in The Heavenly Cay in the Seacracker Islands*
 Crime - Murder
 Time In Prison - 5 Days - Awaiting Sentencing
-**Plot Hook - Framed for murder**
+**Plot Hook - Framed for murder. Knows people in The Heavenly Cay**
 
 ## Brian
 Ardin - Male Firbolg Warlock
@@ -38,7 +38,7 @@ After Valmar was beaten up (and also stripped naked) by their townsfolk, they we
 *Born and raised in a monstary on Mount Stratha*
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
-**Plot Hook - Merged with Valmer. Quest to get her body back and find her book of Ancient Text, which was stolen by the followers of Zehir.**
+**Plot Hook - Merged with Valmer. Quest to get her body back and find her book of Ancient Text, which was stolen by the followers of Zehir. The book contains a selection of 9th level spells, including True Resurrection, which Viserion needs in order to bring Anguisa back to life.**
 
 ## Kyle
 Valmar Nohrmari - Non-binary Tiefling Sorceror
@@ -50,7 +50,7 @@ It turns out that Valmar had found a containment vessel for an ancient evil, the
 *Born in or near the city of Durrstahft*
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
-**Plot Hook - Discovery background (discovered "something" powerful and/or ancient). Village lynching. Merged with Liara**
+**Plot Hook - Discovery background (discovered "something" powerful and/or ancient. Anguisa's vessel). Village lynching. Merged with Liara**
 
 ## Andy
 Theryn Ruinlief (pronounced Theer-rehn Roon-leef) - Male Half-Elf Ranger

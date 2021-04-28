@@ -19,6 +19,8 @@ Viserion has brought King Samuel here because he needs the special equipment in 
 
 So, Viserion is masquerading as a medical student at the Ivory Tower, working on a plan to gain access to the advanced medical equipment necessary to perform the procedure. The king is under the effect of a True Polymorph spell, and is now in the form of a lizard. Viserion stole a spell scroll from a traveling wizard. Viserion has assumed the guise of a clumsy halfling named Rion Blackspice, with his pet lizard Fangs. Viserion is also attempting to research the location of the Giant Finger Bones said to be somewhere in the archipelago. The party may meet him while they're in the city.
 
+Depending on where the players look, they may discover that Rion is in possession of Liara's clan's advanced spellbook.
+
 ## Finger Bones
 The three Giant Finger Bones are at the bottom of the Grippli Temple south of the Heavenly Cay. These bones have the ability to influence the mood of nearby creatures. When the grippli occupied the temple and village, it emitted encouragement and happiness, enticing them to stay where they were and giving them the impression that their temple was sacred and should be protected. The grippli interpreted this energy as that of Eldath (sister of Mielikki, Ardin's patron). So for hundreds of years, the grippli dutifully guarded the temple, oblivious of what truly remained sleeping beneath it.
 
