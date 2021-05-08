@@ -1,0 +1,18 @@
+# Anguisa's Soul
+If they think of it, the party can inquire as to whether Isabella Elmwall was seen recently. They'll discover that there's a record of her leaving the city a couple days ago, just before the ritual was stopped by the players. The players can learn that she boarded a boat heading north on the Giantvein River, but they won't learn that she'll have turned West to go to the Seacracker Islands in search of Giant Finger Bones.
+
+## The Examination
+-- BOOKMARK --
+The party has decided to submit Liara/Valmar to Professor Baern Frostbeard, the head of the humanoid biological research department at the Wizard's College, to see if he can figure out what the deal is with Liara/Valmar/Anguisa. He's hoping to get a research paper out of her and has called on the rest of his staff to come help with the research.
+
+Baern will be able to detect the presence of three souls within Valmar/Liara: Two humanoid and one dragon. He'll be able to pull up images of them on a sort of hatching stone hologram projector. He'll be able to pull up images of Valmar and Liara easily enough, but when he attempts to pull up Anguisa, it'll appear as if nothing happens. The party will hear a scream from outside, and they'll realize that the projection of the dragon extends outside of the room. Baern will lower the resolution and Anguisa will shift into view. When she's fully in view, the projection will start moving. Baern won't be able to explain this. Shortly after, Valmar will have another Anguisa transformation, but she'll be unable to muster enough strength to break the magical bonds on the specimen table. This has a chance to break some of the equipment, which could explode or arc and hurt some of the characters.
+
+Once everything is back under control, Baern will review the readings that his instruments collected. He thinks he'll be able to attempt a soul extraction and place the soul into a Hatching Stone made for energy containment. He'll only be about 50% sure of success. Unfortunately, the process will fail. The stone will shatter. Anguisa will remain within Valmar/Liara. Baern will loathe to admit it, but he just doesn't have the equipment here to do the extraction. He'll recommend that the party seek out his former academic advisor at the Ivory Tower instead, Professor Adran Galanodel (male high elf).
+
+Baern will be able to give Valmar a suppression earring that will keep Anguisa under wraps for a time. He's not sure how long, since all it does is strengthen the existing mind cage. How long it lasts is dependent on the will of the creatures guarding it (Valmar and Liara) and the will of the prisoner. Considering that Valmar and Liara have held out this long and it took an extremely personal external stimuli to give Anguisa the strength to take over, he's confident in the earring's ability to hold the creature for an extended period, on the order of months...probably.
+
+## Housekeeping
+The party has a few things they have to take care of in the city before leaving, so it's important for them to know that they have time to do that.
+
+* Houskeeper Interviews (see chapter 8-2)
+* Prepare for the journey to the Heavenly Cay, either through chartering a boat and a crew, or cashing in the Queen's favor for a boat and hiring a crew for their own.

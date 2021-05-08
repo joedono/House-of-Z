@@ -64,3 +64,9 @@ Defeat Sisava
 Investigate Ibal's murder case
 Logistics
 Snowstalkers
+Learning about Anguisa's Soul
+Obtaining a ship
+**Level Up! - Level 6**
+Journey through Seacracker Islands
+The Heavenly Cay
+The Grippli Village
