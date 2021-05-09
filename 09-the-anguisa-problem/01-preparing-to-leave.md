@@ -1,6 +1,8 @@
 # Preparing to Leave
 Th party's next objective is to find Professor Adran Galanodel, who works in the biology and science department of the Ivory Tower in the Heavenly Cay. They need to take care of a little housekeeping, specifically actually hiring a housekeeper, and they need to obtain passage aboard a ship, either their own or by charter.
 
+While they're out there, they might remember to check off the Finger Bones item on their list of locations.
+
 ## Housekeeper Interviews
 Ardin rolls a 20 on the job posting for housekeeper(s). That's enough to bring in 1-2 people every couple days or so. The party did NOT mention the presence of a fey creature in the house, but did put "further responsibilities to be discussed" on the posting. They asked for a housekeeper, stocker, and cook.
 
