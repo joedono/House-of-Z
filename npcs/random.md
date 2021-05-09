@@ -1,11 +1,20 @@
 # Random NPCs
 
 ## Humans
+- Samuel Destran
+- Poddrick Mosrii
+- Warwick Kelleck
+
+- Karli Bennah
+- Shani Logran
+- Namaari Chi
 
 ## Elves
 - Erden Liodon
 - Peren Melimne
+- Haffdas Relevorth
 
+- Marloth Sethran
 - Birel Hilimion
 - Shava Siannodel
 
@@ -19,20 +28,25 @@
 ## Half-Orcs
 - Grom
 - Krusk
+- Fang
 
 - Engong
 - Volen
+- Orga
 
 ## Gnome
 - Brocc Nackle
 - Gimble Timbers
+- Seebo Verna
 
 - Lilli Beren
 - Orla Scheppen
+- Kemra Wynch
 
 ## Halfling
 - Eldon Brushgather
 - Garret Tealeaf
+- Alistor Grassroot
 
 - Lidda Hilltopple
 - Nedda Goodbarrel

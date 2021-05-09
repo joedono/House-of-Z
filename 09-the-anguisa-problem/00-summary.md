@@ -6,5 +6,3 @@ A network of islands arranged in strange patterns with treacherous currents and 
 
 ## Frostcracker Islands
 The northern reaches of the islands are even more dangerous than Seacracker, due to the presence of ice flows. One is never actually sure whether the island is actually an island or just a really big ice block. Because there's fewer people up here, there's more monsters.
-
-As soon as the party sets out on this journey, make them Level 6.
