@@ -26,5 +26,10 @@ Rate - 10gp/month
 Rate - 20gp/month for Albert, 15gp/month for Atala and Althaea each, and 10gp/month for Reed. Total = 45gp/month for all four staffers
 
 ## Obtaining a Ship
+If the party elects to obtain a ship via their Queen's Boon, then it'll take one month to construct the ship. This can be used for downtime as the party likes: https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
+
+After a month's time, the Queen will offer them a choice between an unfurnished Brigantine that is seaworthy and in good repair, and a [Folding Boat](https://www.dndbeyond.com/magic-items/folding-boat). She'll take them down to the Giantvein River, which borders Loftran, to present the choice to the party.
+
+If they ask for something else, deal with it accordingly.
 
 ## Obtaining a Crew
