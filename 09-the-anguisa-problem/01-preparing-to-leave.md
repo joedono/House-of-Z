@@ -1,4 +1,7 @@
-# Housekeeper Interviews
+# Preparing to Leave
+Th party's next destination is the Heavenly Cay. They need to take care of a little housekeeping, specifically actually hiring a housekeeper, and they need to obtain passage aboard a ship, either their own or by charter.
+
+## Housekeeper Interviews
 Ardin rolls a 20 on the job posting for housekeeper(s). That's enough to bring in 1-2 people every couple days or so. The party did NOT mention the presence of a fey creature in the house, but did put "further responsibilities to be discussed" on the posting. They asked for a housekeeper, stocker, and cook.
 
 The party can wait around for applicants to show up (which is the common method) or they can set up a mail box for people to drop off applications at.
@@ -21,3 +24,7 @@ Rate - 10gp/month
 **Albert Glendale, Atala Jassan, Althaea Amakiir, and Reed Tosscobble** - Male human, female human, female elf, and male halfling. The former head butler, maid, cook, and groundskeeper from the Elmwall Estate. With their mistress Isabella settling in for an extended (possibly indefinite) stay at the House of Sunlight, and all their masters dead, the four remaining employees of Elmwall are out of work.
 
 Rate - 20gp/month for Albert, 15gp/month for Atala and Althaea each, and 10gp/month for Reed. Total = 45gp/month for all four staffers
+
+## Obtaining a Ship
+
+## Obtaining a Crew
