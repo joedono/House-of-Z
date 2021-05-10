@@ -30,7 +30,7 @@ Rate - 20gp/month for Albert, 15gp/month for Atala and Althaea each, and 10gp/mo
 ## Obtaining a Ship
 If the party elects to obtain a ship via their Queen's Boon, then it'll take one month to construct the ship. This can be used for downtime as the party likes: https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
 
-After a month's time, the Queen will offer them a choice between an unfurnished Brigantine that is seaworthy and in good repair, and a [Folding Boat](https://www.dndbeyond.com/magic-items/folding-boat). She'll take them down to the Giantvein River, which borders Loftran, to present the choice to the party.
+The Queen will make whatever sort of ship the party asks for, but it will take a month. She'll also offer them a [Folding Boat](https://www.dndbeyond.com/magic-items/folding-boat) that she had made. She'll take them down to the Giantvein River, which borders Loftran, to present the choice to the party.
 
 If they ask for something else, deal with it accordingly.
 
@@ -41,7 +41,18 @@ If the party goes with the Folding Boat, then it can't really have furnishings o
 
 If the party obtains a real ship, then they'll have to hire a crew and buy furnishings for it. Hirelings cost 2gp per day. Depending on the type of ship the party requests will make a difference in the size of the crew the party must hire and how many officers they'll need.
 
-## Complications
+The party has chartered the Sea Spear, captained by Krusk, at the cost of 200gp per person (one-way), leaving in a month's time. It is a three-masted galley ship. The journey will take a week.
+
+## Downtime
+-- BOOKMARK --
+https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
+
+### Makaria Party
+TODO
+The Makaria Estate is holding a party in just over a week that the players have an invitation to. This is meant to showcase that Makaria is back on the map, as her vineyard has recovered and she is producing wine again.
+
+### Yuan-Ti Refugees
+TODO
 At some point during the construction of the ship, one of the party will be approached by a pair of hooded figures. This is Zerdan and Daniel Mitsk, two brothers who are attempting to covertly leave the city. They were transformed into Yuan-Ti Purebloods during the ritual of Zehir, but they are lucid and want nothing to do with the god of poison. They don't feel that they can stay in the city due to the intense and sometimes murderous discrimination they'd face. They'll want to enlist the party's help in leaving the city on their ship and going north. The only problem is that they don't want to leave their elderly mother behind, but she can't really move on her own. Cazra Mitsk is still fully human, but completely senile. She hasn't noticed that her sons are part snake, or anything else that happened in the city recently. They offer 300gp, enough for 10gp per person per day for 3 people for 10 days (a week). Daniel has some skill in sailing, so he'll be able to help out as a member of the crew.
 
 Getting the Mitsk's out will take some stealth, as there are now nightly patrols for shadows and Yuan-Ti (among other threats). The party can try to get them out during the day, but the regular folk are just as perceptive as the night watches. Getting them through the city will be a skill challenge, disguising the Mitsks to hide their faces, sneaking around patrols, creating distractions, and not getting lost in the chaos.

@@ -3,7 +3,6 @@
 ## Humans
 - Samuel Destran
 - Poddrick Mosrii
-- Warwick Kelleck
 
 - Karli Bennah
 - Shani Logran
@@ -27,7 +26,6 @@
 
 ## Half-Orcs
 - Grom
-- Krusk
 - Fang
 
 - Engong
@@ -35,7 +33,6 @@
 - Orga
 
 ## Gnome
-- Brocc Nackle
 - Gimble Timbers
 - Seebo Verna
 

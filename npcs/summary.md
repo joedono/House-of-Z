@@ -184,6 +184,15 @@ Ibal's older sister is an accomplished wizard and teacher at the Ivory Tower loo
 
 ## Misc
 
+### Krusk
+Ship captain of the Sea Spear
+
+### Brocc
+First mate of the Sea Spear
+
+### Warwick Kelleck
+Potion Seller in Tinders in Loftran. Mostly sells "herbal" remedies
+
 ### Horsemaster Brom
 Male Dwarf Stablemaster. Maintains a handful of stables in the NW section of town, as well as a horse farm near the edge of town. Met in the House of Sunlight in chapter 1. He technically owns Pumpkin the goat.
 
@@ -216,6 +225,8 @@ Tabitha's elven assistant. A young woman, especially by elven standards. She's s
 
 ### Rat Man Jenkins
 An insane human who lives in the Loftran sewers. Has become a bit of a scary bedtime story for the peasants of Loftran. Harmless, but creepy.
+
+---
 
 ## Villains
 

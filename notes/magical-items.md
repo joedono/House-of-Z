@@ -23,3 +23,4 @@
 | Goggles of Night                 | Ardin        | Karina's Lab         | X    | N/A  |
 | Antitoxin                        | Ardin        | Karina's Lab         | X    | 2    |
 | Essence of Ether                 | Ardin        | Karina's Lab         | X    | 2    |
+| Earring of Containment           | Valmar/Liara | Baern                | X    | 1    |
