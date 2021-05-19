@@ -10,5 +10,7 @@ https://www.dndbeyond.com/sources/dmg/adventure-environments#TheSea
 Playtest Stats for Ships
 https://media.wizards.com/2018/dnd/downloads/UA_ShipsSea.pdf
 
+The Sea Spear is a Galley
+
 ## Halfway House
 Make sure a hard-ish battle happens near the midway point. The captain will want to stop at Bluerim Village, a halfway waystation village located on a large-ish island almost exactly in the middle of the archipelago. The price to dock here is a barrel full of food or other supplies, which the captain will be prepared to pay. After that, the party has free run of the village for the night. There's a general store, a blacksmith, several farms, fishers, and the Black Rose inn. Settle in for Beneath the Black Rose horror module.
