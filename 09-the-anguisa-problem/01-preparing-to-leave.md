@@ -73,6 +73,7 @@ Outer Ring DC = 10 | 4 points
 10 or less = miss
 
 Participants fire 3 arrows in each round. Highest score after 9 shots wins.
+Any magical enhancement is forbidden.
 
 **Grand Price**
 Two bottles each of the new Makaria wines (see above). 6 bottles total.
