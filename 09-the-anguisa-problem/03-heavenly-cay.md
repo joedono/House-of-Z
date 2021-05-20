@@ -22,4 +22,4 @@ TODO
 
 Adran will examine Liara/Valmar/Anguisa and say that he thinks that his "treated blood extraction process" can be adapted to home in on the soul and draw it out. Unfortunately, his supply of giant crab blood has run out, and they've stopped receiving their usual supply from the Grippli village to the south, along with Adran's favorite crab meat dish. If the party can travel south and find out why the Grippli have stopped sending crab blood and meat to The Heavenly Cay, he'll be happy to help them. He'll have heard of a band of Yuan-Ti that sailed that way some weeks ago, around the time that the supplies stopped.
 
-And thus starts the Book of Cylinders
+And thus starts the **Book of Cylinders**
