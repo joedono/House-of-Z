@@ -21,7 +21,6 @@
 - Durin Ironfist
 - Tordek Battlehammer
 
-- Dagnal Fireforge
 - Ilde Ungart
 
 ## Half-Orcs
@@ -50,7 +49,6 @@
 - Seraphina Underbough
 
 ## Dragonborn
-- Arjhan Daardendrian
 - Heskan Kimbatuul
 
 - Daar Myastan
