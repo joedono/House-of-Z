@@ -41,11 +41,9 @@ If the party goes with the Folding Boat, then it can't really have furnishings o
 
 If the party obtains a real ship, then they'll have to hire a crew and buy furnishings for it. Hirelings cost 2gp per day. Depending on the type of ship the party requests will make a difference in the size of the crew the party must hire and how many officers they'll need.
 
-The party has chartered the Sea Spear, captained by Krusk, at the cost of 200gp per person (one-way), leaving in a month's time. It is a three-masted galley ship. The journey will take a week.
+## Outcome
+The party has chartered the Sea Spear, captained by Krusk, at the cost of 40gp per person (one-way), leaving in a month's time. It is a three-masted galley ship. The journey will take a week.
 
 ## Downtime
 -- BOOKMARK --
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
-
-## Departing
-As soon as the party sets out on this journey, make them Level 6
