@@ -7,6 +7,19 @@ The party can choose how they'd like to be announced, and Bel'krell will announc
 
 Baelor will make some appearances during the party, puffing out his chest at his latest creations: Honey Hellfire, Pursue Sensation, and Cherry Succulent. At some point, he'll overhear a small group of young nobles bad-mouthing the taste of the new wine, calling it "gimmicky", which Baelor will take extreme offense at, possibly instigating a duel.
 
+## Ibal's Gift to the Party
+Fine clothes commissioned for everyone
+
+Fran - navy suit with gray pinstripes, paired with a smart bowler with a gray and black plaid ribbon, but the highlight were three small silver cuffs, about the length of a thumb, embossed with miniature war hammers for his beard
+
+Valmar - woolen dark burgundy coat, hemmed neatly above a silken waistcoat, tails extending to his knees with amble mobility of his own tail. A crisp white shirt peaks out at his cuffs and neckline, which is almost obscured behind a satin brown cravat, kept in check with a silver button
+
+Ardin - creamy, flowing tunic made from a weave that slips through the fingers. The neckband and collar are elaborately embroidered with greens and browns of local flora. A think woven belt matches to tie the look together at the waist, the ends feathered into a thick fringe
+
+Theryn - a cloak-like coat, patterned in diamonds, with each point stitched down with a crystal bead, the edges trimmed with silver embroidery. The entire thing? Bright red and blue - form the checkered pattern. And as loud as you might think that, the inside - sunshine yellow with golden threads criss-crossing.
+
+Ibal - Serviceable dark gray coat and trousers well tailored, matching his cloak and boots
+
 ## Attendees
 Other noble attendees the players might encounter.
 

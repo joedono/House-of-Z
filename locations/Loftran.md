@@ -42,3 +42,6 @@ A large residential building, like an apartment complex, located near the House 
 
 ### Bannow's Place
 Tavern near the Hatching Stone Mines. Favorite of most miners. Wind O'Leaf frequents here after the disaster with the lift.
+
+### Threads & Thrashings
+High-end clothing store. Owned by a very fashion conscious half-orc named Neega.
