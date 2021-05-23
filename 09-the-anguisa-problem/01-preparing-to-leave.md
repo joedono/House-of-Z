@@ -27,6 +27,13 @@ Rate - 10gp/month
 
 Rate - 20gp/month for Albert, 15gp/month for Atala and Althaea each, and 10gp/month for Reed. Total = 45gp/month for all four staffers
 
+The party rejected all these options and hired the Hansens to be their permanent caretakers.
+
+This brings the total cost for maintaining the Eloreth Mansion to 40gp/month:
+* 25gp/month to pay staff
+* 10gp/month for food
+* 5gp/month for other supplied
+
 ## Obtaining a Ship
 If the party elects to obtain a ship via their Queen's Boon, then it'll take one month to construct the ship. This can be used for downtime as the party likes: https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
 
@@ -43,7 +50,3 @@ If the party obtains a real ship, then they'll have to hire a crew and buy furni
 
 ## Outcome
 The party has chartered the Sea Spear, captained by Krusk, at the cost of 40gp per person (one-way), leaving in a month's time. It is a three-masted galley ship. The journey will take a week.
-
-## Downtime
--- BOOKMARK --
-https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities

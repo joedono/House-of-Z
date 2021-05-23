@@ -39,6 +39,7 @@ Shortbow Range 80/320 - normal, disadvantage, disadvantage
 | Dagnal     | +3    | Miss | 6   | 6   | 12  | 4   | 4   | 4    | 12  | 4    | Miss | Miss | 4   | 28    |
 | Eldon      | +0    | X    | X   | X   | X   | X   | X   | X    | X   | X    | X    | X    | X   | X     |
 | Theryn     | +8    | X    | X   | X   | X   | X   | X   | X    | X   | X    | X    | X    | X   | X     |
+| Ibal       | +8    | X    | X   | X   | X   | X   | X   | X    | X   | X    | X    | X    | X   | X     |
 
 Bullseye DC = 25 | 10 points
 Center Ring DC = 20 | 8 points
@@ -58,6 +59,11 @@ Weapon (any bow), rare (requires attunement)
 This magical bow grants a +1 bonus to attack and damage rolls you make with it. When you cast a ranger spell, it grants a +1 bonus to spell attack rolls, and your spell save DC increases by 1. When you fire an evocation Arcane Shot from this bow, you can deal lightning damage instead of any other damage type. If you do, you deal an additional 1d6 lightning damage.
 A stormbow has 4 charges. ETA: It regains one charge per hour spent in a thunderstorm, and regains all expended charges at dawn. When you hit with a ranged attack using it, you can expend 1 charge to deal an additional 1d8 lightning damage. When you cast a ranger spell, you can expend 2 charges per spell slot level to double the damage your spell inflicts.
 Lore: Stormbows are the signature weapons of the Storm Archers, an elite order of archers who bind lightning to their arrows for devastating effect. They play a deadly game of cat-and-also-cat with the necromantic Bone Archers, all across the Wildlands.
+
+(If Ibal joins the contest or shows interest)
+Flame Tongue Longsword
+https://www.dndbeyond.com/magic-items/flame-tongue
+The weapon can be set ablaze by a magical command word. It sheds bright light for 40ft and dim light for another 40. While ablaze, the sword deals an extra 2d6 damage. The flame lasts until the command word is spoken again.
 
 **Consolation Price** Given to all participants
 One bottle each of the new Makaria wines. 3 bottles total.
