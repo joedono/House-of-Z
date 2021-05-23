@@ -15,3 +15,9 @@ Curiosity will take hold in her mind and be enhanced by the enticing energies gi
 
 ## Eloreth Bank Account
 20,000gp in an unclaimed account at the bank in Loftran. Need the Eloreth signet ring.
+
+## Zehir Refugees
+https://www.netflix.com/watch/81006549
+https://www.netflix.com/watch/81006550
+
+Several Yuan-Ti rolled into a village and massacred the population. They were repelled by the local militia, but one retreated into the local church, where it converted all the church-goers into Yuan-Ti, or attempted to. The clerics came outside some time later, holding blackened pieces of scaled flesh. They looked sad and....broken. The next day, the clerics didn't allow anyone into the church the next day. Every few days ever since, broken strangers would arrive at the town, one or two at a time. They'd head for the church and be allowed inside. The mayor has no idea what's going on inside that church, and wants to hire adventurers to investigate. The clerics are armed and have enough numbers to match the town militia, so they need help.
