@@ -1,5 +1,8 @@
 # Makaria Resurgence Party
+-- BOOKMARK --
 The Makaria Estate is holding a party in just over a week that the players have an invitation to. This is meant to showcase that Makaria is back on the map, as her vineyard has recovered and she is producing wine again.
+
+Do one week of Downtime before the party.
 
 Bart, the groundskeeper will be out front tending to hedges when the party arrives. He'll greet them. If they stop to talk, he'll make a show of how happy he's been lately now that the vineyard is back in business and Baelor isn't pissed all the time (as much). Bart also adopted a new cat that he named Pine after his favorite tree.
 

@@ -1,5 +1,4 @@
 # Downtime
--- BOOKMARK --
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
 
 ## Ardin - Research
