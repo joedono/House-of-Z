@@ -7,7 +7,7 @@ Ibal - Purchasing a magical weapon and research into humanoid psychology
 Fran - Training to be a sailor
 Valmar - Research into Wild Magic and Religion
 Liara - Buying a pretty dress and Religious Service
-Theryn - ???
+Theryn - Play around at the archery range and befriend any local bards
 
 ## Ardin - Research
 Wants to know more about Seacracker Islands and Black Dragons.
@@ -37,7 +37,8 @@ The Nature of Black Dragons
 6. It is possible to hatch a black dragon egg by submerging it in boiling acid for three days
 
 ## Ibal - Buy a Magic Item or Research
-Buy Fine clothes 15gp
+Buy Fine clothes - 15gp. For the entire party - 75gp
+
 Buying a Magic Item. Wants to buy a magic weapon. Has a budget of 750gp
 
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#BuyingaMagicItem
@@ -45,6 +46,8 @@ https://www.dndbeyond.com/sources/xgte/downtime-revisited#BuyingaMagicItem
 100gp initial expense. Make a Persuasion roll with +1 for every workweek beyond the first and every 100gp spent beyond the initial fee (up to +10) to find a reputable seller with the item in question.
 
 With a budget of 750, Ibal can make this check with no bonus and afford an Uncommon Magic Item (600gp max). That's enough to afford a simple +1 weapon. Assuming someone in the party doesn't win the Makaria contest and Ibal doesn't obtain the Flame Tongue Longsword that's up for prize.
+
+Ibal is specifically looking for a Weapon of Warning: https://www.dndbeyond.com/magic-items/weapon-of-warning
 
 BACKUP PLAN: Research on psychology and humanoid behavior. No real mechanical goal, but could blossom into a friendship with Baern Frostbeard at the Wizard's College.
 
@@ -84,5 +87,24 @@ Make a Religion or Persuasion check at the end of each workweek spent in religio
 
 Favor - Can be future assistance from the temple, such as general political or social support, or reduced cost for services. Or it could be intervention from Torm himself, in the form of an omen, vision, or minor miracle. Players can store a number of favors equal to 1 + their Cha. Liara can hold 2.
 
-## Theryn - ???
-TODO
+## Theryn - Carousing
+Play around at the archery range and befriend any local bards
+
+https://www.dndbeyond.com/sources/xgte/downtime-revisited#Carousing
+
+Lower Class - 10gp/week
+Middle Class - 50gp/week
+Upper Class - 250gp/week (probably out of Theryn's class range)
+
+Make a Persuasion check at the end of each workweek spend carousing
+1-5 - Made one enemy
+6-10 - Made no enemies or friends
+11-15 - Made one friend
+16-20 - Made two friends
+21+ - Made three friends
+
+Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
+
+Middle-class contacts include guild members, spellcasters, town officials, and other folk who frequent well-kept establishments.
+
+Upper-class contacts are nobles and their personal servants. Carousing with such folk covers formal banquets, state dinners, and the like.
