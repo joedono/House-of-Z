@@ -2,13 +2,7 @@
 -- BOOKMARK --
 The Makaria Estate is holding a party in just over a week that the players have an invitation to. This is meant to showcase that Makaria is back on the map, as her vineyard has recovered and she is producing wine again.
 
-Do one week of Downtime before the party.
-
-Bart, the groundskeeper will be out front tending to hedges when the party arrives. He'll greet them. If they stop to talk, he'll make a show of how happy he's been lately now that the vineyard is back in business and Baelor isn't pissed all the time (as much). Bart also adopted a new cat that he named Pine after his favorite tree.
-
-The party can choose how they'd like to be announced, and Bel'krell will announce them appropriately.
-
-Baelor will make some appearances during the party, puffing out his chest at his latest creations: Honey Hellfire, Pursue Sensation, and Cherry Succulent. At some point, he'll overhear a small group of young nobles bad-mouthing the taste of the new wine, calling it "gimmicky", which Baelor will take extreme offense at, possibly instigating a duel.
+Do one week of Downtime before the event.
 
 ## Ibal's Gift to the Party
 Fine clothes commissioned for everyone
@@ -22,6 +16,15 @@ Ardin - creamy, flowing tunic made from a weave that slips through the fingers. 
 Theryn - a cloak-like coat, patterned in diamonds, with each point stitched down with a crystal bead, the edges trimmed with silver embroidery. The entire thing? Bright red and blue - form the checkered pattern. And as loud as you might think that, the inside - sunshine yellow with golden threads criss-crossing.
 
 Ibal - Serviceable dark gray coat and trousers well tailored, matching his cloak and boots
+
+Unfortunately nothing for Liara as she doesn't have her own body...
+
+## Arrival
+Bart, the groundskeeper will be out front tending to hedges when the party arrives. He'll greet them. If they stop to talk, he'll make a show of how happy he's been lately now that the vineyard is back in business and Baelor isn't pissed all the time (as much). Bart also adopted a new cat that he named Pine after his favorite tree.
+
+The party can choose how they'd like to be announced, and Bel'krell will announce them appropriately.
+
+Baelor will make some appearances during the party, puffing out his chest at his latest creations: Honey Hellfire, Pursue Sensation, and Cherry Succulent. At some point, he'll overhear a small group of young nobles bad-mouthing the taste of the new wine, calling it "gimmicky", which Baelor will take extreme offense at, possibly instigating a duel.
 
 ## Attendees
 Other noble attendees the players might encounter.
@@ -38,7 +41,9 @@ Other noble attendees the players might encounter.
 Note: *Bel'krell is an accomplished archer*
 
 ## During the Party
-The majority of the event will be wine tasting and mingling. Makaria will make a grand entrance in a beautiful gown that appears to be burning. Once she notices the players, she'll make a show of calling them the saviors of her vineyard, and saying that the party wouldn't have happened if it weren't for them. She'll make a toast, then bid the party to enjoy the party. She'll mention the wine tasting and the archery contest, possibly pointing out to the interested party which of the nobles are accomplished archers.
+The majority of the event will be wine tasting and mingling.
+
+Makaria will make a grand entrance in a beautiful gown that appears to be burning. Once she notices the players, she'll make a show of calling them the saviors of her vineyard, and saying that the party wouldn't have happened if it weren't for them. She'll make a toast, then bid the party to enjoy the party. She'll mention the wine tasting and the archery contest, possibly pointing out to the interested party which of the nobles are accomplished archers.
 
 There will also be space for dancing, a buffet, and plenty of wine.
 

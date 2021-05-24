@@ -1,6 +1,14 @@
 # Downtime
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
 
+## Summary
+Ardin - Research into Seacracker Islands and the nature of Black Dragons
+Ibal - Purchasing a magical weapon and research into humanoid psychology
+Fran - Training to be a sailor
+Valmar - Research into Wild Magic and Religion
+Liara - Buying a pretty dress and Religious Service
+Theryn - ???
+
 ## Ardin - Research
 Wants to know more about Seacracker Islands and Black Dragons.
 
@@ -64,8 +72,17 @@ Wild Magic
 5. Valmar's Wild Magic definitely came from exposure to the raw force that was Anguisa's immortal soul. It then quickly reacted to her menace and continues to cast a Mind Cage spell to keep her contained
 6.
 
-## Theryn - ???
-TODO
+## Liara - Buying a Dress and Religious Service
+One set of fine clothes costs 15gp
 
-## Liara - ???
+https://www.dndbeyond.com/sources/xgte/downtime-revisited#ReligiousService
+
+Make a Religion or Persuasion check at the end of each workweek spent in religious service
+1-10 - No effect
+11-20 - Earn one favor
+21+ - Earn two favors
+
+Favor - Can be future assistance from the temple, such as general political or social support, or reduced cost for services. Or it could be intervention from Torm himself, in the form of an omen, vision, or minor miracle. Players can store a number of favors equal to 1 + their Cha. Liara can hold 2.
+
+## Theryn - ???
 TODO
