@@ -60,9 +60,9 @@ https://www.dndbeyond.com/sources/xgte/downtime-revisited#Research
 Wild Magic
 1. Sorcerers cursed with Wild Magic who attempt to suppress it almost always wind up dying, usually extremely violently
 2. Wild Magic manifests through exposure to powerful magical energy. The three main causes are fateful birth circumstances, magical accidents, or being in the presence of a powerful magical being with no protection
-3. There is no cure for Wild Magic. There is no recorded case of an individual afflicted with Wild Magic being rid of it without their death.
+3. There is no cure for Wild Magic. There is no recorded case of an individual afflicted with Wild Magic being rid of it.
 4. Wild Magic can be suppressed by an experienced sorcerer, but all that will do is delay the release. The subsequent release will be twice as powerful.
-5. 
+5. Valmar's Wild Magic definitely came from exposure to the raw force that was Anguisa's immortal soul. It then quickly reacted to her menace and continues to cast a Mind Cage spell to keep her contained
 6.
 
 ## Theryn - ???
