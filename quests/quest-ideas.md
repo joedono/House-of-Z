@@ -28,3 +28,6 @@ The clerics have begun wearing strange arm-bands to signify their order. A Relig
 Optional: There's a noble scholar who has also been trying to gain entrance into the church, but with the offer to repair and translate some of the ancient texts in the church's library that deal with its founding, as well as the mysterious new god the clerics are worshiping (Zehir/Viserion). He will succeed the day before the party attempts to gain entrance into the church.
 
 The inside is full of sacrilegious images and stinks of decay and death. A group of clerics stand guard outside the church and don't take kindly to visitors of any sort. They're armed with knives and dark magic.
+
+## Wild Magic Brother
+Have the party encounter a sorcerer who attempted to suppress their Wild Magic only to have it go completely crazy.

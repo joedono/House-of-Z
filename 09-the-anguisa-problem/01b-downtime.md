@@ -58,11 +58,11 @@ Wants to investigate religious life, perhaps with the intention of becoming a cl
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#Research
 
 Wild Magic
-1.
-2.
-3.
-4.
-5.
+1. Sorcerers cursed with Wild Magic who attempt to suppress it almost always wind up dying, usually extremely violently
+2. Wild Magic manifests through exposure to powerful magical energy. The three main causes are fateful birth circumstances, magical accidents, or being in the presence of a powerful magical being with no protection
+3. There is no cure for Wild Magic. There is no recorded case of an individual afflicted with Wild Magic being rid of it without their death.
+4. Wild Magic can be suppressed by an experienced sorcerer, but all that will do is delay the release. The subsequent release will be twice as powerful.
+5. 
 6.
 
 ## Theryn - ???

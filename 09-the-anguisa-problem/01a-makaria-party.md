@@ -78,6 +78,11 @@ Flame Tongue Longsword
 https://www.dndbeyond.com/magic-items/flame-tongue
 The weapon can be set ablaze by a magical command word. It sheds bright light for 40ft and dim light for another 40. While ablaze, the sword deals an extra 2d6 damage. The flame lasts until the command word is spoken again.
 
+Astral Shard
+https://www.dndbeyond.com/magic-items/astral-shard
+Makaria will think it's just a large diamond
+When you use a Metamagic option on a spell while you are holding or wearing the shard, immediately after casting the spell you can teleport to an unoccupied space you can see within 30 feet of you.
+
 **Consolation Price** Given to all participants
 One bottle each of the new Makaria wines. 3 bottles total.
 300gp
