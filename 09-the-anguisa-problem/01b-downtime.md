@@ -117,7 +117,7 @@ Make a Religion or Persuasion check at the end of each workweek spent in religio
 11-20 - Earn one favor
 21+ - Earn two favors
 
-Week 1 - Earned two favors - TODO
+Week 1 - Earned two favors - Made good friends with Samuel Destran, head priest at the House of the Shield
 Week 2
 Week 3
 Week 4
@@ -140,10 +140,13 @@ Make a Persuasion check at the end of each workweek spend carousing
 16-20 - Made two friends
 21+ - Made three friends
 
-Week 1 - Made one friend - TODO
+Week 1 - Made one friend in the Lower Class
 Week 2
 Week 3
 Week 4
+
+Bor Starag - First Friend
+A human male. Has many piercings. Is perceptive and insightful, but scrawny. Speaks several languages fluently and sings beautifully. Likes to speak in rhyme and has a fondness for bad puns. Is often curious and likes to hear others' stories. Likes change and hoards knowledge, but prefers to gain that knowledge from people rather than books. Is secretly seeking vengeance for being ousted from his position by his former friend. Was introducing the people stepping up at the archery range when Theryn met him. Bor made some rhyming joke about Theyrn that the latter found really amusing, and a little insulting.
 
 Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
 

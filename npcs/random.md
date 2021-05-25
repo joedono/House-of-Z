@@ -2,6 +2,8 @@
 
 ## Humans
 - Poddrick Mosrii
+- Jarrek Bestalt
+- Nathan Sarnol
 
 - Karli Bennah
 - Shani Logran

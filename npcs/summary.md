@@ -65,7 +65,7 @@ Half-Elf Cleric. The other master of the House of Sunlight.
 ## House of the Shield
 
 ### Samuel Destran
-Head priest of the House of the Shield, temple to Torm.
+Head priest of the House of the Shield, temple to Torm. An ex-gladiator who found purpose protecting the weak after he won his freedom. A generous and kind person, but seems to have a permanent scowl and frightening appearance.
 
 ---
 
