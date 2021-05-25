@@ -1,4 +1,5 @@
 # Downtime
+-- BOOKMARK --
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
 
 ## Summary
@@ -36,6 +37,11 @@ The Nature of Black Dragons
 5. There are several records of attempts by humans to raise a dragon. Nearly all of them end in disaster. There is one record of a dragon being raised successfully by a humanoid. An elven witch named Naviina. The dragon reached adulthood having never harmed any humanoid creature. Looks like raising a dragon is possible, although Naviina had to devote her entire life to the process.
 6. It is possible to hatch a black dragon egg by submerging it in boiling acid for three days
 
+Week 1 - Learned 1 and 2 about Black Dragons
+Week 2
+Week 3
+Week 4
+
 ## Ibal - Buy a Magic Item or Research
 Buy Fine clothes - 15gp. For the entire party - 75gp
 
@@ -56,6 +62,11 @@ Ibal is specifically looking for a Weapon of Warning: https://www.dndbeyond.com/
 
 BACKUP PLAN: Research on psychology and humanoid behavior. No real mechanical goal, but could blossom into a friendship with Baern Frostbeard at the Wizard's College.
 
+Week 1 - Found and bought the Rapier of Warning
+Week 2
+Week 3
+Week 4
+
 ## Fran - Training
 Wants to gain proficiency in Vehicles (Sailing).
 
@@ -66,6 +77,11 @@ The time is reduced by a number of weeks equal to the character's Int modifier.
 No checks necessary.
 
 Fran's modifier is 0, but with his background as a fisher, I'll cut the time in half. He can take the 4 weeks of downtime to train with Krusk (or whoever), then finish his training during the week-long journey to the Heavenly Cay.
+
+Week 1 - Trained
+Week 2
+Week 3
+Week 4
 
 ## Valmar - Research
 Wants to learn to better control his Wild Magic
@@ -85,7 +101,11 @@ Wild Magic
 3. There is no cure for Wild Magic. There is no recorded case of an individual afflicted with Wild Magic being rid of it.
 4. Wild Magic can be suppressed by an experienced sorcerer, but all that will do is delay the release. The subsequent release will be twice as powerful.
 5. Valmar's Wild Magic definitely came from exposure to the raw force that was Anguisa's immortal soul. It then quickly reacted to her menace and continues to cast a Mind Cage spell to keep her contained
-6.
+
+Week 1 - Learned 1 and 2
+Week 2
+Week 3
+Week 4
 
 ## Liara - Buying a Dress and Religious Service
 One set of fine clothes costs 15gp
@@ -96,6 +116,11 @@ Make a Religion or Persuasion check at the end of each workweek spent in religio
 1-10 - No effect
 11-20 - Earn one favor
 21+ - Earn two favors
+
+Week 1 - Earned two favors - TODO
+Week 2
+Week 3
+Week 4
 
 Favor - Can be future assistance from the temple, such as general political or social support, or reduced cost for services. Or it could be intervention from Torm himself, in the form of an omen, vision, or minor miracle. Players can store a number of favors equal to 1 + their Cha. Liara can hold 2.
 
@@ -114,6 +139,11 @@ Make a Persuasion check at the end of each workweek spend carousing
 11-15 - Made one friend
 16-20 - Made two friends
 21+ - Made three friends
+
+Week 1 - Made one friend - TODO
+Week 2
+Week 3
+Week 4
 
 Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
 

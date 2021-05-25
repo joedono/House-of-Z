@@ -72,3 +72,15 @@ Ibal set out in the morning to open a bank account and have signet rings made to
 Since the Earring of Containment will likely last much longer than that, the party has decided to take advantage of what is effectively a "vacation" and have a little fun in the city.
 
 ## 2021-05-24
+Previously, on Liara and Ibal go to White Castle
+
+The party had a very fruitful first week of downtime. Ibal bought everyone fancy new clothes for the Makaria Resurgence Party, which was good, considering they were given a heroes welcome as the Ivy Slayers when they arrived at the party. The group met some old friends, including:
+
+Bart, the groundskeeper and his new cat Pine
+Baelor, the winemaker, who was very eager to show off his three new vintages, and defended them fiercely against naysayers
+Bel'Krell, the head butler of house Makaria
+Dagnal Fireforge, a dwarven noblewoman who owns livestock and a tannery and took a liking to Fran
+Eldon and Faldren, two halfling brothers that the party met waaaaaaay back in session 1, who now make a living as art dealers
+Makaria herself, the lady of the house, who thoroughly enjoyed the evening, and appears to have taken a liking to Theryn
+
+The party performed admirably at the archery contest, with Ibal taking the grand prize of 6 bottles of wine, 500gp, the Stormbow, and an Astral Shard. Theryn managed to earn the consolation prize of 3 bottles of wine and 300gp, but was gifted the Stormbow by a very humble Ibal. The party danced the night away (most of them anyway). Fran drank Dagnal under the table and had to help her to her aids. Theryn honored Makaria with a dance. Finally, Ibal and Liara had a rather special evening and were the highlight of the dance, much to Liara's embarrassment. The party found their way back to Eloreth Manor for a night's rest. Valmar will eventually find that he has a party favor in the form of this new Astral Shard (which I've already added to his inventory on DNDBeyond).

@@ -1,5 +1,4 @@
 # Makaria Resurgence Party
--- BOOKMARK --
 The Makaria Estate is holding a party in just over a week that the players have an invitation to. This is meant to showcase that Makaria is back on the map, as her vineyard has recovered and she is producing wine again.
 
 Do one week of Downtime before the event.
@@ -36,7 +35,7 @@ Other noble attendees the players might encounter.
 * Alfred Barakas - Human male. Patricia's husband. Extremely likely to get drunk and raucous during the party.
 * Dagnal Fireforge - Dwarven female. Owns an accomplished livestock and leatherworking business. Is mostly here for the wine and food, but will not get drunk. *Dagnal is an accomplished archer*
 * Eldon and Faldren - Male Halfling brothers. Eldon was imprisoned with the party during the prologue. The two of them have conned their way into upper class society on forged art. One or two of their pieces adorn the hall in the Makaria estate. *Eldon will enter the archery contest, but attempt to win through trickery and sabotage*
-* Arjhan Daardendrian - Male Dragonborn. The absolutely highest of high-brow nobles. Comes from a long line of artificiers and researchers. Is only here because his wife made him come to "keep up relations". *Arjhan is an accomplished archer*
+* Arjhan Daardendrian - Male Dragonborn. The absolutely highest of high-brow nobles. Comes from a long line of artificers and researchers. Is only here because his wife made him come to "keep up relations". *Arjhan is an accomplished archer*
 
 Note: *Bel'krell is an accomplished archer*
 
@@ -52,15 +51,14 @@ There will also be space for dancing, a buffet, and plenty of wine.
 Longbow Range 150/600 - normal, normal, disadvantage
 Shortbow Range 80/320 - normal, disadvantage, disadvantage
 
-| Contestant | Bonus | 1-1  | 1-2 | 1-3 | 1-T | 2-1 | 2-2 | 2-3  | 2-T | 3-1  | 3-2  | 3-3  | 3-T | Total |
-| ---------- | ----- | ---- | --- | --- | --- | --- | --- | ---- | --- | ---- | ---- | ---- | --- | ----- |
-| Bel'krell  | +7    | 4    | 8   | 10  | 22  | 6   | 8   | 10   | 24  | Miss | 8    | 10   | 18  | 50    |
-| Arjhan     | +5    | 4    | 8   | 8   | 20  | 8   | 8   | 8    | 24  | Miss | Miss | Miss | 0   | 44    |
-| Peren      | +5    | 6    | 8   | 4   | 18  | 8   | 8   | Miss | 16  | Miss | 8    | Miss | 8   | 42    |
-| Dagnal     | +3    | Miss | 6   | 6   | 12  | 4   | 4   | 4    | 12  | 4    | Miss | Miss | 4   | 28    |
-| Eldon      | +0    | X    | X   | X   | X   | X   | X   | X    | X   | X    | X    | X    | X   | X     |
-| Theryn     | +8    | X    | X   | X   | X   | X   | X   | X    | X   | X    | X    | X    | X   | X     |
-| Ibal       | +8    | X    | X   | X   | X   | X   | X   | X    | X   | X    | X    | X    | X   | X     |
+| Contestant | Bonus | 1-1  | 1-2 | 1-3 | 1-T | 2-1  | 2-2 | 2-3  | 2-T | 3-1  | 3-2  | 3-3  | Total |
+| ---------- | ----- | ---- | --- | --- | --- | ---- | --- | ---- | --- | ---- | ---- | ---- | ----- |
+| Arjhan     | +5    | 4    | 8   | 8   | 20  | 8    | 8   | 8    | 44  | Miss | Miss | Miss | 44    |
+| Peren      | +5    | 6    | 8   | 4   | 18  | 8    | 8   | Miss | 34  | Miss | 10   | Miss | 44    |
+| Dagnal     | +3    | Miss | 6   | 6   | 12  | 4    | 4   | 4    | 24  | 4    | Miss | Miss | 28    |
+| Eldon      | +0    | Miss | 4   | 6   | 10  | Miss | 4   | 6    | 20  | 4    | Miss | Miss | 24    |
+| Theryn     | +8    | 6    | 6   | 6   | 18  | 8    | 4   | 6    | 36  | 6    | 8    | 8    | 58    |
+| Ibal       | +8    | 6    | 8   | 10  | 24  | 4    | 6   | 10   | 44  | 6    | 6    | 6    | 62    |
 
 Bullseye DC = 25 | 10 points
 Center Ring DC = 20 | 8 points
@@ -80,11 +78,6 @@ Weapon (any bow), rare (requires attunement)
 This magical bow grants a +1 bonus to attack and damage rolls you make with it. When you cast a ranger spell, it grants a +1 bonus to spell attack rolls, and your spell save DC increases by 1. When you fire an evocation Arcane Shot from this bow, you can deal lightning damage instead of any other damage type. If you do, you deal an additional 1d6 lightning damage.
 A stormbow has 4 charges. ETA: It regains one charge per hour spent in a thunderstorm, and regains all expended charges at dawn. When you hit with a ranged attack using it, you can expend 1 charge to deal an additional 1d8 lightning damage. When you cast a ranger spell, you can expend 2 charges per spell slot level to double the damage your spell inflicts.
 Lore: Stormbows are the signature weapons of the Storm Archers, an elite order of archers who bind lightning to their arrows for devastating effect. They play a deadly game of cat-and-also-cat with the necromantic Bone Archers, all across the Wildlands.
-
-(If Ibal joins the contest or shows interest)
-Flame Tongue Longsword
-https://www.dndbeyond.com/magic-items/flame-tongue
-The weapon can be set ablaze by a magical command word. It sheds bright light for 40ft and dim light for another 40. While ablaze, the sword deals an extra 2d6 damage. The flame lasts until the command word is spoken again.
 
 Astral Shard
 https://www.dndbeyond.com/magic-items/astral-shard
