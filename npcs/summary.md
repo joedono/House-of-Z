@@ -62,6 +62,13 @@ Half-Elf Cleric. The other master of the House of Sunlight.
 
 ---
 
+## House of the Shield
+
+### Samuel Destran
+Head priest of the House of the Shield, temple to Torm.
+
+---
+
 ## Nobles
 
 ### Isabella Elmwall
@@ -169,7 +176,7 @@ A survivor of the lift disaster three months ago, and Foreman Clast's brother (h
 ## The Heavenly Cay
 
 ### Professor Adran Galanodel
-Head of biological research at the Ivory Tower. Academic advisor to Professor Baern Frostbeard, the head of biological research at the Wizard's College in Loftran.
+Elf male. Head of biological research at the Ivory Tower. Academic advisor to Professor Baern Frostbeard, the head of biological research at the Wizard's College in Loftran.
 
 ### Father Folas Ralovyre (517) and Mother Chalia Ralovyre (456)
 Ibal’s parents think he is going through a phase and expect him to fall in line with the study of magic, as "he certainly has the intelligence and attention to detail for it," at some point in the future. Be that as it may as he’s barely an adult (by elven standards) and they've allowed him his indulgences and his studies into the Psyche and Behavior.

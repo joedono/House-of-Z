@@ -1,7 +1,6 @@
 # Random NPCs
 
 ## Humans
-- Samuel Destran
 - Poddrick Mosrii
 
 - Karli Bennah
