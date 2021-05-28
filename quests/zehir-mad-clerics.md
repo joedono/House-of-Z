@@ -18,3 +18,5 @@ In the basement of the church, the night creature who fled into it has been cruc
 The noble will be very excited by what he finds in the books. This sort of transformation or transportation ritual has been attempted here before, and as a side effect, many mysteries of alchemy in general were very close to being solved, but were never taken to completion in the right ways. How disappointed he feels.
 
 The judge is willing to lend his militia to take care of the mad monks while the party breaks through to deal with the night creature. It'll take him until tonight to get everything ready. Of course, that night will also be when the ritual is prepared and can start.
+
+When the ritual starts ,the mark engulfs the houses in hellfire, and funnels the souls of the occupants to the night creature in the church. At this point, the clerics storm out of the church, attacking anyone who was already staged to attack.
