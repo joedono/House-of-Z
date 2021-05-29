@@ -19,5 +19,22 @@ Of course, they could just sneak the Mitsks out of the city and leave them to th
 ## Sneaking
 Getting the Mitsks anywhere will take some stealth, as there are now nightly patrols for shadows and Yuan-Ti (among other threats). The party can try to get them out during the day, but the regular folk are just as paranoid as the night watches. Getting them through the city will be a skill challenge, disguising the Mitsks to hide their faces, sneaking around patrols, creating distractions, and not getting lost in the chaos.
 
-## Stowaways
+### Obstacles - Night
+* Patrolling Guards
+* Homeless layabouts looking to cash in on the rewards for turning in Yuan-Ti
+* Drunks
+* Thieves
+* Stray Animals
+* Evil Yuan-Ti refugees looking for allies
+
+### Obstacles - Day
+* Crowds
+* Patrolling Guards (less alert than at night)
+* Homeless layabouts
+* Thieves
+* Stray Animals
+
+## Escape
 If the Mitsks stow away on the ship, they'll stick with the party until they hear about the other Yuan-Ti that Krusk took to the Heavenly Cay that then journeyed south to the Gippli Village south of the Heavenly Cay (where the party will end up as part of the Book of Cylinders).
+
+If the Mitsks get a carriage and a horse from Brom, then they'll head south and almost certainly never be heard from again.
