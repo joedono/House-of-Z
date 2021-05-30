@@ -12,7 +12,7 @@ Zerdan will want to get as far away from the city as possible, but Cazra can't r
 
 Another option, if the party remembers (have them make an Int check if not), is that Horsemaster Brom still owes them a favor for rescuing at least some of his horses during the first nights of the Zehir Ritual. He'll be a little hesitant, but easily convinced to secret the Mitsks out of the city in a carriage.
 
-Another option could be that the party takes the Mitsks to the House of Sunlight to see if they can be cured. It worked for the Hansens. Sister Thia and Brother Kellen will be happy to do so. This will be the simple way out if the party thinks of it. No sneaking necessary if Kellen comes out to their house.
+Another option could be that the party takes the Mitsks to the House of Sunlight to see if they can be cured. It worked for the Hansens. Sister Thia and Brother Kellen will be happy to do so. The party will still have to bring the Mitsks to the House of Sunlight. Thia and Kellen have set up a reverse transmutation circle that they have perfected after numerous other Yuan-Ti partial transformations have made their way into the church.
 
 Of course, they could just sneak the Mitsks out of the city and leave them to their own devices, but Cazra's condition doesn't make that likely. Zerdan and Daniel won't take too kindly to that.
 
