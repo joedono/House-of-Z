@@ -145,11 +145,9 @@ Week 2
 Week 3
 Week 4
 
+* Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
+* Middle-class contacts include guild members, spellcasters, town officials, and other folk who frequent well-kept establishments.
+* Upper-class contacts are nobles and their personal servants. Carousing with such folk covers formal banquets, state dinners, and the like.
+
 Bor Starag - First Friend
 A human male. Has many scars and is dressed in ragged clothing. Is perceptive and insightful, but scrawny. Speaks several languages fluently and sings beautifully. Likes to speak in rhyme and has a fondness for bad puns. Is often curious and likes to hear others' stories. Likes change and hoards knowledge, but prefers to gain that knowledge from people rather than books. Is secretly seeking vengeance for being ousted from his position by his former friend. Was introducing the people stepping up at the archery range when Theryn met him. Bor made some rhyming joke about Theyrn that the latter found really amusing, and a little insulting.
-
-Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
-
-Middle-class contacts include guild members, spellcasters, town officials, and other folk who frequent well-kept establishments.
-
-Upper-class contacts are nobles and their personal servants. Carousing with such folk covers formal banquets, state dinners, and the like.
