@@ -1,4 +1,5 @@
 # Journey Through Seacracker
+-- BOOKMARK --
 As soon as the party sets out on this journey, make them Level 6
 
 In order to get to The Heavenly Cay, the party must obtain a boat and a crew, and chart a course through the Seacracker Islands, which are densely packed and fraught with dangers, both from the treacherous currents, shallow reefs, and numerous predators.
