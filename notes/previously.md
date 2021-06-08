@@ -84,3 +84,15 @@ Eldon and Faldren, two halfling brothers that the party met waaaaaaay back in se
 Makaria herself, the lady of the house, who thoroughly enjoyed the evening, and appears to have taken a liking to Theryn
 
 The party performed admirably at the archery contest, with Ibal taking the grand prize of 6 bottles of Baelor's new vintages, 500gp, the Stormbow, and an Astral Shard. Theryn managed to earn the consolation prize of 3 bottles of wine and 300gp, but was gifted the Stormbow by a very humble Ibal. The party danced the night away (most of them anyway). Fran drank Dagnal Fireforge under the table and had to help her to her aids. Theryn honored Makaria with a dance. Finally, Ibal and Liara had a rather special evening and were the highlight of the dance, much to Liara's embarrassment. The party found their way back to Eloreth Manor for a night's rest. Valmar will eventually find that he has a party favor in the form of this new Astral Shard (which I've already added to his inventory on DNDBeyond).
+
+
+## 2021-06-07
+Last time on It's a SNAAAAAAAAAKE!!
+
+The party had several very fruitful weeks of downtime. Much research was done and a couple new friends were made. Liara receives a vision about frogs and snakes.
+
+On the last week, Theryn and Ibal cornered someone who had been tailing Theryn. It turned out to be Daniel Mitsk, a Yuan-Ti afflicted person who wants nothing to do with Zehir and the ritual. All he and his brother, Zerdan, care about is getting their mentally-afflicted mother, Cazra, out of the city. Ibal and Theryn agreed to help. After visiting the Mitsk's house and talking it over, they settled on attempting to sneak Daniel and Zerdan to the House of Sunlight so they could be cured of their affliction.
+
+After a few mishaps in the sewers, the group encountered a leftover Yuan-Ti Abomination, still loyal to Zehir. The party quickly dispatched it. The rest of the journey went smoothly, and the ritual was a success. Daniel and Zerdan were restored to humans and had a joyful reunion with their mother. Cazra, in a moment of lucidity, asked after their sister, Kristen. She, unfortunately, had completely succumbed to the transformation ritual and had been killed by the guards after the party defeated Sisava.
+
+With another victory under their belts, the party made ready to set sail aboard the Sea Spear. Their destination, The Heavenly Cay, in the hopes of finding someone to help deal with the Anguisa problem.

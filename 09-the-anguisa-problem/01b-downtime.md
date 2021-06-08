@@ -1,5 +1,4 @@
 # Downtime
--- BOOKMARK --
 https://www.dndbeyond.com/sources/xgte/downtime-revisited#DowntimeActivities
 
 ## Summary
@@ -38,9 +37,9 @@ The Nature of Black Dragons
 6. It is possible to hatch a black dragon egg by submerging it in boiling acid for three days
 
 Week 1 - Learned 1 and 2 about Black Dragons
-Week 2
-Week 3
-Week 4
+Week 2 - Learned 1 and 2 about Seacracker
+Week 3 - Learned 3 and 4 about Seacracker
+Week 4 - Learned 3 about Black Dragons
 
 ## Ibal - Buy a Magic Item or Research
 Buy Fine clothes - 15gp. For the entire party - 75gp
@@ -63,9 +62,9 @@ Ibal is specifically looking for a Weapon of Warning: https://www.dndbeyond.com/
 BACKUP PLAN: Research on psychology and humanoid behavior. No real mechanical goal, but could blossom into a friendship with Baern Frostbeard at the Wizard's College.
 
 Week 1 - Found and bought the Rapier of Warning
-Week 2
-Week 3
-Week 4
+Week 2 - Attempt to transcribe the runes of the teleportation circle - failed
+Week 3 - Research into human condition. Making friends with Baern
+Week 4 - Attempt to transcribe the runes of the teleportation circle - success
 
 ## Fran - Training
 Wants to gain proficiency in Vehicles (Sailing).
@@ -79,9 +78,9 @@ No checks necessary.
 Fran's modifier is 0, but with his background as a fisher, I'll cut the time in half. He can take the 4 weeks of downtime to train with Krusk (or whoever), then finish his training during the week-long journey to the Heavenly Cay.
 
 Week 1 - Trained
-Week 2
-Week 3
-Week 4
+Week 2 - Trained
+Week 3 - Trained
+Week 4 - Trained
 
 ## Valmar - Research
 Wants to learn to better control his Wild Magic
@@ -103,9 +102,9 @@ Wild Magic
 5. Valmar's Wild Magic definitely came from exposure to the raw force that was Anguisa's immortal soul. It then quickly reacted to her menace and continues to cast a Mind Cage spell to keep her contained
 
 Week 1 - Learned 1 and 2
-Week 2
-Week 3
-Week 4
+Week 2 - Learned 3 and 4
+Week 3 - Religious Service
+Week 4 - Religious Service
 
 ## Liara - Buying a Dress and Religious Service
 One set of fine clothes costs 15gp
@@ -118,9 +117,9 @@ Make a Religion or Persuasion check at the end of each workweek spent in religio
 21+ - Earn two favors
 
 Week 1 - Earned two favors - Made good friends with Samuel Destran, head priest at the House of the Shield
-Week 2
-Week 3
-Week 4
+Week 2 - Earned one favor
+Week 3 - Earned one favor
+Week 4 - Earned one favor - Sees a vision of frogs being oppressed by snakes. Foreshadowing the Grippli and the Yuan-Ti the party will encounter later
 
 Favor - Can be future assistance from the temple, such as general political or social support, or reduced cost for services. Or it could be intervention from Torm himself, in the form of an omen, vision, or minor miracle. Players can store a number of favors equal to 1 + their Cha. Liara can hold 2.
 
@@ -141,9 +140,9 @@ Make a Persuasion check at the end of each workweek spend carousing
 21+ - Made three friends
 
 Week 1 - Made one friend in the Lower Class
-Week 2
-Week 3
-Week 4
+Week 2 - Made no enemies or friends
+Week 3 - Make no enemies or friends
+Week 4 - Attempting to track down the person following him - Daniel Mitsk
 
 * Lower-class contacts include criminals, laborers, mercenaries, the town guard, and any other folk who normally frequent the cheapest taverns in town.
 * Middle-class contacts include guild members, spellcasters, town officials, and other folk who frequent well-kept establishments.
