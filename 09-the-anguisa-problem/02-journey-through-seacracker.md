@@ -14,13 +14,13 @@ Krusk - The captain. Half-orc male. Very serious, but takes good care of his cre
 
 Brocc - First mate. Half-orc male. Reads Krusk very well and knows where his limits are. The perfect foil to Krusk's seriousness. Brings some much needed levity to the crew, but sometimes has to be reined in by Krusk when things get too rowdy.
 
-Harim - Second mate. medium human male. Usually at the helm unless Krusk takes the wheel. Quiet and stoic, rarely talks. Likes to whittle, but has a habit of taking pieces of the ship for his projects.
+Harim - Second mate and helmsman. medium human male. Usually at the helm unless Krusk takes the wheel. Quiet and stoic, rarely talks. Likes to whittle, but has a habit of taking pieces of the ship for his projects.
 
 Lily - Lookout and navigator. Small female human. Can "smell" storms. Keeps a sketchbook full of pictures of creatures of the sea, but no one's quite sure which are real and which are fantasies. Will show the book to anyone who shows the slightest interest.
 
 Candice - Cook. Large female human. Actually hates seafood, so she keeps a library of spices to make fish taste like other things. Gets a lot of complaints from the crew such as "just feed me a bleedin trout, woman!" The crew is always joking with comments like this, but Candice responds seriously, usually by threatening to clock them with her pots.
 
-Folmon - Bosun/Engineer. Medium male elf. Has a persistent layer of sawdust or soot all over him. Has a tendency to talk to the ship. Usually, it's endearing, but most of the time, it's creepy.
+Folmon - Bosun/Engineer. Medium male elf. Has a persistent layer of sawdust or soot all over him. Has a tendency to talk to the ship, nicknaming it Sally. Usually, it's endearing, but most of the time, it's creepy.
 
 Respen - Surgeon. Skinny male elf. Cleanest one on the crew. Likes to read. Doesn't brag about it, but he's the best shot with the ballista that Krusk has ever known.
 
@@ -41,16 +41,21 @@ Light rain, slight wind, but very manageable. Perhaps a portent of what's to com
 #### 6 Storm
 Heavy storm with harsh wind and large waves.
 
-Skill Challenge
+Skill Challenge. Things to do:
+* Secure doors and shutters with battens - Dexterity check
+* Secure luggage, ammo, and other things in the hold - Dexterity check
+* Raise the main sail and drop the storm sail - Athletics check
+* Water is starting to accumulate in the hold. It needs to be bailed - Athletics check
 
-TODO
+Complications:
+* A large wave knocks Harim off of the helm. Someone needs to take the helm or else the ship will run aground - Wisdom check
+* Lightning has struck the main mast, damaging the ropes holding the main sail in place. The sail unfurls and starts catching wind, making steering almost impossible and threatening to capsize the ship.
+* Several lines have come loose above deck, allowing debris and other hard things to roll around hazardously - Acrobatics check
 
 #### 7 Whirlpool
-A tiny eddy has evolved into a great maelstrom that threatens to suck the ship under
+A tiny eddy has evolved into a great maelstrom that threatens to suck the ship under.
 
-Skill Challenge
-
-TODO
+Skill Challenge. All the same hazards as Storm
 
 #### 8 Berserker Raiding Party
 The lookouts spot that the strait the ship is sailing down has been blocked by a rockslide. The captain gives orders to bring the ship around. As the ship is turning, great cranks on either side of the other end of the strait pull a great chain out of the water, blocking the other exit. Now boxed in, rowboats carrying Berserkers leave the shore and attempt to board the ship.
@@ -90,7 +95,11 @@ Stat Block https://i.redd.it/08h19wuql0o01.jpg
 
 A ghost ship emerges from the depths and rams into the Sea Spear, allowing dozens of undead creatures to swarm her decks. Krusk is a seasoned captain, but he's never seen this before. He calls for battle stations and a fight ensues.
 
-TODO
+https://www.dndbeyond.com/monsters/skeleton
+https://www.dndbeyond.com/monsters/bone-naga
+https://www.dndbeyond.com/monsters/deathlock
+
+The ghost ship is captained by a Deathlock and his two pet Bone Nagas. They and their crew of skeletons harass ships passing through the islands.
 
 ## Bluerim Village
 Make sure a hard-ish battle happens near the midway point. The captain will want to stop at Bluerim Village, a halfway waystation village located on a large-ish island almost exactly in the middle of the Seacracker archipelago. The price to dock here is a barrel full of food or other supplies, which the captain will be prepared to pay. After that, the party has free run of the village for the night. There's a general store, a blacksmith, several farms, fishers, and the Black Rose inn. Settle in for **Beneath the Black Rose** horror module.
