@@ -25,6 +25,25 @@ Folmon - Bosun/Engineer. Medium male elf. Has a persistent layer of sawdust or s
 Respen - Surgeon. Skinny male elf. Cleanest one on the crew. Likes to read. Doesn't brag about it, but he's the best shot with the ballista that Krusk has ever known.
 
 ## The Journey
+Before leaving, Captain Krusk will ask the party how they expect to be useful on the ship during times of peace and during times of war.
+
+During times of peace, players can:
+* Clean the ship
+* If proficient in Perception, serve as lookout
+* If proficient in Performance, provide entertainment to the crew through music or storytelling
+* If proficient in Athletics or Acrobatics, provide entertainment to the crew through physical feats
+* If proficient in History or Religion, provide entertainment to the crew through storytelling
+* If proficient in Investigation, inspect the ship for damages
+* If you have a +4 bonus in Medicine or higher, help with cooking
+* If proficient in Medicine, help the surgeon
+* Virtually any other task the players can come up with
+
+During times of war, Krusk will ask:
+* Which of the party is suited for close-range anti-infantry combat, suitable to repel boarders (Fran, Ibal)
+* Which of the party is suited for long-range anti-infantry combat, such as archery, suitable for attacking crew on other ships (Theryn, Ardin)
+* Which of the party is suited for anti-ship combat, such as large scale spellcasting, suitable for attacking enemy ships (Valmar)
+* Which of the party is suitable for healing and support (Liara)
+
 https://www.dndbeyond.com/sources/dmg/adventure-environments#TheSea
 
 Hazards along the route include whirlpools, pirates, sahuagin, killer whales, griffins, and harpies, but fortunately no LARGE swimming creatures such as krakens or dragon turtles. Many large flying creatures make nests on the islands.
