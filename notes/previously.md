@@ -1,7 +1,18 @@
 # Previously
 
+## 2021-06-14
+Previously, on Flotsam and Jetsam
+
+The party set off aboard the Sea Spear. They were introduced to the crew, a friendly sort, except for Candice the cook. They set about their tasks for the journey to The Heavenly Cay. The journey would take about 10 days.
+
+After a day or two of easy sailing and fair weather, the party ran into a flock of Harpies, which were easily dispatched or chased off. The next day, the ship encountered a whirlpool, and Captain Krusk decided to make a final test out of it. He had Fran take the wheel as his final exam to becoming a "real" sailor. Fran passed with flying colors, navigating around the whirlpool without damaging the ship. That night, the crew held a party in celebration. A party that was crashed by Frammel, The Stubborn, an adult bronze dragon who lives in the area. Frammel took on a human form, provided some entertainment, and then sat to converse with the party. The party learned that Frammel's father helped create and perform the ritual that sealed Anguisa, The Anguisher, an a mystic urn. Liara confirmed with Valmar that he did indeed find an urn and somehow released the dark thing that lived inside. Frammel stuttered through shocked disbelief, claiming that his father would never make something that could break so easily. Frammel left in a huff, exchanged pleasantries with the captain, and left the next day with a barrel full of shiny trinkets and a new story to tell.
+
+At around sunset on the 5th day of the journey, the ship made port at Bluerim Village, a waystation located on an island almost precisely in the middle of the archipelago. The village has a thriving tourist trade, but it's best feature is the Black Rose Inn, owned by an ex-gladiator half-orc named Cecil. The party purchases food, drink, and rooms for the night. They meet a small religious family, the Brisly's. Naomi, Victor, and their daughter Nell, who are also staying the night.
+
+A storm rolls over the village as the party goes to bed for the night. It promises to be a long one indeed.....
+
 ## 2021-06-07
-Last time on It's a SNAAAAAAAAAKE!!
+Previously, on It's a SNAAAAAAAAAKE!!
 
 The party had several very fruitful weeks of downtime. Much research was done and a couple new friends were made. Liara receives a vision about frogs and snakes.
 
