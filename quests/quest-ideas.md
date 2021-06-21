@@ -18,3 +18,6 @@ Curiosity will take hold in Helen's mind and be enhanced by the enticing energie
 
 ## Wild Magic Brother
 Have the party encounter a sorcerer who attempted to suppress their Wild Magic only to have it go completely crazy.
+
+## Eliza Long's Daughter
+Eliza Long, one of the villains of Beneath the Black Rose, mentioned her missing daughter multiple times. Eliza was murdered 50 years ago. The module doesn't mention her daughter at all, so it's up to me to come up with something about this.
