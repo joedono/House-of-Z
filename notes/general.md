@@ -3,6 +3,7 @@ Campaign Link: https://www.dndbeyond.com/campaigns/1257727
 Town Generator: https://www.masterthedungeon.com/dd-town-generator/
 Dungeon Scrawl: https://probabletrain.itch.io/dungeon-scrawl
 Token Stamp: http://rolladvantage.com/tokenstamp/
+Deities: https://www.dndbeyond.com/sources/phb/appendix-b-gods-of-the-multiverse#DeitiesoftheForgottenRealms
 
 Central Theme Arc 1: Coming together in a time of universal crisis
 Central Theme Arc 2: The true enemy is within
@@ -52,5 +53,6 @@ Learning about Anguisa's Soul
 Obtaining a ship
 **Level Up! - Level 6**
 Journey through Seacracker Islands
+Beneath the Black Rose
 The Heavenly Cay
-The Grippli Village
+The Grippli Village - Book of Cylinders
