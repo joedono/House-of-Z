@@ -1,5 +1,18 @@
 # Previously
 
+## 2021-06-21
+Previously, on Why Is It Always Cults?
+
+The party was woken up in the middle of the night at the Black Rose Inn by Nell's voice calling out for help in the hallway. When the party opened their door to investigate, Nell appeared possessed. She hissed at the party and fled down to the tavern's main area. The party followed and found Nell cowering under a table and Cecil robotically cleaning a glass. Attempting to talk to Cecil did no good as he grabbed his weapons from behind the bar and attacked the party. He did significant damage to Ardin before Liara realized he was possessed now instead. Liara forced the apparition out of Cecil's body, after which it attempted to intimidate the party and fled into the basement.
+
+A now lucid Cecil explained that the previous owner of the inn told him of the legend of Eliza Long, a woman who was captured by a cult and sacrificed beneath the inn. Her ghost now roams the halls at night, searching for her daughter and seeking vengeance against her killers. Cecil volunteered to guard Nell while the party investigated the basement.
+
+Beneath the inn, the party discovered several spooky rooms. A previously locked door in the main storage room led to an abandoned cistern, and then to the meeting place of the Secret Order of the Eternal Scions. Liara checked through some of their parchment, and found that everything written about immortality and vampirism was complete hogwash. Nothing here would accomplish anything, save to motivate greedy individuals to make a sacrifice of an innocent girl. The party investigated further and found the unconscious bodies of Victor and Naomi Brisly, Nell's parents. The party quickly gave the Brisly's medical attention. Once conscious, the Brisly's admitted that they are vampire hunters who came downstairs after detecting an undead presence. Eliza caught them by surprise and incapacitated them. Naomi and Victor believe that Eliza just needs a proper farewell to be put to rest.
+
+Meanwhile, Theryn discovered a chasm with several skeletons suspended over it in cages. One of them was wearing a shiny bracer. After a failed attempt to lasso the bracer, Theryn resolved to come back after the more important crisis was dealt with.
+
+The party and the Brisly's entered the last room in the basement, and found the long-dead corpse of Eliza Long, along with 5 expensive-looking coffins and Eliza herself. Eliza was staring mournfully down at her skeleton when 5 zombified corpses crawled out of the ground and attacked the party.
+
 ## 2021-06-14
 Previously, on Flotsam and Jetsam
 
