@@ -18,7 +18,24 @@ The whole neighborhood is going to be very similar to Hogwarts and the various m
 ## Gilded Circle
 The artificer's and manufacturing district. Most of the work here is automated, but they still need builders of a sort, so this district mostly resembles a "normal" city with a variety of races wandering around. It has the majority of the residential buildings. The population here is the least magically talented in the city.
 
-Ibal's family lives here, being mostly made up of artificers. They effectively own a clockwork mansion, with conveyer belts and elevators ready to take you anywhere in the dwelling or deliver anything to you.
+Ibal's family lives here, being mostly made up of artificers. They effectively own a clockwork mansion, with conveyor belts and elevators ready to take you anywhere in the dwelling or deliver anything to you.
+
+Being an artificer's district, there is a sizable population of Warforged walking around, mostly running errands for their masters. They're not slaves, per se, but they have been created with no other purpose than to serve. The law states that, if a warforged so desires, they can negotiate release from their servitude after 10 years of faithful and exemplary service. Normally, the warforged is required to work and donate at least half its earnings to its former owners until they have saved enough to purchase a replacement servant. It is very rare for this duty to be shirked, but it does happen.
+
+### Springs, Sprockets, and Servants
+The name of Rhys Ralovyre's artificer building. A house of research and invention, specializing in clockwork servants. There might be a quest here to search for an errant warforged butler.
+
+### Deathbringers
+The headquarters of the guild of undead-hunters is located in the Gilded Circle district. If the party seeks membership, they'll find the tiefling named Hope here. There'll be at least a couple missions involved in "tryouts" in order to become Deathbringers.
 
 ## Wingtop District
-Effectively a pleasure district. There is a secondary port in this district.
+The main permanent residential district. The noble houses all live here. This is also where The Heavenly Cay's red light district lies.
+
+Among the noble houses are the names from Curse of the Black Rose:
+* Iverson
+* Moldavia
+* Bartov
+* Argovian
+* Tulisse
+
+Each one has a record somewhere of a member of the family disappearing over 50 years ago, which they did when they murdered Eliza Long in an attempt to become immortal.
