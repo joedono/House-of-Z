@@ -1,5 +1,4 @@
 # Journey Through Seacracker
--- BOOKMARK --
 The party has chartered passage to the Heavenly Cay aboard the Sea Spear, captained by a half-orc named Krusk. The journey will take about a week. The party will be expected to contribute to the maintenance and protection of the ship.
 
 ## Sea Spear
@@ -121,4 +120,5 @@ https://www.dndbeyond.com/monsters/deathlock
 The ghost ship is captained by a Deathlock and his two pet Bone Nagas. They and their crew of skeletons harass ships passing through the islands.
 
 ## Bluerim Village
+-- BOOKMARK --
 Make sure a hard-ish battle happens near the midway point. The captain will want to stop at Bluerim Village, a halfway waystation village located on a large-ish island almost exactly in the middle of the Seacracker archipelago. The price to dock here is a barrel full of food or other supplies, which the captain will be prepared to pay. After that, the party has free run of the village for the night. There's a general store, a blacksmith, several farms, fishers, and the Black Rose inn. Settle in for **Beneath the Black Rose** horror module.
