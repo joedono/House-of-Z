@@ -13,4 +13,4 @@ Scion 3 - 9 | 78 -
 Scion 4 - 8 | 78 -
 Scion 5 - 3 | 78 -
 
-Conflict Score - 3
+Eliza's Conflict Score - 3

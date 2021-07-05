@@ -56,3 +56,7 @@ Journey through Seacracker Islands
 Beneath the Black Rose
 The Heavenly Cay
 The Grippli Village - Book of Cylinders
+Extracting Anguisa's Soul
+Encountering Viserion
+Excavating the Giant Finger Bones
+**Level Up! - Level 7**
