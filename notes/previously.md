@@ -1,5 +1,14 @@
 # Previously
 
+## 2021-07-05
+Previously, on Undead Idiots
+
+Due to having the foresight of bringing a cleric into a crypt, the party made relatively short work of the Eternal Scions and successfully laid the soul of Eliza Long to rest. She imparted her blessing on the party before departing for the afterlife.
+
+The party then proceeded to clean up the other loose ends they had found beneath the Black Rose. They destroyed the hanging skeletons without suffering any damage and scored the Bracers of Defense, which were given to Valmar/Liara. They found a set of disappointing treasure chests, containing only a handful of silver and copper. That is, until Fran and Theryn discovered a secret passage that led to the real wealth of the Scions. All told, the party found 2000gp in the chests in that room. The party then decided to make sure everything was set down here and opened the coffins that were in the last room. They found them empty, but Ibal recognized the names inscribed on the coffins: Irvenson, Moldavia, Bartov, Argovian, and Tulisse. They belong to noble families of The Heavenly Cay. He also recalled at least one of them had a member disappear around 50 years ago, around the time Eliza also went missing, according to Cecil.
+
+With the cult destroyed and the crypt cleaned up, the party climbed the stairs to rejoin Naomi, Victor, Cecil, and Nell in the main tavern room of the Black Rose Inn.
+
 ## 2021-06-21
 Previously, on Why Is It Always Cults?
 

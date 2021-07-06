@@ -26,3 +26,4 @@
 | Earring of Containment           | Valmar/Liara | Baern                    | X    | 1    |
 | Stormbow                         | Theryn       | Makaria Resurgence Party | X    | N/A  |
 | Astral Shard                     | Valmar/Liara | Makaria Resurgence Party | X    | N/A  |
+| Bracers of Defense               | Valmar/Liara | Beneath the Black Rose   | X    | N/A  |

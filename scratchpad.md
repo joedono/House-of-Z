@@ -1,16 +1,10 @@
-Ibal -
-Fran -
-Ardin -
-Theryn -
-Liara -
-
-Scion 1 - 20 | 78 -
+Liara - 20
+Fran - 17
 Victor - 17 | 8 -
-Naomi - 17 | 0 -
-Scion 2 - 14 | 78 -
+Naomi - 17 | 1 -
+Ardin - 14
 Eliza - 14 | 45 -
-Scion 3 - 9 | 78 -
-Scion 4 - 8 | 78 -
-Scion 5 - 3 | 78 -
+Ibal - 9
+Theryn - 4
 
-Eliza's Conflict Score - 3
+Eliza's Conflict Score - I I
