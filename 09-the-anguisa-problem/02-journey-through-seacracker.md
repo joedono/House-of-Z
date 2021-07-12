@@ -101,7 +101,7 @@ This dragon's name is Frammel, The Stubborn. Her father knew and fought Anguisa 
 #### 11 Floating Debris
 The lookouts will notify the captain that there is debris in the water, likely from a previous shipwreck. The captain will call to drop anchor and send divers to investigate the wreckage to see if there's anything worth salvaging.
 
-The party can join if they wish, and they can keep anything they find that's not directly beneficial to ship maintenance or crew sustainment. I.e., gold goes to the crew, magic items go to the party.
+The party can join if they wish, and they can keep anything they find that's not directly beneficial to ship maintenance or crew sustainment. I.e., gold goes to the crew, magic items go to the party. Along the way, the party will notice a giant bones under the water. These will be the inert rib bones of Draffnir, and they might be too large for the players to understand what they are, like how a giant footprint will just seem like a lake.
 
 https://www.dndbeyond.com/sources/dmg/treasure#RandomMagicItems
 
