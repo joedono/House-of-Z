@@ -50,6 +50,16 @@ Hazards along the route include whirlpools, pirates, sahuagin, killer whales, gr
 ### Encounters
 Roll 1d12 per day at sea. The journey will take 10 days.
 
+* 1-3 - Clear Skies
+* 4-5 - Light Drizzle
+* 6 - Storm
+* 7 - Whirlpool DONE
+* 8 - Berserker Raiding Party
+* 9 - Harpy Attack - DONE
+* 10 - Adult Bronze Dragon - DONE
+* 11 - Floating Debris
+* 12 - Ghost Ship
+
 #### 1-3 Clear Skies and Peaceful Waters
 Nothing happens. Smooth sailing
 
@@ -70,7 +80,7 @@ Complications:
 * Lightning has struck the main mast, damaging the ropes holding the main sail in place. The sail unfurls and starts catching wind, making steering almost impossible and threatening to capsize the ship.
 * Several lines have come loose above deck, allowing debris and other hard things to roll around hazardously - Acrobatics check
 
-#### 7 Whirlpool - DONE
+#### 7 Whirlpool
 A tiny eddy has evolved into a great maelstrom that threatens to suck the ship under.
 
 Skill Challenge. All the same hazards as Storm
@@ -82,12 +92,12 @@ https://www.dndbeyond.com/monsters/berserker
 
 The party can attempt to fight off all the berserkers, but the primary objective should be to destroy the chain blocking the ship in.
 
-#### 9 Harpy Attack - DONE
+#### 9 Harpy Attack
 One of the islands the ship passes turns out to be the current nesting ground for a flock of harpies. The smell of fresh meat brings the harpies out of hiding and they harass the ship.
 
 https://www.dndbeyond.com/monsters/harpy
 
-#### 10 Friendly and Curious Adult Bronze Dragon - DONE
+#### 10 Friendly and Curious Adult Bronze Dragon
 The lookouts will notify the captain that the kelp and seaweed around the ship has turned blue, yellow, and purple. Krusk knows that this means they have entered the region where a Bronze Dragon has made its nest. He advises the party to be cautious, but friendly.
 
 Bronze Dragons adore stories and treasure, but never steal from the living or kill for loot. Bronze dragons love to watch ships traveling up and down the coastlines near their lairs, sometimes taking the forms of dolphins or seagulls to inspect those ships and their crews more closely. A daring bronze dragon might slip aboard a ship in the guise of a bird or rat, inspecting the hold for treasure. If the dragon finds a worthy addition to its hoard, it barters with the ship’s captain for the item.
