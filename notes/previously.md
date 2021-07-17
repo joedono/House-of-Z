@@ -1,6 +1,8 @@
 # Previously
 
 ## 2021-07-12
+Previously, on Battles Aquatic
+
 The party climbed out of the cistern and cult hideout underneath the Black Rose Inn, and had a lovely midnight snack with Cecil and the Brisly's. Everyone eventually retired to their rooms for the remainder of the night, except for Ibal, who finished up his trance and then came dowm to wash the dishes before Cecil woke up. Ibal noticed a small graveyard on the outskirts of town that now has a beautiful bush of black roses, bringing a close to the tale of Eliza Long.
 
 At breakfast the next morning, Victor Brisly gifted the party with 5 flasks of Holy Water, sure that they'll come in handy during future adventures. He also gave them a letter of recommendation for the Deathbringers, a guild of undead-hunters based in The Heavenly Cay. Victor and Naomi are both members. They told the party to seek out a Tiefling named Hope, should they wish the services of the Deathbringers or to inquire about membership. Nell noticed the shade of Anguisa behind Valmar, which prompted Victor to admit that Nell might be able to sense undeath around her. With those thoughts chasing them, the party set off aboard the Sea Spear again.
