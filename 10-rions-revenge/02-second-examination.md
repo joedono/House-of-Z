@@ -1,6 +1,9 @@
 # Second Examination
+Purple Lotus - Restaurant where the party is talking with Adran. High-end "new age" restaurant with a LARGE selection of teas and almost no meat on the menu
+
 Adran will examine Liara/Valmar/Anguisa. He'll have similar findings to Baern from the Wizard's College, but he'll be more fully confident in his "extract & contain" procedure. His "treated blood extraction process" can be adapted to home in on the soul and draw it out, since it works on all "essences" within a body. Unfortunately, the process requires specially treated giant crab blood in order to mark the desired essence for extraction. Adran will mention that the same procedure was used in a bygone era to extract the Blood of the Giants from those descended from the giants who created the world. The party might remember that "Blood of the Giants" is on that list they found in Loftran.
 
+-- BOOKMARK --
 The Ivory Tower's supply of giant crab blood has run out, and they've stopped receiving their usual shipments from the Grippli village to the south, along with Adran's favorite crab meat dish. If the party can travel south and find out why the Grippli have stopped sending crab blood and meat to The Heavenly Cay, he'll be happy to help them. He'll have heard of a band of Yuan-Ti that sailed that way some weeks ago, around the time that the supplies stopped.
 
 And thus starts the **Book of Cylinders**

@@ -15,6 +15,9 @@ The premiere magical academy in this world. The Wizard's College in Loftran is s
 
 The whole neighborhood is going to be very similar to Hogwarts and the various magical areas presented in the books. Ibal's sister, Allannia, and Professor Adran Galanodel work here.
 
+### Purple Lotus
+High end "new age" restaurant that serves many different types of tea and almost no meat.
+
 ## Gilded Circle
 The artificer's and manufacturing district. Most of the work here is automated, but they still need builders of a sort, so this district mostly resembles a "normal" city with a variety of races wandering around. It has the majority of the residential buildings. The population here is the least magically talented in the city.
 

@@ -1,5 +1,16 @@
 # Previously
 
+## 2021-07-26
+Previously, on Really Large Animals
+
+The party acquired a few new magical items while rummaging through the driftwood during their last day in Seacracker Isles. They managed to escape being eaten by a school of killer whales, but just barely. The next morning, the Sea Spear finally arrived at The Heavenly Cay.
+
+It is the middle of Stoneheart, the summer solstice festival, in the Cay. The festival is characterized by lavish parades, food stalls, and the exchange of newly created gifts. The Cay also has a small population of Warforged and Modrons, effectively clockwork people and small creatures. Being a city made up of mostly magicians and artificers, this is pretty natural. Krusk tells the party to enjoy the festivities, since the Sea Spear won't depart for Loftran again for another month.
+
+The party follows the sounds of music and crowds and manages to find a good spot for viewing the parade. After marveling at a few of the floats, Ibal recognizes one float being captained by Professor Adran Galanodel, the man the party is looking for. Unfortunately, almost immediately after seeing him and his skeleton-puppet float, the pyrotechnic float behind it explodes and causes the oxen pulling Adran's float to panic and rampage. After some skillful maneuvering, the party manages to calm the oxen and avoid a great deal of collateral damage, no thanks to Adran's assistant, the halfling Rion Blackspice.
+
+Fran elects to help Rion take the oxen back to the stable they were rented from, while the rest of the party follows Adran to the Purple Lotus restaurant to discuss what to do about Liara/Valmar's condition. Adran muses about how his "blood essence extraction process" could be adapted to extract "soul essence" instead, but laments that he is out of treated giant crab blood, and needs it as a detecting agent. Without it, his instruments are not able to isolate the target essence for extraction. Not only is Adran out of the blood, but none has come into the city in a while. Something must have happened to the supply chain.
+
 ## 2021-07-12
 Previously, on Battles Aquatic
 

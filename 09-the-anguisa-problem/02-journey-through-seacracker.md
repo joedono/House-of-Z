@@ -109,7 +109,6 @@ Krusk has captained the Sea Spear through the islands for nearly a decade, and i
 This dragon's name is Frammel, The Stubborn. Her father knew and fought Anguisa the Anguisher, and was part of the party who helped seal her. Her father fell to Viserion soon after though. She won't recognize anything special about Valmar/Liara right away, and won't believe that the vessel was broken, because her "father wouldn't make anything so easily broken." She'll also confirm, through her own abilities, that dragons can shapeshift into other creatures very easily.
 
 #### 11 Floating Debris
--- BOOKMARK --
 The lookouts will notify the captain that there is debris in the water, likely from a previous shipwreck. The captain will call to drop anchor and send divers to investigate the wreckage to see if there's anything worth salvaging.
 
 The party can join if they wish, and they can keep anything they find that's not directly beneficial to ship maintenance or crew sustainment. I.e., gold goes to the crew, magic items go to the party. Along the way, the party will notice a giant bones under the water. These will be the inert rib bones of Draffnir, and they might be too large for the players to understand what they are, like how a giant footprint will just seem like a lake.
