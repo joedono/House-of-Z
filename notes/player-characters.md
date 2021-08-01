@@ -1,5 +1,14 @@
 # Player Characters
 
+## Passive Perceptions
+Ibal - 18
+Theryn - 15
+Fran - 15
+Ardin - 13
+Liara - 12
+Pumpkin - 12
+Valmar - 11
+
 ## Andrey
 Ibal Ralovyre - Male Elf Rogue
 

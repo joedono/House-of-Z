@@ -1,9 +1,9 @@
 # Book of Cylinders
 https://www.dndbeyond.com/sources/cm/book-of-cylinders
 
-**Note:** Theryn is the only party member who speaks Primordial.
+**Note:** Theryn is the only party member who speaks Primordial. Ardin can cast Comprehend Languages as a ritual.
 
-Have the evil Yuan-Ti band be made up of cultists leftover from the Ritual of Zehir in Loftran, including Caleb. They're still devoted to Zehir, and believe that they have been receiving visions and messages from him, instructing them to go to the grippli temple and find what is buried underneath. In reality, all their messages and visions (even since before Loftran) have been from Viserion or one of his other minions.
+Have the evil Yuan-Ti band be made up of cultists leftover from the Ritual of Zehir in Loftran, including Caleb. They're still devoted to Zehir, and believe that they have been receiving visions and messages from him, instructing them to go to the grippli temple and find what is buried underneath. In reality, all their messages and visions (even since before Loftran) have been from Viserion.
 
 During the final battle with the evil yuan-ti, have one or more of them kneel down and offer prayer to Zehir, pleading with him to come to their aid. Magic will flash around the kneeling yuan-ti, and a successful Arcana check might reveal this as similar to the Sending spell (although inadvertent). Viserion will receive the message and might leave to investigate the grippli village, leading to the party's first encounter with him.
 
