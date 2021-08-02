@@ -1,6 +1,18 @@
 # Book of Cylinders
 https://www.dndbeyond.com/sources/cm/book-of-cylinders
 
+TODO:
+* Grippli tokens
+* More Yuan-Ti tokens
+* Map for Pond Mother's Home
+    * Hemisphere
+    * 50ft diameter
+    * Ground Floor - Pool of water in the center. Two staircases on opposite sides
+    * Second Floor - Four chambers, 10ft square each. Being used as prison cells
+* Map for Brood Pools
+    * 5 brooding pools
+    * 20ft diameter each
+
 **Note:** Theryn is the only party member who speaks Primordial. Ardin can cast Comprehend Languages as a ritual.
 
 Have the evil Yuan-Ti band be made up of cultists leftover from the Ritual of Zehir in Loftran, including Caleb. They're still devoted to Zehir, and believe that they have been receiving visions and messages from him, instructing them to go to the grippli temple and find what is buried underneath. In reality, all their messages and visions (even since before Loftran) have been from Viserion.
