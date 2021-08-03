@@ -28,7 +28,7 @@ Being an artificer's district, there is a sizable population of Warforged walkin
 ### Springs, Sprockets, and Servants
 The name of Rhys Ralovyre's artificer building. A house of research and invention, specializing in clockwork servants. There might be a quest here to search for an errant warforged butler.
 
-### Deathbringers
+### Guilded Shield - Deathbringers HQ
 The headquarters of the guild of undead-hunters is located in the Gilded Circle district. If the party seeks membership, they'll find the tiefling named Hope here. There'll be at least a couple missions involved in "tryouts" in order to become Deathbringers.
 
 ## Wingtop District

@@ -1,18 +1,34 @@
-Ibal - 23
-Ardin - 15
-Killer Whale 1 - 13 | 90 - 21 42 63 84
-Killer Whale 4 - 5 | 90 - 18 39
-Killer Whale 5 - 4 | 90 - 9 30
-Killer Whale 6 - 3 | 90 - 0
-Killer Whale 7 - 2 | 90 - 21
-Fran - 11
-Killer Whale 2 - 11 | 90 - 21
-Killer Whale 3 - 8 | 90 - 0
-Valmar/Liara - 7
-Theryn - 6
+Ibal -
+Ardin -
+Fran -
+Valmar/Liara -
+Theryn -
 
-Folding Boat - 16 | 80
+## Crab Maze
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
+Giant Crab - XX | 13 - 0
 
-Bite: Melee Weapon Attack +6 to hit. 5d6+4 (21) piercing damage
-Ram Boat: 15 DC Dex Saving Throw. Failure = knocked prone, 25% chance of falling overboard
-Leap: Melee Weapon Attack +4 to hit. 4d6+4 (18) bludgeoning damage. Make a Grapple Attack. On success, the target is grappled and dragged overboard.
+## Pond Mother's Home
+Pureblood 1 - 21 | 52 - 0
+Pureblood 2 - 18 | 43 - 0
+Pureblood 3 - 15 | 40 - 0
+Pureblood 4 - 14 | 35 - 0
+
+## Brood Pools
+Malison 2 - 20 | 79 - 0
+Pureblood 1 - 18 | 49 - 0
+Pureblood 4 - 15 | 43 - 0
+Malison 1 - 14 | 75 - 0
+Pureblood 3 - 6  | 50 - 0
+Pureblood 2 - 3  | 33 - 0
+
+## Grippli Temple
+Malison Type 1 - 20 | 61 - 0
+Malison Type 3 - 12 | 52 - 0
+Abomination - 9 | 137 - 0
