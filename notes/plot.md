@@ -9,8 +9,8 @@ Viserion is trying to cast a spell to resurrect the giants of old, who formed th
 - A large quantity of magic, from a source related to a giant - Spiritwell Flower grown in the Heartswall District **GOT**
 - A living direct connection to the giants - Blood of King Samuel of Loftran **GOT**
 - Knowledge and Talent to cast the spell. Needs to resurrect his mate, Anguisa
-  - Her skull was the keepsake/charge of Ardin's people **GOT**
-  - Her soul was sealed hundreds of years ago, and currently lives in Valmar
+    - Her skull was the keepsake/charge of Ardin's people **GOT**
+    - Her soul was sealed hundreds of years ago, and currently lives in Valmar
 - Something from the plane of the undead, the Abyss, to convert the energy stored in the flower
 - A real connection to the giants - Any number of numerous bones left by the giants
 
