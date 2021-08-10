@@ -1,5 +1,14 @@
 # Previously
 
+## 2021-08-09
+Previously, on Are You Sure You Can Sail?
+
+The party meets Brocc at the port in the Heavenly Cay. After some discussion, Brocc lends the party the Folding Boat and expresses his full confidence that the party should be able to handle themselves at sea. Confidence that is very quickly shattered as the party scrapes the boat against the dock, loses the wind, and nearly beaches the boat on shore. After losing nearly an entire day of sailing, the party manages to find their way to the Grippli Trading Post.
+
+Once there, the party is taken to see the Pond Mother, the matriarch of the Grippli people in this area. She tells the party that a nice group of Yuan-Ti arrived at the Grippli Village around a month ago. They believed that something important to their deity, The Scaled Mother, was located beneath an old temple near the village. Seeing no reason to refuse them, the Pond Mother granted them permission to excavate the lower floors of the temple. Over the next two weeks, the benevolent Yuan-Ti were true to their word and became good friends with the Grippli. But then, an evil group of Yuan-Ti warriors arrived. They butchered many of the Grippli, ate their eggs, captured or killed the nicer Yuan-Ti, and drove the Pond Mother and many of the villagers from the village. The Pond Mother and most of the villagers took refuge at the trading post. She begs the party to save her children from the evil Yuan-Ti.
+
+The party took their boat and made their way towards the village, but first, they'd have to navigate the Crab Maze. The Grippli breed and harvest crab for their blood and meat, but it's been two weeks since anyone has fed the crabs. Failing to be sneaky, the party fought their way through the crab maze, showing their prowess enough that the crabs mostly left them alone, despite Carl potentially being the best meal they'd have in days. The party arrives at the breakwater, the lagoon, and finally the Grippli Village itself. There are a few small boats moored here, and the party can see armed Yuan-Ti roaming around the village. No one has raised an alarm.... yet.
+
 ## 2021-08-02
 Previously, on BACON!!
 

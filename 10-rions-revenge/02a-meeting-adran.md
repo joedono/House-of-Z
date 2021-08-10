@@ -13,8 +13,6 @@ Vesimir is a light-skinned man with long blond hair and a tattoo of a raven on h
 ## Setting off towards Grippli
 The Ivory Tower's supply of giant crab blood has run out, and they've stopped receiving their usual shipments from the Grippli trading post to the south, along with Adran's favorite crab meat dish. If the party can travel south and find out why the Grippli have stopped sending crab blood and meat to The Heavenly Cay, he'll be happy to help them. He'll have heard of a band of Yuan-Ti that sailed that way some weeks ago, around the time that the supplies stopped.
 
--- BOOKMARK --
-
 ### Getting to the Trading Post
 The Grippli Trading Post is 90 miles, or a day and a half's journey by ship, to the south. The party needs to charter a boat to take them there. The party can ask Captain Krusk if he's willing to loan out a boat and crew for the journey. The party will find Brocc lounging on the dock. Brocc will be willing to loan the party the Folding Boat and a map of the route to the trading post, but he won't be willing to loan any crew, saying that between Fran and Theryn and the map, the party should be able to make the journey themselves. And between Ardin and Valmar, they shouldn't have any need for ship-to-ship weapons.
 

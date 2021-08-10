@@ -1,18 +1,9 @@
-Ibal -
-Ardin -
-Fran -
-Valmar/Liara -
 Theryn -
-
-## Crab Maze
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
-Giant Crab - XX | 13 - 0
+Ibal -
+Fran -
+Carl -
+Valmar/Liara -
+Ardin - 
 
 ## Pond Mother's Home
 Pureblood 1 - 21 | 52 - 0
@@ -21,14 +12,14 @@ Pureblood 3 - 15 | 40 - 0
 Pureblood 4 - 14 | 35 - 0
 
 ## Brood Pools
-Malison 2 - 20 | 79 - 0
+Malison 2 -   20 | 79 - 0
 Pureblood 1 - 18 | 49 - 0
 Pureblood 4 - 15 | 43 - 0
-Malison 1 - 14 | 75 - 0
+Malison 1 -   14 | 75 - 0
 Pureblood 3 - 6  | 50 - 0
 Pureblood 2 - 3  | 33 - 0
 
 ## Grippli Temple
 Malison Type 1 - 20 | 61 - 0
 Malison Type 3 - 12 | 52 - 0
-Abomination - 9 | 137 - 0
+Abomination -    9 | 137 - 0
