@@ -42,6 +42,9 @@ Another bone, has a different problem. This bone can generate convincing illusio
 
 Other bones will have similar world-altering effects. Take inspiration from Control and the SCP Wiki.
 
+## Abyss
+In order to bend the resurrected body of Draffnir to their whims, the dragons need to fuel it's heart with chaotic evil energy. They need an Entropy Crystal from the Abyss, which is essentially equivalent to a Hatching Stone in the Material Plane. Such energy is volatile, but extremely easy to direct and motivate. It is also one of the only energies that will be able to prevent the soul of the **real** Draffnir from returning to inhabit his body.
+
 ## Party Motivation
 In order to get the party motivated to actually go and check up on the other bones, have the bone in chapter 9 contact them through an illusion once the conflict is resolved. Explain that it can sense that its siblings are broadcasting distress signals. Some are stronger than others, but all are in danger. With the conflict around this bone resolved, it can reset itself and properly deal with the threat from Viserion, should it come around.
 

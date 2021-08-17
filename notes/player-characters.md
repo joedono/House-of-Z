@@ -44,7 +44,7 @@ Liara grew up in a family of scholars, dedicating her life to the monastic ideal
 
 After Valmar was beaten up (and also stripped naked) by their townsfolk, they were left naked and bleeding out on the side of the street. Which is where Liara came across him. She tried to heal them and their wild magic kicked in, sucking her soul into their body. She also falls unconscious due to the effects of this, and the guards come across their shared body on the side of the street, assuming them to be drunk. They are arrested for public indecency.
 
-*Born and raised in a monstary on Mount Stratha*
+*Born and raised in a monastery on Mount Stratha*
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
 **Plot Hook - Merged with Valmer. Quest to get her body back and find her book of Ancient Text, which was stolen by the followers of Zehir. The book contains a selection of 9th level spells, including True Resurrection, which Viserion needs in order to bring Anguisa back to life.**

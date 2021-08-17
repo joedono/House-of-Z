@@ -17,3 +17,10 @@ Viserion has brought King Samuel here because he needs to learn the "essence ext
 So, Viserion has assumed the guise of a clumsy halfing named Rion Blackspice, and has entrenched himself as Adran's newest apprentice. Rion is secretly working on a plan to gain access to the advanced medical equipment necessary to perform the extraction procedure on King Samuel, who is under the effect of a True Polymorph spell, and is now in the form of Rion's lizard familiar, Fangs. Viserion is also monitoring the efforts of some Yuan-Ti minions leftover from Loftran to excavate the Giant Finger Bones located beneath the Grippli temple to the south. Rion is also in possession of Liara's clan's advanced spellbook. The book contains a selection of 9th level spells, including True Resurrection, which Viserion needs in order to bring Anguisa back to life, and the True Polymorph spell that transformed King Samuel into the lizard, Fangs.
 
 Now that Rion has located Anguisa, he will steal the vessel containing her soul at the first opportunity, killing Adran if he has to.
+
+## Next Steps
+Viserion's objective is to bring Anguisa's Soul back to the site of Anguisa's death to have the greatest chance of bringing her back. Adran will know this, but not the location. The party can also make Arcana or Religion checks to remember how True Resurrection works (in this world). It can work anywhere, but you need to make a spellcasting check for it to work anywhere other than where the target died.
+
+Hope of the Deathbringers will have on file that Anguisa's defeat took place near Durrstaft in an ancient temple dedicated to Thorm. The clerics channeled the strong divinity of the temple to trap Anguisa's soul and seal it in the vessel. The temple has long been a site of pilgrimage for clerics and paladins from Durrstaft, so it is likely that Viserion will have to fight and kill to gain access to the inner temple.
+
+He might try to disguise himself again and slip inside, but he'll have a hard time sneaking Anguisa's Skull into the temple, so he'll probably just kill everyone.
