@@ -58,5 +58,5 @@ The Heavenly Cay
 The Grippli Village - Book of Cylinders
 Extracting Anguisa's Soul
 Encountering Viserion
-Excavating the Giant Finger Bones
+Excavating the Giant Finger Bones or Pursuing Viserion to Durrstaft
 **Level Up! - Level 7**

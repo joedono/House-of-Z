@@ -1,5 +1,13 @@
 # Plot
 
+## Timeline
+- 10 days in prison
+- 5 days freeing Loftran from the cult of Zehir
+- 2-3 days hiking up Frostfall pass and fighting Katarina
+- 2-3 days figuring out Anguisa
+- 40 days downtime waiting for the Sea Spear to be ready
+- 10 days journey to The Heavenly Cay
+
 ## Hooks for next arc
 - The king of Loftran is missing
 - The party found a mysterious list of different locations in the world to investigate

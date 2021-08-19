@@ -1,4 +1,4 @@
 # Frost Friends
-The party is making their way up the mountains to Durrstaft. They left an old friend alive in Frostfall Pass who will come back for blood once it smells the party's scent on the wind. Katarina Tsolka's Snow Mutant.
+The party is making their way up the mountains to Durrstaft. It's been 50-60 days since the party defeated Katarina Tsolka. The party left the Snow Mutant alive, and it's been busy.
 
 TODO
