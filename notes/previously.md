@@ -1,5 +1,12 @@
 # Previously
 
+## 2021-08-23
+Previously, on POP, SQUELCH, SQUISH!!
+
+The party entered the Grippli village and encountered a sleeping Yuan-Ti guard. They also spied a couple Grippli children who reacted with extreme fear upon seeing the guard. With their aptitude in sneakiness, the party knocked the guard out properly.... and then fed him to the starving crabs in the maze. Theryn conversed with the Grippli children, and learned that there are other powerful fighters being held prisoner in the Pond Mother's home. The party dispatched the other (lazy) Yuan-Ti guards roaming the village with relative ease, and then made their way into the large building.
+
+The party alerted the Yuan-Ti inside, but also quickly dispatched them. Inside the rooms of the upper floor, the party found a group of Yuan-Ti prisoners who came with the first group (the good group). They also met Splurgl the Patient and Amelia Vandervelt. After some introductions and a few magical mishaps, the party remembered that the Yuan-Ti have been eating Grippli Eggs, which were the Pond Mother's primary objective that she imparted on the players.
+
 ## 2021-08-09
 Previously, on Are You Sure You Can Sail?
 
