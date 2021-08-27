@@ -50,6 +50,8 @@ Another bone, has a different problem. This bone can generate convincing illusio
 
 Other bones will have similar world-altering effects. Take inspiration from Control and the SCP Wiki.
 
+"Resurrecting" one of the bones will effectively cause it to manifest as a "normal" giant of some sort. It'll wreck havoc on the world until it is put down or put back to sleep. Once enough of them are resurrected, they'll assemble at a specific location, merge, and transform into the actual Giant they were part of.
+
 ## Abyss
 In order to bend the resurrected body of Draffnir to their whims, the dragons need to fuel it's heart with chaotic evil energy. They need an Entropy Crystal from the Abyss, which is essentially equivalent to a Hatching Stone in the Material Plane. Such energy is volatile, but extremely easy to direct and motivate. It is also one of the only energies that will be able to prevent the soul of the **real** Draffnir from returning to inhabit his body.
 
