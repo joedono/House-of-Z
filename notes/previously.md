@@ -1,5 +1,16 @@
 # Previously
 
+## 2021-08-30
+Previously, on Cocoon
+
+The party made a beeline for the Brooding Pools, determined to dispatch any Yuan-Ti lingering there and take back control of the pools. Sure enough, they found a sizable Yuan-Ti squadron waiting for them, lazily snacking on the eggs. A fight ensued, during which one of the Yuan-Ti revealed himself to be the further-mutated Caleb, a horrible prison guard from the party's past. Revealing himself quickly turned out to be a bad idea as the party focused all their firepower on making sure this asshole didn't live to see another turn. With his last breath, Caleb ordered one of the other Yuan-Ti to "do it". Apparently, that meant destroying the Grippli eggs, as the Yuan-Ti pulled out a vial of poison and dumped it in one of the brooding pools, killing the unhatched young inside.
+
+The party dispatched the rest of their foes with litte effort and only a few scrapes. After some emotional moments, calm settled on the battlefield. The crabs will feast tonight!
+
+...on the corpses of Yuan-Ti, mostly.
+
+The party also remembered that both the good and the evil groups of Yuan-Ti were interested in the ancient temple to the north-east of the village. It's likely that there are still some Yuan-Ti there.
+
 ## 2021-08-23
 Previously, on POP, SQUELCH, SQUISH!!
 
