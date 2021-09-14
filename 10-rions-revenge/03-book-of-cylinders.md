@@ -1,6 +1,6 @@
 # Book of Cylinders
 -- BOOKMARK --
-https://www.dndbeyond.com/sources/cm/book-of-cylinders#OldVillageandTemple
+https://www.dndbeyond.com/sources/cm/book-of-cylinders#GratefulGrippli
 
 **Note:** Theryn is the only party member who speaks Primordial. Ardin can cast Comprehend Languages as a ritual.
 
