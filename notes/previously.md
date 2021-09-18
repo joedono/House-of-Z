@@ -7,7 +7,7 @@ The party enjoyed a small feast, courtesy of Splurgl's foraging skills, before t
 
 The party investigated the room, and found that the partially open sarcophagus held a blade and armor of some kind, but the party was mostly in favor of letting sleeping artifacts lie. They did take the Lantern of Revealing and the Chime of Opening though. Valmar remembered that the "Middle Point Ring" refers to the Finger Bones of Draffnir the Giant, one of the great giants who created the world. The party might also remember that "Finger Bones - Seacracker Islands" was on their list.
 
-The party left the temple, satisfied with a job well done. They had a large dinner at Splurgl's house, spent the night, and awoke the next morning to be greeted by the Pond Mother and the Grippli refugees who had fled to the outpost. The Pond Mother asked that the group stay one more day so that they can be thanked properly.
+The party left the temple, satisfied with a job well done. They had a large dinner at Splurgl's house, spent the night, and awoke the next morning to be greeted by the Pond Mother and the Grippli refugees returning from the outpost. The Pond Mother asked that the group stay one more night so that they could be thanked properly.
 
 ## 2021-08-30
 Previously, on Cocoon
