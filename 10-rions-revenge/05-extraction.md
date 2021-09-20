@@ -1,5 +1,5 @@
-# Second Examination
-With the crab's blood now in hand, Adran and Rion have everything they need to attempt to extract Anguisa's essence from Valmar and Liara.
+# The Extraction
+With the treated crab's blood ready for the procedure, Adran is ready to begin.
 
 ## Blood Extraction Procedure
 A special procedure for extracting specific "essences" from a body. Simply trying to draw out the blood or arcane energies will result in simple blood/energy being extracted.
@@ -10,6 +10,8 @@ A special procedure for extracting specific "essences" from a body. Simply tryin
 4. Scan the patient for the binding agent
 5. Once located, freeze the "essence" with a specialized arcane laser
 6. Draw out the essence with a syringe for bodily fluids, or a crystal siphon for arcane or spiritual energies, into a suitable vessel
+
+BUT FIRST, the crab's blood has to be treated. The process will take three days, giving the party time to roam the city a little.
 
 ## Viserion and King Samuel
 Viserion has brought King Samuel here because he needs to learn the "essence extraction" procedure from Adran Galonodel in order to extract Samuel's "Blood of the Giants". Because the Blood of the Giants is an integral part of who King Samuel is, the process will render him completely catatonic forever.
