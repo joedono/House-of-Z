@@ -1,5 +1,16 @@
 # Previously
 
+## 2021-09-21
+Previously, on Frog Friends
+
+The party spent some downtime helping the Grippli rebuild their village and excavating the temple ruins. Based on everything they had heard, they concluded that the artifact known as the Middle Point Ring is buried under the Grippli Temple. The Middle Point Ring very likely referred to the Giant Finger Bones of Draffnir, and therefore also referred to the "Finger Bones x3" that was on the list the party found. Through a conversation with Amelia, the party learned that the temple emitted a "pulling" sensation that made sentient beings think of the area as hallowed or homely. The Grippli settled here hundreds of years ago, but then something happened several months ago and that sensation went away. According to Splurgl and the other Grippli, "It just didn't feel like home anymore." The party excavated a little bit, and discovered two Yuan-Ti magical items in the sarcophagus in the top floor of the temple: Serpent Scale Mail and the Serpent's Fang longsword, both appeared to be important to the Yuan-Ti, but didn't have anything to do with the Finger Bones. Fran concluded that excavating the bottom floors of the temples would take weeks, so the party elected to return back to the Heavenly Cay and leave the bulk of the excavating to the good Yuan-Ti and the Grippli.
+
+Before they left, the Pond Mother and the rest of the Grippli showed their thanks by performing a ritual of friends on the party. When they awoke, everyone in the party could speak and understand the Grippli language.
+
+The party made their way back to the Heavenly Cay, very cautious about running into dragons. Theryn has his Lantern of Tracking (Draogns) lit and scanned almost their entire route to the Ivory Tower. Having Valmar around made that a bit of a challenge, as even the soul of Anguisa was setting the lantern off. Turned out that challenge allowed Rion to slip out to run an errand without being scanned by the lantern. The party concluded that the grounds were free of dragons, and made their way to Professor Galanodel's office. Despite the late hour, the professor was more than happy to perform the extraction procedure. He had only ever performed the operation on possessed individuals before, in lieu of an exorcism, with great success. The operation was a success, with Valmar only taking a small amount of damage and Liara's essence escaping unscathed.
+
+However, once the soul of Anguisa was completely extracted and held in a treated Hatching Stone, Rion revealed himself to be Viserion, the black dragon and Anguisa's mate. He picked up Anguisa's new vessel, started reverting to his dragon form, scoped up Fangs his lizard, and broke through the wall and out into the night sky. But hey! At least Anguisa is out of Valmar's head now.
+
 ## 2021-09-13
 Previously, on Snake Bacon
 
