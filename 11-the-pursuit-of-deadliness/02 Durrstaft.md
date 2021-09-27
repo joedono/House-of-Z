@@ -1,4 +1,4 @@
 # Durrstaft
-The party needs to either gather information on the location of the temple of Thorm where they might think Viserion is hiding, or they need to secure some sort of transport through the mountains. Come up with some sort of obstacle to throw at them here.
+Viserion has hidden himself in Durrstaft and is making plans and gathering supplies and information that will get him and his cargo to temple of Thorm, the site of Anguisa's final battle. The party has to locate him and potentially stop him from casting True Resurrection to bring her back.
 
 TODO

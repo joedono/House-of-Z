@@ -47,7 +47,7 @@ After Valmar was beaten up (and also stripped naked) by their townsfolk, they we
 *Born and raised in a monastery on Mount Stratha*
 Crime - Public Indecency and Drunken Belligerence
 Time In Prison - New Arrival
-**Plot Hook - Merged with Valmer. Quest to get her body back and find her book of Ancient Text, which was stolen by the followers of Zehir. The book contains a selection of 9th level spells, including True Resurrection, which Viserion needs in order to bring Anguisa back to life.**
+**Plot Hook - Merged with Valmer. Quest to get her body back and find her book of Ancient Text, which was stolen by the followers of Zehir. The book contains advanced spells all the way up to 9th level, including True Resurrection, which Viserion needs in order to bring Anguisa back to life, and True Polymorph, which Viserion cast on King Samuel of Loftran, transforming him into his lizard familiar, Fangs.**
 
 ## Kyle
 Valmar Nohrmari - Non-binary Tiefling Sorceror

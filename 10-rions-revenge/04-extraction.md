@@ -26,7 +26,7 @@ Viserion's objective is to bring Anguisa's Soul back to the site of Anguisa's de
 
 Hope of the Deathbringers will have on file that Anguisa's defeat took place near Durrstaft in an ancient temple dedicated to Thorm. The clerics channeled the strong divinity of the temple to trap Anguisa's soul and seal it in the vessel. The temple has long been a site of pilgrimage for clerics and paladins from Durrstaft, so it is likely that Viserion will have to fight and kill to gain access to the inner temple.
 
-He might try to disguise himself again and slip inside, but he'll have a hard time sneaking Anguisa's Skull into the temple, so he'll probably just kill everyone.
+Of course, the military of Durrstaft will notice Viserion approaching, so he'll cast True Polymorph on himself and hide in the mountains while scouring the records in Durrstaft to find out where the temple is and amass enough supplies for an expedition out into the snowy mountains.
 
 ## Level Up
 As soon as the party leaves The Heavenly Cay, they can become level 7.

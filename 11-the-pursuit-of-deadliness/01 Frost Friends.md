@@ -1,20 +1,18 @@
 # Frost Friends
-The party is making their way up the mountains to Durrstaft. It's been 50-60 days since the party defeated Katarina Tsolka. The party left the Snow Mutant alive, and it's been busy.
+Once the party gets back to Loftran, they're next step will be to scale the mountains to get to Durrstaft. It's been 50-60 days since the party defeated Katarina Tsolka, and the party left the Snow Mutant alive. It's been busy.
 
-## Travel
-The party is likely to use either Valmar's new skills or Ibal's sister to quickly cast Teleportation Circle and get them to their manor in Loftran. From there, they'll have to somehow get up to the Durrstaft Mountains and Frostfall Pass. It's an 8 hour trip on horseback to the foot of the mountains, and then a two day treacherous hike through the mountains to get to Durrstaft.
+## Snow Mutant
+Alone and broken, the Snow Mutant sadly roamed through the Durrstaft mountains, barely finding enough food to survive. At the lowest point of its misery, a Bheur Hag found it. The hag felt something akin to sympathy for the poor creature, and nursed it back to health. Together, they delighted in taking revenge on any humanoids who journeyed through Frostfall Pass. The hag grew her herd by resurrecting several skeletal owlbears that the Snow Mutant feasted on, including the blind one that the party saved from the snow apes. It has scratch marks on the skull around its eye sockets.
 
-## Possible New Friends
+A hiking party fell victim to the Hag and the Mutant, but while the hag was in the middle of feasting, one of the humans sat up. It had become possessed by the spirit of Garlan, the druid of the Red Drakes. Garlan's hatred for dragon-kind and gruesome death at the hands of Valmar/Liara/Anguisa have turned him into a Revenant, bent on revenge against Valmar/Liara. Garlan was all set to trek out to the Heavenly Cay to find Valmar, when he noticed that Valmar was coming closer to him. Garlan fell in with the Bheur Hag and now waits for Valmar/Liara to come to him.
+
+Being a Revenant, any checks made to convince Garlan that his vengeance is misplaced will automatically fail. He is convinced that Valmar/Liara was the one who killed him, despite them being possessed by Anguisa at the time.
+
 * Bheur Hag: https://www.dndbeyond.com/monsters/bheur-hag
-* Mammoth: https://www.dndbeyond.com/monsters/mammoth
-* Snowy Owlbear: https://www.dndbeyond.com/monsters/snowy-owlbear
 * Skeletal Owlbear: https://www.dndbeyond.com/monsters/skeletal-owlbear
 * Revenant: https://www.dndbeyond.com/monsters/revenant
-* Troll: https://www.dndbeyond.com/monsters/troll
-* Young Remorhaz: https://www.dndbeyond.com/monsters/young-remorhaz
 
-Have the Bheur Hag discover the Snow Mutant, wounded and frightened in the cold. She'd immediately see the creature's hatred for people, and nurture and heal it back to full strength. The two of them will delight in harassing travelers and have been doing so for the past couple weeks. There has been only one courier sent out to Durrstaft and it disappeared.
-
-The Hag also aided Garlan, the dragonborn from the Red Drakes, to rise as a Revenant bent on revenge against Valmar. He believes that Valmar is a Black Dragon in disguise who killed him in an attempt to retrieve his egg. As a Revenant, Garlan cannot be convinced to call off his assault, even if the party has removed Anguisa from Valmar.
-
-Finally, have the blind Owlbear the party saved from the Apes rise as a Skeletal Owlbear with scaring on the skull area around its eye sockets.
+## Starting the Fight
+Up until this point, the weather has been perfectly clear, making the climb up relatively easy. As the party crosses through the pass, the hag will cast Control Weather, and summon a blizzard.
+* Visibility is reduced to 15ft
+* Creatures not under a tree take 1d6 bludgeoning damage at the beginning of their turn
