@@ -7,7 +7,7 @@ Viserion flew to Durrstaft, to the east. The party needs to secure transport tha
 3. Charter another boat across the Seacracker Islands
 
 ## Allannia Ralovyre
-Older Sister. Dotes on Ibal and loves him. She takes an honest interest in his profession and approves of his choices, despite what the rest of their family think. Allannia is a Potions Professor at The Ivory Tower. Alannia is a 10th level wizard who does know the Teleportation Circle spell.
+Older Sister. Dotes on Ibal and loves him. She takes an honest interest in his profession and approves of his choices, despite what the rest of their family think. Allannia is a Potions Professor at The Ivory Tower. Allannia is a 10th level wizard who does know the Teleportation Circle spell.
 
 ### Current Events
 Depending on the time of day, Allannia will be:
@@ -25,6 +25,7 @@ If the party asks Allannia to cast Teleportation Circle to send them to Loftran,
 Older Brother. Sees Ibal's chosen life as impetuous and misguided. He can't understand why their parents are letting Ibal go on like this, but won't criticize them openly. Rhys is currently at his artificer shop, *Springs, Sprockets, and Servants*.
 
 ### Current Events
+-- BOOKMARK --
 At around the time the party arrives, one of Rhys' artificers is having a grand opening and revealing his latest creation, the Complete HoUse Manager, or CHUM. The thing will, of course, go haywire, and attack the people inside the shop.
 https://www.dndbeyond.com/monsters/clockwork-kraken
 

@@ -1,5 +1,16 @@
 # Previously
 
+## 2021-09-27
+Previously, on Hot Pursuit
+
+The party fished Professor Adran Galonodel out from under the ruins of his lab. His arm had been broken. The party discussed the recent events and compared notes. They determined that Viserion now had the materials to cast True Resurrection and revive Anguisa, provided he could locate the site where she died. They also determined that his eventual plan is to perform some sort of reanimation ritual on the bones of Draffnir for some unknown purpose. According to legend, the bones of Draffnir are able to defend themselves somewhat, which matches the accounts that the party heard from the Grippli about the site where the Finger Bones are said to be buried. But something happened to them and their defense was shut down. Adran promised to put together an expedition to go to the Grippli village and help excavate the ruins in the hopes of determining what happened there and maybe switching the bones back on.
+
+Meanwhile, the party needed to figure out where Anguisa died, since the True Resurrection spell has a higher chance of success if cast at the site of the target's death. The party woke up Hope of the Deathbringers, since they remembered that she had a written account of the actual battle. The party learned that Anguisa was defeated by a mix of Deathbringer warriors and Thorm clerics battling on or near a sacred temple dedicated to Thorm in the Durrstaft Mountains. Liara knows of the temple, but wasn't advanced enough through the clergy to have made the pilgrimage. And with her entire order massacred, the party would have to ask the elder clerics living in Durrstaft. Fortunately, it is likely that Viserion also doesn't know where the temple is located.
+
+With a vague destination in hand and a good night's sleep, Ibal led the party back to the Ivory Tower to meet his sister, Allannia, an accomplished wizard and potions teacher in the Tower. They found her having breakfast in the school cafeteria, where she promptly ambushed Ibal and doted on him for a bit while hearing of his adventures. She was more than willing to lend her aid by teleporting the party to their circle under the Eloreth Manor in Loftran. However, she had forgotten her component pouch at Springs, Sprockets, and Servants, the artificery shop owned by her and Ibal's brother, Rhys.
+
+The party set out at a quick march to the store, along the way admiring the artificers setting up the lengthy track for the clockwork cart race that marked the last day of the Stoneheart festival. When they arrived at the store, Rhys was unveiling his newest product, the Complete House Manager, or C.H.U.M. The party watched the demonstration as this massive clockwork octopus performed various tasks around the shop, until it was tasked with changing a Hatching Stone light in the ceiling. The creature crushed the stone, and the small energy surge that sparked out was enough to cause the C.H.U.M. to go haywire and start wrecking the shop.
+
 ## 2021-09-21
 Previously, on Frog Friends
 

@@ -1,4 +1,4 @@
-Item,Holder,Obtained,ID'd,Uses
+Item,Holder,Obtained,ID'd,Uses,Notes
 Rod of Retribution,Ardin,Sisava's Corpse,X,N/A
 Potion of Poison Resistance,Ardin,Sisava's Corpse,X,1
 Bead of Force,Ardin,Hatching Stone Mines,X,1
@@ -35,3 +35,4 @@ Lantern of Revealing,Theryn,Grippli Temple,X,2hrs
 Decanter of Endless Water,Ardin,Grippli Temple,X,N/A
 Serpent Scale Armor,Theryn,Grippli Temple,X,N/A
 Serpent's Fang,Fran,Grippli Temple,X,N/A
+Sending Stone,Ibal,Deathbringers,X,N/A,Connected to Deathbringers
