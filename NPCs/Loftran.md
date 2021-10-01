@@ -1,10 +1,19 @@
-# NPCs
+# Loftran
 
 ## Eloreth Manor
 The manor the party owns in Loftran City
 
 ### Pepper Orangepearl
 The Brownie that came with the house. Keeps the house tidy so long as she is provided with a nightly supply of treats and no one tries to catch her. Her name unlocks the secret door to the magical lab in the mansion.
+
+### Marsh Hansen
+Human street-rat. On the hunt to find his parents after the sigil corrupted their minds. Immune to the sigil's influence himself for some reason. Met in the House of Sunlight in chapter 5. Accompanied the players to rescue his parents.
+
+### Hubert Hansen
+Marsh's dad
+
+### Kara Hansen
+Marsh's mother
 
 ---
 
@@ -173,47 +182,7 @@ A survivor of the lift disaster three months ago, and Foreman Clast's brother (h
 
 ---
 
-## The Heavenly Cay
-
-### Professor Adran Galanodel
-Elf male. Head of biological research at the Ivory Tower. Academic advisor to Professor Baern Frostbeard, the head of biological research at the Wizard's College in Loftran.
-
-### Father Folas Ralovyre (517) and Mother Chalia Ralovyre (456)
-Ibal’s parents think he is going through a phase and expect him to fall in line with the study of magic, as "he certainly has the intelligence and attention to detail for it," at some point in the future. Be that as it may as he’s barely an adult (by elven standards) and they've allowed him his indulgences and his studies into the Psyche and Behavior.
-
-### Elder Brother Rhys
-Ibal's older brother took on the family trade and became a skilled artificer. Their relationship is professional, but being 322 himself, and old enough to have a child Ibal’s age (despite being unmarried); Rhys sees Ibal as a bit of an impetuous child. He often wonders whether their parents are being too lenient with Ibal, but generally trusts their judgement.
-
-### Middle Sister Allannia
-Ibal's older sister is an accomplished wizard and teacher at the Ivory Tower looking for less practical and more interesting uses for magic. As the middle child and in truth being closer in age (193) to Ibal than Rhys, Allannia is a doting older sister and perhaps takes the most interest in Ibal’s studies and interests.
-
----
-
 ## Misc
-
-### Krusk
-Ship captain of the Sea Spear
-
-### Brocc
-First mate of the Sea Spear
-
-### Warwick Kelleck
-Potion Seller in Tinders in Loftran. Mostly sells "herbal" remedies
-
-### Horsemaster Brom
-Male Dwarf Stablemaster. Maintains a handful of stables in the NW section of town, as well as a horse farm near the edge of town. Met in the House of Sunlight in chapter 1. He technically owns Pumpkin the goat.
-
-### Lars and Marisha Whittletwig
-Halfling farming couple. Potential victims of a Mimic Ivy infestation. Suffering from Stage 4 sigil infection. Covertly hostile to the players.
-
-### Marsh Hansen
-Human street-rat. On the hunt to find his parents after the sigil corrupted their minds. Immune to the sigil's influence himself for some reason. Met in the House of Sunlight in chapter 5. Accompanied the players to rescue his parents.
-
-### Hubert Hansen
-Marsh's dad
-
-### Kara Hansen
-Marsh's mother
 
 ### Linda Linen
 Female elven owner of The Softest Sheet, a linen shop in the Textile District. Places a high value on taste in clothing, to the point where her way of saying "hello" is to evaluate and criticize/compliment a person's outfit. Met in her shop. Gave Ardin two new cloaks and information about the conversion ritual in her warehouse.
@@ -233,12 +202,11 @@ Tabitha's elven assistant. A young woman, especially by elven standards. She's s
 ### Rat Man Jenkins
 An insane human who lives in the Loftran sewers. Has become a bit of a scary bedtime story for the peasants of Loftran. Harmless, but creepy.
 
----
+### Warwick Kelleck
+Potion Seller in Tinders in Loftran. Mostly sells "herbal" remedies
 
-## Villains
+### Horsemaster Brom
+Male Dwarf Stablemaster. Maintains a handful of stables in the NW section of town, as well as a horse farm near the edge of town. Met in the House of Sunlight in chapter 1. He technically owns Pumpkin the goat.
 
-### Sisava
-Yuan-ti Abomination. Enactor of the Ritual of Transformation that is taking over Loftran. The final boss of the first arc of the adventure. He's a loyal follower of Zehir and is attempting to enact Zehir's will on the world by transforming all of its inhabitants into loyal Yuan-ti acolytes of Zehir.
-
-### Viserion
-An ancient black dragon. Responsible for the death of Archebald Elmwall, the destruction of Ardin's village, and gifting Sisava with the components needed for the transformation ritual that threatened all of Loftran. Major villain for most of the campaign. Is trying to resurrect/reconstruct one of the giants who created the world to use as a weapon in the war between Tiamat and the Celestials.
+### Lars and Marisha Whittletwig
+Halfling farming couple. Potential victims of a Mimic Ivy infestation. Suffering from Stage 4 sigil infection. Covertly hostile to the players.
