@@ -2,8 +2,6 @@
 
 ## Humans
 - Poddrick Mosrii
-- Jarrek Bestalt
-- Nathan Sarnol
 
 - Karli Bennah
 - Shani Logran
@@ -14,7 +12,6 @@
 - Peren Melimne
 - Haffdas Relevorth
 
-- Marloth Sethran
 - Birel Hilimion
 - Shava Siannodel
 
@@ -43,7 +40,6 @@
 ## Halfling
 - Eldon Brushgather
 - Garret Tealeaf
-- Alistor Grassroot
 
 - Lidda Hilltopple
 - Nedda Goodbarrel
