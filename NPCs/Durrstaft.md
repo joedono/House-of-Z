@@ -2,6 +2,9 @@
 
 ## Temple of Thorm
 
+### Durin Ironfist
+Male dwarf. A very old friend of Fran's. Currently a leader of an underground resistance in Durrstaft. Their objective isn't to take over the government or grossly change things, but just to make things a little more troublesome for them. Two failed rebellions taught them that the Durrstaft government is too powerful to be taken down.
+
 ### Nathan Sarnol
 Master cleric at the Temple of Thorm. A solemn and stoic human male. Practically ends every sentence with a religious idiom. An extreme believer in tradition and ritual. No exceptions. Has blue eyes.
 

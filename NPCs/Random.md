@@ -16,7 +16,6 @@
 - Shava Siannodel
 
 ## Dwarves
-- Durin Ironfist
 - Tordek Battlehammer
 
 - Ilde Ungart
