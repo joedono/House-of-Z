@@ -13,10 +13,6 @@ Effect: The affected creature appears to be in two places at once, identical to 
 Instructions: Drink
 Effect: The creature loses the ability to speak Common for 1 hour.
 
-## Powder of Pride
-Instructions: Dissolve in bathwater and bathe for no less than one hour
-Effect: The creature's skin takes on all the colors of the rainbow for 3 hours after the bath.
-
 ## Seed of Many Faces
 Instructions: Plant in the dirt. Wait for 5 minutes
 Effect: A plant sprouts that quickly grows into a full-grown tree. The tree bark takes on the shape of many faces. Every so often, one of the faces will open its eyes and repeat "I am a tree. I am a tree" for 5 minutes before going back to sleep again.
@@ -24,6 +20,10 @@ Effect: A plant sprouts that quickly grows into a full-grown tree. The tree bark
 ---
 
 ## Used
+
+## Powder of Pride
+Instructions: Dissolve in bathwater and bathe for no less than one hour
+Effect: The creature's skin takes on all the colors of the rainbow for 3 hours after the bath.
 
 ## Potion of Pet Rock
 Instructions: Pour on rock/stone

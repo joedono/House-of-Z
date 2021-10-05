@@ -1,5 +1,14 @@
 # Previously
 
+## 2021-10-04
+Previously, on Family Matters
+
+The party had a minor brush with death as they dealt with the crazy C.H.U.M. and saved Rhys' artificery shop. Once they were done, an ungrateful Rhys berated Ibal for finally returning home only to venture out again right away and not stopping to see their parents. Alannia found her component pouch and the party left in a huff. Alannia gave them a fond farewell as she cast Teleportation Circle and sent them all back to Loftran.
+
+The party was greeted by Kara and Marsh Hansen, who prepared a nice lunch for them and asked about their adventures. The party paid the Hansens up for the next 5 months and commissioned that a stable be built for Karl the Emotional Support Ox. With logistics at home taken care of, the party went shopping. Fran and Ardin bought some new armor from Twinsplate while Theryn reconnected with the Hatching Stone miners and procured a set of Filtration Suits for everyone, in the hopes that they'd be somewhat protected from the acid breath of a black dragon. Ibal tried out Tabitha's latest creation in the bath, and learned how silly some of her experiments can get.
+
+With warm food in their bellies and a good night's sleep behind them, the party set out for Durrstaft. They camped out in the foothills of the Durrstaft mountains in Ardin's Tiny Hut. The night passed uneventfully, except for Valmar having a strange dream about a red dragon that called him a murderer. The guy just can't catch a break.
+
 ## 2021-09-27
 Previously, on Hot Pursuit
 

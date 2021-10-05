@@ -25,7 +25,6 @@ If the party asks Allannia to cast Teleportation Circle to send them to Loftran,
 Older Brother. Sees Ibal's chosen life as impetuous and misguided. He can't understand why their parents are letting Ibal go on like this, but won't criticize them openly. Rhys is currently at his artificer shop, *Springs, Sprockets, and Servants*.
 
 ### Current Events
--- BOOKMARK --
 At around the time the party arrives, one of Rhys' artificers is having a grand opening and revealing his latest creation, the Complete HoUse Manager, or CHUM. The thing will, of course, go haywire, and attack the people inside the shop.
 https://www.dndbeyond.com/monsters/clockwork-kraken
 
@@ -47,3 +46,10 @@ There are two other crews that are getting ready to set sail, but both are bound
 ---
 
 One way or another, the party leaves The Heavenly Cay, bound for Loftran, Frostfall Pass, and eventually Durrstaft.
+
+### Shopping
+The party left more gold for the Hansens, which means that they're paid up for the next 5 months, and asked them to hire some carpenters to build a stable for Karl the Ox.
+
+Theryn - Heading for miners
+Ardin and Valmar and Fran - Looking for armor
+Ibal - Makes notes about the bath salts

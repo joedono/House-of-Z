@@ -1,4 +1,5 @@
 # Frost Friends
+-- BOOKMARK --
 Once the party gets back to Loftran, they're next step will be to scale the mountains to get to Durrstaft. It's been 50-60 days since the party defeated Katarina Tsolka, and the party left the Snow Mutant alive. It's been busy.
 
 ## Snow Mutant
@@ -11,6 +12,9 @@ Being a Revenant, any checks made to convince Garlan that his vengeance is mispl
 * Bheur Hag: https://www.dndbeyond.com/monsters/bheur-hag
 * Skeletal Owlbear: https://www.dndbeyond.com/monsters/skeletal-owlbear
 * Revenant: https://www.dndbeyond.com/monsters/revenant
+
+Since their last encounter, the Snow Mutant has had a sack of oil grafted onto it's back, granting it a Fire Breath ability:
+**Fire Breath (Recharge 5–6).** The creature exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 
 ## Starting the Fight
 Up until this point, the weather has been perfectly clear, making the climb up relatively easy. As the party crosses through the pass, the hag will cast Control Weather, and summon a blizzard.
