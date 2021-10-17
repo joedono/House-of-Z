@@ -6,7 +6,7 @@ The bulk of the city is on top of a plateau, with a wide main road leading up a 
 
 Durrstaft is not a very magical city, as opposed to Loftran or The Heavenly Cay. There will be general stores, armorers, blacksmiths, inns, taverns, apothecaries, and temples, but almost no magic shops, potion sellers, formal educational buildings, or any of the more "off beat" shops, like trinket shops, fashion shops, or jewelery shops.
 
-The people of Durrstaft aren't very welcoming to outsiders. They don't like smalltalk or pleasantries and aren't likely to help outsiders with anything other than direct transactions ("what business do you have with me?"). If asked for directions, the natives are likely to refuse and throw in an insult such as, "ye've got eyes, haven't ye? Find it yerself.""
+The people of Durrstaft aren't very welcoming to outsiders. They don't like smalltalk or pleasantries and aren't likely to help outsiders with anything other than direct transactions ("what business do you have with me?"). If asked for directions, the natives are likely to refuse and throw in an insult such as, "ye've got eyes, haven't ye? Find it yerself."
 
 ## Execution
 Durrstaft has a couple creative methods for executing people, both of which wind up being spectacles for those in attendance. The party will encounter several victims of Ice Poisoning en route and witness a Cube Lake execution in progress when they arrive.
