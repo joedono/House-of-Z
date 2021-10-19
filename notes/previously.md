@@ -1,5 +1,14 @@
 # Previously
 
+## 2021-10-18
+Previously, on Bumps in the Snow
+
+The party took a trip *up* memory lane as they ascended through the Durrstaft Mountains. They encountered several landmarks from their previous journey up the mountain, including the bloody remains of an owlbear nest near the frozen river. A way-too-sudden blizzard forced the party to make camp in the Frostfall Pass. The blizzard ended almost as suddenly as it began. The party's watch was tense as they saw things moving around the mountain and heard eerie laughter on the wind.
+
+As morning approached, the party decided to go on the offensive. With Fran and Ibal in the lead (Ibal safely hidden among the snowy trees), the party made their way towards the end of the pass, where they were ambushed by a dread party of snow creatures: a Bheur Hag cackling on her flying staff, three Skeletal Owlbears, the familiar Snow Mutant, and one Garlan Hido, the red dragonborn druid, formerly of the Red Drakes, now risen as a Revenant and bent on revenge against Valmar/Liara.
+
+Things aren't looking too good for our heroes....
+
 ## 2021-10-04
 Previously, on Family Matters
 
