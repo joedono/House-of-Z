@@ -1,5 +1,5 @@
 # Discovering Sophil
-If the party made it into the city without being arrested, they'll likely visit the Temple of Thorm and receive this quest from Alistor, a young cleric that is actually an Adult Silver Dragon in disguise. Sophil is his sister.
+If the party made it into the city without being arrested, they'll likely visit the Temple of Torm and receive this quest from Alistor, a young cleric that is actually an Adult Silver Dragon in disguise. Sophil is his sister.
 
 If the party was arrested because they wouldn't stop shouting about dragons, they'll receive this quest from Durin Ironfist after they successfully escape prison.
 
