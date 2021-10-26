@@ -10,4 +10,4 @@ If the party inquires about the executions, Alistor will tell them they only nee
 
 Alistor will admit that he doesn't know where to start, only that holding the dragon like this is wrong. He'll have heard of the two previous failed revolutions and suggest that the party attempt to seek out remnants of those forces that might still have some fight in them. This will lead the party to Mr Smith, the town blacksmith shop, where the owner, Durin Ironfist, is one such revolutionary and good friend of Fran.
 
-TODO
+TODO Fill in Sophil Quest Details
