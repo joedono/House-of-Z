@@ -18,20 +18,11 @@ Most of the guards are Veterans, with the two head guards being Champions.
 https://www.dndbeyond.com/monsters/veteran
 https://www.dndbeyond.com/monsters/champion
 
+Alistor has stats identical to Kellen.
+
 ## Prison - Lower Level
 Contrary to popular belief, there are no "special" prisoners. The Lower Level of the prison only serves as Sophil's holding facility.
 
 Like the main arena, there will be four crystals around the arena that are continually casting Hold Monster on Sophil through her collar. There will be special forces guards down here, including at least one wizard, for the party to contend with.
 
 Once the party frees Sophil, it'll take a little while for Alistor to get her under control. She'll go wild and attack anyone except Alistor until he successfully makes a Persuasion check to convince her that the party mean to help her.
-
-## Opening the Door
-The party now has to contend with getting her out. Since she's under the effect of a Feeblemind spell, she won't be able to change shape. There will actually be a large door that leads to the execution arena, but the party has to open it.
-
-If the enemy wizard is still alive, he can be threatened with the solution to the lock on the large door. If not, the party will have to figure it out for themselves.
-
-### Sophil Door Puzzle
-TODO Figure out puzzle
-
-## Execution Arena
-If the party freed Sophil by destroying the crystals, then the ones out here will activate her collar and cast Earthbind, preventing her from flying away, and alerting more guards from within the prison, sparking another fight in the arena. This time, Sophil is 100% on the party's side and will help them so long as she is Earthbound. Out here, Alistor also has enough room to maneuver and will resume his adult silver dragon form.
