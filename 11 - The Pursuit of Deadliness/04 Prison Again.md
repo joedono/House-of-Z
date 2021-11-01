@@ -17,8 +17,9 @@ https://i.pinimg.com/originals/8b/9e/76/8b9e7632facbfb663167f74023c4d32e.jpg
 Most of the guards are Veterans, with the two head guards being Champions.
 https://www.dndbeyond.com/monsters/veteran
 https://www.dndbeyond.com/monsters/champion
+https://www.dndbeyond.com/monsters/mage
 
-Alistor has stats identical to Kellen.
+While in humanoid form, Alistor has stats identical to Kellen.
 
 ## Prison - Lower Level
 Contrary to popular belief, there are no "special" prisoners. The Lower Level of the prison only serves as Sophil's holding facility.

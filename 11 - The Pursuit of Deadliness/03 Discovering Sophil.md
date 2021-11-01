@@ -14,7 +14,7 @@ If the party inquires about the executions, Alistor will tell them they only nee
 Once the party has floundered a little trying to come up with a plan, Alistor will remember Mr Smith, the town blacksmith, has been around a long time and hates the government. He might know something that can help the party.
 
 ## Mr Smith
-The blacksmith shop is owned by Durin Ironfist, a former revolutionary and good childhood friend of Fran. Durin might have some ideas for how to get access to the deeper part of the prison. He at least knows of a way to smuggle gear into the prison through the old Gnoll caves. But he doesn't really know anything about the "special" cells or how to get to them.
+The blacksmith shop is owned by Durin Ironfist, a former revolutionary and good childhood friend of Fran. Durin might have some ideas for how to get access to the deeper part of the prison. He at least knows of a way to smuggle gear into the prison through the old Gnoll caves (long abandoned). But he doesn't really know anything about the "special" cells or how to get to them.
 
 ## Get Arrested
 The party could just commit a grievous crime to get arrested, but then they'll be without their gear in a prison without any recourse. If this happens, Alistor might be able to smuggle something to them to help them break out.
@@ -26,11 +26,15 @@ Once inside, the party is likely to run into Gnoll resistance before getting to 
 
 https://www.deviantart.com/zatnikotel/art/Green-Dragon-Lair-792500314
 
-The caves are (of course) populated with a small band of Gnolls with pets:
-https://www.dndbeyond.com/monsters/gnoll-fang-of-yeenoghu
-https://www.dndbeyond.com/monsters/shoosuva
-https://www.dndbeyond.com/monsters/gnoll-vampire
-https://www.dndbeyond.com/monsters/gnoll-pack-lord
-https://www.dndbeyond.com/monsters/gnoll
+The caves are (of course) populated with misc other creatures that moved in after the Gnolls were cleared out:
+https://www.dndbeyond.com/monsters/frost-salamander
+https://www.dndbeyond.com/monsters/ice-troll
+https://www.dndbeyond.com/monsters/cloaker
+https://www.dndbeyond.com/monsters/gelatinous-cube
 
-Maybe add some spellcasting to some of these monsters to make them more threatening.
+### Abandoned Gnoll Camp
+In the lower-left cave on the map, the party can find the remains of the abandoned Gnoll Camp. It's mostly rags, broken wood, and frozen leather scraps. A DC 15 Perception/Investigation check will reveal a small alcove hidden behind a rock in the wall that contains:
+* 200gp
+* Potion of Climbing x2
+* Potion of Healing x3
+* Spell Scroll (Faerie Fire)
