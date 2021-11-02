@@ -32,11 +32,10 @@ If the party makes a big stink about Viserion, they'll be arrested and put in pr
 If the party doesn't free themselves, they'll be visited by Durin Ironfist, a VERY old friend of Fran's and effectively a leader of an underground resistance. Durin will be able, with a bit of planning, get Fran out of jail. As a favor to a friend, Durin will ask the party for help with the resistance's latest mission: to discover how the guards freeze people and somehow disrupt their methods. Durin knows that the method is a Feebleminded Adult Silver Dragon, but won't tell the party that unless convinced or threatened.
 
 ## Temple of Torm
--- BOOKMARK --
 There is a temple to Torm within Durrstaft. The head cleric there is Master Nathan Sarnol. If the party asks about any upcoming pilgrimages, Nathan will tell them that the last cleric who would have been eligible disappeared almost two months ago, and the next group of graduates wouldn't be ready for another year. That missing cleric was Liara, of course. The party won't really have any way to prove that Liara is who she says she is. If she comes forward right in front of Nathan, he'll see the obvious Hat of Disguise and assume a cheap ruse. The party will have to find another way to get information on the hidden temple.
 
 Other Clerics
-* Shani Longspotter - An acolyte from Lindenvale. Viserion in disguise.
+* Shani Longspotter - Female human. An acolyte from Lindenvale. Viserion in disguise. Has a pet cat named Pads (formerly Fangs. Actually King Samuel).
 * Jarrek Bestalt - Human male acolyte. 14 years old. The newest member of the clergy. Wide-eyed and very innocent. His parents sent him to the church to learn an occupation, but he doesn't know that they were executed as heretics, frozen, and are displayed on the road to Durrstaft.
 * Marloth Sethran - Female dwarf cleric. Around 120 years old. Only one year away from her full clergyship. Second in command to Master Nathan. Very motherly, but not blind to the corruption in the city. She'll be apologetic, but also refuse to help the party find the temple.
 * Eberk, Travok, and Harbek Battlehammer - Male dwarven acolytes. Triplets who are always seen together.

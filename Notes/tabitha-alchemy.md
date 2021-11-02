@@ -9,10 +9,6 @@ Effect: The affected creature suffers from the Reduce spell, becoming half their
 Instructions: Drink
 Effect: The affected creature appears to be in two places at once, identical to the effect granted by the Cloak of Displacement (attacks against creature have disadvantage). Effect lasts until the character takes damage or until the next long rest.
 
-## Potion of Babble
-Instructions: Drink
-Effect: The creature loses the ability to speak Common for 1 hour.
-
 ## Seed of Many Faces
 Instructions: Plant in the dirt. Wait for 5 minutes
 Effect: A plant sprouts that quickly grows into a full-grown tree. The tree bark takes on the shape of many faces. Every so often, one of the faces will open its eyes and repeat "I am a tree. I am a tree" for 5 minutes before going back to sleep again.
@@ -20,6 +16,10 @@ Effect: A plant sprouts that quickly grows into a full-grown tree. The tree bark
 ---
 
 ## Used
+
+## Potion of Babble
+Instructions: Drink
+Effect: The creature loses the ability to speak Common for 1 hour.
 
 ## Powder of Pride
 Instructions: Dissolve in bathwater and bathe for no less than one hour

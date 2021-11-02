@@ -1,5 +1,18 @@
 # Previously
 
+## 2021-11-01
+Previously, on Double Ds (Dwarves and Dragons, you dirty-minded heathen!!)
+
+The party was introduced to the various clergy at the Temple of Torm. There was Alistor, a dwarf male and effectively their tourguide for the evening. Jarrek, a young human male and quiet acolyte seen sweeping the alter after worship was done for the day. Marloth, a matronly dwarf woman and decent chef. Eberk, Travok, and Harbek, a set of young dwarf triplets and serious troublemakers, by the look of things. And Shani Longspotter, a young female human with a cat named Pads who appears to have a small crush on Alistor.
+
+The party met with Master Nathan, the human patriarch of the temple, but he was less than receptive to their request to learn about the hidden temple. He dismissed Valmar's claims as a miserable joke, Thunderwaved the group away from his door, and shut himself in for the night.
+
+All was not lost. Alistor, upon learning that the party was involved with Viserion and Anguisa, told the party that he could help them find the hidden temple, if they would only help him rescue his sister from the Durrstaft prison. He thinks she's being held with the "special" prisoners. Fran remembered an old mentor of his, Durin Ironfist, who used to be a revolutionary and might know a thing or two about breaking people out of prison. The party paid him a visit at his blacksmith shop.
+
+While there, it was revealed that Alistor is actually a silver dragon in disguise. Durin was less than enthused about that prospect, so Alistor waited outside while the party discussed plans. Durin was more than happy to help plan a caper that would stick it to the man in any way he could. He told the party of a hidden cave where a tribe of Gnolls used to live before they were cleared out a few decades ago. One of the walls inside the cave butts right up against the prison wall. Going that way would at least get the party inside with all their gear intact. Durin sold the party several sets of climbing gear, and everyone finally settled in for a long overdue rest.
+
+The next morning, the party met Alistor by the south gate of the city and set off to find the cave.
+
 ## 2021-10-25
 Previously, on Death Becomes Him
 
