@@ -11,6 +11,8 @@ A gauntleted fist. The origin of the symbol was that Torm lost his hand during t
 4. The fourth tenant is sacrifice. You must be willing to lose everything to protect your focus.
 5. The final tenant is self. Even if you lose everything, the one thing that must be protected above all else is yourself.
 
+The final tenant is a secret kept from acolytes and lower-level clerics until they are ready to make the pilgrimage.
+
 ## Conflict
 Higher clerics normally struggle with adopting the 5th tenant since it conflicts so obviously with the 1st. Reconciling these is a difficult journey. The core lesson to be learned here is that giving of yourself to protect others is noble and should be strived for, but giving ABSOLUTELY EVERYTHING robs you of your ability to protect anything else. So in order to continue protecting that which needs protecting, one must also practice protecting oneself.
 
