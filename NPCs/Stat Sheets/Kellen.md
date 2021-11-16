@@ -10,7 +10,7 @@ Knows Minor Illusion cantrip
 Speak with Small Beasts
 
 ## Stats
-HP 48
+HP 65
 AC 13
 
 STR 10(+0)
@@ -33,10 +33,10 @@ Save DC 14
 Spellcasting Modifier +6
 
 Cantrips (at will): light, mending, sacred flame, spare the dying
-1st level (4 slots): shield of faith, healing word, guiding bolt, sanctuary, fog cloud
+1st level (4 slots): shield of faith, healing word, guiding bolt, sanctuary, fog cloud XX
 2nd level (3 slots): protection from poison, lesser restoration
 3rd level (3 slots): daylight, revivify, spirit guardians
-4th level (3 slots): banishment, freedom of movement
+4th level (3 slots): banishment, freedom of movement X
 5th level (1 slot): greater restoration
 
 ## Actions

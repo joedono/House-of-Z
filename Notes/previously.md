@@ -1,5 +1,10 @@
 # Previously
 
+## 2021-11-15
+Previously, on Swinging in the Rain
+
+The party met up with Alistor at the south gate to Durrstaft. He was making small talk with some of the guards, explaining that he was heading south on a religious mission and that the party was his bodyguards. The city guards were relieved since the Frostfall pass was rumored to be very dangerous lately. The party made their way south, until their route took a sharp right and around a short gap onto a wide ledge around the mountain. A hilarious climbing adventure and some walking later, and the party found the entrance to the former Gnoll Cave. They entered, discovered some loot hidden among the leftovers of the Gnoll Camp, and fought a few monsters, making their way through the frozen cave.
+
 ## 2021-11-01
 Previously, on Double Ds (Dwarves and Dragons, you dirty-minded heathen!!)
 
