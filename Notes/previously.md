@@ -1,5 +1,18 @@
 # Previously
 
+## 2021-11-29
+Previously, on Don't Touch My Meat
+
+In a harrowing series of events, the party:
+1. Ran in to a pair of Ice Trolls finishing up a meal
+2. Managed to not antagonize the Trolls
+3. Ran in to a Frost Salamander prowling for it's next meal
+4. Narrowly avoid being frozen and turned into said meal
+5. Kill the Frost Salamander
+6. Use its corpse to appease the Ice Trolls so they could work in peace
+
+The party located the abutting wall of the prison, and through some creative illusion work by Alistor, manage to break in unnoticed. Ibal took out one guard and the party started exploring the Durrstaft Prison. Alistor recognized the area the party entered as the "normal" level of the prison. He knows the way to the locked door that supposedly leads down to the "special" level. Now all the party has to do is sneak past the guards.
+
 ## 2021-11-15
 Previously, on Swinging in the Rain
 

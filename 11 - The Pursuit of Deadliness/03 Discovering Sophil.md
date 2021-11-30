@@ -20,7 +20,6 @@ The blacksmith shop is owned by Durin Ironfist, a former revolutionary and good 
 The party could just commit a grievous crime to get arrested, but then they'll be without their gear in a prison without any recourse. If this happens, Alistor might be able to smuggle something to them to help them break out.
 
 ## Gnoll Caves
--- BOOKMARK --
 If the party opts to use the Gnoll Caves to sneak into the prison, Alistor will insist on accompanying them. Durin will be able to show the party the entrance. It's a short hike outside the city and around a hidden path along the cliff to the east. The path overlooks the frozen lake and is very narrow.
 
 Once inside, the party is likely to run into Gnoll resistance before getting to the prison.

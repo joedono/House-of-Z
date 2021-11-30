@@ -1,7 +1,7 @@
-Alistor - 22
-Ibal - 21
-Fran - 21
-Theryn - 17
-Ardin - 16
-Valmar/Liara - 15
-Darquin - 7
+Ibal - 24
+Fran - 22
+Ardin - 17
+Theryn - 13
+Alistor - 13
+Valmar/Liara - 10
+Darquin - 10

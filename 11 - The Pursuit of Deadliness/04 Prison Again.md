@@ -12,9 +12,11 @@ Each crystal has 100hp and destroying three of them will prevent them from refre
 After the fight, guards will descend on the arena, but Durin will appear and say he has a way out. He'll lead the party back into the prison and through the wall (which Durin has dismantled) into the gnoll caves. Durin will then cast Minor Illusion to make the wall appear to still be there, giving the party precious time to escape through the caves.
 
 ## Prison - Upper Level
+-- BOOKMARK --
 https://i.pinimg.com/originals/8b/9e/76/8b9e7632facbfb663167f74023c4d32e.jpg
 
-Most of the guards are Veterans, with the two head guards being Champions.
+Most of the guards are Veterans, with the two head guards being Champions. Some are still Guards, as needed.
+https://www.dndbeyond.com/monsters/guard
 https://www.dndbeyond.com/monsters/veteran
 https://www.dndbeyond.com/monsters/champion
 https://www.dndbeyond.com/monsters/mage

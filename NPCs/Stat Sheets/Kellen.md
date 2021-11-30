@@ -1,4 +1,4 @@
-# Brother Kellen
+# Brother Kellen (also Alistor)
 Gnomish Cleric. One of the masters of the House of Sunlight.
 
 ## Racial Traits
@@ -35,9 +35,9 @@ Spellcasting Modifier +6
 Cantrips (at will): light, mending, sacred flame, spare the dying
 1st level (4 slots): shield of faith, healing word, guiding bolt, sanctuary, fog cloud XX
 2nd level (3 slots): protection from poison, lesser restoration
-3rd level (3 slots): daylight, revivify, spirit guardians
+3rd level (3 slots): daylight, revivify, spirit guardians X
 4th level (3 slots): banishment, freedom of movement X
-5th level (1 slot): greater restoration
+5th level (1 slot): greater restoration, mass cure wounds X
 
 ## Actions
 Mace
