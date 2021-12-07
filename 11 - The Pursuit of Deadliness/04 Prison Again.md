@@ -12,7 +12,6 @@ Each crystal has 100hp and destroying three of them will prevent them from refre
 After the fight, guards will descend on the arena, but Durin will appear and say he has a way out. He'll lead the party back into the prison and through the wall (which Durin has dismantled) into the gnoll caves. Durin will then cast Minor Illusion to make the wall appear to still be there, giving the party precious time to escape through the caves.
 
 ## Prison - Upper Level
--- BOOKMARK --
 https://i.pinimg.com/originals/8b/9e/76/8b9e7632facbfb663167f74023c4d32e.jpg
 
 Most of the guards are Veterans, with the two head guards being Champions. Some are still Guards, as needed.
@@ -27,5 +26,5 @@ While in humanoid form, Alistor has stats identical to Kellen.
 Contrary to popular belief, there are no "special" prisoners. The Lower Level of the prison only serves as Sophil's holding facility.
 
 Like the main arena, there will be four crystals around the arena that are continually casting Hold Monster on Sophil through her collar. There will be special forces guards down here, including at least one wizard, for the party to contend with.
-
+-- BOOKMARK --
 Once the party frees Sophil, it'll take a little while for Alistor to get her under control. She'll go wild and attack anyone except Alistor until he successfully makes a Persuasion check to convince her that the party mean to help her.

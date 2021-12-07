@@ -1,5 +1,12 @@
 # Previously
 
+## 2021-12-06
+Previously, on Dracophobia
+
+The party very skillfully snuck through the Durrstaft prison, and even managed to stage a convincing distraction by leaving the knocked-out bodies of two guards next to the hole they made in the prison wall. At least one guard and a guard captain saw this as a sign of intrusion, but given the nature of the cave, were likely to assume it was some wild or less-than-intelligent creature. Hopefully, they don't run into those Ice Trolls snacking on frozen lizard.
+
+The party made their way down to the "special level" and found a giant room completely bereft of prison cells. Whatever this place is, it seems solely dedicated to the great silver dragon at the center. Alistor recognized the frozen creature as his sister, Sophil. There was no outward sign indicating why she wasn't moving. She hasn't been turned to stone, she's not covered in ice, she's just.... still. It wasn't long before her guard came out and proceeded to deal with the intruders.
+
 ## 2021-11-29
 Previously, on Don't Touch My Meat
 
