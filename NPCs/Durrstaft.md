@@ -5,6 +5,9 @@
 ### Durin Ironfist
 Male dwarf. A very old friend of Fran's. Currently a leader of an underground resistance in Durrstaft. Their objective isn't to take over the government or grossly change things, but just to make things a little more troublesome for them. Two failed rebellions taught them that the Durrstaft government is too powerful to be taken down.
 
+### Poddrick Mosrii
+Male dwarf. Another very old friend of Fran's. The two of them essentially taught each other fishing, a la Ryu and Ken. Fran and party found him in the Durrstaft prison for an unspecified crime.
+
 ## Temple of Torm
 
 ### Nathan Sarnol

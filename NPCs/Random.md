@@ -1,8 +1,6 @@
 # Random NPCs
 
 ## Humans
-- Poddrick Mosrii
-
 - Karli Bennah
 - Shani Logran
 - Namaari Chi
