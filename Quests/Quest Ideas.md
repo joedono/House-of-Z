@@ -3,9 +3,6 @@
 ## Wizard's Final Exam
 Cathlene's final exam is coming up in a few months and she needs help studying. Maybe take her on a quest to get some real world experience. She has a grudge against Fran for "killing" her during their last study session.
 
-## Snow Mutant
-Karina's Snow Mutant is still alive. After it recuperates, it'll start terrorizing travelers through Frostfall Pass again.
-
 ## Black Dragon Hatchling
 Tabitha is now in possession of a whole dragon egg. She's smart enough and self-centered enough to not be affected by it and not to hatch it. Helen.... not so much.
 
@@ -21,3 +18,6 @@ Have the party encounter a sorcerer who attempted to suppress their Wild Magic o
 
 ## Eliza Long's Daughter
 Eliza Long, one of the villains of Beneath the Black Rose, mentioned her missing daughter multiple times. Eliza was murdered 50 years ago. The module doesn't mention her daughter at all, so it's up to me to come up with something about this.
+
+## Poddrick's Debt
+Fran found his old fishing buddy, Poddrick, in a Durrstaft prison cell. Without giving any thought to why he might be there, Fran threw him the keys to his cell. The party had created a pretty substantial distraction already, so Poddrick will have no problem escaping. He might contact Fran again and ask if there's a way he can repay Fran for helping him escape. However, Poddrick has an ulterior motive for getting involved with Fran again.
