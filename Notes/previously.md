@@ -1,5 +1,16 @@
 # Previously
 
+## 2021-12-13
+Previously, on We're Really Tired
+
+The party managed to dispatch the soldiers in charge of guarding Sophil, but it was a close thing. Once they were done, Fran verified that the guards upstairs were busy fighting something. They had most likely ran afoul of the Ice Trolls the party encountered. Now relatively undisturbed, the party took stock of their surroundings.
+
+Sophil still wasn't moving. The party eventually deduced that the two red crystals were Hatching Stones set to continuously cast Hold Monster on her. Destroying them freed her. She almost turned and attacked the party, but was pacified by an unusually high Persuasion check from Alistor. She appeared to be under the effects of the Feeblemind spell, reducing her to one step above a mindless beast. Alistor managed to convince her that the rest of the party are there to help her, but short of a Greater Restoration spell, Feeblemind lasts a minimum of 30 days after it successfully takes hold. The party isn't going to be able to get Sophil to transform, so they have to get her out through the large gate.
+
+The large main gate was locked with a tandem lock, requiring keys to be turned and mechanisms to be activated in multiple locations around the room at once to be opened. The party made relatively short work of the lock and found themselves outside in the cold once again. The door opened out into a coliseum littered with frozen corpses. Putting two and two together, the party deduced that the Durrstaft guards had been using Sophil as an execution tool.
+
+Now, tired and running low on magical energy, where to next?
+
 ## 2021-12-06
 Previously, on Dracophobia
 

@@ -14,6 +14,7 @@ The door is your typical partnered-lock mechanism. Opening it requires two keys 
 One key can be found by searching the guards. The other can be found in the adjoining office. The crystal will remind the party of the Hatching Stones required to enter the Forbidden Section of the Wizard's College Library. This one will be glowing white currently, a signal that it's set to respond to radiant energy (although the party might mistake it for cold).
 
 ## Execution Arena
+-- BOOKMARK --
 If the party freed Sophil by destroying the crystals, then the ones out here will activate her collar and cast Earthbind, preventing her from flying away, and alerting more guards from within the prison, sparking another fight in the arena. This time, Sophil is 100% on the party's side and will help them so long as she is Earthbound. Out here, Alistor also has enough room to maneuver and will resume his adult silver dragon form to aid in the battle.
 
 If the party disables the Earthbind spell, Alistor will prompt them to climb on his back and he'll fly them away from here. Sophil will be too weak to fly too far, so Alistor will insist on settling down in a remote part of the mountains where they won't be disturbed.

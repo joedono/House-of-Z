@@ -34,9 +34,9 @@ Spellcasting Modifier +6
 
 Cantrips (at will): light, mending, sacred flame, spare the dying
 1st level (4 slots): shield of faith, healing word, guiding bolt, sanctuary, fog cloud XXX
-2nd level (3 slots): protection from poison, lesser restoration
+2nd level (3 slots): protection from poison, lesser restoration X
 3rd level (3 slots): daylight, revivify, spirit guardians X
-4th level (3 slots): banishment, freedom of movement X
+4th level (3 slots): banishment, freedom of movement XXX
 5th level (1 slot): greater restoration, mass cure wounds X
 
 ## Actions
