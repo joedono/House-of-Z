@@ -26,5 +26,3 @@ The party's goal is to somehow stop Viserion from resurrecting Anguisa. There ar
 
 ## Hidden Torm Temple
 Only Nathan really knows all the secrets of the hidden temple. Alistor only knows that there is an underground entrance to something in the Durrstaft Mountains that is protected by strong divine magic. He knows enough to tell the players how to get there, but doesn't know anything about how to get in.
-
-Viserion will use Detect Thoughts repeatedly on Master Nathan to extract the location of the temple from him.
