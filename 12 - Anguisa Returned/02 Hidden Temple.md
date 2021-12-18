@@ -34,8 +34,9 @@ The party will be given the chance to take a short rest after each of the first 
 This is basic protection, done through a combat encounter. There will be a Hatching Stone that a couple waves of constructs will attempt to attack. The cleric will have to protect the stone by defeating the approaching enemies.
 
 Stone Golem (Reduced Threat) - https://www.dndbeyond.com/monsters/reduced-threat-stone-golem
+Roper - https://www.dndbeyond.com/monsters/roper
 
-The golems will approach the crystal from many directions, casting Slow on party members before approaching the crystal. The multi-directional attack should keep the party off-balance.
+The golems will approach the crystal from many directions, casting Slow on party members before approaching the crystal. The multi-directional attack should keep the party off-balance. The ropers will attempt to pull party members away from the crystal.
 
 If the party has the talisman from Nathan, the chamber will not activate and the door to the next chamber will open.
 
