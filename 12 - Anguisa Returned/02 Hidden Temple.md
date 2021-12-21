@@ -25,7 +25,7 @@ along with the words *Name the Tenants* carved above them.
 
 Simply reciting the first four tenants of Torm (selflessness, focus, drive, sacrifice) out loud will unlock the gate, causing the stone to move aside and revealing the continuing tunnel. If the party doesn't remember the tenants, then a DC 20 Religion check will have them remember.
 
-## Hazards Within
+## Challenges Within
 The hazards within the temple are a gauntlet of challenges meant to test the mettle and worthiness of clerics who want to devote themselves to Torm. The hazards will be themed after each of the first four tenants: selflessness, focus, drive, and sacrifice. How do I turn those into hazards that directly test each tenant?
 
 The party will be given the chance to take a short rest after each of the first 4 challenges, and a long rest before the Final Challenge via time-bending chambers.

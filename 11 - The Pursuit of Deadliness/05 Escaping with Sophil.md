@@ -17,6 +17,8 @@ One key can be found by searching the guards. The other can be found in the adjo
 -- BOOKMARK --
 If the party freed Sophil by destroying the crystals, then the ones out here will activate her collar and cast Earthbind, preventing her from flying away, and alerting more guards from within the prison, sparking another fight in the arena. This time, Sophil is 100% on the party's side and will help them so long as she is Earthbound. Out here, Alistor also has enough room to maneuver and will resume his adult silver dragon form to aid in the battle.
 
+Each crystal has 100hp and destroying three of them will prevent them from refreshing the Earthbind spell. The collar has an AC of 19 and players roll to hit it with disadvantage due to Sophil being not at all coorporative. It also has 100hp. Any AOE spells that encompass the dragon also damage the collar. The collar automatically fails all saving throws. Destroying it will also free the dragon from the Earthbind spell.
+
 If the party disables the Earthbind spell, Alistor will prompt them to climb on his back and he'll fly them away from here. Sophil will be too weak to fly too far, so Alistor will insist on settling down in a remote part of the mountains where they won't be disturbed.
 
 ## Epilogue
