@@ -14,7 +14,6 @@ The door is your typical partnered-lock mechanism. Opening it requires two keys 
 One key can be found by searching the guards. The other can be found in the adjoining office. The crystal will remind the party of the Hatching Stones required to enter the Forbidden Section of the Wizard's College Library. This one will be glowing white currently, a signal that it's set to respond to radiant energy (although the party might mistake it for cold).
 
 ## Execution Arena
--- BOOKMARK --
 If the party freed Sophil by destroying the crystals, then the ones out here will activate her collar and cast Earthbind, preventing her from flying away, and alerting more guards from within the prison, sparking another fight in the arena. This time, Sophil is 100% on the party's side and will help them so long as she is Earthbound. Out here, Alistor also has enough room to maneuver and will resume his adult silver dragon form to aid in the battle.
 
 Each crystal has 100hp and destroying three of them will prevent them from refreshing the Earthbind spell. The collar has an AC of 19 and players roll to hit it with disadvantage due to Sophil being not at all coorporative. It also has 100hp. Any AOE spells that encompass the dragon also damage the collar. The collar automatically fails all saving throws. Destroying it will also free the dragon from the Earthbind spell.

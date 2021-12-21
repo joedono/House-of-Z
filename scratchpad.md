@@ -1,25 +1,18 @@
-Ibal - 
-Fran - 
-Ardin - 
-Theryn - 
-Alistor - 15 | 243 - 0
-Valmar/Liara - 
-Darquin - 
-Sophil - 8 | 243 - 0
+Fran - 21
+Ibal - 18
+Valmar/Liara - 16
+Ardin - 15
+Alistor - 15 | 243 - 0 33 47 77 81 92
+Darquin - 12
+Theryn - 10
+Sophil - 8 | 243 - 0 7 17 23 43 51 57 61 72 87
+Guards
 
-Guard 1 - 0 | 143 - 0
-Guard 2 - 0 | 143 - 0
-Guard 3 - 0 | 143 - 0
-Guard 4 - 0 | 143 - 0
-Guard 5 - 0 | 143 - 0
-Guard 6 - 0 | 143 - 0
-Guard 7 - 0 | 143 - 0
+Guard 5 - 0 | 143 - 0 28 46 56 96 104 113 124
+Guard 6 - 0 | 143 - 0 71
+Guard 7 - 0 | 143 - 0 71
+Guard 8 - 0 | 143 - 0 71
+Guard 9 - 0 | 143 - 0 71
+Guard 10 - 0 | 143 - 0 71
 
-Mage 1 - 0 | 50 - 0
-Mage 2 - 0 | 50 - 0
-
-Crystal 1 - 100 | 0
-Crystal 2 - 100 | 0
-Crystal 3 - 100 | 0
-Crystal 4 - 100 | 0
 Collar - 100 | 0

@@ -1,5 +1,16 @@
 # Previously
 
+## 2021-12-20
+Previously, on Baby It's Cold Outside
+
+Sophil, upon seeing the open sky above the coliseum, immediately attempted to fly away. She was brought back down with a force and an alarm was sounded. The party quickly surmised that the hatching stone crystals embedded in the wall were similar to the ones from the prison basement. They were enchanted to continuously cast Earthbind on Sophil, preventing her from flying away. The party set about destroying the crystals as the Durrstaft guards descended upon them.
+
+Partially thanks to a well-rolled Wild Magic burst that turned EVERYONE INVISIBLE, the party managed to escape with the two silver dragons into the afternoon sky. Alistor flew the group to a remote location in the western Durrstaft Mountains where the group made camp and finally took a well-earned long rest. In the evening, the party spoke with Alistor about what to do next.
+
+With no end in sight for Sophil's Feeblemind spell, the party offered up the names of Kellen and Thia. The party had previous experience with them and curse removal, and they'd be much more amicable towards curing dragons than anyone in Durrstaft would. Since Sophil is currently in no shape to travel, Alistor elected to remain with her for now, but offered up what information he could to repay his debt to the party. Alistor knows the location of the Hidden Temple of Torm. He knows that it is not usually guarded by any people, but that it is covered with enchantments meant to serve as a proving ground or a trail for Torm clerics looking to take the final steps in their religious journey to becoming masters. He also warns the party not to trust all the clerics of Torm in Durrstaft, as he felt another draconic presence while he was there. He's not able to remember specifically who, but he does remember that at least two of the clerics had green eyes. The party remembered that Anguisa was defeated within the hidden temple (retcon, sorry) and that it is likely that the group that defeated her made some use of the temple's defenses to aid them in the battle.
+
+With a little more help from Alistor, the party is able to chart a path through the mountains back to Durrstaft.
+
 ## 2021-12-13
 Previously, on We're Really Tired
 
