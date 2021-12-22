@@ -1,4 +1,5 @@
 # Summary
+-- BOOKMARK --
 The party has discovered the location of the hidden Temple of Torm and are now suspicious of the Torm clerics in Durrstaft. Their likely suspects will be those with green eyes, which are Shani Longspotter and Marloth Sethran. The things that implicate Shani are her pet cat, Pads, and the lost spellbook she has in her chambers. Her cat is actually King Samuel of Loftran. Simply dealing 1HP damage to Pads will undo the True Polymorph spell he's been put under. If Liara can get a look at the spellbook, she'll recognize it as the book her order on Mount Stratha had lost.
 
 The thing that implicates Marloth is that three weeks ago, she left the city by the south gate and traveled alone to Loftran. The players might be suspicious that she got past the Snow Mutant without being harassed and killed. Marloth is actually a fairly powerful cleric who can take care of herself just fine.
