@@ -1,4 +1,5 @@
 # Hidden Temple
+-- BOOKMARK --
 If the party comes straight here after leaving Alistor, they'll know the temple's location and a little about the traps and devices that are waiting for them. Their goal will be to locate the site of Anguisa's defeat, which is inside the temple itself.
 
 The clerics and Deathbringers discovered at least part of what Anguisa was planning to do, what sort of ritual she intended to cast. They started spreading a rumor that one of her required ritual components was located in the hidden temple to lure Anguisa into a place where the clerics would have the lair advantage. Through creative use of the divine magic and devices within the temple, the clerics and Deathbringers defeated Anguisa.
@@ -7,7 +8,7 @@ If the party comes here after returning to the Temple of Torm, Nathan will have 
 
 Time will fluctuate inside the temple, leaving the party with plenty of opportunities for long rests.
 
-## Tenants
+## Tenets
 1. The first tenant is selflessness. You must be willing to give of yourself to protect others
 2. The second tenant is focus. You must find something precious to protect. It could be a loved one or it could be the world, but it must not violate the first tenant.
 3. The third tenant is drive. You must be willing to give your everything to protect your focus.

@@ -8,6 +8,12 @@ Male dwarf. A very old friend of Fran's. Currently a leader of an underground re
 ### Poddrick Mosrii
 Male dwarf. Another very old friend of Fran's. The two of them essentially taught each other fishing, a la Ryu and Ken. Fran and party found him in the Durrstaft prison for an unspecified crime.
 
+### Kartha
+Female elf. One of the head waitresses at the Warm Boulder.
+
+### Tartha
+Female elf. The other head waitress.
+
 ## Temple of Torm
 
 ### Nathan Sarnol
@@ -23,7 +29,7 @@ Female dwarf cleric. Around 120 years old. Only one year away from her full cler
 Male dwarven acolytes. Triplets who are always seen together. Has grey eyes.
 
 ### Gunnolda Frostbeard
-A distant cousin of Baern Frostbeard of Loftran. 72 years old. She doesn't particularlly want to be here, but another cleric of Torm gave his life to save her, so she feels obligated to fulfill his duties. Has blue eyes.
+A distant cousin of Baern Frostbeard of Loftran. 72 years old. She doesn't particularly want to be here, but another cleric of Torm gave his life to save her, so she feels obligated to fulfill his duties. Has blue eyes.
 
 ### Alistor Grassroot
 A male halfling. Actually a silver dragon in disguise. WAY too excited to be a cleric. Has green eyes.

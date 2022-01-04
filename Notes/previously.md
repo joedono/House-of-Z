@@ -1,5 +1,12 @@
 # Previously
 
+## 2021-01-03
+Previously, on Lemonese
+
+The party got some more well-earned rest in Durrstaft. There were some shenanigans with the gate guards, but the party was allowed inside. Darquin discovered that one of his head waitresses had been experimenting with a new lemon-based drink that has proven to be very popular. Liara has a dream about her past teachings as a cleric of Torm. The party enjoys a night in the Snoring Owl and some good food at the Warm Boulder and discusses next steps.
+
+The party wants to head to the hidden temple. They spend some time distributing loot before setting out.
+
 ## 2021-12-20
 Previously, on Baby It's Cold Outside
 
