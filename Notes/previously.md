@@ -1,6 +1,17 @@
 # Previously
 
-## 2021-01-03
+## 2022-01-10
+Previously, on Protect Those who Cannot Protect Themselves
+
+The party spent the better part of the day hiking around the Durrstaft Mountains. With the help of the resident Ranger, they avoided getting lost and made great time as they searched for the Hidden Temple of Torm. The group found a cave entrance that was protected by a golden-yellow forcefield. After some shenanigans involving just a bit of nudity, Liara presented herself to the doorway and dispelled the barrier. The party entered the hidden temple and passed the first challenge, a basic knowledge check of the tenats of Torm.
+
+The party spied great claw marks in the cave wall on their way in.
+
+Before entering the first challenge, the party found a plaque describing what they would find. They would be challenged 4 times. Between each challenge, the party would be permitted to rest as the time of the world stopped.
+
+The party entered the first challenge. Their devotion to the first tenat, selflessness, would be tested here as they attempt to protect the image of a little girl in a crystal from stone golems and tentacle monstrosities.
+
+## 2022-01-03
 Previously, on Lemonese
 
 The party got some more well-earned rest in Durrstaft. There were some shenanigans with the gate guards, but the party was allowed inside. Darquin discovered that one of his head waitresses had been experimenting with a new lemon-based drink that has proven to be very popular. Liara has a dream about her past teachings as a cleric of Torm. The party enjoys a night in the Snoring Owl and some good food at the Warm Boulder and discusses next steps.

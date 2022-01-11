@@ -4,7 +4,7 @@ God of protection and self-sacrifice.
 ## Symbol
 A gauntleted fist. The origin of the symbol was that Torm lost his hand during the battle to drive the demons from the mortal realm after the giants disappeared.
 
-## Tenants
+## Tenats
 1. The first tenant is selflessness. You must be willing to give of yourself to protect others
 2. The second tenant is focus. You must find something precious to protect. It could be a loved one or it could be the world, but it must not violate the first tenant.
 3. The third tenant is drive. You must be willing to give your everything to protect your focus.

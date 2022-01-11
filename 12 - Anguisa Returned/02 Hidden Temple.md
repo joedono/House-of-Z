@@ -1,5 +1,4 @@
 # Hidden Temple
--- BOOKMARK --
 If the party comes straight here after leaving Alistor, they'll know the temple's location and a little about the traps and devices that are waiting for them. Their goal will be to locate the site of Anguisa's defeat, which is inside the temple itself.
 
 The clerics and Deathbringers discovered at least part of what Anguisa was planning to do, what sort of ritual she intended to cast. They started spreading a rumor that one of her required ritual components was located in the hidden temple to lure Anguisa into a place where the clerics would have the lair advantage. Through creative use of the divine magic and devices within the temple, the clerics and Deathbringers defeated Anguisa.
@@ -22,16 +21,17 @@ The temple entrance is a cave that leads to a short tunnel. At the end of the tu
 3. The knight training while the smaller figure watches
 4. The knight bloody on the ground while the smaller figure kneels nearby
 
-along with the words *Name the Tenants* carved above them.
+Along with the words *Name the Tenats* carved above them.
 
-Simply reciting the first four tenants of Torm (selflessness, focus, drive, sacrifice) out loud will unlock the gate, causing the stone to move aside and revealing the continuing tunnel. If the party doesn't remember the tenants, then a DC 20 Religion check will have them remember.
+Simply reciting the first four tenats of Torm (selflessness, focus, drive, sacrifice) out loud will unlock the gate, causing the stone to move aside and revealing the continuing tunnel. If the party doesn't remember the tenats, then a DC 20 Religion check will have them remember.
 
 ## Challenges Within
-The hazards within the temple are a gauntlet of challenges meant to test the mettle and worthiness of clerics who want to devote themselves to Torm. The hazards will be themed after each of the first four tenants: selflessness, focus, drive, and sacrifice. How do I turn those into hazards that directly test each tenant?
+The hazards within the temple are a gauntlet of challenges meant to test the mettle and worthiness of clerics who want to devote themselves to Torm. The hazards will be themed after each of the first four tenats: selflessness, focus, drive, and sacrifice. How do I turn those into hazards that directly test each tenant?
 
 The party will be given the chance to take a short rest after each of the first 4 challenges, and a long rest before the Final Challenge via time-bending chambers.
 
 ### Selflessness
+-- BOOKMARK --
 This is basic protection, done through a combat encounter. There will be a Hatching Stone that a couple waves of constructs will attempt to attack. The cleric will have to protect the stone by defeating the approaching enemies.
 
 Stone Golem (Reduced Threat) - https://www.dndbeyond.com/monsters/reduced-threat-stone-golem
