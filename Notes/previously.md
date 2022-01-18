@@ -1,5 +1,12 @@
 # Previously
 
+## 2022-01-17
+Previously, on How do Buttons Work?
+
+It was a grueling fight, but the party managed to proved themselves capable of protecting that which needed protecting. In the second challenge, the party was faced with a rather complicated puzzle. Ibal was shunted off to a platform by himself and the party was tasked with finding the right combination of pressure-sensitive glyphs that would reveal a path for Ibal to take across the chasm. Once across, the party had proven themselves able to embody the second and third tenat of Torm and were allowed into the third challenge.
+
+This challenge, embodying the fourth tenat of sacrifice, saw the party pitted against monsters who could control their wills and force them to fight each other. How many will fall in the snow in this battle?
+
 ## 2022-01-10
 Previously, on Protect Those who Cannot Protect Themselves
 

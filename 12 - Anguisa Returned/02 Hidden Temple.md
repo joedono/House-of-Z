@@ -21,6 +21,8 @@ The temple entrance is a cave that leads to a short tunnel. At the end of the tu
 3. The knight training while the smaller figure watches
 4. The knight bloody on the ground while the smaller figure kneels nearby
 
+5. The knight brandishing his sword and shield to protect a group of smaller figures from a large figure wearing the same clothes as the small figure from the previous murals
+
 Along with the words *Name the Tenats* carved above them.
 
 Simply reciting the first four tenats of Torm (selflessness, focus, drive, sacrifice) out loud will unlock the gate, causing the stone to move aside and revealing the continuing tunnel. If the party doesn't remember the tenats, then a DC 20 Religion check will have them remember.
@@ -31,7 +33,6 @@ The hazards within the temple are a gauntlet of challenges meant to test the met
 The party will be given the chance to take a short rest after each of the first 4 challenges, and a long rest before the Final Challenge via time-bending chambers.
 
 ### Selflessness
--- BOOKMARK --
 This is basic protection, done through a combat encounter. There will be a Hatching Stone that a couple waves of constructs will attempt to attack. The cleric will have to protect the stone by defeating the approaching enemies.
 
 Stone Golem (Reduced Threat) - https://www.dndbeyond.com/monsters/reduced-threat-stone-golem
@@ -56,6 +57,7 @@ If the platform that Ibal is standing on retracts, he can make a Dex Save to try
 ### Sacrifice
 This test will test the cleric's willingness to let things go in order to protect. Pitting them against controlled Allips will force their allies to attach each other. This will be another combat encounter.
 
+-- BOOKMARK --
 Allip - https://www.dndbeyond.com/monsters/allip. Good choice for ability to make allies attack each other.
 
 If the party has the talisman from Nathan, the chamber will not activate and the door to the next chamber will open.

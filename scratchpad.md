@@ -1,18 +1,11 @@
-Fran - 21
-Lair Action - 20
-Ibal - 17 Slowed
-Ardin - 12
-Valmar/Liara - 10 has Spirit Guardians
-Theryn - 6
-Darquin - 6 Buff Potion
-
-Golem 1 - 89 - 0 9 10 21
-Golem 2 - 89 - 0 8 16 36 45 53
-
-Roper 1 - 73 - 0
-Roper 2 - 73 - 0 21 38
-Roper 3 - 73 - 0 4
-
-DC = 16 for Ropers
-
-Crystal - 150 - 15
+Ibal - 23
+Theryn - 23
+Allip 1 - 19 | 60 - 0 13 19 30
+Valmar/Liara - 16 Sanctuary
+Allip 2 - 13 | 60 - 0 7
+Allip 3 - 12 | 60 - 0 8 21 25
+Fran - 12
+Allip 4 - 10 | 60 - 0 14 19 22 29 41 - Insightful Fighting + Recharge
+Ardin - 10
+Allip 5 - 8 | 60 - 0 7 25
+Darquin - 2
