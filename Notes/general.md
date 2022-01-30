@@ -60,3 +60,12 @@ Extracting Anguisa's Soul
 Encountering Viserion
 Excavating the Giant Finger Bones or Pursuing Viserion to Durrstaft
 **Level Up! - Level 7**
+Back to Loftran
+Trek up the Frostfall Pass and another encounter with the Snow Mutant and Garlan the Revenant
+Durrstaft
+The Temple of Torm and Alistor
+Rescuing Sophil from the dungeons
+Discovering the Hidden Temple of Torm
+The Challenges of Torm
+**Level Up! - Level 8**
+Battle with Viserion and Anguisa
