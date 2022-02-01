@@ -57,7 +57,6 @@ If the platform that Ibal is standing on retracts, he can make a Dex Save to try
 ### Sacrifice
 This test will test the cleric's willingness to let things go in order to protect. Pitting them against controlled Allips will force their allies to attach each other. This will be another combat encounter.
 
--- BOOKMARK --
 Allip - https://www.dndbeyond.com/monsters/allip. Good choice for ability to make allies attack each other.
 
 If the party has the talisman from Nathan, the chamber will not activate and the door to the next chamber will open.
@@ -70,6 +69,9 @@ The party finds the final door. Above the door is carved the word *SELF*. Beyond
 We had a couple yellow-lights on the consent checklist for "Harm to Children", so maybe change the werewolf children to make them adults.
 
 file:///E:/Users/Joe/Documents/RPG/D&D%205.0/Campaigns/Bundle%20of%20Horror%202/7%20-%20The%20Curse%20of%20Wardenwood%20V2/The%20Curse%20of%20Wardenwood%20V2.pdf
+
+-- BOOKMARK --
+The group has alerted Drusilla that they don't trust her and combat is beginning.
 
 ## Actual Challenge
 Of course, the party isn't actually here to overcome the challenges. They're here to stop Viserion. All they really have to do is choose their battleground. The Final Challenge will probably be ideal, since a Weld Hag and a Proginator Werewolf will prove valuable allies in the fight against Viserion.

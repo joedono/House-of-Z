@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-01-31
+Previously, on The Other Other Other Other OTHER Meat
+
+The party successfully dispatched the mind-controlling ghosts and passed the third challenge, the challenge of Sacrifice. Fortunately, the only sacrifice that was made was Pumpkin. The party then earned themselves a long rest in the next time chamber.
+
+After recovering from their three grueling challenges, the party discovered the mural for the final challenge, which didn't make much sense to them. Liara knew that there were only supposed to be 4 tenats of Torm, but the second challenge claimed to represent the second and third tenats. There should be none left. And yet, there was a fifth mural above the door to the final challenge. That of the knight, bloody and beaten, protecting a group of small figures from a larger version of the small figure he had been protecting in the previous murals. The word "SELF" was written above the mural, where the previous tenats had been written above the other murals. Selflessness, focus, drive, sacrifice, and.... self? It doesn't seem to make sense.
+
+The door to the final challenge opened. The party expected to find more worked stone and the inside of a temple. What they found instead was a warm forest at night, complete with nocturnal critters and a light breeze rustling the leaves. It even smelled of sap and wet grass. The party ventured into the forest and encountered a small hut with candlelight coming from inside. They were almost immediately attacked by a pack of plant beasts. Just before defeating the last one, a beautiful half-elven woman ran out of the hut with a handful of burning sage, attempting to ward off the beast. She invited the party inside so she could tend to their wounds, but they were suspicious. Ardin used his Gem of Seeing and revealed the woman to be a hag. The party revealed their suspicion when Ibal attempted to hide in the underbrush. The hag revealed her true form and took control of the plants and vines around the party.
+
+Roll for initiative.
+
 ## 2022-01-17
 Previously, on How do Buttons Work?
 
