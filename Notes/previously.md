@@ -1,5 +1,14 @@
 # Previously
 
+## 2022-02-07
+Previously, on Suspicious Silver
+
+The party managed to dispatch Drusilla, the hag who had been living in the hut in Wardenwood Forest. After her death, her hut immediately aged 100 years. The party was able to see a dozen prisoners chained to the wall in the basement of the hut. They've been malnourished and hurt, but didn't appear to be in any danger of dying at the moment.
+
+Darquin, Fran, and Ardin investigated the upper floor and found some manacles, a bag of silver nails, and a Wand of Paralysis. Darquin brought the bag down into the basement and showed the prisoners the nails, causing them to panic and some of them to flee into the forest. Several more horrifying events added to the panic: a howl in the night, a ghostly image, the rising full moon. Eventually, the party was left by themselves, and there was definitely SOMETHING out in the woods. Something had been picking off the villagers as they fled.
+
+Before the party could make any attempt to move away or retreat into the house, they were surrounded by growling and snarling. A large bipedal wolf creature stepped out of the darkness and said "Thank you for the additions you've made to my pack" before lunging at the party.
+
 ## 2022-01-31
 Previously, on The Other Other Other Other OTHER Meat
 
