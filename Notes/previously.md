@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-02-14
+Previously, on Wolves and Can Openers
+
+It was a grueling and tense battle with Victoria and her wolf pack. Claws and teeth sank into flesh at every turn. While the party was whittling down the newer werewolves, they were taking heavy losses.
+
+Then a great rumbling shook the forest and a horrid roar could be heard on the wind. Victoria and her remaining wolf pack suddenly abandoned the battle and ran off in the direction of the entrance to the final challenge chamber. Drusilla, now clad in her elven disguise again, came out of her burned hut. She congratulated Liara on her performance in the final trial, but said that there was a new emergency. An intruder had entered the challenge chamber, and Drusilla vowed to help the party defeat it.
+
+She also granted the party a boon, as they all immediately gained the effects of a long rest and leveled up, hopefully becoming powerful enough for the battle ahead.
+
+Also.... Fran has contracted Lycanthropy.
+
 ## 2022-02-07
 Previously, on Suspicious Silver
 

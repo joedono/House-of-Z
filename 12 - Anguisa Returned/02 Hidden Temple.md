@@ -70,7 +70,6 @@ We had a couple yellow-lights on the consent checklist for "Harm to Children", s
 
 file:///E:/Users/Joe/Documents/RPG/D&D%205.0/Campaigns/Bundle%20of%20Horror%202/7%20-%20The%20Curse%20of%20Wardenwood%20V2/The%20Curse%20of%20Wardenwood%20V2.pdf
 
--- BOOKMARK --
 The group has alerted Drusilla that they don't trust her and combat is beginning.
 
 ## Actual Challenge

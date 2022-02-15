@@ -1,4 +1,5 @@
 # Final Battle
+-- BOOKMARK --
 Midway through the final battle with the Proginator Werewolf, Viserion will enter the chamber of the final challenge. The various characters in the challenge will stop fighting the players and a divine light will engulf the players, granting them a LEVEL UP to level 8 and the benefits of a long rest.
 
 The ghost of the hag will appear and resurrect itself. She, the proginator werewolf, and the wolf "children" will explain the situation to the players and petition their aid to deal with the threat before running off to battle.
