@@ -1,5 +1,12 @@
 # Previously
 
+## 2022-02-21
+Previously, on Finally! A Dragon!!
+
+The party staged an ambush in the village square and waited for Viserion. He arrived in the guise of Master Nathan, but was quickly unmasked. He brought the spellbook of Torm that Liara had been looking for as well as the skull of Anguisa, in preparation for the resurrection ritual.
+
+The battle quickly got underway.
+
 ## 2022-02-14
 Previously, on Wolves and Can Openers
 

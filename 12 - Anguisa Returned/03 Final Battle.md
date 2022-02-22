@@ -1,5 +1,4 @@
 # Final Battle
--- BOOKMARK --
 Midway through the final battle with the Proginator Werewolf, Viserion will enter the chamber of the final challenge. The various characters in the challenge will stop fighting the players and a divine light will engulf the players, granting them a LEVEL UP to level 8 and the benefits of a long rest.
 
 The ghost of the hag will appear and resurrect itself. She, the proginator werewolf, and the wolf "children" will explain the situation to the players and petition their aid to deal with the threat before running off to battle.
@@ -9,6 +8,7 @@ The NPCs can do battle, but will require the players' will to direct their actio
 Use the same battle map for the village from the challenge for the final battle. It should have some interesting landscapes and houses for the players to hide in.
 
 ## Viserion Tactics
+-- BOOKMARK --
 The site that Viserion is searching for is in the center of the "town". He'll have the Anguisa's vessel and the Torm Spellbook in a pack, and her skull strapped with rope to his back (a load that should obviously be too much for his slender body). He'll have the form of Nathan Sarnol, the master cleric from Durrstaft, except with piercing green eyes, per usual.
 
 If left undisturbed, Viserion will set down the ingredients in the center of town and begin the ritual
