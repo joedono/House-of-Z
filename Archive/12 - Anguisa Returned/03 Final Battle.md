@@ -8,7 +8,6 @@ The NPCs can do battle, but will require the players' will to direct their actio
 Use the same battle map for the village from the challenge for the final battle. It should have some interesting landscapes and houses for the players to hide in.
 
 ## Viserion Tactics
--- BOOKMARK --
 The site that Viserion is searching for is in the center of the "town". He'll have the Anguisa's vessel and the Torm Spellbook in a pack, and her skull strapped with rope to his back (a load that should obviously be too much for his slender body). He'll have the form of Nathan Sarnol, the master cleric from Durrstaft, except with piercing green eyes, per usual.
 
 If left undisturbed, Viserion will set down the ingredients in the center of town and begin the ritual

@@ -7,6 +7,8 @@ Worst ending. This is basically a TPK, although the temple will resurrect the pa
 ## Viserion Defeats the Party and Anguisa's Vessel is Broken
 Anguisa is freed as a Ghost Dragon and has abandoned Viserion, blaming him for her death. Viserion will remain in the temple, lost in his betrayal and grief, while Anguisa resumes her plan to assemble Draffnir alone. She's significantly harder to deal with now, but at least there's only one of her.
 
+THIS IS WHAT HAPPENED
+
 ## Viserion Defeated and Anguisa's Vessel is Safe
 Best ending. The party has defeated Viserion and safely secured Anguisa's Vessel. They now have to decide what to do with it.
 

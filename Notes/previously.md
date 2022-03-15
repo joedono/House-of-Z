@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-03-14
+Previously, on Betrayal
+
+The fight with Viserion was going pretty well. The litany of debuffs were making things difficult for the beast. Between the help from the temple constructs and successfully dividing Viserion's attention between the main party and Anguisa's skull, the party managed to wear down the fearsome dragon until he got desperate. With a well-aimed Fireball, Valmar managed to completely destroy Anguisa's skull. Such a loss would not completely prevent the resurrection ritual, but would severely hamper its chances of success. Viserion flew into a rage and made several last ditch efforts to defeat the party.
+
+Theryn's forsight payed off when he bore the brunt of Viserion's rage in a point-blank acid breath attack, that did no damage to Theryn at all, thanks to the filtration suit he was wearing. Seeing his hope for victory dwindling, Viserion brought out the vessel that held Anguisa's soul and shattered it, hoping that his love would aid him in the battle. Anguisa blamed Viserion for abandoning her in her hour of need, slashed him across the face, and fled through the ceiling of the temple. Viserion's spirit was shattered, and he was reduced to a sobbing mess. That is, until Theryn rounded the corner. Viserion renewed his fight, only to be brought down by one shot of the Stormbow.
+
+In the aftermath of the fight with Viserion, Drusilla stood in for the final ceremony, granting Liara the title of Master Cleric and restoring her body to her. Now separate from Valmar at last, and having recovered the treasured spellbook of her order, Liara had found her purpose again. She had learned how to protect what was precious to her, and deserved the title of Master.
+
+The party returned to their manor in Loftran (or to their home elsewhere) to enjoy a much needed vacation. We will pick up this adventure one year later, potentially with some new characters.
+
 ## 2022-02-21
 Previously, on Finally! A Dragon!!
 

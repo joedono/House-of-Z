@@ -11,7 +11,7 @@ The egg can be hatched by submerging it in boiling acid overnight. Tabitha knows
 Curiosity will take hold in Helen's mind and be enhanced by the enticing energies given off by the egg. After enough exposure, Helen will research how to hatch the egg, steal it from Tabitha, and bring it somewhere secluded where she can hatch it and care for the dragon herself. The energies it emits are an evolutionary trait that ensure that the mother takes care of the newborn, instead of eating it. Those energies only have minor influence on the mother dragon, but have the ability to brainwash normal humans and take over their senses.
 
 ## Eloreth Bank Account
-20,000gp in an unclaimed account at the bank in Loftran. Need the Eloreth signet ring.
+20,000gp in an unclaimed account at the bank in Loftran. Need the Eloreth signet ring. The ring is actually in the Abyss, where half the Eloreth family was massacred and the other half was turned into demons.
 
 ## Wild Magic Brother
 Have the party encounter a sorcerer who attempted to suppress their Wild Magic only to have it go completely crazy.

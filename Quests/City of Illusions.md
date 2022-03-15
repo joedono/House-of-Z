@@ -15,4 +15,4 @@ The bone, upon sensing the imminent threat, produced illusions of stronger monst
 With the threat from the monster pack not leaving, and the threat from the humans growing, the bone has no choice but to expand it's influence. Random illusions crop up in and around the town. Ghosts, plagued lepers, wolves, and bears. Anything it can do to scare the people away. Some leave, rendering the town a ghost town. Those that remain are either bunkered in their homes with dwindling resources, or driven mad, or both.
 
 ## Ending
-Make sure at the end of this to have the bone contact the party through an illusory avater and tell them about the condition of the other bones.
+Make sure at the end of this to have the bone contact the party through an illusory avatar and tell them about the condition of the other bones.
