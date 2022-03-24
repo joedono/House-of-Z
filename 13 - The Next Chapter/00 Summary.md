@@ -12,4 +12,4 @@ Viserion is dead, but the ghost of Anguisa is still out there. She still has a p
 * Introduce the bones as characters
 
 ## Hook
-The first hook could either be the Black Dragon Hathling or the Brisley girl from *Beneath the Black Rose* manifesting her extreme sensitivity to undead and her disappearing, and Victor and Naomi coming to the players for help.
+The first hook could either be the Black Dragon Hatchling or the Brisley girl from *Beneath the Black Rose* manifesting her extreme sensitivity to undead and her disappearing, and Victor and Naomi coming to the players for help.

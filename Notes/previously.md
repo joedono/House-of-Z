@@ -1,5 +1,30 @@
 # Previously
 
+## 2022-03-21
+Previously, on Intermission
+
+A whole mess of things happened.
+
+Cathlene graduated from the Wizard's College and inspired Theryn to set up a school in Loftran.
+
+The party was invited to a much more lavish party at the Makaria Manor, where Ardin, Theryn, and Fran took first, second, and third place in a wrestling contest.
+
+Ibal got employed with the city guard and set about correcting the many problems in their processes, setting himself up to be the most annoying but smartest police consultant in Loftran.
+
+Tabitha made great use of Ibal's willingness for experimentation. He grew a tree with a mouth that repeated "I am a tree" at odd hours of the night, he drank a potion that made him float but kept him upside-down the entire time, and he drank a potion that instantly made everyone within 50 feet of him horribly drunk.
+
+Liara returned to her home temple on Mount Stratha with her sacred book to rebuild her home.
+
+Ardin returned to Konnith Forest and spent his days rebuilding his own home and working on a special set of armor.
+
+Fran ate Carl in the first month, then spent the remaining year attempting to gain control over his lycanthropy.
+
+Darquin learned from Kara Handen, the party's houekeeper, that the Other Other Other Other Meat... was just pork. But he did perfect a recipe for lemonade before returning to Durrstaft to train in his artificery. He still visits every so often.
+
+Valmar left to pursue information on the Ghost of Anguisa, but met an old "friend" on the road and hasn't been heard from since.
+
+In the last month before the return of summer, Ibal received a worrying note through Tabitha's Bag of Sending. All it says, in A horrible scrawl, is H...E...L...P...
+
 ## 2022-03-14
 Previously, on Betrayal
 

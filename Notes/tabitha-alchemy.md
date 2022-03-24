@@ -5,13 +5,13 @@ Possibilities for random experimental alchemical materials that the players will
 Instructions: Drink
 Effect: The affected creature suffers from the Reduce spell, becoming half their original size for 1 minute.
 
-## Seed of Many Faces
-Instructions: Plant in the dirt. Wait for 5 minutes
-Effect: A plant sprouts that quickly grows into a full-grown tree. The tree bark takes on the shape of many faces. Every so often, one of the faces will open its eyes and repeat "I am a tree. I am a tree" for 5 minutes before going back to sleep again.
-
 ---
 
 # Used
+
+## Seed of Many Faces
+Instructions: Plant in the dirt. Wait for 5 minutes
+Effect: A plant sprouts that quickly grows into a full-grown tree. The tree bark takes on the shape of many faces. Every so often, one of the faces will open its eyes and repeat "I am a tree. I am a tree" for 5 minutes before going back to sleep again.
 
 ## Potion of Displacement
 Instructions: Drink

@@ -16,7 +16,7 @@ https://www.dndbeyond.com/sources/xgte/downtime-revisited?fbclid=IwAR2Zz98II2iCe
 * 10 weeks - INT modifier (+3) = 7 weeks
 * 25gp per week
 * 10% chance per week (cumulative) for complications. Roll a d10 to determine chance of complication. Roll a d6 to determine complication
-  1. Your instructor disappears, forcing you to spend one workweek finding a new one.*
+  1. Your instructor disappears, forcing you to spend one workweek finding a new one.
   2. Your teacher instructs you in rare, archaic methods, which draw comments from others.
   3. Your teacher is a spy sent to learn your plans.
   4. Your teacher is a wanted criminal.
@@ -40,5 +40,13 @@ After attending Cathlene's graduation from the Wizard's College in Loftran, Ther
 Off training to be more experienced with his subclass
 
 ### Ardin
+Go back to Konnith Forest... alone, and attempt to rebuild his home.
 
 ### Valmar
+Leaves to pursue information about Anguisa. Meets his end at the hands of Garlan the Revenant (?)
+
+## Events
+The party has one year before anything super interesting happens, so here's what happens in the meantime:
+* Cathlene graduates from college
+* Makaria invites the party to several more parties, and talks Ibal and Theryn up to her friends
+* Tabitha makes a lot of use of Ibal's experimental expertise
