@@ -19,7 +19,7 @@ Ardin returned to Konnith Forest and spent his days rebuilding his own home and 
 
 Fran ate Carl in the first month, then spent the remaining year attempting to gain control over his lycanthropy.
 
-Darquin learned from Kara Handen, the party's houekeeper, that the Other Other Other Other Meat... was just pork. But he did perfect a recipe for lemonade before returning to Durrstaft to train in his artificery. He still visits every so often.
+Darquin learned from Kara Hansen, the party's houekeeper, that the Other Other Other Other Meat... was just pork. But he did perfect a recipe for lemonade before returning to Durrstaft to train in his artificery. He still visits every so often.
 
 Valmar left to pursue information on the Ghost of Anguisa, but met an old "friend" on the road and hasn't been heard from since.
 

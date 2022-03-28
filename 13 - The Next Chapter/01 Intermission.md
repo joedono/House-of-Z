@@ -12,7 +12,7 @@ Leaves to return to her temple on Mount Stratha. With her holy book in hand and 
 ### Ibal
 Ibal wants to learn how to use a shield, but also get more involved with the city law enforcement. He's really leaning into the Sherlock Holmes "police consultant" stereotype.
 
-https://www.dndbeyond.com/sources/xgte/downtime-revisited?fbclid=IwAR2Zz98II2iCeAlk-n90SmsbStsAgdvchzBd7rgjxG2jY3edhrk1w0baYqs#Training
+https://www.dndbeyond.com/sources/xgte/downtime-revisited#Training
 * 10 weeks - INT modifier (+3) = 7 weeks
 * 25gp per week
 * 10% chance per week (cumulative) for complications. Roll a d10 to determine chance of complication. Roll a d6 to determine complication
