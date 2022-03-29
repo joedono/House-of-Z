@@ -20,4 +20,4 @@ Inside, the place is a patchwork of acid burns. Many of the furnishings, counter
 * Helen chased Tabitha through her shop for a bit, before cornering her and using her newly sharp claws to incapacitate Tabitha
 * Tabitha wrote three help notes and sent them through the bags of sending she could reach. One went to the players
 * Tabitha doesn't think Helen had enough time to hatch the egg, as it needs to be submerged in boiling acid for at least a week before hatching, and the fact that the egg has been dormant for a while probably means it'll take even longer
-* The only other place that would have that much acid in Loftran is 
+* The only other place that would have that much acid in Loftran is the Warwick GNC, the *other* "big" apothecary/alchemist in Loftran. Warwick doesn't directly sell anything that caustic like Tabitha does, but he keeps some to use as ingredients in some of his stronger remedies.
