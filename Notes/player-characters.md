@@ -70,7 +70,7 @@ Time In Prison - New Arrival
 ### Jasper Windywood
 Male Wood Elf Druid
 
-Found the remains of the struggle between Valmar and Garlan. Makes his way to Eloreth Manor in order to return Valmar's belongings that he found. Also has one of Tabitha's bags of sending.
+**Found the remains of the struggle between Valmar and Garlan. Makes his way to Eloreth Manor in order to return Valmar's belongings that he found. Also has one of Tabitha's bags of sending.**
 
 ## Andy
 
@@ -90,7 +90,7 @@ Male Rock Gnome Bard
 
 Adventuring to become a true traveling musician.
 
-Comes to Tabitha's shop to try and get an ointment that will stop his lute strings from breaking.
+**Comes to Tabitha's shop to try and get an ointment that will stop his lute strings from breaking.**
 
 ## Sal
 

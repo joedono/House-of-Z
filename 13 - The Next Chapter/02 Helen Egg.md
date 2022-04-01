@@ -16,7 +16,7 @@ Inside, the place is a patchwork of acid burns. Many of the furnishings, counter
 ### What Tabitha Knows
 * Helen had been acting strangely the past few weeks, staying overnight in the store, asking questions about caustic liquids, doing her own secret experiments.
 * Tabitha found Helen that afternoon, clad in hazard gear, and standing over a vat of boiling acid
-* Tabitha confronted Helen about hatching the egg, when Helen's skin turned black and scaley, and a spray of acid came out of Helen's hand and hit Tabitha
+* Tabitha confronted Helen about hatching the egg, when Helen's skin turned black and scaly, and a spray of acid came out of Helen's hand and hit Tabitha
 * Helen chased Tabitha through her shop for a bit, before cornering her and using her newly sharp claws to incapacitate Tabitha
 * Tabitha wrote three help notes and sent them through the bags of sending she could reach. One went to the players
 * Tabitha doesn't think Helen had enough time to hatch the egg, as it needs to be submerged in boiling acid for at least a week before hatching, and the fact that the egg has been dormant for a while probably means it'll take even longer

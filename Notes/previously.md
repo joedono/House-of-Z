@@ -1,5 +1,20 @@
 # Previously
 
+## 2022-03-31
+Previously, on CHUM is not FUM
+
+Ibal, Fran, and Darquin were enjoying a beautiful spring afternoon in Eloreth Manor when Ardin decided to pay a visit. On the way in, he met an elven gentleman named Jasper Windywood, who had come into possession of some of Valmar's belongings on the side of the road in the forest south of Mt Stratha. As the group was reminiscing about Valmar and "interrogating" Jasper, both Ibal and Jasper received a ping from their respective Bags of Sending. Tabitha had sent them a hastily scrawled note asking for help.
+
+When the party arrived at Tabitha's shop, they found it ransacked and reeking of acid. They met two other rather interesting people, Mori Yulandon and Sorrin Terinlove, who had their own reasons for coming to Tabitha's shop. The group found Tabitha near-death in the back room of her shop.
+
+After some hasty healing magic, Tabitha told her story. Her apprentice, Helen, had apparently fallen victim to the charming magic emitted by dragon eggs when they aren't cared for by their proper parents. Helen likely now thought of herself as the egg's mother and caretaker, and she meant to hatch it. Tabitha tried to stop her, but Helen manifested aspects of a black dragon, incapacitated Tabitha, and fled with the egg and one of Tabitha's packages from Springs, Sprockets, and Servants, an artificery shop in the Heavenly Cay. Fran tracked the lingering smell of acid in the air across town to Warwick GNC, an apothecary shop in the Tinders that mostly sells snakeoils and herbal remedies. The group interrupted an interaction between Warwick and some paying customers and discovered that Helen had indeed come in and purchased several gallons of acid, among other things, and left.
+
+The party again followed Helen's much stronger trail to the Maple Leaves residence hall, where her scent was lost amidst the various perfumes on the residents and the strong smell of dinner cooking in the kitchens. After some time-wasting shenanigans, the party eventually concluded that Helen had stolen a cauldron from the kitchen and brought it down into the cistern under the Maple Leaves where she might have some time alone. The party made their way downstairs and located Helen across the water.
+
+Upon confronting her, Helen unleashed several alchemical oozes into the water, and activated the package she had stolen from Tabitha, a perfected Complete Household User Manager, or C.H.U.M.
+
+Let's roll some initiative.
+
 ## 2022-03-21
 Previously, on Intermission
 
@@ -19,7 +34,7 @@ Ardin returned to Konnith Forest and spent his days rebuilding his own home and 
 
 Fran ate Carl in the first month, then spent the remaining year attempting to gain control over his lycanthropy.
 
-Darquin learned from Kara Hansen, the party's houekeeper, that the Other Other Other Other Meat... was just pork. But he did perfect a recipe for lemonade before returning to Durrstaft to train in his artificery. He still visits every so often.
+Darquin learned from Kara Hansen, the party's housekeeper, that the Other Other Other Other Meat... was just pork. But he did perfect a recipe for lemonade before returning to Durrstaft to train in his artificery. He still visits every so often.
 
 Valmar left to pursue information on the Ghost of Anguisa, but met an old "friend" on the road and hasn't been heard from since.
 
