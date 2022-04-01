@@ -1,5 +1,8 @@
 # Quest Ideas
 
+## Dead Friend
+Sorrin was originally in Loftran because he received a letter from his dead friend, which was presumably sent AFTER they had died. The letter mentioned Tabitha by name.
+
 ## Eloreth Bank Account
 20,000gp in an unclaimed account at the bank in Loftran. Need the Eloreth signet ring. The ring is actually in the Abyss, where half the Eloreth family was massacred and the other half was turned into demons.
 
