@@ -59,3 +59,14 @@ In order to bend the resurrected body of Draffnir to their whims, the dragons ne
 In order to get the party motivated to actually go and check up on the other bones, have the bone in chapter 9 contact them through an illusion once the conflict is resolved. Explain that it can sense that its siblings are broadcasting distress signals. Some are stronger than others, but all are in danger. With the conflict around this bone resolved, it can reset itself and properly deal with the threat from Viserion, should it come around.
 
 Now the stage is set for any number of outcomes for future conflicts. Viserion could beat the party to harvesting the bone essence, the party could beat Viserion to resetting the bone's defenses. They could arrive together, or the party could come into conflict with one of Viserion's henchmen.
+
+# Book 2
+Anguisa's soul is roaming the land, attempting to gather the materials for her planned ritual to reassemble Draffnir and use him in the war with the celestials. The ingredients are still on the list the party is carrying:
+- Abyss
+- Pelvis - Third Finger Peak Mountain
+- Finger Bones x3 - Seacracker Islands
+- **Blood of the Giants**
+- Spine - Mount Stratha
+- Skull - East of Southspark?
+- Ribs - Lindenvale?
+- Other Bones - Unknown

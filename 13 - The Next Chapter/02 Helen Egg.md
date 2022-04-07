@@ -68,3 +68,20 @@ https://www.dndbeyond.com/monsters/dragonblood-ooze
 
 She'll unveil the package she stole from Tabitha, which contains two C.H.U.M.'s
 https://www.dndbeyond.com/monsters/clockwork-kraken
+
+## Aftermath
+If Helen survives the encounter, she can be brought to the House of Sunlight or back to Tabitha. One will be able to remove the curse and the other will have a remedy that will remove the thrall effect, restoring Helen to her normal self.
+
+Pads the cat will be there when the party exits the cistern, and will continue to follow them to Tabitha's shop and beyond until they interact with it.
+
+The party now has to decide what to do with the egg. Tabitha won't want to keep it in the city. She's already harvested enough of its shavings for alchemical material for a lifetime of research. She'll ask the party to potentially dispose of it. She won't have any specific suggestions, but she'll recommend finding someone with experience in dealing with dragons. Even better if they've dealt with Anguisa herself. That should lead the party to think of either the clerics of Torm in Durrstaft, or the Deathbringers in the Heavenly Cay. Both will eventually lead to the party discovering that the undead are getting restless.
+
+## Sorin's Letter
+Sorin is likely to ask Tabitha about the letter from his dead friend.
+
+Tabitha remembers the friend, named Martin Brash. He was a good customer and another holder of the Bags of Sending, but he died years ago of an illness. The letter to Sorin mentions horrible nightmares of a winged beast and a giant rising out of the ground to fight winged humanoids. It also mentions Martin seeing his father again, who died when Martin was only 8 years old. The only name mentioned in the letter that isn't dead is Tabitha, in a few notes about the more humorous experiments she sent him.
+
+Tabitha will mention that she also received a letter from a long-dead friend. This one is from her friend Jin, her rival alchemist when she was a student. It also mentions nightmares about the winged beast, the giant, and the angels.
+
+## Next Steps
+The party will head somewhere to give the egg to someone else who can care for it. Wherever they go, either Nathan or Hope will say they've sensed or heard reports that there is a great disturbance in Southspark. There, the City of Illusions event is taking place, due to Draffnir's Skull
