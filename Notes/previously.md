@@ -1,5 +1,12 @@
 # Previously
 
+## 2022-04-07
+Previously, on CHUM, CHA-CHUM, CHUM, CHUUUUUUUM
+
+The party engages Helen in the cistern. They topple over the cauldron into the water, and deal with Helen and her friends.
+
+In the aftermath, the party receives a note from Tabitha, who has some ideas on what to do with the egg. They gather up Helen and the egg (and leave the inert oozes and C.H.U.M. in the cistern) and make their way upstairs. On the way, Mori and Darquin feel a bit of a pull towards the egg. It seems just a little more precious to them.
+
 ## 2022-03-31
 Previously, on CHUM is not FUM
 
