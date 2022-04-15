@@ -2,7 +2,6 @@
 Once the party gets back to Loftran, they're next step will be to scale the mountains to get to Durrstaft. It's been 50-60 days since the party defeated Katarina Tsolka, and the party left the Snow Mutant alive. It's been busy.
 
 ## Snow Mutant
--- BOOKMARK --
 Alone and broken, the Snow Mutant sadly roamed through the Durrstaft mountains, barely finding enough food to survive. At the lowest point of its misery, a Bheur Hag found it. The hag felt something akin to sympathy for the poor creature, and nursed it back to health. Together, they delighted in taking revenge on any humanoids who journeyed through Frostfall Pass. The hag grew her herd by resurrecting several skeletal owlbears that the Snow Mutant feasted on, including the blind one that the party saved from the snow apes. It has scratch marks on the skull around its eye sockets.
 
 A hiking party fell victim to the Hag and the Mutant, but while the hag was in the middle of feasting, one of the humans sat up. It had become possessed by the spirit of Garlan, the druid of the Red Drakes. Garlan's hatred for dragon-kind and gruesome death at the hands of Valmar/Liara/Anguisa have turned him into a Revenant, bent on revenge against Valmar/Liara. Garlan was all set to trek out to the Heavenly Cay to find Valmar, when he noticed that Valmar was coming closer to him. Garlan fell in with the Bheur Hag and now waits for Valmar/Liara to come to him.

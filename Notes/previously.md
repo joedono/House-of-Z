@@ -1,5 +1,24 @@
 # Previously
 
+## 2022-04-14
+Previously, on You Have Some Eggsplaining To Do
+
+The party manages to get the unconscious Helen and the black dragon egg out of the cistern. There is a lot of commotion on the first floor of Maple Leaves as residents heard the sounds of fighting coming from the basement. The head chef is still looking for his lost cauldron when Fran spies a brown cat that has been following the group. Through Jasper's Speak with Animals spell and an overly bloodthirsty bite from Fran, the cat suffers enough damage to "kill" it and undo the Polymorph spell that it had been under. The cat was actually Pads, former pet of Shani Longspotter, acolyte of Torm and actually Viserion in disguise. With the polymorph spell undone, Pads reverts into the form of King Samuel of Loftran, who had been missing since the Yuan-Ti ritual one year ago. Jasper and Fran agree to escort the king back to the castle and do all they can to avoid too much attention before the king is safe.
+
+The head chef comes dangerously close to discovering the group and forcing them to explain why they have a giant egg and an unconscious half-dragon lady in an employees-only area when Mori swoops in and guides him downstairs to his missing cauldron. The chef is understandably upset at the acidic oozes and the giant clockwork kraken that have appeared in the cistern, but believes Mori's story that they're pest control and that the situation could have been a lot worse if they hadn't been there. The chef gets his cauldron back and invites Mori and company back for free stew that evening.
+
+Ibal carries Helen to the House of Sunlight and explains everything that happened to Sister Thia. Thia is able to heal Helen's mind entirely, but isn't able to completely remove the draconic corruption from her body. Helen will be fine once she wakes up in a couple hours.
+
+Ardin, Sorrin, and Mori start bringing the egg across town to Tabitha's. Sorrin and Mori start to succumb to the egg's charm power before Ardin throws a cloak over it. That is enough to snap them out of their charm, but not enough to remove the effect entirely, as a small group of bystanders appear enthralled by the egg and start to follow the group. Thinking quickly, Sorrin and Ardin put the egg into the Handy Haversack, which appears to be enough to block the effect as the bystanders go about their business.
+
+Fran and Jasper succeed in delivering the king back onto the castle grounds through a secret entrance through the castle wall. The thankful king invites them back to the castle that evening to receive their just reward. Fran is now double-booked: a reward from the king? or free stew?
+
+Ardin, Sorrin, Mori, and Ibal reconvene at Tabitha's, help her clean up, and discuss what to do with the egg. Tabitha has harvested enough black dragon egg shavings to supply her experiments long past her own lifespan and wants nothing more to do with it. She suggests that the party seek out groups that have had dealings with black dragons. The group can think of two that have had dealings with the egg's parents specifically: The Deathbringers in the Heavenly Cay and the Clerics of Torm in Durrstaft.
+
+Before they leave, Tabitha inquires what brought Sorrin to the shop. Sorrin shows Tabitha a letter he received from his dead friend. The letter speaks of winged beasts, and a giant rising from the ground to fight a group of angels. Tabitha reacts with horror and runs into her shop. She returns with a letter of her own, also from a long-dead acquaintance and also mentioning winged beasts, a giant coming out of the ground, and fighting angels. Tabitha and Sorrin wonder if something is disturbing the dead on a large scale.
+
+Also, Mori picked up the Chaotic Bag of Sending that is STILL dropping random bits of equipment into Tabitha's shop.
+
 ## 2022-04-07
 Previously, on CHUM, CHA-CHUM, CHUM, CHUUUUUUUM
 

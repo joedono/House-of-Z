@@ -84,4 +84,5 @@ Tabitha remembers the friend, named Martin Brash. He was a good customer and ano
 Tabitha will mention that she also received a letter from a long-dead friend. This one is from her friend Jin, her rival alchemist when she was a student. It also mentions nightmares about the winged beast, the giant, and the angels.
 
 ## Next Steps
+-- BOOKMARK --
 The party will head somewhere to give the egg to someone else who can care for it. Wherever they go, either Nathan or Hope will say they've sensed or heard reports that there is a great disturbance in Southspark. There, the City of Illusions event is taking place, due to Draffnir's Skull
