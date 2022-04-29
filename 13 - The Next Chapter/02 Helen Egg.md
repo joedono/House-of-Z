@@ -84,5 +84,15 @@ Tabitha remembers the friend, named Martin Brash. He was a good customer and ano
 Tabitha will mention that she also received a letter from a long-dead friend. This one is from her friend Jin, her rival alchemist when she was a student. It also mentions nightmares about the winged beast, the giant, and the angels.
 
 ## Next Steps
--- BOOKMARK --
-The party will head somewhere to give the egg to someone else who can care for it. Wherever they go, either Nathan or Hope will say they've sensed or heard reports that there is a great disturbance in Southspark. There, the City of Illusions event is taking place, due to Draffnir's Skull
+The party will head somewhere to give the egg to someone else who can care for it. Wherever they go, either Nathan or Hope will say they've sensed or heard reports that there is a great disturbance in Southspark. There, the City of Illusions event is taking place, due to Draffnir's Skull.
+
+## Meantime
+
+### Maple Leaves
+The party has been invited to dinner at Maple Leaves for free for the imagined deed of clearing cockroaches out of the cistern. They did leave all the acid, a couple goo monsters, and a broken C.H.U.M. down in the basement, which might present a problem later. The oozes will slither their way up the stairs and attempt to insert themselves into the punch bowl being served that night. The party will barely have a chance to stop them.
+
+### King Samuel
+The party was also invited back to the castle to be presented with a reward as thanks for locating and rescuing King Samuel. Ibal, Ardin, and Fran are still owed a boon from the queen for stopping the Yuan-Ti ritual a year prior. The king will be amused at this, but offer them a King's Boon to go with their Queen's Boon. He will politely ask that they cash them in before something happens to them, as their line of work is dangerous and the boons cannot be transferred.
+
+#### Lily Truehart
+A bard hired by the royal family. She'll be singing a ballad about darkness coming alive and a band of vermin slayers who beat the darkness back. The song is called "The Rat-catchers" and is actually about the party.

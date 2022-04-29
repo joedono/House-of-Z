@@ -1,5 +1,14 @@
 # Previously
 
+## 2022-04-28
+Previously, on Don't Drink the Special Punch
+
+The party takes a short rest at Eloreth Manor and gets ready to attend the ball at the Loftran palace. While in various degrees of formal wear, the party attends the ball. Various hijinks ensues, including meeting the rest of the royal family, making the acquaintance of a traveling bard named Lily Truehart, and stopping the remains of the dragon ooze from infecting everyone through the fruit punch brought by a chef from the Maple Leaves.
+
+The party is each rewarded with one King's Boon, which they can use to ask the king for any favor of which he is capable of honoring. He and the queen both remind the party that boons are not transferable, and should they perish or disappear from the story, the boons will be forfeit.
+
+The party returns to the manor for the night to plan their next destination. They still have a black dragon egg to deal with.
+
 ## 2022-04-14
 Previously, on You Have Some Eggsplaining To Do
 
