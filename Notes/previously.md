@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-05-05
+Previously, on XXXX
+
+The party greeted each other at breakfast the morning after the party at the palace. They discussed their previous adventures with the Hansens, had some hijinks with Tabitha's potions, and set out for the Wizard's College to do more research on dragons.
+
+At the college, the party ran into Baern Frostbeard, the dwarf professor who wrote the paper on Liara/Valmar's "dragon problem". After reminiscing for a little, the party heads into the Library. Their research EVENTUALLY leads them into the Forbidden Section, where they find one account of a being known as a Planetar destroying a clutch of red dragon eggs. Seeking more information, the party goes to the House of Sunlight, where they find Helen seeking further treatment for her dragon ailment. Sister Thia is largely unsuccessful, but the women are determined to find a cure. Helen leaves awkwardly.
+
+Sister Thia is able to provide only a little information. She says that there is great animosity between the dragons and the celestials, so it's not surprising that there would be an account like the one the party found. Sorrin offers the idea of casting Contact Other Plane to ask a celestial being directly if the legend is true. Sister Thia cautions against the risk of such a spell, but says that she will aid the party the next morning after she has rested and recovered her magic.
+
+The party sleeps in the manor for the night, and heads to the House of Sunlight the next morning.
+
 ## 2022-04-28
 Previously, on Don't Drink the Special Punch
 

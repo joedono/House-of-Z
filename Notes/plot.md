@@ -70,3 +70,9 @@ Anguisa's soul is roaming the land, attempting to gather the materials for her p
 - Skull - East of Southspark?
 - Ribs - Lindenvale?
 - Other Bones - Unknown
+
+## Celestial Soldiers
+Deva - https://www.dndbeyond.com/monsters/16840-deva
+Planetar - https://www.dndbeyond.com/monsters/16980-planetar
+Solar - https://www.dndbeyond.com/monsters/17016-solar
+Empyrean - https://www.dndbeyond.com/monsters/17212-empyrean

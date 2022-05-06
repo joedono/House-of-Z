@@ -1,13 +1,16 @@
 # Tabitha's Alchemy
 Possibilities for random experimental alchemical materials that the players will receive from Tabitha
 
-## Potion of Shrinking
-Instructions: Drink
-Effect: The affected creature suffers from the Reduce spell, becoming half their original size for 1 minute.
+## Bag of Beans
+https://www.dndbeyond.com/magic-items/4579-bag-of-beans
 
 ---
 
 # Used
+
+## Potion of Shrinking
+Instructions: Drink
+Effect: The affected creature suffers from the Reduce spell, becoming half their original size for 1 minute.
 
 ## Seed of Many Faces
 Instructions: Plant in the dirt. Wait for 5 minutes
