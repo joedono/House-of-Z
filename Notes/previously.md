@@ -1,7 +1,7 @@
 # Previously
 
 ## 2022-05-05
-Previously, on XXXX
+Previously, on Jackie Does Research
 
 The party greeted each other at breakfast the morning after the party at the palace. They discussed their previous adventures with the Hansens, had some hijinks with Tabitha's potions, and set out for the Wizard's College to do more research on dragons.
 
