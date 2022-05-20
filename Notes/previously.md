@@ -1,5 +1,18 @@
 # Previously
 
+## 2022-05-19
+Previously, on We Don't Go To Southspark
+
+In the morning, the party attempted to track down Sorrin. He had been perusing the books in the hidden library of the manor, learning about the family that used to live there. Kara walked in with the morning mail, which included a letter from Valmar (!!!). The letter started off as normal correspondence, but mentioned dreaming about a black winged shape, a giant, and angels. The letter then devolved into panicked scribbles that spelled out "SHE'S HERE SHE'S HERE SHE'S HERE SHE'S HERE SHE'S HERE SHE'S HERE" before trailing off. Understandably shaken, the party set out for the House of Sunlight.
+
+The party successfully communed with a celestial being. The background noise sounded like there was a battle going on, but the being was able to spare a minute to answer questions. The answers the party got amounted to this: there is a method of destroying dragon eggs that does not require divinity, but does require some form of ancient magic. The celestial beings refused to help the party directly, as they are "busy", but seemed to indicate that the party should be able to accomplish this themselves. They finally said that they were extremely satisfied with the work that Brother Kellen and Sister Thia had been doing in the temple. As they were deciding what to do next, Thia and Kellen felt a disturbance in the force to the south. They couldn't explain it, only that they had sensed something seriously wrong happening in that direction. So, the party immediately purchased a few horses and made their way south to Bramhold.
+
+Bramhold is a little farming village, close enough to Loftran to take advantage of the naturally fertile ground that makes the city so prosperous, but not so close as to be prohibitively expensive to live on. While there, the party ran into Maaz and Vorsa, two grippli that the party saved from the Yuan-Ti (snake people) invaders some time ago. They recounted that their crab meat trade had resurged since the party left them, and that their excavation under the temple had gone well, until some presence seemed to make the darkness darker. The miners refused to go back in, and the Kalashtar scholar (Kylah's character) said that the presence was telling them "That's far enough. Stay on the surface, where you belong". They haven't tried excavating any more.
+
+The party also ran into Lily Truehart again, who was in the process of embellishing the "Ballad of the Rat-Catchers" even more, hoping to turn it into her career-making song. She's taking inspiration from her favorite childhood storybook, Draffnir's Last Stand. Upon seeing the cover, depicting a giant standing against angels, the party immediately attempted to look through it for clues. All they really found was a collection of stories designed to teach children lessons about life. The only story mentioning an egg was when one broke open on Draffnir's head and he had to take responsibility and apologize to the great bird that laid it.
+
+However, both Lily and the grippli were cautioned by their masters to not travel any further south than Bramhold. Looks like the party has some more traveling to do, as they settle down to spend the night in Bramhold.
+
 ## 2022-05-05
 Previously, on Jackie Does Research
 
