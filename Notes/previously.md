@@ -1,5 +1,20 @@
 # Previously
 
+## 2022-06-02
+Previously, on Help from the Sky
+
+The party set out from Bramhold. It is a three day horseback ride to Southspark. Over the course of the journey, the party notices a new star in the sky. They keep track of it for the first night and into the next evening. The star rapidly increases in size until it resolves into the form of a meteor. It crashes nearby, killing all but three of the party's horses and removing the land from around the Tiny Hut that most of the party was camping in. The group manages to get down out of the Hut, and Ibal goes to investigate the creature in the center of the crater. It turns out to be some sort of celestial. It is humanoid, but has marble white skin and feathery wings. It is also covered in bloody wounds and smells faintly of dragon breath. Ardin healed the angel a little, who awoke. The angel's name was Hairam. He immediately attempted to fly away and "return to his mission" but he was still too injured. While recovering, the party made some conversation. Hairam was cagey about the details of his mission, but the party was more concerned about their own mission. After some persuading, Hairam revealed that, without his weapon, he was unable to destroy the black dragon egg the party had been carrying. However, he agreed to take the egg back to his superiors, provided that he could also take whatever the party was using to prevent the egg charm from taking hold of anyone. The party decided to give up their Handy Haversack, and Hairam flew away to the north-east with the egg. It was then that the party noticed the glow of a large fire on the horizon to the south. They decided to travel through the night.
+
+The next morning, just before sunrise, the fire winked out. It didn't die down. It abruptly disappeared. With the rising sun, the party was able to see Southspark for the first time. They were only able to make out that the town contained many tall wooden buildings. Then they heard singing from behind them. A small party of other adventurers were making their way south as well on horseback.
+Halfrek, the male human paladin of Pelor
+Raya, the female elven rogue
+Juno, the female human sorceror
+Seebo, the male gnome cleric
+
+This new party was singing an off-key traveling song. They seemed friendly and offered to travel with our heroes. During their conversation, Halfrek revealed that they had also come from Loftran. They were being sent as reinforcements for the war that Southspark had been fighting against a tribe of monsters that had settled into the foothills to the east of Southspark, in the direction where the party saw the fire on the horizon. Ibal inwardly questioned this. Halfrek appeared to be telling the truth, but Ibal probably would have heard of any sort of military reinforcements being sent out from Loftran, given his position in the Seat of War.
+
+Mysteries abound as the parties arrive in Southspark. The town is crisscrossed with ropes and pulleys, carrying goods on gondolas are ferried through the air. Ziplines between buildings have people swinging on them nearly every second. The town is awash with activity. The party is greeted by an elven man in a green coat who introduces himself as Wiesgart, and declares himself to be their guide while they're in Southspark, the happiest town south of Bramhold (and the only town south of Bramhold, as Fran pointed out).
+
 ## 2022-05-19
 Previously, on We Don't Go To Southspark
 

@@ -21,11 +21,16 @@ Any party members keeping an ear open for rumors will hear some more people talk
 True to her word, Lily's travels brought her to Bramhold. She had previously met Mori at the ball in the palace of Loftran. She is continuing to sing about the legendary "rat-catchers" but Fran, Ardin, and Ibal will notice that she is embellishing the story considerably, adding things such as bringing rain back to Greensburrow, stopping a rampaging giant, and fighting an army with just the five of them.
 
 ## Celestial Comet
--- BOOKMARK --
 After Bramhold, the journey is too far to Southspark to be made in a single day. While the party is camping for the night, whoever is on watch in the middle of the night will see a meteor crash nearby. If they investigate, the party will discover an unconscious Deva (https://www.dndbeyond.com/monsters/16840-deva) lying in the crater.
 
-The Deva is a soldier from the Dragon/Celestial war named Hairam. When he wakes up, whether the party nursed him or not, he will be extremely eager to get back to his mission. If he was only healed using basic medicine or has 10 or fewer hit points, he will falter and comment on how he needs more rest before returning to the fray. If he was healed more than that, he will take off immediately into the sky and disappear.
+The Deva is a soldier from the Dragon/Celestial war named Hairam. When he wakes up, whether the party nursed him or not, he will be extremely eager to get back to his mission. If he was only healed using basic medicine or has 20 or fewer hit points, he will falter and comment on how he needs more rest before returning to the fray. If he was healed more than that, he will take off immediately into the sky and disappear.
 
 If the party is able to interrogate him, he will evade their questions, saying that his mission doesn't concern "lesser beings such as mortals".
 
 After an hour of rest, Hairam will be well enough to take off into the sky.
+
+## Adventuring Party
+Halfrek - Paladin male human
+Raya - Rogue female elf
+Juno - Sorcerer female human
+Seebo - Cleric male gnome
