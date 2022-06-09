@@ -14,4 +14,13 @@ That's because the majority of the populace are illusions. Holograms generated b
 ## Arrival
 When the party arrives, the town will be full of activity. Carts and people zip lining this way and that, an exhibition leaving for the Finger Peaks to start the day's mining, the market opening up for the day, etc.
 
-They'll be approached by an overly-happy elf named Wiesgart, who will ask for their names and business. He'll give off a way-too-happy vibe, but nothing too suspicious. He might even offer to give the party a tour of the city. He'll mention the war with just as much enthusiasm as the tavern's meal of the day (seasoned pork with carrots and carmelized apples, if the party asks).
+They'll be approached by an overly-happy elf named Wiesgart, who will ask for their names and business. He'll give off a way-too-happy vibe, but nothing too suspicious. He'll sweep the party up in a tour of the city. He'll mention the war with just as much enthusiasm as the tavern's meal of the day (seasoned pork with carrots and carmelized apples, if the party asks).
+
+Places of Note:
+* Leaky Boulder - Tavern
+* Hammer and Nails - Carpentry Supply Store and blacksmith
+* Crystal Meltdown - The metal refinery
+* Temple of Innovation - Temple to Erathis, the goddess of civilization and invention
+* Sky Delvers - The miners guild
+
+Halfrek and his party will go along with the group until the tour ends, upon which they will head for the Leaky Boulder for a good meal before setting off for the base camp. They'll invite the players along.

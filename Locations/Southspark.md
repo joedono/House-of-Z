@@ -21,6 +21,6 @@ The miners guild. Situated at the western side of Southspark. Inspired by the Fa
 The metal refinery. The crashing and clanking of all the machinery almost always makes a song, but the employees never notice. They just bop and bounce to the rhythm. It makes them extremely efficient.
 
 ## Temple of Innovation
-Temple to Erathis, the goddess of civilization and invention. The only place where the illusion can't touch. Completely packed up and deserted. There is a layer of dust on everything other than the space just inside the door. The clues all point to a calm exodus. There was no struggle. The priests all packed up calmly and left.
+Temple to Erathis, the goddess of civilization and invention. The only place where the illusion can't touch. However, it can be covered with one. When viewed from the outside, it looks like a well-kept temple, but there's no one inside. If the party enters, they'll pass through the illusion and find the interior of the temple completely packed up and deserted. There is a layer of dust on everything other than the space just inside the door. The clues all point to a calm exodus. There was no struggle. The priests all packed up calmly and left.
 
-However, the players will hear scratching from downstairs. Neep lives down there.
+However, the players might see small footprints in the dust and hear scratching from downstairs. Neep lives down there.

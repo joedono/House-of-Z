@@ -62,7 +62,7 @@ Now the stage is set for any number of outcomes for future conflicts. Viserion c
 
 # Book 2
 Anguisa's soul is roaming the land, attempting to gather the materials for her planned ritual to reassemble Draffnir and use him in the war with the celestials. The ingredients are still on the list the party is carrying:
-- Abyss
+- Abyss https://www.dndbeyond.com/sources/dmg/creating-a-multiverse#TheAbyss
 - Pelvis - Third Finger Peak Mountain
 - Finger Bones x3 - Seacracker Islands
 - **Blood of the Giants**
@@ -76,3 +76,8 @@ Deva - https://www.dndbeyond.com/monsters/16840-deva
 Planetar - https://www.dndbeyond.com/monsters/16980-planetar
 Solar - https://www.dndbeyond.com/monsters/17016-solar
 Empyrean - https://www.dndbeyond.com/monsters/17212-empyrean
+
+## Draffnir Ritual
+In order to complete the ritual, Anguisa needs the essence of at least three of Draffnir's bones, Giant's Blood, and the Soul of a Demon Lord (The Abyss). She has this bone already. She needs to return to Loftran and retrieve the Giant's Blood that Viserion lost, collect two more bones, then travel to the Abyss and obtain the Soul of a Demon Lord.
+
+Then she needs to go to where Draffnir's symbolic head is, the Laughing Mountains, and construct a vessel that will hold his corrupted essence. The essences of Draffnir's Bones will call to their originals, wrenching them from their sleeping places across the continent, leaving great devastation behind as they rocket across the countryside to join with the others. Then, once constructed, infused, and resurrected, the not-Draffnir will walk East towards the war, leaving further devastation as it's essence corrupts the countryside it walks through.
