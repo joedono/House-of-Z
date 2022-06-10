@@ -1,6 +1,6 @@
 # Arrival in Southspark
 -- BOOKMARK --
-The most striking feature of the town is how high it goes. All of the buildings are made of wood and stone, but some of them stretch over 6 stories high. One or two are as many as 10 stories. If a person looks up, they see a crisscrossed network of ropes and pulleys, zip lines and gondolas, and even the one cablecar that goes from the edge of town to the staging area at the closest Finger Peak mountain.
+The most striking feature of the town is how high it goes. All of the buildings are made of wood and stone, but some of them stretch over 6 stories high. One or two are as many as 10 stories. If a person looks up, they see a crisscrossed network of ropes and pulleys, zip lines and gondolas, and even two cablecars that goes from the edge of town to the staging area at the closest Finger Peak mountain.
 
 For the past 2 years, the town has been the site of near constant skirmishes with a band of monsters in the rolling hills to the East. They started off as a roaming band of gnolls, but very quickly expanded to include orcs, hags, trolls, and even a dragon or two. The townspeople aren't worried, since they're constantly receiving reinforcements from Loftran. The normal citizens have been able to go about their day's work without too much hassle. They've even received help from a legendary hero or two, but the fighting continues. Of course, no reinforcements have ever actually gone south from Loftran, Ibal would know that at least.
 
@@ -14,7 +14,7 @@ That's because the majority of the populace are illusions. Holograms generated b
 ## Arrival
 When the party arrives, the town will be full of activity. Carts and people zip lining this way and that, an exhibition leaving for the Finger Peaks to start the day's mining, the market opening up for the day, etc.
 
-They'll be approached by an overly-happy elf named Wiesgart, who will ask for their names and business. He'll give off a way-too-happy vibe, but nothing too suspicious. He'll sweep the party up in a tour of the city. He'll mention the war with just as much enthusiasm as the tavern's meal of the day (seasoned pork with carrots and carmelized apples, if the party asks).
+They'll be approached by an overly-happy elf named Wiesgart, who will ask for their names and business. He'll give off a way-too-happy vibe, but nothing too suspicious. He'll sweep the party up in a tour of the city. He'll mention the war with just as much enthusiasm as the tavern's meal of the day (seasoned pork with carrots and caramelized apples, if the party asks).
 
 Places of Note:
 * Leaky Boulder - Tavern
@@ -24,3 +24,6 @@ Places of Note:
 * Sky Delvers - The miners guild
 
 Halfrek and his party will go along with the group until the tour ends, upon which they will head for the Leaky Boulder for a good meal before setting off for the base camp. They'll invite the players along.
+
+## Player Notes
+Darquin purchased illusory climbing gear
