@@ -1,5 +1,18 @@
 # Previously
 
+## 2022-06-16
+Previously, on I Lost My Pitons
+
+The party reconvened outside of the Leaky Cauldron and compared notes. All agreed that something extremely weird is going on in Southspark. They decided on one more stop before finding a place to stay for the night: The guild hall of the Sky Delvers.
+
+As they arrived at the guild hall, they found a rambunctious group of miners watching a brawl between three human brothers and a halfling. Fran decided to leap into the fray and see how much damage he could cause, and Darquin placed some bets on him. The fight only went on for another few minutes before the guildmaster, Barnabus Craggletooth, put a stop to it. Barnabus is a brass dragonborn with a shrill voice who commands enough respect in the guild hall to shut everyone up instantly. He invited the party to sit and eat with him and discussed the war with the monsters, his guild's ability to supply the war effort, and the steady stream of reinforcements from the north.
+
+In the meantime, Ibal and Ardin did a little covert investigating. Ibal noticed two people at the bar who looked identical to two workers they saw at the Crystal Meltdown, and after focusing his hearing, noticed several phrases being repeated verbatim in different conversations. Ardin attempted to view the entire room through his Gem of Seeing, and took some psychic damage after seeing a faint shimmer over just about everyone. Something is definitely wrong with everything.
+
+The party left the guild hall and retired to the Leaky Boulder. In the middle of the night, the town went stone dead silent and a harsh wind blew in from the East. Abruptly, those that were awake felt extremely hungry, as if they hadn't had anything to eat for lunch or dinner the previous day. Darquin noticed that the rope and pitons that he bought from Hammer & Nails were gone from his pack, and he was one gold piece short of what he should be. Ibal and Darquin theorized that something was "reset" at midnight, like a clockwork device winding down before someone winding it back up again.
+
+As the next watch shifts start, each member of the party woke up feeling starved. They were able to share each other's rations and stave off the worst of it (no one takes points in exhaustion... for now). Sorrin heard someone calling for help from down the hall. He investigates by himself and discovers Fig, father of Peachy and the real owner of the Leaky Boulder. Fig is bedridden and near-death from starvation. Sorrin gave Fig some of his rations before Fig fell back to sleep. Sparkles the cat followed Sorrin into the room, and cuddles with Fig before Sorrin roughly brought Fig back to Jasper to translate what the cat was thinking. Sparkles confirmed that Fig smelled "good", like the party did. Sorrin deduced that there is some sort of extremely powerful illusion magic at play here, and sets out into the night to look for glyphs or other magical symbols that might be channeling some sort of massive spell across the town.
+
 ## 2022-06-09
 Previously, on Many Poops
 

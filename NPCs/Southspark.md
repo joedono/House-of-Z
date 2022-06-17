@@ -18,6 +18,9 @@ Peachy's father and the actual owner of the Leaky Boulder. NOT illusory. He is b
 ## Farley, Marley, and George
 Three human male brothers that make up one of the exhibition teams that go into the Finger Peaks to mine for metals. Farley is the short fast one. Marley is the average intelligent one. George is the big strong one. All are illusory. Also appear as the owners of the mess halls at Base Camp.
 
+## Primdor
+Male halfling. Troublemaking member of the Sky Delvers.
+
 ## Barnabus Craggletooth
 Male brass dragonborn. Guildmaster of the Sky Delvers. Super serious, but super high-pitched voice.
 

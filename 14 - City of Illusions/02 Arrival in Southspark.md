@@ -1,5 +1,4 @@
 # Arrival in Southspark
--- BOOKMARK --
 The most striking feature of the town is how high it goes. All of the buildings are made of wood and stone, but some of them stretch over 6 stories high. One or two are as many as 10 stories. If a person looks up, they see a crisscrossed network of ropes and pulleys, zip lines and gondolas, and even two cablecars that goes from the edge of town to the staging area at the closest Finger Peak mountain.
 
 For the past 2 years, the town has been the site of near constant skirmishes with a band of monsters in the rolling hills to the East. They started off as a roaming band of gnolls, but very quickly expanded to include orcs, hags, trolls, and even a dragon or two. The townspeople aren't worried, since they're constantly receiving reinforcements from Loftran. The normal citizens have been able to go about their day's work without too much hassle. They've even received help from a legendary hero or two, but the fighting continues. Of course, no reinforcements have ever actually gone south from Loftran, Ibal would know that at least.
