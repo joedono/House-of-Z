@@ -1,5 +1,22 @@
 # Previously
 
+## 2022-06-30
+Previously, on The War Camp
+
+The party came downstairs at the Leaky Boulder and found what seemed to be a normal morning tavern scene. But they noticed a lot of familiar faces in unfamiliar clothing. Sky Delvers wearing the uniform of the Crystal Meltdown, the band having totally different faces while the band from yesterday were having breakfast in Sky Delvers garb, and the orcs from the Hammer & Nail blacksmith working as waiters in the tavern. The group left as quickly as they could.
+
+Outside the tavern, the party witnessed Wiesgart welcoming yet another adventuring party to Southspark... It was Halfrek and his band again, but thier roles were all mixed up. Halfrek was the rogue and Raya was the Paladin. Strangeness abounds.
+
+Sorrin (voiced by the DM) pointed out that the list the party had been carrying around mentioned that a Skull might have been located East of Southspark. Between that, and meeting the little boy with the skull mask, Sorrin deduced that the party might be on the trail of one of Draffnir's bones. And so, the party made for base camp.
+
+The camp was about as big as Southspark itself, with merchants and a functioning market place. The party met a dwarven merchant named Halden Bramhold, who very quickly deduced that the party was "real". He revealing information about himself that seemed to indicate he was aware of the weirdness. He's aware that food fed to him by the people doesn't stay in his belly, so he's been eating from his own stores. Their money disappears too. He's very nervous about staying and has about had his fill, but with the arrival of the party, he's going to stick around and see what happens. He directs the party to the infirmary, as the head surgeon might also be "real". The party investigates there and meets Doctor Ivans (who I neglected to introduce to the party), another dwarf. Dr Ivans lamented being in an infirmary in a war where no injured ever seem to come to him. The last person he treated was a man dying of starvation a few months ago. The party mentioned Fig, the starving owner of the Leaky Boulder, and Ivans said that he doesn't think he can find the time to head back to see him. Ivans believes that, as soon as he leaves, a swath of injured people will come to his infirmary for his help.
+
+The party heads to the General's Tent and meets Brutus Maxwell, a male human who is supposedly leading this war effort. Brutus is angrily yelling at his lieutneants about the lack of progress and the seemingly endless supply of monsters coming from the foothills. Ibal glances at the map, and sees that the people have the monsters territory completely surrounded and blockaded, so it's a question of where are the reinforcements coming from. Brutus quickly assigns the party to the 4th Platoon, under Plentus Ardbare, a depressed looking man who does his job begrudgingly. Plentus walks the party over to where his platoon is camped.
+
+The 4th Platoon is made up of about two dozen humans, three elves, two full-blooded orcs, and six goblins. Fran notices that the orcs are the same ones who worked in the blacksmith shop, and Jasper notices that the six goblins all look identical to Neep (and all answer to the same name as well). Plentus claims that the goblins defected because their food was better.
+
+That afternoon, the 4th Platoon heads out on a raiding push into the monster territory. It doesn't take long for the party to find a fight with a tribe of ogres and a few night hags.
+
 ## 2022-06-16
 Previously, on I Lost My Pitons
 
