@@ -2,11 +2,12 @@
 The goal here is to get through the monsters' territory in the foothills and find the entrance to the underground chamber where Draffnir's Skull is.
 
 ## Options
-The party has several options for getting to the cave.
+The party has several options for getting to the cave, but all roads ultimately lead to going over land with no real advantage. The party will eventually have to fight or sneak their way through the foothills.
 
-### By Water
-The party could borrow or build a boat and sail around the southern side of the foothills. If they succeed in a Perception check, they might spot a river that goes deeper into the monsters territory. Otherwise, this approach doesn't buy them very much. The human forces have blockaded the water as well as the land, and the monsters have spared no expense with enforcing this side of their defenses.
+## Path Through the Foothills
+Without a Ranger, the party will have to make a Survival check to avoid getting lost and running into more bands of monsters.
 
-### Fighting Over Land
+As they make their way through the foothills, they'll see signs of old battles: long decomposed skeletons, broken down siege weapons, and dried blood trails. If they stick around to loot things, roll on the Random Treasure table https://www.dndbeyond.com/sources/dmg/treasure#RandomTreasure
 
-### Sneaking Over Land
+## Patches
+Depending on their survival rolls, the party will either encounter Patches randomly in the foothills, or they'll find his cave. Patches is a nearly-insane non-illusory human who has been lost in the foothills for months, barely surviving off of the wilderness, and somehow managing to avoid the patrolling monster bands. Once the party learns how to solve the issue with the Skull, they'll have to locate Patches and bring him out through the monster territory.

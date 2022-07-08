@@ -1,5 +1,12 @@
 # Previously
 
+## 2022-07-07
+Previously, on Digital Dice
+
+The party and the soldiers battle the ogres and hags. The monsters battled with the battle cry "For The Skull!!" The party triumphed over the monsters, suffering only minor damage. After the battle, the still-living soldiers celebrated and immediately turned to go back to camp, leaving their dead and seemingly ignoring the party.
+
+The party resolved to journey further east, into the monsters' territory, searching for its center. As they set off, the boy in the skull mask appears to them again, begging for their help, before fizzling out again.
+
 ## 2022-06-30
 Previously, on The War Camp
 
