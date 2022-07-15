@@ -1,5 +1,22 @@
 # Previously
 
+## 2022-07-14
+Previouly, on Damn Mosquitos!!
+
+The party started their journey into the heart of the monster territory, being extremely cautious of whatever they might find.
+
+The first thing they found... was Halfrek and his party.... again. As before, their roles are all switched around again. Mori (controlled by Joe for a few minutes) was volunteered to go and have a chat with them. They apparently had just finished fighting their own band of monsters and were taking a break. They conversed with Mori, but didn't reveal any additional information. They abruptly stopped, acting as if they heard something coming. Despite some pretty amazing Perception checks by the party, not one of them heard anything. Halfrek and his group took off running, weapons drawn, towards the rest of the party's hiding place. Halfway there, however, they vanished from view. Jasper and Mori spent a bit of time looking for signs of their existance before chalking it up to whatever was going on, and resuming the hike into the hills.
+
+The next thing the party ran in to were a pair of cyclops and their chimera pets. Through some creative use of Hallucinatory Terrain and Conjure Animals, Sorrin and Jasper managed to fool the cyclops into thinking there was an approaching forest fire, and get them to move off and away from the path the party was on.
+
+Next, the party ran into a Werewolf. Mori tried to engage it in conversation, but it just wanted meat. After a devastating first round, and with the threat of more wolf reinforcements on the way, the Werewolf abruptly vanished, like a television being switched off. The party licked their wounds and elected to travel on a bit more before the sun set.
+
+The last thing the party encountered before bedding down for the night was the dreaded... Mosquito!!! It was eventually dispatched in the bloodiest use of Thunderwave possible, and the party breathed a sigh of relief.
+
+Ardin put up his Tiny Hut and Jasper further shrouded it with his Veil of Night and Shadow. The party witnessed other spectacles during the night, including another ogre raiding party, a hundred goblins, and an ancient black dragon. None of the creatures paid any mind to the mysterious dome of force in the middle of the forest. The goblins didn't even change their running animation when they ran into it.
+
+The party managed a fitful sleep. Thanks to Jasper and his goodberries, they avoid starvation for the day and wake the next morning somewhat refreshed. The center of the monster territory is close.
+
 ## 2022-07-07
 Previously, on Digital Dice
 
