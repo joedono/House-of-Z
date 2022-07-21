@@ -15,7 +15,7 @@ The last thing the party encountered before bedding down for the night was the d
 
 Ardin put up his Tiny Hut and Jasper further shrouded it with his Veil of Night and Shadow. The party witnessed other spectacles during the night, including another ogre raiding party, a hundred goblins, and an ancient black dragon. None of the creatures paid any mind to the mysterious dome of force in the middle of the forest. The goblins didn't even change their running animation when they ran into it.
 
-The party managed a fitful sleep. Thanks to Jasper and his goodberries, they avoid starvation for the day and wake the next morning somewhat refreshed. The center of the monster territory is close.
+The party managed a fitful sleep. Thanks to Jasper and his goodberries, they avoid starvation for the day and wake the next morning somewhat refreshed.
 
 ## 2022-07-07
 Previously, on Digital Dice
