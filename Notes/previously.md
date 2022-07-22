@@ -1,5 +1,20 @@
 # Previously
 
+## 2022-07-21
+Previously, on You Call THAT a Dragonslayer? This is a real Dragonslayer
+
+The party discovered the site of the major battle between the humans and the monsters. They split up to investigate the various features and found a number of interesting things.
+
+First, they discover the various final resting places of Halfrek and his friends. Halfrek himself died protecting a cave that a group of soldiers had retreated into. Raya died attempting to save a small bundle. Juno died in a Fireball of her own casting. Seebo died at the top of a tree that he grew around a troll or a cyclops or something. Each of them had some of their magical items still on them, which Ardin and Darquin set about identifying.
+
+Second, they discover only two or three actual monster corpses, goblins. The rest are humans or humanoids.
+
+Third, there are illusions everywhere playing various moments of the battle. They start out showing people fighting small monsters, such as gnolls and kobolds. They gradually increase in power to cyclops and trolls, and eventually up to a Beholder and Baphomet himself.
+
+Fourth, the eastern side of the clearing had three large holds that led to tunnels that go deep underground. Presumably towards the heart of the monster nest.
+
+Finally, and most alarmingly, the illusions manifest as skeletons that rise out of the various corpses on the battlefield. Some grow in size, and some manifest out of Halfrek and his friends. The party set about making bone dust out of the skeletons.
+
 ## 2022-07-14
 Previouly, on Damn Mosquitos!!
 
