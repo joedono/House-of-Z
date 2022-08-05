@@ -33,3 +33,6 @@ Seebo, Nature Domain Cleric, is tangled in the dead bark of a tree. There is a l
 
 ## Patches - Chris Sullivan NPC
 Depending on their survival rolls, the party will either encounter Patches randomly in the foothills, or they'll find his cave. Patches is a nearly-insane non-illusory human who has been lost in the foothills for months, barely surviving off of the wilderness, and somehow managing to avoid the patrolling monster bands. Once the party learns how to solve the issue with the Skull, they'll have to locate Patches and bring him out through the monster territory.
+
+## Aftermath
+After the battle, the boy in the skull mask will appear again. The party is so close to him now. He apologizes, saying that the trail will only get harder from here. He can't stop himself from trying to defend himself. He's so sorry, but they must hurry.

@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-08-04
+Previously, on Stranger Danger
+
+The party met a survivor of one of the initial battles against the monsters. Mirv the elven wizard was hired as part of the mercenary band and sent out to deal with the goblins who had moved into the foothills. His squadron made quick work of the goblins, but then the stronger monsters showed up. Mirv turned tail and fled into the forest, and has been surviving on his own for 4-6 months.
+
+With Mirv's help, the party finished off the last of the skeletons and looted gold and magic items they could find around the battlefield.
+
+The party started to interrogate Mirv about his experiences, until the skull-faced boy appeared again. The boy revealed to the party that he is actually the Skull of Draffnir. He is located down the hole and he was heavily wounded by "her" some time ago. Ever since then, his natural defenses against discovery have been going out of control, producing ever-stronger illusions that fight each other instead of driving away creatures that might discover the Skull's location. The boy pleads with the party to come and heal his wound, but cautions them that he isn't fully in control of his defensive semi-solid illusions. The road underground is likely to be even more dangerous than the road so far. Sorrin volunteers that, since Mirv's tactic of hiding in a small illusion seems to have helped keep him safe these past few months, maybe a larger-scale illusion, such as Hallucinatory Terrain, might be equally effective.
+
+The party ventures down into the hole, and comes to a cave with Hatching Stones in the walls, giving off semi-natural light. The party grew cautious, considering the experiences Fran, Ardin, and especially Ibal had in their last adventure into a Hatching Stone cave. But they press on, amidst overlapping growls and roars from whatever monsters the Skull's defenses are set to conjure and unleash on the party.
+
 ## 2022-07-21
 Previously, on You Call THAT a Dragonslayer? This is a real Dragonslayer
 
