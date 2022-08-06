@@ -43,9 +43,13 @@ The rhythmic chanting is Greep, a lone goblin in the middle of worshipping the s
 ### The Boy in the Skull Mask
 As the party enters, the white lights of the Skull's eyes will focus on them and the skull-masked boy will appear in front of them, "You finally found me."
 
-TODO
+The Skull will plead with the party to spare some healing magic. They need to restore at least 50HP to the skull. Any healing magic will work. The party can perform a DC 15 Medicine check to determine this number. Once healed, the Skull will be confused why its defenses are still out of its control. Greep will unleash a fresh cacophony of prayers, and the Skull will realize that its defenses need a reset, which means all sentient creatures need to be removed from the area of the illusion. The Skull will sense the party and Greep nearby, two presences on the outskirts of the foothills (Halden the merchant and Dr Ivans), and two presences in the town (Fig and Neep). All of them will have to be taken out of the area of the illusion, or otherwise eliminated. The Skull doesn't care which.
 
 ### Greep
-Greep will think that the party came to harm the skull, like that dragon did. The party has a shot at calming him down if they bring up his brother, Neep, and mention that he still lives. If the party doesn't calm Greep down, he'll turn up his chanting, and then throw a rock at the skull. This will cause the defense systems to acivate, and the skull will shroud Greep in the likeness of a Lich. If the party manages to calm Greep down, the Skull will activate anyway and manifest the likeness of a Lich on its own. Greep will retreat to a safe corner of the cave, but he might be caught in some crossfire anyway.
+Greep will be friendly towards the party, until they try to convince him to leave. He'll immediately become hostile and throw a rock at the Skull to aggravate it. This will cause the defense systems to acivate, and the skull will shroud Greep in the likeness of a Lich. Every turn, Greep has a 10% chance to transform into a different creature from the following list.
+1. https://www.dndbeyond.com/monsters/16943-lich
+2. https://www.dndbeyond.com/monsters/2059747-hollow-dragon
+3. https://www.dndbeyond.com/monsters/2560877-molydeus
+4. https://www.dndbeyond.com/monsters/17016-solar
 
-https://www.dndbeyond.com/monsters/16943-lich
+Defeating Greep will dispel the illusion and knock him out on the floor. The party can either kill him right then, or carry him out of the maze. He'll stay knocked out until the party brings him topside. Once he wakes up, he'll want to go back into the hole. The party can either force him to come with them, or mention his brother Neep (again?) to ensure Greep's coorperation.
