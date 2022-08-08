@@ -43,7 +43,7 @@ The rhythmic chanting is Greep, a lone goblin in the middle of worshipping the s
 ### The Boy in the Skull Mask
 As the party enters, the white lights of the Skull's eyes will focus on them and the skull-masked boy will appear in front of them, "You finally found me."
 
-The Skull will plead with the party to spare some healing magic. They need to restore at least 50HP to the skull. Any healing magic will work. The party can perform a DC 15 Medicine check to determine this number. Once healed, the Skull will be confused why its defenses are still out of its control. Greep will unleash a fresh cacophony of prayers, and the Skull will realize that its defenses need a reset, which means all sentient creatures need to be removed from the area of the illusion. The Skull will sense the party and Greep nearby, two presences on the outskirts of the foothills (Halden the merchant and Dr Ivans), and two presences in the town (Fig and Neep). All of them will have to be taken out of the area of the illusion, or otherwise eliminated. The Skull doesn't care which.
+The Skull will plead with the party to spare some healing magic. They need to restore at least 50HP to the skull. Any healing magic will work. The party can perform a DC 15 Medicine check to determine the number remaining at any time. Once healed, the Skull will be confused why its defenses are still out of its control. Greep will unleash a fresh cacophony of prayers, and the Skull will realize that its defenses need a reset, which means all sentient creatures need to be removed from the Skull's territory. The Skull will sense the party and Greep nearby, two presences on the outskirts of the foothills (Halden the merchant and Dr Ivans), and two presences in the town (Fig and Neep). All of them will have to be taken out of the area of the illusion, or killed, in order for the Skull's defenses to reset. The Skull doesn't care which.
 
 ### Greep
 Greep will be friendly towards the party, until they try to convince him to leave. He'll immediately become hostile and throw a rock at the Skull to aggravate it. This will cause the defense systems to acivate, and the skull will shroud Greep in the likeness of a Lich. Every turn, Greep has a 10% chance to transform into a different creature from the following list.
@@ -53,3 +53,5 @@ Greep will be friendly towards the party, until they try to convince him to leav
 4. https://www.dndbeyond.com/monsters/17016-solar
 
 Defeating Greep will dispel the illusion and knock him out on the floor. The party can either kill him right then, or carry him out of the maze. He'll stay knocked out until the party brings him topside. Once he wakes up, he'll want to go back into the hole. The party can either force him to come with them, or mention his brother Neep (again?) to ensure Greep's coorperation.
+
+The party will level up as soon as they leave the monster nest.

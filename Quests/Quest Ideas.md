@@ -1,7 +1,7 @@
 # Quest Ideas
 
 ## Dead Friend
-Sorrin was originally in Loftran because he received a letter from his dead friend, which was presumably sent AFTER they had died. The letter mentioned Tabitha by name.
+Sorrin was originally in Loftran because he received a letter from his dead friend, which was presumably sent AFTER they had died. The letter mentioned Tabitha by name. Tabitha also received a letter from her dead friend. The party eventually received a similar letter from Valmar. The letters all mentioned images of winged shapes flying through the air and a giant rising up from the ground to do battle with winged humanoids. The ghosts are all having premonitions of Draffnir being reconstituted by the Dragons and made to battle the Celestials. The ghosts are able to communicate because of the presence of the Ghost of Anguisa. Her flights around the continent are thinning the division between the Material Plane and the Land of the Dead.
 
 ## Eloreth Bank Account
 20,000gp in an unclaimed account at the bank in Loftran. Need the Eloreth signet ring. The ring is actually in the Abyss, where half the Eloreth family was massacred and the other half was turned into demons.
@@ -17,3 +17,6 @@ Fran found his old fishing buddy, Poddrick, in a Durrstaft prison cell. Without 
 
 ## Jewel Thief
 Over the course of his tenure as a city guard consultant, Ibal discovered that, once about every 4 months, a jewelry store in Loftran is robbed. The robber never leaves any trace, and only steals less than 100gp worth of stuff at a time. The jeweler has submitted numerous reports to the city watch, but they can never find anything and continuously dispose of the reports when the trail goes cold, so no one has really noticed the pattern.
+
+## King Werewolf
+King Samuel of Loftran, was bitten by Fran to shake him out of the True Polymorph spell he was under. The bite transfered the curse of lycanthropy to the king. Seeing as how the king has giant's blood in him, the lycanthropy will transform him into a werewolf who is several stories tall. The next time the party comes to Loftran, they'll find a good portion of the city has been wrecked and the King is missing... again.
