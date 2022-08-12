@@ -1,6 +1,11 @@
 # Previously
 
 ## 2022-08-04
+Previously, on Your Beard Game is WEAK!!
+
+The party ventured into the Skull Cave, chased by the sounds of growling, snarling monsters and claws scraping against rock and dirt. They fought against a pair of young black dragons and a party of devils as they made their way through the cave.
+
+## 2022-08-04
 Previously, on Stranger Danger
 
 The party met a survivor of one of the initial battles against the monsters. Mirv the elven wizard was hired as part of the mercenary band and sent out to deal with the goblins who had moved into the foothills. His squadron made quick work of the goblins, but then the stronger monsters showed up. Mirv turned tail and fled into the forest, and has been surviving on his own for 4-6 months.

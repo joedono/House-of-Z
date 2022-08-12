@@ -10,7 +10,7 @@ Roughly every 10 minutes, roll a random encounter for the players
    1. https://www.dndbeyond.com/monsters/17041-tyrannosaurus-rex x 1
    2. https://www.dndbeyond.com/monsters/17039-triceratops x 3
 3. https://www.dndbeyond.com/monsters/16823-chimera x 4
-4. Devils
+4. DONE Devils
    1. https://www.dndbeyond.com/monsters/16822-chain-devil
    2. https://www.dndbeyond.com/monsters/16813-bone-devil
    3. https://www.dndbeyond.com/monsters/16803-bearded-devil x 3
@@ -20,7 +20,7 @@ Roughly every 10 minutes, roll a random encounter for the players
    2. https://www.dndbeyond.com/monsters/285320-giant-mimic x 2
    3. https://www.dndbeyond.com/monsters/16957-mimic x 4
 7. https://www.dndbeyond.com/monsters/17121-yuan-ti-abomination x 3
-8. https://www.dndbeyond.com/monsters/17067-young-black-dragon x 2
+8. DONE https://www.dndbeyond.com/monsters/17067-young-black-dragon x 2
 9.  https://www.dndbeyond.com/monsters/175398-skittering-horror x 2
 10. https://www.dndbeyond.com/monsters/16935-iron-golem x 2
 11. https://www.dndbeyond.com/monsters/17113-death-slaad x 2
