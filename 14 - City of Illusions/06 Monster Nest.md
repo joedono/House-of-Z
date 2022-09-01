@@ -5,7 +5,7 @@ The party has made their way into the ant-hill of a maze of tunnels that make up
 The maze bears sparse signs of settlement. The only things that have ever lived down here are the 6 goblins who settled down here. Animals and other sentient creatures don't come down here, so there are no signs of life. However, there are noises and shades moving around. Being inside the cave has made the party the primary targets of the automatic defense systems of the Skull. All the illusions that manifest will stare at them or attempt to attack them. They are all monsters. Goblins, Hags, Ogres, Kobolds, Young Dragons, Dinosaurs, Sphinx, Demons, Devils, Beholders, and all sorts of things.
 
 Roughly every 10 minutes, roll a random encounter for the players
-1. https://www.dndbeyond.com/monsters/16804-behir x 2
+1. DONE https://www.dndbeyond.com/monsters/16804-behir x 2
 2. Dinosaurs
    1. https://www.dndbeyond.com/monsters/17041-tyrannosaurus-rex x 1
    2. https://www.dndbeyond.com/monsters/17039-triceratops x 3
@@ -22,7 +22,7 @@ Roughly every 10 minutes, roll a random encounter for the players
 7. https://www.dndbeyond.com/monsters/17121-yuan-ti-abomination x 3
 8. DONE https://www.dndbeyond.com/monsters/17067-young-black-dragon x 2
 9.  https://www.dndbeyond.com/monsters/175398-skittering-horror x 2
-10. https://www.dndbeyond.com/monsters/16935-iron-golem x 2
+10. DONE https://www.dndbeyond.com/monsters/16935-iron-golem x 2
 11. https://www.dndbeyond.com/monsters/17113-death-slaad x 2
 12. https://www.dndbeyond.com/monsters/2560731-bael
 

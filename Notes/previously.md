@@ -1,5 +1,18 @@
 # Previously
 
+## 2022-08-25
+Previously, on Dry Heaving is Good for Your Stabbing
+
+The party discovered the resting place of the Skull of Draffnir. The skull-faced boy appeared and begged the party to grant it some healing. The Skull itself rolled around to gaze at the party, revealing a nasty looking wound in its forehead that was oozing green ectoplasm and appeared to have been made by a creature with great claws. The party also saw a lone goblin that appeared to be worshipping the Skull.
+
+Upon entering the room, the goblin retreated within the Skull and used a stone dagger to irritate the Skull, causing its defenses to activate and shroud the goblin in an illusion. Now with the full appearance and abilities of a Lich, the goblin engaged the party in battle.
+
+As if the Lich wasn't bad enough, the Skull's defenses continually activated, spawning short-lived but extremely powerful monsters to assist the Lich and attack the party. It was a close call, with tons of damage being thrown around. The Skull kept begging the party for healing. After some healing was dumped into the Skull's wound, the ectoplasm stopped sizzling and the illusions stopped appearing.
+
+In a last ditch effort, the Lich slayed Fran using Power Word Kill, but Eliza's Blessing still lingered on him, restoring him to life. The trauma caused Fran to transform into a werewolf and deal the finishing blow to the Lich, and the goblin within.
+
+With the primary irritant now unconscious and a decent amount of healing provided, the Skull heaved a sigh of relief and thanked the party. But it warned that there is still work to be done.
+
 ## 2022-08-04
 Previously, on Your Beard Game is WEAK!!
 

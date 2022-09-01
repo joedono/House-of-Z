@@ -1,4 +1,5 @@
 # Bring out the Living
+-- BOOKMARK --
 The party needs to journey out of the monster nest and back through to Southspark in order to gather up Halden, Dr Ivans, Fig, and Neep, and get them out of the area.
 
 After healing the Skull, the illusions will be far less random, but no less dangerous around sentient creatures. The illusions won't attack the party or Greep directly, but they'll have their sights set on the others.
