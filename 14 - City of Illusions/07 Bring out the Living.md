@@ -32,15 +32,20 @@ Neep will be hiding in a random building around town.
 
 Neep will be actively hiding from the party, as he's got his first breath of freedom and doesn't want to get caught again. If the party has Greep with them, they can have him call out to bring Neep out of hiding. A DC 20 Investigation or Perception check will reveal hints to Neep's location.
 
-#### Important Foreshadowing - Miner Brothers
-If the party checks out the Temple of Innovation, they won't find Neep, but they will find a trio of ghosts there that resemble Farley, Marley, and George, the rambuctious miners from the Sky Delvers that Fran fought. They'll approach Ardin, Fran, or Ibal. The miners could perceive them coming into the Sky Delvers guild hall when the illusion was still powered, so they know the trio and are happy to see them again.
+#### Important Foreshadowing - Old Heroes
+If the party checks out the Temple of Innovation, they won't find Neep, but they will find the ghosts of Halfrek, Juno, Raya, and Seebo, in the outfits the party originally met them in on the road into Southspark. They'll be acting as if they're having a reunion, with each one appearing as it walks into the sunlight streaming through the temple windows. Their ghosts really did die at the monster battle, but due to Anguisa's mechanications, they're sort of stuck here and drawn to the hallowed ground of the temple. They'll each approach the party.
 
-The brothers will each approach the party and ask them to deliver letters to their father, Warwick Kelleck (of Warwick GNC) in Loftran. The letters will turn solid once the party receives them. These will be similar letters to what Sorrin, Tabitha, and the party already received from their dead friends.
+They'll approach the party and ask them to deliver letters to their families. The letters will turn solid once the party receives them. These will be similar letters to what Sorrin, Tabitha, and the party already received from their dead friends.
 
-The three ghosts will then fade out of sight.
+* Halfrek asks that his letter be delivered to his father Warwick, of Warwick GNC in Loftran
+* Raya asks that her letter be delivered to her half-sister, Sister Thia in Loftran
+* Juno asks that her letter be delivered to her brother Albert Glendale, former butler of the Elmwall Estate in Loftran, who has found employment at the Makaria manor
+* Seebo asks that his letter be delivered to his best friends, Eldon and Faldren in Loftran
+
+The four ghosts will then fade out of sight.
 
 ### Long Rest
-If the party took a long rest, Halden will already be in the dining area of the Leaky Boulder and Dr Ivans will already be upstairs with Fig. He'll declare Fig dead almost as soon as the party arrives, due to acute starvation and dehydration.
+If the party took a long rest, Halden will already be in the dining area of the Leaky Boulder and Dr Ivans will already be upstairs with Fig. He'll declare Fig dead almost as soon as the party arrives, due to severe starvation and dehydration.
 
 Neep will still be in the town, in one of the random buildings above.
 
@@ -53,11 +58,11 @@ Neep and Greep will want to get away from this area, but they'll part ways with 
 
 When the party is about to cross the threshold of the Skull's territory, the skull-faced boy will appear before them again, without any injuries and with a much less ragged cloak. He'll thank them again for their services. He'll say that he finally feels like he's getting back to his old self again. He'll apologize for causing so much trouble and death, and he hopes that people will settle in Southspark again. His illusions usually serve as enough of a deterrent to keep people out of his cave, but he likes checking in on civilization and people living their lives. He can't see very far, so his only form of entertainment were the people he could see in Southspark.
 
-As a thank-you, the Skull will grant everyone in the party a portion of his power. Everyone present immediately gains access to the Magic Initiate feat, but they can only select spells from the Illusion school of magic. This restricts their choice for Cantrip to Minor Illusion, which Sorrin and Mirv already know, and Color Spray, Disguise Self, Distort Value, Illusory Script, and Silent Image for 1st Level Spells.
+As a thank-you, the Skull will grant everyone in the party a portion of his power. Everyone present immediately gains access to the Magic Initiate feat. Anyone who doesn't have the Minor Illusion cantrip must select it, but can select anything they like as the second cantrip. Sorrin and Mirv already know Minor Illusion, so they can learn any cantrip. The 1st-level spell must be from the Illusion school of magic: Color Spray, Disguise Self, Distort Value, Illusory Script, or Silent Image.
 
 If the party hasn't already put it together that the ghost of Anguisa was responsible for the Skull's wound, they can ask the skull-faced boy here and he'll remember that it was a terrifying shade with wings, a long neck, and sharp claws. It reached down and carved out the Skull's forehead, causing all this chaos to happen. The Skull will look up at the sky with worry, and wonder about its siblings. The closest other bone is the Spine on Mount Stratha. The Skull will suggest that the party go to check on it there.
 
 ## Next Chapter
 The party now has a choice:
-* Do they return to Loftran and deliver the letters from the Kelleck brothers to their father, kicking off the King Werewolf quest?
+* Do they return to Loftran and deliver the letters from the adventuring party to their kin, kicking off the King Werewolf quest?
 * Do they investigate the status of Draffnir's Spine on Mount Stratha, kicking off the Mountain of the Dead quest?
