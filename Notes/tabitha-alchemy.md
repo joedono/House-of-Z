@@ -4,6 +4,10 @@ Possibilities for random experimental alchemical materials that the players will
 ## Bag of Beans
 https://www.dndbeyond.com/magic-items/4579-bag-of-beans
 
+## Living Shaving Cream
+Instructions: Use to shave bodily hair, preferably face hair
+Effect: An hour after the shave, enough hair will grow on the body part that was shaved to form a face that will sign off-key shower songs for 20 minutes.
+
 ---
 
 # Used

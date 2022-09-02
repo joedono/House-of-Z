@@ -20,3 +20,6 @@ Over the course of his tenure as a city guard consultant, Ibal discovered that, 
 
 ## King Werewolf
 King Samuel of Loftran, was bitten by Fran to shake him out of the True Polymorph spell he was under. The bite transfered the curse of lycanthropy to the king. Seeing as how the king has giant's blood in him, the lycanthropy will transform him into a werewolf who is several stories tall. The next time the party comes to Loftran, they'll find a good portion of the city has been wrecked and the King is missing... again.
+
+## Celestial Dragon
+The party gave a black dragon egg to a celestial for safekeeping. Whatever happened to it?
