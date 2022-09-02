@@ -1,5 +1,33 @@
 # Previously
 
+## 2022-09-01
+Previously, on You Cook Bacon and You Bake Cookies?
+
+In the aftermath of the battle with Greep and his Lich Suit, the party licked their wounds and conversed with the skull-faced boy. The boy thanks the party for their help, but is distressed. It seems that his illusions are no longer functioning at all. He can sense 6 living souls along with the party, and he implores them to find and take these living souls out of his territory in the hopes that it will "reset" the Skull's ability to defend itself. The party recalls meeting several people that didn't share the odd behavior of the illusions: Halden the dwarven fruit merchant, Dr. Ivans the dwarven surgeon, Fig the human tavern owner, his cat Sparkles, and Neep the goblin.
+
+The party ties up Greep and carry him out of the Skull's cave, which has gone earily quiet. In fact, the entire journey back to the base camp is completely silent. There aren't even birds or insects.
+
+The party has a little bit of difficulty locating base camp, because it is so much smaller than it was when the party arrived there earlier. Looks like all but a handful of tents were actually illusions. There were only 5 real tents. The party finds Dr Ivans sleeping in the dirt where the infirmary tent used to be, and Halden picking through what's left. Halden goes to greet the party, and they all agree to wake up Dr Ivans and go back to Southspark to try to collect Fig, Sparkles, and Neep.
+
+Southspark now appears entirely abandoned. There are grass shoots coming out of the road and most of the buildings are starting to show wear and tear. Halden and Dr Ivans immediately go inside the Leaky Boulder to attend to Fig while the rest of the party attempts to locate Neep. Jasper heads for the Temple of Innovation, where he met Neep before. The outside of the temple now looks as abandoned as the inside. Jasper is unable to locate Neep. Instead, he encounters the spirits of Halfrek, Raya, Juno, and Seebo. The shades greet each other in the sunlight as if they haven't seen each other in a while. Halfrek congradulates Fran on a fight well fought, saying that he witnessed Fran's duel with his illusionary skeleton. The shades then pass along letters to the party, asking them to deliver the letters to their kin.
+
+* Halfrek asks that his letter be delivered to his father Warwick, of Warwick GNC in Loftran
+* Raya asks that her letter be delivered to her half-sister, Sister Thia in Loftran
+* Juno asks that her letter be delivered to her brother Albert Glendale, former butler of the Elmwall Estate in Loftran, who has found employment at the Makaria manor
+* Seebo asks that his letter be delivered to his best friends, Eldon and Faldren in Loftran
+
+The ghosts then fade away with smiles on their faces.
+
+With a little creative illusionary work by Mirv, the party draws Neep out of hiding. He has a "happy" reunion with his brother, Greep, and the party heads to the Leaky Boulder. They find Dr Ivans and Halden tending to Fig by blending smoothies out of Haldens food and spoon-feeding it to Fig. Dr Ivans wants to get Fig to Bramhold so he can get a proper meal, but wants to wait an hour or two before moving him. The party takes a short rest in the tavern before loading Fig onto Halden's cart and hitting the road.
+
+Soon after the party leaves Southspark proper, the skull-faced boy appears before them again, saying that they are now on the edge of the Skull's territory. As thanks, the Skull grants the party a portion of its power. Each member of the party automatically gets the Magic Initiate feat, which grants them 2 cantrips and 1 first-level spell. One of those cantrips must be Minor Illusion, the other can be anything you want. If you already know Minor Illusion (which I think only Sorrin does), then the first cantrip can be anything you want. The first-level spell must come from the School of Illusion, which means your choices are: Color Spray, Disguise Self, Distort Value, Illusory Script, or Silent Image.
+
+As the party leaves the Skull's territory and begins making camp, the skull-faced boy seems to regain a great deal of his power and transforms into a skull-faced man. He conjures a Beholder and some legendary paladin as a test of his powers before dismissing them. He leaves the party with one final concern. He hasn't heard form his sister in a long time. She resides under Mount Stratha. The party deduces that the Skull is refering to the Spine, which is supposedly located on Mount Stratha. The skull-faces man then says his final farewell, and blinks out of existance.
+
+The party camps for the night. Halden, Fig, Dr Ivans, and Mirv take the western fork in the road and make for Bramhold. Neep and Greep take the eastern fork and make for the forest at the foot of Mount Stratha. The party is left with a choice: do they deliver the letters entrusted to them by the ghosts of the Dragonslayers to their kin in Loftran? Or do they brave Mount Stratha to see what they can find out about the Spine of Draffnir?
+
+Everyone levels up to 10!!!
+
 ## 2022-08-25
 Previously, on Dry Heaving is Good for Your Stabbing
 
