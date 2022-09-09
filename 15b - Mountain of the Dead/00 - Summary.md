@@ -8,8 +8,12 @@ The powers and defenses of Draffnir's Spine could seal the veil, at least at thi
 ## Spine's Defenses
 Draffnir's Spine protects itself with alternating layers of hallowed ground and desecrated ground. There are very few beings that can pass through both, and it is an unpleasant experience when done. Only "True Neutral" creatures can pass through unharmed, and such creatures are rarely motivated enough to want to harm the Spine at all.
 
+This alternating ability is powered by two crystals, one charged with divine energy and one charged with necrotic energy. The necrotic energy crystal has been stolen by someone serving Anguisa.
+
 ## Current Crisis
-The Spine has been put to sleep, and its defenses have switched to nearly entirely hallowed ground, causing the spirits that have been made restless by Anguisa's activities to congregate here in great numbers. By now, the party has received at least one clue that the spirits are attracted to hallow places. If they are left unchecked here, their overpopulation will saturate the Temple of Torm with too much undeath, and threaten to desecrate the temple completely. If that happens, corruption will spread down the mountain and rot a good portion of the continent, possibly including Konith Forest, Bramhold, and Loftran itself.
+Without the necrotic crystal, the Spine's defenses have switched to nearly entirely hallowed ground, causing the spirits that have been made restless by Anguisa's activities to congregate here in great numbers. By now, the party has received at least one clue that the spirits are attracted to hallow places. If they are left unchecked here, their overpopulation will saturate the Temple of Torm with too much undeath, and threaten to desecrate the temple completely. If that happens, corruption will spread down the mountain and rot a good portion of the continent, possibly including Konith Forest, Bramhold, and Loftran itself.
 
 ## Solving the Crisis
-The party can re-activate the Spine by waking it up.
+The party needs to find the necrotic crystal. It's been taken deep into the swamplands East of Mt Stratha, where it's further corrupting the aether there and turning it into a realm of undeath.
+
+The crystal was taken by a Death Tyrant named Vezdrikex, which had been promised power and subjects by Anguisa. He's collecting creatures that died in the swamp using the necrotic crystal and raising them as his undead army. The crystal is granting some of the zombies a form of lucidity, enough that they may not be immediately hostile to the players if Vezdrikex isn't immediately aware of their presence in his territory.
