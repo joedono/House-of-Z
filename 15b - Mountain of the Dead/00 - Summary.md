@@ -17,3 +17,8 @@ Without the necrotic crystal, the Spine's defenses have switched to nearly entir
 The party needs to find the necrotic crystal. It's been taken deep into the swamplands East of Mt Stratha, where it's further corrupting the aether there and turning it into a realm of undeath.
 
 The crystal was taken by a Death Tyrant named Vezdrikex, which had been promised power and subjects by Anguisa. He's collecting creatures that died in the swamp using the necrotic crystal and raising them as his undead army. The crystal is granting some of the zombies a form of lucidity, enough that they may not be immediately hostile to the players if Vezdrikex isn't immediately aware of their presence in his territory.
+
+## Ghost Swamp
+The swamps east of Mount Stratha are a hotbed of the dung and dank. Similar to the Dead Marshes in LOTR. Vezdrikex made his lair in the swamp and has been corrupting the surrounding area, causing the dead and decaying things that have sunk into the swamp to come alive.
+
+Closer to the mountain is a swamp village of Grippli that are just starting to suffer from the corruption. Some of their number are falling sick, succumbing to the zombie plague. A lot of them are retaining their lucidity, but some are becoming true zombies. Their newborn young are all born canniballistic. Vezdrikex has made himself known as the new ruler of their village and hopes to continue to raise an army of undead to conquer the rest of the continent.

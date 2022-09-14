@@ -3,6 +3,10 @@ Through the adventure, King Samuel of Loftran contracted Lycanthropy. The royal 
 
 It's up to the party to find the King (again) and find a way to remove or control his werewolf curse.
 
+If the party goes to Loftran next, the first transformation will happen while they are camping within sight of the city. They'll hear booms and bangs and screams, but by the time they get to the city, it'll be morning.
+
+If the party goes to Mount Stratha next, the transformations will already have run their course, the city will be wrecked, and King Samuel will already be in Vartar's laboratory.
+
 ## The Mystery
 After ruling the kingdom for several months, then having to put up with over a year of her husband's rule, plus hearing a few well-placed whispers from Anguisa's ghost, Queen Amafrey of Loftran is convinced that she'd make a better ruler than her husband. She'd never do anything overt to depose her husband, of course. But when this werewolf curse reared up, she suddenly had due cause to remove her husband from the throne. She hadn't the heart to out him as cursed and completely unfit for rule, so she declared that he had been injured in the giant wolf attack and had become bedridden. No one was allowed to see him. In reality, she had him imprisoned in the castle dungeon, not fully understanding what she had. The next night, he transformed again, destroyed the back wall of the castle, and fled north into the night.
 
