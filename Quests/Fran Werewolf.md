@@ -10,3 +10,8 @@ Depending on when this happens, it would be a good tie-in to have King Samuel tr
 
 ## The Situation
 The full moon is imminent. Fran's werewolf urges have been boiling close to the surface. He's on the verge of losing control. The only question is, when?
+
+## Summary
+We switched around Fran's lycanthropy curse. He took a level in Barbarian to get access to Beastial Rage. We also gave him access to the Loup Garou stat block https://www.dndbeyond.com/monsters/1680932-loup-garou.
+
+We decided to stop with the saving throws and just have Joe decide when would be cinematically appropriate for Fran to transform. He'll retain control of himself when he goes out-of-control and attacks the other players.
