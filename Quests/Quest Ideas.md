@@ -23,3 +23,10 @@ King Samuel of Loftran, was bitten by Fran to shake him out of the True Polymorp
 
 ## Celestial Dragon
 The party gave a black dragon egg to a celestial for safekeeping. Whatever happened to it?
+
+## Destined Adventurers
+The party has met several young people over the course of their adventure. They're almost adventuring age and might wind up on a quest or two themselves.
+* Marsh Hansen - child of the party's housekeepers. Fighter
+* Nell Brisley - child of Naomi and Victor Brisley, Deathbringers. Cleric or Divine Soul Sorceror
+* Melanie Ramhousen - child in Hazelton. Dreams of being a cleric like Mistress Liara. Cleric
+* Neep - Young goblin from Southspark. May wind up with the children as a matter of coincidence. Rogue

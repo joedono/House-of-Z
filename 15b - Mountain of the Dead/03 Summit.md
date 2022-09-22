@@ -1,0 +1,2 @@
+# Summit
+At the summit, the party will find the three temples functioning as bastions against the spirits, but an impossible crowd of spirits gathering around them. The spirits are focused on the temples to Pelor and Bahamut, but are largely ignoring the temple to Torm. The sheer number of divinely powered individuals is attracting them, and the only people at the Torm temple are Liara and Valmar.

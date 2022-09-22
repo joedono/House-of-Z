@@ -5,6 +5,8 @@ The party has been hearing about dead letters being sent around Draffnir. They'r
 
 The powers and defenses of Draffnir's Spine could seal the veil, at least at this location, but they're not working for some reason. The party has to investigate the spirits and find a way to turn on the Spine's defenses.
 
+Liara and the ghost of Valmar, will be up at the peak at the High Shield temple, trying to think of what to do.
+
 ## Spine's Defenses
 Draffnir's Spine protects itself with alternating layers of hallowed ground and desecrated ground. There are very few beings that can pass through both, and it is an unpleasant experience when done. Only "True Neutral" creatures can pass through unharmed, and such creatures are rarely motivated enough to want to harm the Spine at all.
 
