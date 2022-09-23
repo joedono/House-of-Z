@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-09-22
+Previously, on You Need to Switch to Decaf!!
+
+The party decided to make for Mount Stratha. They made camp at the halfway mark and went to bed in Ardin's Tiny Hut. During the night, Sorrin sent his raven familiar and Darquin sent his... coffee pot servant to also keep watch. While they were keeping watch, they hear a pack of wolves howling from far away. The night continues and the full moon rises.
+
+Fran stirs, as dreams of running through the wilderness run through his head. He howls, and the howl wakes the rest of the party. They find Fran has transformed into a feral beast and attacks them.
+
+Through good use of Bigby's Hand, and a literal dogpile of servants and summoned beasts, the rest of the party killed Fran, which caused him to revert to his dwarven form. Ardin cast Spare the Dying to stabilize Fran, but not to wake him immediately. Ibal and Jasper finish their trance and take the rest of the night's watch. They converse with Fran after he wakes, as himself. He has maintained control over this inner beast for the past 4 months. Fran believes that something special happened tonight that caused him to lose control. Maybe he lost track of time and the full moon snuck up on him or the toil of the last adventure caught up with him and he was unable to keep control. Regardless, the beast inside is exhausted and Fran is confident that he'll be able to keep it under control. Jasper isn't totally convinced and asks that Fran remain tied up for the next two nights, at least while the moon is out.
+
+The party has a fitful sleep through the night, and wake as the sun rises over the hills.
+
 ## 2022-09-01
 Previously, on You Cook Bacon and You Bake Cookies?
 

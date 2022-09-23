@@ -63,7 +63,6 @@ As a thank-you, the Skull will grant everyone in the party a portion of his powe
 If the party hasn't already put it together that the ghost of Anguisa was responsible for the Skull's wound, they can ask the skull-faced boy here and he'll remember that it was a terrifying shade with wings, a long neck, and sharp claws. It reached down and carved out the Skull's forehead, causing all this chaos to happen. The Skull will look up at the sky with worry, and wonder about its siblings. The closest other bone is the Spine on Mount Stratha. The Skull will suggest that the party go to check on it there.
 
 ## Next Chapter
--- BOOKMARK --
 The party now has a choice:
 * Do they return to Loftran and deliver the letters from the adventuring party to their kin, kicking off the King Werewolf quest?
 * Do they investigate the status of Draffnir's Spine on Mount Stratha, kicking off the Mountain of the Dead quest?
