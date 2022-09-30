@@ -12,4 +12,11 @@ As the party investigates the town, they'll catch sight of people who seem to sl
 ## Night Falls
 The first night, there'll be a rather large scale attack as ghosts spill down from the mountain into the town. The party and the Brisleys will be called to adventure to push back the wave of undead. Nell will likely manifest Turn Undead and dispel a large group of the ghosts before passing out. The ghosts will descend from the mountain in all directions, the result of a spillover and overcrowding of spirits at the summit.
 
+* https://www.dndbeyond.com/monsters/16871-ghost
+* https://www.dndbeyond.com/monsters/1528958-cloud-giant-ghost
+
+Victor Brisley - https://www.dndbeyond.com/monsters/16985-priest
+
+Naomi Brisley - https://www.dndbeyond.com/monsters/17045-veteran
+
 From this point on, until the Necrotic Crystal is restored to the Spine, Kornith Forest will be haunted.

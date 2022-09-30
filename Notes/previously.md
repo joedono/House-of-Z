@@ -1,5 +1,22 @@
 # Previously
 
+## 2022-09-29
+Previously, on C.H.U.M. is STILL not fum!!
+
+After a tense night under the full moon, the party awoke and made the rest of the journey to Hazelton. It's a small village, half built to serve the clerics making the pilgrimage up the mountain to one of the three temples stationed up there, and half dedicated to the wood and logging trade fueled by the abundant wood that grows in Kornith Forest. The lumberjacks in the town have always respected the forest, never chopping down more than could grow back in time for the next round of logging. So they maintain a tense, but respectful relationship with the various protectors of the wood, which includes Jasper and Ardin.
+
+As the party arrives, said lumberjacks are currently in an argument with a pair of merchants, who are demanding that the lumberjacks step up their logging to meet demands on the merchants. The lumberjacks argue until the party steps in. Things are about to get tense until Portsox, the manager of The Mill in Hazelton, arrives with his accountants and pacifies the merchants with the promise of drink and renegotiation. Portsox greets the adventurers and welcomes them to Hazelton. He advises them to stop at Riff's House of Hunting and Hiking if they plan on scaling the mountain, and insists that they visit the Wood N Tap tavern for drinks on him. Portsox is always eager to hear stories from adventurers, and is delighted that he's seen so many in one day.
+
+The party heads for Riff's to do some shopping. They are surprised to find that Riff looks exactly like the illusionary owner of the Hammer & Nails carpentry shop in Southspark. Riff eventually reveals that he is indeed from Southspark. Riff is attempting to make a living selling climbing gear, guiding services, and useless religious trinkets. The problem is that the only people who go up the mountain are clerics making the pilgrimage, and they have usually vowed to take as little supplies with them as possible. Riff is delighted to sell the party whatever they need.
+
+The party heads for the Wood N Tap, having a strange encounter with a shadow along the way. Before they can enter, they run into Naomi and Nell Brisley, a professional vampire hunter and her daughter that Ardin, Fran, and Ibal had met in the Black Rose Inn over a year ago. Nell insisted that there was a ghost out here for them to find, but it was gone now. Nell was overjoyed to see Ardin again, and Naomi greeted Ibal and Fran warmly. Ardin and Fran left to see to Fran's nighttime accomodations while the rest of the party joined Naomi and Nell in the tavern for a meal.
+
+Fran was hoisted 40ft into the air in a suspended spherical cage for the night, with Ardin standing guard. The rest of the party enjoyed a meal and met Victor Brisley, Naomi's husband. They regaled each other with tales of adventure. Victor revealed that Nell's ability to sense undeath had grown and she had insisted that something bad was happening up the mountain. The party met Lina and Mina, twin girls and assitant managers of the Wood N Tap, along with their uncle Bradford, the ownder. The party had some food sent out to Ardin and Fran.
+
+When the time came to relieve Ardin of guard duty, Ibal and Jasper went out to see him. While they were out there, a strange wind blew down from the mountain. With the full moon lighting up the village, the group witnessed a gradual formation of spirits in the town square. Once fully formed, the ghosts attacked the group and screams could be heard from inside the houses.
+
+Roll for initiative.
+
 ## 2022-09-22
 Previously, on You Need to Switch to Decaf!!
 
