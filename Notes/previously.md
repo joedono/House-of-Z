@@ -1,5 +1,12 @@
 # Previously
 
+## 2022-10-13
+Previously, on Rolling Cage of Doom
+
+The battle with the ghosts ensued. With help from Ibal and Ardin, Fran managed to break out of the cage and join the fight just as Sorrin went down. Darquin and Ardin managed to get him somewhat back on his feet and spirit him away from immediate danger. Many of the villagers had their lives drained, but one quick-thinking lumberjack ran into the mill, activated the C.H.U.M and started wrecking some havoc.
+
+Can't wait to see the conclusion of this fight!
+
 ## 2022-09-29
 Previously, on C.H.U.M. is STILL not fum!!
 
