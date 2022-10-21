@@ -1,5 +1,18 @@
 # Previously
 
+## 2022-10-20
+Previously, on It will be Because I'm Already Dead
+
+The fight with the ghosts continues. The Hero of Hazelton, Stephan Shortbox, continues to pilot the C.H.U.M. with enough finesse to be a considerable threat to the ghosts. The two giants are taken down and the rest of the ghosts are mopped up. Over the course of the battle, Sorrin died twice, Victor Brisley dispelled the posessions on both Mori and Jasper, and Nell exploded in some sort of divine light and dispelled the two ghosts that were threatening her and her mother before falling unconscious.
+
+After the battle, everyone maintained a watchful eye on their surroundings, but no further ghosts materialized and the whispy fog devolved into nothing, with the wisps closer to Mt Stratha being the last to disappear. Portsox and the surviving villagers came out of their homes to take stock of the situation and take care of their dead. A total of 6 villagers perished during the fight. Stephan was talked down out of his adrenaline high, parked the C.H.U.M. back in the Mill, then drowned himself in liquor for an hour. Honestly, he totally deserved it.
+
+The next morning, Victor and Mori performed funeral rites for the fallen villagers, with Victor adding a little extra divine magic to prevent the bodies from being turned into undead while he performed a Hallow spell to ward the entire village. Nell begged her mother to go up the mountain with the party, and Naomi was eventually persuaded, despite the danger that not having Victor around might pose. She spent some time at Riff's and outfitted herself with climbing gear and a little (poorly made) wooden sculpture of.... Bahamut? It looked more like a goat.
+
+With Portsox's blessing and heartfelt thanks from the villagers, the party set out for the mountain, only to be interrupted at the last minute by a VERY hungover Stephan. The Hero of Hazelton wanted to wish them luck, and request that, if Mori ever composed a song about last night's events, that he be included. Mori was happy to do just that.
+
+The party, Nell, and Naomi, set off for Mount Stratha, with the potential promise of reuniting with their old friend Liara.
+
 ## 2022-10-13
 Previously, on Rolling Cage of Doom
 
