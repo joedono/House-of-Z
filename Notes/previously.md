@@ -1,5 +1,22 @@
 # Previously
 
+## 2022-10-27
+Previously, on Two Bodies? Again?
+
+The party started their trek up Mount Stratha, hoping to find and stop whatever is causing the ghosts to pour into the regions below. As they climb, they hear a constant stream of whispers from all directions and spot the occasional ghostly figure making their way up the mountain.
+
+They encounter an interesting set of ghostly characters on their journey. First are a pair of children with a mind for pranks. They pick Darquin as their target and attempt to steal his piton. Next is a pair of cloud giant ghosts, sitting and philosophizing about the nature of day, the sun, and life. They are joined by a third giant. The party sneaks their way past. Next is a veritable river of ghosts, forming an impassible crowd in a line going straight up the mountain. The party decides to make camp.
+
+Ibal takes the first watch and can see Loftran from his vantage point. He notes that there are too many lights on for this time of night. Seems something has the city on alert. As Jasper wakes from his trance to take over watch, the source of yellow-green light from the top of the mountain pulses and explodes. A tsunami of ghosts flows down the mountain and washes over the Tiny Hut spell, waking everyone up. The wave flows down the mountain and extends a quarter mile from the base before dissipating. A few hostile ghosts roam around the immediate area before being swept into the still-moving river of "normal" ghosts making their way up the mountain.
+
+Jasper receives a Bag of Beans from his Bag of Sending from Tabitha. He plants one and a giant pyramid immediately sprouts out of the side of the mountain. Eh... a problem for another day. The party continues their trek up the mountain and encounters the ghost of a weeping man named Simon. He has lost his wife. He laments over a necklace that he's wearing. It's one of a pair that he and his wife bought for their wedding day. Simon follows the party up the mountain before encountering three identical ghostly women who look like Simon's wife, Sandy. Through some intrepid investigation, the party is able to point out which is the real Sandy, and the other two fade to vapor.
+
+The party makes camp once more, and once more, a tsunami of ghosts washes over the Tiny Hut and down the mountain. Ibal looks East from his vantage point, over a vast swampland, and sees fires. Torches or bonfires. There's no record of a civilization in these lands, but there is clearly controlled fire. Another mystery for another day. The party reaches the peak of Mount Stratha the following day.
+
+They see a large courtyard, with three stone paths, clearly leading to the temples of Torm, Pelor, and Bahamut that are built here. The temple of Torm is easy enough to see, even in its ruined state. Viserion certainly did a number on it and it hasn't been rebuilt yet. The other two temples are completely covered in masses of spirits, with more joining every hour. They look like building-sized masses of greenish soap suds, with bursts of yellow light occasionally pulsing from within. As the party approaches the temple of Torm, a familiar face runs out to greet them. It's Valmar, alive and well. He was killed by Garlan, the revenant, but was resurrected by Liara. She spent nearly all her energy on the True Resurrection spell, but comes out to greet her old friends, even weak as she is. There is one more guest at the temple. Hairam, the Deva. The angelic being the party gave their black dragon egg to after he crashed into their path on their way to Southspark. Hairam has been protecting the Torm temple from the small number of ghosts who are attracted to it. The greater abundance of radient energy channeled through the temples of Pelor and Bahamut appears to be attracting FAR more spirits of the dead. Where the radient energy is coming from, Hairam doesn't know, but the Spine of Draffnir seems a likely candidate. Every night, the ghosts reach a sort of critical mass and explode down the mountain. It's been happening for 7 days, but the wave wasn't big enough to reach the foot of the mountain until 3 nights ago.
+
+They haven't much time. Hairam will stay in the temple with Liara to protect the area from ghosts. Valmar will accompany the rest of the party to try to find the Spine and investigate the source of the radient energy.
+
 ## 2022-10-20
 Previously, on It will be Because I'm Already Dead
 
