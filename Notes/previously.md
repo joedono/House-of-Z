@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-11-10
+Previously, on Spiders are Scary, Unless it's You.
+
+Nell and Naomi agree to accompany the party to try to find the Spine. Nell seems at least slightly attuned to the goings-on in the area. With a little help from Valmar, she awakens a little more of her awareness and is able to follow the ley-lines from the temples to some spot deep within the mountain. She also spots a line leading out to the north side of the mountain and thinks it might be an outlet or passage of some kind.
+
+Between the rope and a few magically conjured spiders, the party manages to descend the cliff face and reach the opening. They venture inside, with Nell in the lead, confident that they're going the right way. The party is harassed every so often with randomly cast radient spells. These are doing some heavy damage to the party, but they manage to get into the Spine Chamber.
+
+They are greeted by a half-person. An entirely white man dressed like a circus ringmaster, but who is missing the entire right half of their body. They introduce themselves as the Spine of Draffnir, and apologize (again) for the damage wrought by the spells. The Spine explains that the white crystal embedded in one of its vertebrate emits radient magical energy. There is an empty slot on another vertebrate where there used to be a crystal that emits necrotic energy. There are almost no creatures in existence that can resist both types of magic, which is the crux of the Spine's defenses. But somone took the Spine's other half and took it eastward, likely into the swamp.
+
+One last spell goes off and knocks Nell out as the party beats a hasty retreat. The Spine warned them that the crystals are not meant to be handled by mortals and might be dangerous. The party decides to ask Hairam whether he still has their Handy Haversack when they get back to the temples. Nell and Naomi decide that they've had enough adventuring for one day and decide to stay with Liara while the party decides what to do next.
+
 ## 2022-10-27
 Previously, on Two Bodies? Again?
 
