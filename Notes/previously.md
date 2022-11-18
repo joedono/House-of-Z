@@ -733,5 +733,5 @@ The party ventured down into the wine cellar (familiar territory, given all the 
 
 Before they left, Fran, Ardin, and Ibal discovered the secret room. Within, they found a plethora of alchemical supplies and a garden with mysterious color-changing flowers. The garden was humming with magical energy. The dirt had been dug out in the middle, as if several plants (or one really big one) had been harvested. Finally, the trio found a list of items (mostly body parts) and locations, some of which were crossed out. A name was also present on the list, Anguisa.
 
-## 2020-09-01
+## 2020-07-17
 Campaign Starts
