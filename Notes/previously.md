@@ -1,5 +1,22 @@
 # Previously
 
+## 2022-11-17
+Previously, on Tangoing with a Necrotic Death God.
+
+The party reconvened at the Temple of Torm. They asked Hairam about the Handy Haversack, but he claimed he had handed it off to members of a specific department decicated to capture and disposal of dragon young and dragon eggs. He might be able to get the Haversack back, but it would require a VERY long journey back to his headquarters. The party elected to rely on Darquin's eventual ability to mimic certain magical items to create for them a Bag of Holding to contain the necrotic crystal if/when they found it.
+
+The party set up for a night's rest at the ruined temple. Hairam flew off to parts unknown while Ardin's Tiny Hut spell kept the group safe. It did not, however, protect the group from the fear that would result from them being situated so close to the ghost tsunami when it went off close to midnight. Nell woke up screaming and was only able to go back to sleep when Liara Commanded her to. The party made it through the rest of the night and were awoken by Hairam returning in explosive fashion to clean up the remaining hostile spirits.
+
+The party discussed their next move as Hairam flew Naomi and Nell back to Hazelton to reunite with Victor. Hairam had discovered something resembling a path going down the eastern side of the mountain. The party would have to make their way through near-impassible mountain terrain before reaching it, but it would most definitely be faster than going down the western side and going around the mountain. Before the party left, Liara gifted them each an Amulet of Torm, which should offer them some protection against hazards.
+
+The party's plan for getting down the mountain quickly involved giving Mori the Cloak of Arachnida and having him use the spider-climbing abilities to run down the mountain without being hindered by the terrain. Jasper would summon a flock of Giant Owls before turning into a Giant Eagle himself, which would let him and his flock fly the rest of the party down the mountain at speed. The party got to the bottom of the mountain within the day and set out into the swamp.
+
+The party encoutnered several hazards within the swamp, but managed to avoid them with some very good Survival checks. Fran put a few clues together and deduced that there might be some Grippli living in the swamp. He broadcasted the party's presence by shouting in Grippli "we mean you no harm". As the party went on, they were able to catch snippets of ribbits and croaks that may have been replies. During their night's rest in the forest, Ibal witnessed a crocodile in the swamp, apparently acting normally, except for the chunk of flesh missing from its torso. During his watch, Jasper saw a pair of large eyes looking out from the bushes, observing the Tiny Hut.
+
+Near the end of the next day, the party started seeing signs of a village in the swamp. As they approached, their amulets of Torm started glowing. They had apparently entered a zone or territory where some evil or necrotic force was working. They were then ambushed by a pair of Grippli spearmen, who demanded to know who they were and why they were headed towards the village. The two Grippli lookouts were also missing chunks of flesh. The party managed to convince the two lookouts that they meant to help, and they were escorted to the village.
+
+The village was the picture of despair. The village itself seemed nice enough, for frog-people, but the demeanor of the people was extremely low. Everyone was showing signs of decay and missing chunks of flesh, even the children. The party attracted a lot of attention as they were brought to the largest building in the village. There, a male Grippli more adorned than the rest, sat on a chair. He greeted the party, but remained sitting, probably because both of his legs ended in bone at the knee.
+
 ## 2022-11-10
 Previously, on Spiders are Scary, Unless it's You.
 
@@ -715,3 +732,6 @@ The party had followed the trail of clues from Ibal's murder case back to Elmwal
 The party ventured down into the wine cellar (familiar territory, given all the sewers and basements the party has gone through so far), learned that the black goo used to be wine, and eventually found a horribly mutilated Isabella Elmwall, chained to a wall in the cellar. Her only memories of the past few weeks are of darkness and pain, and of anger at the woman Visera for invading her home and stealing her family away from her. The party did what they could for Isabella before curing the rest of the staff, three maids and a butler, and agreeing to escort the Lady Isabella across town to the House of Sunlight for better treatment.
 
 Before they left, Fran, Ardin, and Ibal discovered the secret room. Within, they found a plethora of alchemical supplies and a garden with mysterious color-changing flowers. The garden was humming with magical energy. The dirt had been dug out in the middle, as if several plants (or one really big one) had been harvested. Finally, the trio found a list of items (mostly body parts) and locations, some of which were crossed out. A name was also present on the list, Anguisa.
+
+## 2020-09-01
+Campaign Starts
