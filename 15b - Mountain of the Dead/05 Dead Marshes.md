@@ -30,6 +30,7 @@ As the party gets close to the village, if they have the protective amulets from
 
 The village itself is a picture of desperation and despair. It might have seemed nice once, similar to the village in the Seacracker Isles... for frogs. The dwellings are showing mild signs of neglect and disrepair, but the real sign of the despair are the grippli. Every one of them appears to have gaping wounds that don't bleed. Infected or missing eyes, missing flesh on the torso that exposes ribcage, missing limbs, everyone has a chunk of flesh missing from one part or another. Most of the grippli the party will encounter within the village are lucid.
 
+### Thieves in the Night
 As the party enters the village, the grippli will have hatched a plan. They truthfully don't know what's happening to them and might beg the party to figure out what's going on, but all they really care about is immediate relief. They will be overly hospitable to the characters and prepare beds for them to rest in. While the party is sleeping, several grippli will attempt to steal the amulets from them. If successful, the grippli will hide the amulets and feign ignorance, seeing it as just another weird circumstance in a village falling under a curse. If they fail, the grippli will beg the party for forgiveness and offer to guide them through the rest of the swamp. The grippli don't know where Vezdrikex's lair is, but they will know how to avoid further combat and hazards farther east of the village (for the most part).
 
 ## Eastern Marshes
