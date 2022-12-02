@@ -1,5 +1,14 @@
 # Previously
 
+## 2022-12-01
+Previously, on This is Just a Tribute
+
+The party spoke with the Marsh Father, who was only able to say that "bad magic" was responsible for the plague of undeath the Grippli were experiencing. He didn't know where it came from. The party asked about the necrotic crystal, and the Marsh Father mentioned that a woman named Patricia wore one. She came every day to collect "tribute" in the form of Grippli who had fallen enough under the plague of undeath to become feral zombies. While the Marsh Father was sad to see his people ravaged so, he was somewhat grateful to have someone to take the zombies off his hands.
+
+The Marsh Father had Bop and Snorkel, the two Grippli road guards, take the party to the tribute pen. The pen was a fenced in clearing that currently held 4 zombie Grippli, awaiting being given to Patricia as tribute. The party hatched a plan to hide out and gather information when Patricia came to town.
+
+Patricia did come and conversed with the Marsh Father. She was wearing an amulet of purple crystal that was far smaller than the radiant crystal that the party saw at the Spine. She left for the pens before she was almost ambushed by the party. Unfortunately, a couple members of the party were not quite stealthy enough to avoid the senses of the giant undead crocodiles that Patricia kept as her guards. Patricia summoned a couple Shambling Mounds and set her crocodiles on the party, then stepped into the tribute pen.
+
 ## 2022-11-17
 Previously, on Tangoing with a Necrotic Death God.
 

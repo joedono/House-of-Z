@@ -33,7 +33,6 @@ The Marsh Father is the Patriarch of the village and lives in the biggest house 
 
 Regardless of their response, their meeting will be interrupted by Patricia Clorus and a trio of undead crocodiles. She has come to collect the Marsh Father's tribute, meaning any of his number that have turned full zombie. They'll speak Primordial, which means none of the party will understand them. MF will direct Patricia to the "usual gathering spot", a disused giant bullfrog pen on the northern side of the village. Patricia will leave, apparently ignoring the party.
 
-
 ### The Tribute
 If the party follows Patricia, they'll see the pen with 4 non-lucid grippli zombies penned in. She'll hold up a small purple crystal and the grippli zombies will be entranced by it and follow Patricia. She will be dissatisfied by the tribute and go into the village. She'll set her crocodiles out to locate more tributes. They'll each break into a home and drag out one grippli. Two of them found non-lucids that the villagers were keeping secret, but one of them drags out a lucid grippli woman. She's begging to be let go. She has a daughter. Patricia won't care and will slit the grippli's throat. She'll rise a moment later as a zombie. Patricia will repeat the process with the shard and leave the village.
 
