@@ -1,5 +1,16 @@
 # Previously
 
+## 2022-12-08
+Previously, on The Mound is Now Charmed
+
+The party proceeds to deal with Patricia's entourage of undead crocodiles and shambling mounds. The amount of grappling going on is staggering. Fran goes down while inside a crocodile's mouth, but is rescued in the nick of time by several lightning and fire spells. Mori is engulfed, then escapes, then engulfed again by one of the shambling mounds before escaping and finally putting the mound to rest. Jasper is similarly engulfed, but thinks quickly and decides that a rabbit would be much easier to deal with than a giant mass of plant matter and successfully Polymorphs the mound into just that.
+
+All the while, Patricia has been doing *something* to the grippli in the pen with her purple amulet.
+
+After the fight, the party licks their wounds and spends a few minutes distributing Cure Wounds among each other. They storm the tribute pen to find it empty of both Patricia and the grippli, but their tracks lead out the north side of the pen. She can't be too far ahead of them.
+
+Just before setting out, Mori receives a note through his rogue bag of sending that reads, "Is someone alive in there?" Mori writes back a simple, "Yes. Who's this?" before joining the chase after Patricia.
+
 ## 2022-12-01
 Previously, on This is Just a Tribute
 
