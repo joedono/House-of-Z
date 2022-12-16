@@ -1,5 +1,18 @@
 # Previously
 
+## 2022-12-15
+Previously, on Death becomes Grippli
+
+The party gave chase after Patricia. While they did extremely well with their tracking, Ibal's analysis of Patricia's pace indicated that she wasn't nearly as inhibited by the difficult terrain as they were. But they pressed on nonetheless.
+
+After encountering and dodging a few more of the swamp's hazards, the party encountered a patrolling squad of grippli zombies. One of the grippli caught the party's eye. He showed signs that his mind might not be entirely zombified after all. Fran, Ibal, and Ardin coached Mori into calling out in the grippli language, and the zombie squadron attacked. However, the one lucid grippli showed definite signs of joining the battle solely to keep up appearances. The party dispatched the zombie grippli, and the reinforcements that came out of the water to aid them. And then they met Noogle.
+
+Noogle had somehow wound up being collected, along with Patricia's other tributes, despite still having control over his mind. He smartly decided that his best chance for survival was to pretend like he was a zombie and follow along with his bretheren. It worked for nearly 3 days. Then Noogle's patrol found the party and he saw his way out. Noogle gave the party vague directions to Patricia's lair and warned the party that Patricia wasn't the real threat, her boss was. Noogle wasn't able to provide much information about her boss, only that there were a lot of glowing things in its lair.
+
+Noogle sprang back towards the village, and the party pressed on. They successfully navigated another 2 miles along the path Noogle had told them about, and then made camp. The Tiny Hut and the Hearth of Moonlight and Shadow were definitely needed. For as soon as the sun set, the swamp came... alive? Zombie swamp creatures roamed the land, looking for living meat. None of them paid any attention to the dome the party was safe in. Right on time, Mount Stratha exploded in its nightly ritual, reaching farther down the mountain, but not nearly enough to reach the party. Those who took watch felt as if they themselves were being watched, despite the zombies paying no attention to their little campsite. The party's rest was spooky, but sufficient.
+
+However, upon waking the next morning, Darquin was wracked with pain as his flesh partially dissolved. Despite several high Perception checks, no one could locate the source of the effect. Darquin hadn't fallen asleep on a gelatenous cube, there was no sign of malicious creatures nearby, and his pack hadn't exploded or anything. The party has clearly wandered close enough to something that the very environment has become far more hazardous.
+
 ## 2022-12-08
 Previously, on The Mound is Now Charmed
 
