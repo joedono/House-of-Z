@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-01-05
+Previously, on The Middle Finger Circle
+
+The party resumes tracking Patricia and her entourage, aided by directions given by Noogle. They briefly have trouble when a fog cloud rolls in. Mori has a VERY close encounter with a small spider. But the group manages to snake their way quietly through the swamp.
+
+The trail ends at a cave. The exterior of the cave appears to have had some recent construction to make it resemble the entrance of a temple, but the construction is rushed and isn't well attached to the rock of the cave at all. There is a small stone ediface above the entrance of a skull with a single eye socket. The party enters the cave.
+
+The first thing the party finds inside the cave is a giant spider nest. Jasper and Mori hatch a "plan" involving Speak with Animals and attempting to win the spiders' favor and gain them as friends. It is a close call, but with the promise of more meat, the party acquires four giant spiders in a tentative alliance. The party explores a little further and discovers a small patrol of zombie grippli. It is a simple matter for Fran to draw the grippli in and for Mori to sic the spiders on them. The spiders are mildly disappointed that the promise of "more meat" amounted to the same meat they were already eating. Mori promised them even better meat, but would have to deliver quickly.
+
+And deliver he did. The next room the party explored resembled a grotto. Ibal decided to toss a rock into the water, and disturbed the rest of a froghemoth, which rose out of the pool with hostile intent. The froghemoth managed to swallow Ibal and Darquin before ultimately being brought down by the four spiders. Unfortunately, this was likely as far as the spiders would be willing to go with the party, as this meat is more delicious and there's more of it than the spiders have ever eaten, and Speak with Animals only has another minute before it wears off.
+
 ## 2022-12-15
 Previously, on Death becomes Grippli
 

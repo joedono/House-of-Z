@@ -18,3 +18,28 @@ Even further to the west is the beautiful library of Death Tyrant. Here he does 
 Finally we enter finale the Chamber of the Death Tyrant. The bloody stream converges in the huge basin and discharges its magical power so that the Death Tyrannt can use it. In the lake itself there are countless skeletons that can be resuscitated at any time and then rise round by round out of the bloody stream. In addition, there are magical runes on the floor in this room, which activate various magical traps. We also have some pillars with mirrors mounted on them, which the hovering Death Tyrant can use to shoot his rays at every angle at covered heroes. He himself has an gallery with an summoning circle and other magical mirrors.
 
 If someone should really succeed in overcoming this monster, these heroes can collect their earned money in the treasury of this evil being.
+
+## Monsters
+Vezdrikex is a https://www.dndbeyond.com/monsters/17144-death-tyrant
+Priscilla is a https://www.dndbeyond.com/monsters/2560784-drow-house-captain
+The zombie lord in the transformation chamber is a https://www.dndbeyond.com/monsters/17111-beholder-zombie
+
+1. https://www.dndbeyond.com/monsters/2560714-adult-oblex
+2. https://www.dndbeyond.com/monsters/2560750-catoblepas
+3. https://www.dndbeyond.com/monsters/2560816-froghemoth
+4. https://www.dndbeyond.com/monsters/2560762-corpse-flower
+5. https://www.dndbeyond.com/monsters/2560804-elder-oblex
+6. https://www.dndbeyond.com/monsters/273355-five-armed-troll
+7. https://www.dndbeyond.com/monsters/16878-giant-constrictor-snake
+8. https://www.dndbeyond.com/monsters/16880-giant-crocodile
+9. https://www.dndbeyond.com/monsters/16895-giant-spider
+10. https://www.dndbeyond.com/monsters/16929-hydra
+11. https://www.dndbeyond.com/monsters/2560905-rot-troll
+12. https://www.dndbeyond.com/monsters/2560951-venom-troll
+13. https://www.dndbeyond.com/monsters/17011-shambling-mound
+14. https://www.dndbeyond.com/monsters/17040-troll
+15. https://www.dndbeyond.com/monsters/17051-water-elemental
+16. https://www.dndbeyond.com/monsters/16970-ogre-zombie
+17. https://www.dndbeyond.com/monsters/17077-zombie
+18. https://www.dndbeyond.com/monsters/17111-beholder-zombie
+19. https://www.dndbeyond.com/monsters/17144-death-tyrant

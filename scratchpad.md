@@ -1,10 +1,9 @@
 Ibal - 25
-Catoblepas 1 - 22
-Catoblepas 2 - 22
-Ardin - 21
-Darquin - 18
-Jasper - 15
-Valmar - 14
-Fran - 11
-Mori - 11
-Grippli 5 - 3
+Darquin - 21
+Mori - 17
+Fran - 13
+Frogemoth - 13
+Giant Spiders - 12
+Jasper - 11
+Ardin - 10
+Valmar - 2
