@@ -1,5 +1,14 @@
 # Previously
 
+## 2023-01-19
+Previously, on Everyone Gets Eaten
+
+The party makes their way deeper into the cavern and encounters a bedroom that might once have been opulant, but is now drabby and decaying.  Inside is Priscilla and two more giant undead crocodiles, who the party take down. Priscilla attempts to summon one last squadron of undead creatures, only for her strength to fail her. She was only able to summon a handful of undead Grippli.
+
+The party loots through the bedroom. Fran discovers an Necklace of Adaptation in the frigid bathing pool, Ibal discovers a box containing letters that Priscilla wrote when she was alive, Ardin discovers that the crystal amulet that Priscilla wore was indeed cut from the same type of crystal as the one embedded in the Spine, and Darquin finds a locked box continaing a letter and 500gp.
+
+The letter appears to be Priscilla's final words to her mother, expressing regret for choosing to be a soldier and fear at whatever she was facing at her death. In her mind, she can only see the eye. The eye of Vezdrikex. The party is unable to learn anything by studying the name.
+
 ## 2023-01-05
 Previously, on The Middle Finger Circle
 
