@@ -1,10 +1,8 @@
-Ibal - 25
-Priscilla - 22
-Darquin - 21
-Giant Crocodiles - 19
-Grippli Soldiers - 18
-Mori - 17
-Fran - 13
-Jasper - 11
-Ardin - 10
-Valmar - 2
+Jasper - 20
+Mori - 19
+Ibal - 15
+Ardin - 12
+Valmar - 10
+Fran - 8
+Darquin - 8
+Grippli - 5

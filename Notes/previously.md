@@ -1,5 +1,18 @@
 # Previously
 
+## 2023-02-02
+Previously, on Soup's Up
+
+The party (again) makes their way deeper into the cavern. They first encounter a bone pit being attended to by some more zombie grippli. As these are workers rather than soldiers, the party quickly puts them out of their misery. Fran locates the mother of all bones before having a small run-in with some nasty fungus.
+
+The natural stone of the cave gives way to more obviously constructed stone as the party discovers some sort of medical experiment room. Three dissected zombie grippli occupy tables in the room along with a cauldron of glowing red liquid. The liquid contains chunks of the dead grippli, including a couple of whole organs. The party swiftly moves on and discovers a flowing river of the red liquid.
+
+They encounter a trio of sleeping zombie trolls taking baths in the red river. Their bodies appear to be consuming some portion of the river as it flows past them. The party manages to dam up a portion of the river, hopefully depriving the trolls of some of whatever they're getting from the liquid, before managing to sneak past them and into what appears to be the main ritual chamber.
+
+The red river branches culminate in a pool that is sparking with purple energy. 4 mirrors stand in the corners of the massive chamber and an altar with several red crystals occupies the northern platform.
+
+As the party enters the room, a voice booms out asking if Priscilla has brought the latest tributes. A massive skull with one glowing red eye floats out of the center pool and sees the party. The red liquid starts frothing in small patches.
+
 ## 2023-01-19
 Previously, on Everyone Gets Eaten
 
