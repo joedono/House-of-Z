@@ -1,5 +1,10 @@
 # Previously
 
+## 2023-02-16
+Previously, on I Can't Disappoint Big V
+
+The party started fighting Vezdrikex
+
 ## 2023-02-02
 Previously, on Soup's Up
 

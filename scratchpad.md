@@ -1,8 +1,12 @@
-Jasper - 20
-Mori - 19
-Ibal - 15
+Ibal - 24
+Lair - 20
+Fran - 18
+Mori - 15
+Darquin - 14
+Jasper - 12
 Ardin - 12
-Valmar - 10
-Fran - 8
-Darquin - 8
-Grippli - 5
+Vezdrikex - 8
+Valmar - 4
+
+Valmar is charmed
+Darquin is frightened
