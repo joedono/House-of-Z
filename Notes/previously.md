@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-03-02
+Previously, on Big Daddy V
+
+The party continues the fight against Vezdrikex. They divide their attention between keeping the zombies from getting overwhelming, destroying all of Big V's stuff, dodging eye rays, and dislodging the purple crystal. That last one turned out to be an excellent choice, as the pulsing energy from the crystal was healing Vezdrikex and taxing the amulets protecting the party from its undeath energy.
+
+The Rat Catchers prevailed, and Vezdrikex sank into the blood pool, but Mori paid the price. With an impact from Vezdrikex's Death Ray, Mori was brought down, all the way past death saving throws, and into true death.
+
+Fortunately, Jasper and Darquin discovered Vezdrikex's treasure horde, and found a boatload of money, several potions of healing, a portable hole, and two spell scrolls. One of Dominate Person and the other of Raise Dead. No one in the party is able to cast the spell, but it helps to have a master cleric on standby. Having the spell scroll means that Liara won't have to tax her energy stores or provide material components for the spell. So long as Mori is brought to her within 10 days, he can be brought back without much trouble.
+
+The party bands together to lick their wounds and bring the necrotic crystal back to the Spine, when the sound of leathery wings seems to come from nowhere...
+
 ## 2023-02-16
 Previously, on I Can't Disappoint Big V
 

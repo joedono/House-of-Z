@@ -10,3 +10,11 @@ Valmar - 4
 
 Valmar is charmed
 Darquin is frightened
+
+Ibal - 
+Fran - 
+Mori - X
+Darquin - 
+Jasper - 
+Ardin - 
+Valmar - 
