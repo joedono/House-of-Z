@@ -1,5 +1,4 @@
 # Aftermath
--- BOOKMARK --
 Once Vezdrikex is defeated, his temple will effectively "power down". All of the undead servants will be rendered inert, leaving only the spiders still munching on the froghemoth. The party can sneak out with relative ease provided they move quickly. The Ghost of Anguisa is bound for a meeting with Vezdrikex, checking up on his progress in building his undead army and how close she is to the end of their deal so she can get the necrotic crystal for her own ritual. If the party leaves immediately, Anguisa will explore the depths of Vezdrikex's lair in an attempt to find him and will not be able to catch up with the party.
 
 Once out in the open, the party only has to deal with environmental hazards through the swamp. Vezdrikex had turned nearly every creature in the swamp into an undead minion, and all of them are inert now that he's dead.

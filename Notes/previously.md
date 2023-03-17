@@ -1,5 +1,20 @@
 # Previously
 
+## 2023-03-16
+Previously, on Weekend at Mori's
+
+Ibal decided to investigate a little deeper into Vezdrikex's lair and found a SUPER deep hole that had wind and eerie groaning coming out of it. Rightly deciding NOT to investigate the big scary hole, Ibal left, but not before hearing the sound of flapping wings coming from the hole. He advised the party make haste and leave. Valmar put the necrotic crystal into the portable hole and Fran strapped the corpse of Mori to his back.
+
+The party left quickly, just missing being caught by the Ghost of Anguisa, which had come to see if Vezdrikex had "her crystal". The party fled into the swampy night and ran until they were exhausted. Barely satisfied that they were beyond detection, the party set up camp and rested for the last few hours of night and into the afternoon. An hour or two into their rest, Ibal spotted a shadow moving across the stars and heading north. As morning came, Fran spotted a pair of silver dragons circling overhead. Feeling much better at the potential sight of some allies potentially patrolling the area, the party gained a restful sleep.
+
+The party hiked their way over the next few days back to the Grippli Village. As they hiked, they saw many corpses of animals along the way. Looks like nearly all of the animals within a couple miles of Vezdrikex's lair had succumbed to the undeath curse the necrotic crystal was eminating. Now that its energy was no longer fueling them, they dropped into true death. It made for a very tense hike.
+
+As the party neared the Grippli village, they blessedly began to hear and see signs of life. They ran into a Grippli hunting party and were quickly escorted to the Marsh Father. He quickly organized a modest celebration and officially made the party "friends of the Grippli." He offered to perform funeral rites for Mori, but the party had other plans for him.
+
+The next morning, the party flew up Mount Stratha to the peak and saw the temples to Bahamut and Pelor in all their splendor for the first time. A group of Pelor clerics came to investigate the party and wound up being volunteered to read from the Scroll of Raise Dead to revive Mori. While the ritual was taking place, the rest of the party located Liara and filled her in on what had happened. She was delighted to see them and was looking considerably healthier than when the party last saw her. Hairam the Solar (angel) was no where to be seen.
+
+With the ritual complete, Mori revives and is greeted by a very unsettling sight...
+
 ## 2023-03-02
 Previously, on Big Daddy V
 
