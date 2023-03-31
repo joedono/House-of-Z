@@ -57,3 +57,16 @@ On one of the evenings before the Panacea is ready, a fully corrupted Brother Ke
 The party raids the castle, either through the front door, one of the side entrances, or through the sewer/caves beneath the castle that Marsh knows about. There is a party happening. Fully corrupted nobles wander the halls constantly. If the players are caught, the guards will be alerted. The players must make their way upstairs to the attic ritual room where they meet Sisava and his remaining forces. Sisava will mention that his master, Viserion, has already gotten what he needs from the city.
 
 After defeating Sisava, the city is saved. The party will find the queen and her children in a safe room, but no king. There'll be a party to honor the players, and they'll be given the Eloreth mansion, that has a nice secret.
+
+## Chapter 7
+With the threat of the Cult of Zehir taken care of, Ibal turns his attention to clearing himself of the murder charge that landed him in prison to begin with. He investigates the crime scene where he found the body of the victim, Archibald Elmwall. It's been several days, but he manages to find an invitation to a party at Makaria Manor that was addressed to Archibald.
+
+Investigating Makaria herself yields little information. Makaria doesn't used the type of stationary the invitation is written on.
+
+The party investigates the Elmwall estate and finds a grim scene. The staff appear to be poisoned and only dimly aware of their surroundings. They find the body of Isaac Elmwall hung around the neck from a bedsheet in the master bedroom. They find Bartel Elmwall in a panic in his father's study, muttering "she made me do it, she made me do it" over and over again. Interacting with him causes some sort of transformation into a devil, who the party dispatches.
+
+The party investigates the wine cellar, and finds Isabella Elmwall chained to a wall with both her eyes gouged out. The sludge in the wine barrels comes alive and attacks the party. After rescuing Isabella, the party follows a secret tunnel to an underground garden that appears to have had something dug out from the middle of it. They also find a list with various body parts listed next to locations on the continent of Draffnir, and a few other items listed, such as Anguisa's Skull.
+
+Isabella claims that her husband was seduced by an elven woman named Visera, who convinced him to build this garden for her. One day, Visera transformed into a black winged thing and attacked Isabella. Isabella woke in the basement facing a woman who looked exactly like her. Visera had assumed her likeness and was set to take over the family. She had Isaac and Bartel kill Archibald so she could inherit the estate and keep working on the garden. Now that she had what she needed, she had disappeared.
+
+The party left Isabella in the care of the House of Sunlight
