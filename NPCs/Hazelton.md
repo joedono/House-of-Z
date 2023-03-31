@@ -23,3 +23,6 @@ Cute little girl. Wants to be a cleric just like Mistress Liara when she grows u
 
 ## Riff
 Male human. Runs Riff's House of Hunting and Hiking. Carbon copy of the Riff that Fran and Darquin met in the Hammer and Nails carpentry shop in Southspark. Moved away from Southspark several years ago.
+
+## Charlie Blackstone
+Hero of Hazleton. Drove the C.H.U.M. during the ghost attack.

@@ -1,5 +1,22 @@
 # Previously
 
+## 2023-03-30
+Previously, on A Hole is a Hole
+
+Mori has a vision during his time as a corpse. He sees a black portal open over the Seacracker Isles. A large humanoid shape appears out of it and swats at a squadron of angels that appear to be doing battle with it. Before it can smash Mori, he wakes up... to the sight of his friends all looking 50 years older!! Illusion magic makes for such amazing pranks. The party spends some time dealing with the clerics at the top of Mount Stratha and run into Alistor and Sophil, the pair of adult silver dragons (now in halfling disguises) they rescued from the Durrstaft Prison.
+
+The dragon pair fly the party down to the cave of the Spine, where after some mishaps, the group reunites the necrotic crystal with the radiant crystal. The Spine is most grateful. He bestows his blessing on everyone before disappearing, "I'm whooooooooooole!!"
+
+Alistor and Sophil give the party another ride down the mountain and part ways. They're headed back up the mountain. The party hikes down to Hazleton, where they are given a hero's welcome and free room and board for the night. Mori reunites with Lily Trueheart, the young human bard who has been making her name around the country singing "The Ballad of the Rat-Catchers", an epic ballad about the exploits of the party. She is excited to hear about their latest adventures and immediately starts to work on new verses for her song. The party have a rambunctious night with various degrees of... success.
+
+The next morning, the party has a send-off with the Brisleys. Victor's Hallow spell was successful in protecting the town, but Sorrin unfortunately gave his life to buy Victor enough time to finish it the first night. Nell also didn't escape unscathed. She hasn't spoken a word in several days. Victor and Naomi think it might be over-exposure to the undead and plan to bring her back to the Deathbringers HQ to seek advice. Nell has a powerful gift, but using it too much seems to harm her psyche.
+
+The party sets off for Loftran. Upon arriving at Eloreth Manor, they behold a scene of extreme destruction. Half of Loftran Castle and 3-4 of the surrounding city blocks are ruined. The destruction stops 1-2 blocks away from the Manor. The Hansens greet the party warmly when they arrive and prepare a nice meal of ham, potatoes, vegetables, and lemon-ade (a new drink that Kara's friend brought back from Durrstaft).
+
+Hubert and Kara tell the party that a great hairy beast, taller than a house, suddenly appeared one night about two weeks ago. It wrecked a good portion of the castle and several blocks worth of houses until the soldiers from the Seat of War brought it down. The soldiers assured everyone the next morning that everything was under control, but instituted a curfew anyway. The next night, Hubert and Kara couldn't sleep, and it happened again. The great beast burst out of the castle, wrecking it even further. This time, the beast crashed its way through the Tinders district, being followed by shouting soldiers with torches, spears, and crossbows. The rumbling continued for several hours before going silent. Blessedly, nothing happened the next night or any night since then.
+
+The party deduces that Fran must have passed his werewolf curse onto King Samuel when he bit him in order to free him from the Polymorph spell that Viserion had cast on him to turn him into a cat. And due to the Giants' Blood that was said to be in the royal family line, King Samuel transformed into a giant werewolf instead of a "regular" one. The timing of the transformations matches when Fran transformed and the full moon was out. However, the full moon is supposed to last for three nights, causing werewolf transformations on all three. The great beast only appeared for two nights....
+
 ## 2023-03-16
 Previously, on Weekend at Mori's
 
