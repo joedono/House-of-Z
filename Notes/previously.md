@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-04-20
+Previously, on Dwarves are not Stealthy
+
+Fran ducked out during breakfast just before the party managed to deduce that he was likely to blame for the king's transformation. He eventually attempted to escape out the window to his bedroom, but Ibal and Jasper noticed the sound of the window opening and closing. A minor chase ensued, with the party eventually tracking Fran down, panicked and watching the front of the manor for the guards he KNEW were coming for him.
+
+The party unsuccessfully attempted to calm Fran down just as a small group of guards started approaching the manor. The party somehow managed to avoid suspicious through the use of minor illusion magic, persuasive arguments, and the fact that the guards were only performing a wellness check on the neighborhood.
+
+With the crisis averted, the party turned to research. Difficult as it was, the party turned up two tidbits of information. They found an account of one werewolf who wrote that the transformation came with the sensation that his "blood was on fire." Pepper provided what little she could in the form of a note that read "Galanodel". Ibal remembered a Professor Adran Galanodel, who was a professor of biology in the Heavenly Cay and was the one who successfully extracted the spirit of Anguisa from Liara/Valmar once upon a time.
+
+Seeking a more definitive answer in their quest for a cure for lycanthropy, the party decides to visit the library in the Wizard's College.
+
 ## 2023-03-30
 Previously, on A Hole is a Hole
 
