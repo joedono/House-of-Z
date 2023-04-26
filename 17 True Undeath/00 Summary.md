@@ -3,6 +3,6 @@ Anguisa has flown through a portal to the Abyss created by the death of a ritual
 
 Anguisa needs to obtain either:
 - The Wand of Orcus
-- The head of a sufficiently powerful demon to animate the body of Draffnir
-- Some other magical item with enough powerful undeath energy to animate the body of Draffnir
+- The head of a sufficiently powerful demon
+- Some other magical item with enough powerful undeath energy
   - https://www.dndbeyond.com/magic-items/2401168-cauldron-of-rebirth
