@@ -35,5 +35,4 @@ Bite Attack - The dragon makes a bite attack
 
 Wing Attack (Costs 2 Actions) - The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 10 (2d6 + 3) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-
 Sisava is holding a Rod of Retribution - https://www.dndbeyond.com/magic-items/rod-of-retribution - Ardin picked it up
