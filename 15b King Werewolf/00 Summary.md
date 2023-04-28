@@ -7,8 +7,13 @@ If the party goes to Loftran next, the first transformation will happen while th
 
 If the party goes to Mount Stratha next, the transformations will already have run their course, the city will be wrecked, and King Samuel will already be in Vartar's laboratory.
 
+## Letters
+* Halfrek asks that his letter be delivered to his father Warwick, of Warwick GNC in Loftran
+* Raya asks that her letter be delivered to her half-sister, Sister Thia in Loftran
+* Juno asks that her letter be delivered to her brother Albert Glendale, former butler of the Elmwall Estate in Loftran, who has found employment at the Makaria manor
+* Seebo asks that his letter be delivered to his best friends, Eldon and Faldren in Loftran
+
 ## The Mystery
--- BOOKMARK --
 After ruling the kingdom for several months, then having to put up with over a year of her husband's rule, plus hearing a few well-placed whispers from Anguisa's ghost, Queen Amafrey of Loftran is convinced that she'd make a better ruler than her husband. She'd never do anything overt to depose her husband, of course. But when this werewolf curse reared up, she suddenly had due cause to remove her husband from the throne. She hadn't the heart to out him as cursed and completely unfit for rule, so she declared that he had been injured in the giant wolf attack and had become bedridden. No one was allowed to see him. In reality, she had him imprisoned in the castle dungeon, not fully understanding what she had. The next night, he transformed again, destroyed the back wall of the castle, and fled north into the night.
 
 ## Kidnapping

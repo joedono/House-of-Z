@@ -53,11 +53,11 @@ Male Human Prison Guard. As sadistic as they come. Enjoys torturing the prisoner
 ### Eldon
 Male Halfling Prisoner. Was thrown in jail the same day as Ibal (5 days ago) for stealing from a noble who was out to market. The crime absolutely doesn't fit the punishment, which Eldon won't shut up about. But the high profile of the victim means that Eldon will probably get quite the disproportionate punishment. When he's not talking about his crime, Eldon is quite friendly and talkative. He eagerly asks the other prisoners their life stories and borders on being annoying. Met in the prison in chapter 1.
 
-### Elena and Kristina
-Malcom's wife and daughter. Met in the House of Sunlight in chapter 1. Gave the party her husband's signet ring which will allow them passage into the Seat of War.
-
 ### Faldren
 Male Halfling. Eldon's brother. Met in the House of Sunlight.
+
+### Elena and Kristina
+Malcom's wife and daughter. Met in the House of Sunlight in chapter 1. Gave the party her husband's signet ring which will allow them passage into the Seat of War.
 
 ---
 
@@ -160,6 +160,9 @@ Baern's assistant
 
 ### Harold and Byron
 A human and dwarf soldier. Part of the city guard. The party meets them in the trauma ward at the Seat of War. They were unaffected by the quelling effect of the sigils and their mental state is deteriorating due to them witnessing the shadows come alive and murder people.
+
+### Prescal
+Half-orc leader of the Seat of War.
 
 ---
 

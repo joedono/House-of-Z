@@ -1,5 +1,20 @@
 # Previously
 
+## 2023-04-27
+Previously, on The King Erupts in his Bedroom
+
+The party journeys to the Wizards' College looking for more knowledge on how to cure lycanthropy. They are immediately brought up to High Magus Vilafor's office, as he is well aware of their importance, fame, and power. He is able to provide them with information that Professor Galonodel in The Heavenly Cay has made great strides with his "blood essence extraction" procedure since successfully extracting Anguisa from Valmar/Liara last year. He has published several papers theorizing on how this procedure could be used to extract many different types of curses or possessions, beyond simple poison. He has yet to find a willing participant who will sit still as a werewolf long enough for the procedure to be attempted, but he has full confidence that it will work.
+
+Fran, meanwhile, corners Eldon and Faldren, two halfling brothers who are up to some scheme or another at the college, and delivers the letter from their friend Seebo, the Dragonslayer cleric who met his end in Southspark during the War of Illusions. They were sad to learn of his passing, but accepted it as a hazard in the adventuring business. Fran then struck a deal with the halflings. Eldon owed him for saving him during the Ritual of Zehir, so Fran asked Eldon to let Fran in on their escape plan should Fran need to get out of the city quickly. The halflings agreed, and Fran let them get back to their scheming.
+
+Still on the search for new information, the party split up.
+
+Ibal, Ardin, and Jasper went to the Seat of War and met with Prescal, the commander in chief.
+
+Mori and Valmar went to check out the castle. Mori created a distraction and allowed Valmar to get close to the castle. Using the Hat of Disguise, Valmar was able to get inside of the castle to see the destruction up close. No one is allowed into the castle at night, and although people are allowed to leave the castle at night, no one has.
+
+Darquin and Fran took the letter to Warwick to his shop, forged a quick addendum onto the letter saying that Halfrek is dead, and slipped it under the door. They then went to the House of Sunlight to deliver Sister Thia's letter. She was distraught to learn of the death of her half-sister, Raya. Upon reading the letter, Thia retrieved a bag full of similar letters that had been received by other citizens of Loftran. All followed the same pattern. A paragraph of small-talk and catching up followed by visions of a black-scaled winged creature (some accounts identified it as a black dragon) and a giant rising out of the ground and fighting a squadron of angels. Sister Thia correctly identified the black dragon and the celestial, but didn't dare identify the giant as one of the Giants who Created the World. Fran attempted to provide some insight with his children's book of stories about Draffnir.
+
 ## 2023-04-20
 Previously, on Dwarves are not Stealthy
 
