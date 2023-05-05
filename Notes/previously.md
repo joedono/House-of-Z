@@ -1,5 +1,12 @@
 # Previously
 
+## 2023-05-04
+Previously, on The Emerald Glass
+
+Ardin, Jasper, and Ibal receive an assignment from Prescal, the Commander in Chief, to locate King Samuel and cure him if possible. They learned that the beast disappeared just before dawn after the second night on the northern border of the Tinders and wasn't seen on the third night. Fran and Darquin take the stuffed bag of letters from the dead back to the Eloreth Manor for perusal. Mori drank a couple guards (Brutus and Sticks) under the table at the Emerald Glass. Valmar wasn't able to locate the queen or any of the royal family in the castle before escaping.
+
+Back at the manor, Ibal and Jasper sort through the letters. They find a couple positively identifying the giant as Draffnir and some saying that he has black eyes, no breath from his mouth, and no blood in his veins. This, combined with some probing questions, jostles Valmar's memory. He remembers very little about his time among the dead, other than the events immediately after his death and immediately before his resurrection. However, he now remembers seeing the black dragon riding on the shoulder of Draffnir and ordering him to attack the celestials. This only sparks more questions as the party plans their next move.
+
 ## 2023-04-27
 Previously, on The King Erupts in his Bedroom
 
