@@ -1,5 +1,18 @@
 # Previously
 
+## 2023-05-18
+Previously, on The Hunt for the King Giant Beast (KGB)
+
+The party made the decision to follow the trail of destruction in lieu of gathering more information from the queen (if she could even be located). They found where the creature fled into the forest on the second night through the northern border of the Tinders. Fran confidently followed the scent of the beast as it had left behind tufts of fur and patches of dried blood. Ibal asked around the area nad discovered that, on the third night when no werewolf had appeared, a disheveled man had come running into Loftran from the forest. Ibal tracked the man down to a barn on the edge of the river, where a nice fishing family was letting him stay. The man's name was Cirroc and he had been traveling from the Heavenly Cay with his small merchant band. They had plans to sell clockwork trinkets from the Cay, as a way to test if such gadgets would have a market in Loftran proper. Cirroc and his band got off a ship from the Cay and disembarked with a large group of people. The majority of the people turned north towards Durrstaft. The only ones who headed for Loftran were Cirroc and his band, and a wizard from the Cay.
+
+Cirroc described camping by the river on a pleasant night when a nearly naked and bruised man Cirroc didn't recognized stumbled into their camp, lost and confused. Cirroc's manager fed and clothed the man and said they would let the man stay with them and take him into the city in the morning. Cirroc woke that night to the sound of crunching, wet tearing, and dripping liquid. Cirroc poked his head out of his tent and saw a great furry beast calmly devouring one of his coworkers. Cirroc was shocked when he saw all the blood driping out of the creatures mouth. The creature turned toward Cirroc. He screamed and fled into the night. Strangely, the creature did not pursue. Cirroc managed to find his way to Loftran the next morning.
+
+The party followed the trail of broken trees as far as they could before it abruptly ended, presumably where the werewolf had reverted to human form. The party managed to find bare footprints leading east. They followed these to the bloody merchant camp where they found the ruined carts full of clockwork trinkets, as well as a few supplies left by a wizard: a spell componnet pouch and a Dispelling Stone. Fran tracked more human footprints and scents back towards the ocean where Ibal found a campfire and Jasper noticed a shed snakeskin clearly belonging to a snake not native to this region. An off-hand comment by Ibal led the party to an interesting theory that the wizard had managed to Polymorph the beast into a snake and bring him here. The party was just able to make out what appeared to be a cave on an island close to the coast, but decided to camp for the night and investigate in the morning.
+
+In the morning, Darquin cast Water Breathing on the group and they enjoyed a calm stroll across the sea bottom until they reached the island. They cautiously investigated and found an old stone dwelling built into the cave. Inside appeared to be a wizard's laboratory. The party failed to find the Glyph of Warding until it was too late and it's Fireball was triggered, alerting the wizard inside to activate his security system. Three stone golems rose out of the ground inside his laboratory. The disheveled and bruised form of King Samuel could be seen unconscious and strapped to a table with tubes running into his arms.
+
+Time to roll for initiative.
+
 ## 2023-05-04
 Previously, on The Emerald Glass
 

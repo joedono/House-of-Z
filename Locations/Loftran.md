@@ -45,3 +45,6 @@ Tavern near the Hatching Stone Mines. Favorite of most miners. Wind O'Leaf frequ
 
 ### Threads & Thrashings
 High-end clothing store. Owned by a very fashion conscious half-orc named Neega.
+
+### Chester's Crafting Creations
+High level woodworking craftsman. Sells a variety of high quality wooden goods, including whittled trinkets.
