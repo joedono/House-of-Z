@@ -22,7 +22,7 @@ Sgothgah's devotion to Tharizdun is a deception. It's actually been receiving wh
 
 Sgothgah is not attempting to simply raise the kraken as a thrall of Tharizdun. Anguisa has been whispering on how to prepare the kraken's soul by feeding it the energy of despair from the townsfolk. Once fully prepared, the kraken can be sacrificed in order to open a portal to the Abyss. This is where Anguisa will retrieve the demonic energy she will need to fuel her animated homunculus of Draffnir.
 
-If the party kills the juvenile kraken or allows the two aboleths to kill it, it's body, carved with runes, will automatically open a portal to the Abyss. Anguisa will appear suddenly and fly through the portal.
+If the party kills the juvenile kraken or allows the two aboleths to kill it, it's body, carved with runes, will automatically open a portal to the Abyss. Anguisa will appear suddenly and fly through the portal. The party will either fly in after her or be sucked in by the torrent of water that gushes through the portal.
 
 ## Anguisa's Progress
 By this point in the adventure, Anguisa has acquired:
