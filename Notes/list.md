@@ -19,9 +19,9 @@ The list of locations that the party found in the secret garden under Loftran. T
 ## Viserion's Ritual
 - **Anguisa's Skull - Kornith Forest** - DONE
 - Anguisa's Soul - Durrstahft *vessel missing??* - DONE
-- **Loftran Leyline Magic** - DONE
 
 ## Anguisa's Ritual
+- **Loftran Leyline Magic** - DONE
 - Abyss
 - Pelvis - Third Finger Peak Mountain
 - Finger Bones x3 - Seacracker Islands
