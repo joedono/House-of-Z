@@ -14,7 +14,7 @@ Each hexagon represents a day of travel on foot.
 A portal site that leads to other planes. Metaphorically, the portal is like the base of a funnel. Many portals that lead into or through the Abyss empty out here, but it is VERY difficult to use it to escape. One is just as likely to wind up on another layer of the Abyss as where they came from unless they have some artifact tying them to their desired destination. This is where the party will wind up. They will be almost immediately ambushed by scavengers that prey on fresh arrivals.
 
 ### Skullmount
-A mountain 4,000 feet high made entirely of bone. It is the remains of Draffnir's brother, Olnir. It exists in a perpetual state of undeath, powered by the undeath energy that permeats this land, trying to reassemble itself. Unfortunately, there are too many other leftover bones from other creatures for it to form anything coherent or resembling Olnir. So, it forms various other things, such as a giant's fist, dinosaurs, dragons, smaller giants, ettins, and other creatures.
+A mountain 4,000 feet high made entirely of bone. It is the remains of Draffnir's brother, Retaw. It exists in a perpetual state of undeath, powered by the undeath energy that permeats this land, trying to reassemble itself. Unfortunately, there are too many other leftover bones from other creatures for it to form anything coherent or resembling Retaw. So, it forms various other things, such as a giant's fist, dinosaurs, dragons, smaller giants, ettins, and other creatures.
 
 ### Deadlands
 A massive (mostly symbolic) graveyard. There are billions of gravestones here, one for every soul lost to the Abyss after death.
