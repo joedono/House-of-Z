@@ -1,5 +1,14 @@
 # Previously
 
+## 2023-05-25
+Previously, on Giving up the Hole
+
+The party squares off against Vartar and his Stone Golems. It's a bit touch and go, between the Stinking Cloud spell and the Golems' Slow ability. But with a bit of Wild Magic inspired alchemical chaos, thanks to a thrown workbench, Ardin is able to corner Vartar and put three Eldritch Blasts through his chest. The Golems and the Cloud become inert and the battle is won.
+
+The party sets about investigating Vartar's lair. They find a number of interesting things. A letter thanking Vartar for his tribute to the upcoming ritual signed simple "-A", a Bag of Sending that doesn't appear to have originated at Tabitha's, three vials of "normal" blood, and three vials of glowing green liquid. The party is able to deduce that King Samuel has had *something* significant drained out of him. Fran is able to sense that the king is no longer a werewolf. Ardin is able to determine that the glowing green liquid has something to do with Giants. The party is eventually able to put together that Vartar was able to extract both the werewolf curse and Giants' Blood from the king, leaving him in the emaciated and unconscious state he's in now. Vartar then likely provided some of one or both types of blood to an unknown patron, hence the thank-you note, through the bag of sending.
+
+Having turned over or wrecked everything in Vartar's lair, the party attempts to figure out how Vartar got here in the first place, and they discover his Folding Boat sitting on a dock outside. The party debates whether to take the king back to Loftran or to the Heavenly Cay (and whether to attempt to threaten whoever is on the other side of the bag of sending) when Ibal receives a Sending message from his sister Alannia. She tells Ibal that his brother, Rhys, has been arrested for murder. They suspect that he is responsible for a series of murders, Alannia fears that an execution seems certain and begs Ibal to come home quickly.
+
 ## 2023-05-18
 Previously, on The Hunt for the King Giant Beast (KGB)
 

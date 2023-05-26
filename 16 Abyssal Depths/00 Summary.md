@@ -16,7 +16,7 @@ The setting is still depressing due to the murders, but The Gilded Circle isn't 
 
 Master Refrum is removed from the story. All introductory information can be gotten from Allania.
 
-In addition to the information that Master Refrum/Allania has about the killings, questioning any of Rhys' former staff will reveal that he has a habit of sneaking out of his workshop at night. They all assume he visits the red light district. If the players visit there, they can locate Rhys' favorite places to hang out and his favorite consorts. They will report seeing Rhys slightly less frequently than usual in the past six months.
+In addition to the information that Master Refrum/Allania has about the killings, questioning any of Rhys' former staff will reveal that he has a habit of sneaking out of his workshop at night. They all assume he visits the red light district. If the players visit there, they can locate Rhys' favorite places to hang out and his favorite consorts. They will report seeing Rhys slightly less frequently than usual in the past six months, but his coworkers will all swear that he visited his consorts with the same frequency as always.
 
 Sgothgah's devotion to Tharizdun is a deception. It's actually been receiving whispers from the ghost of Anguisa.
 
