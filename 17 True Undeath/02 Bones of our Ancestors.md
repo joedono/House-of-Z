@@ -38,3 +38,19 @@ Thousands of graves and graves-upon-graves have made the footing here EXTREMELY 
 
 ## City of Zombies
 City of 10,000 zombies. This area is actually mostly friendly to the party. The people here are simply undead and decaying, but are living in a functioning city. Their current ruler is Garlan, elected by popular vote.
+
+### General Mood
+The City of Zombies has all the trappings of a regular city. There are taverns, shops, festivals, markets, weddings, farms, maybe a little bit of industry. Nearly all of it is just appearances though. Since the zombies don't need to eat or sleep, they can't truly get drunk, and the environment of Thanatos doesn't permit anything truly nutritious to grow, most of the city industries aren't real. Taverns serve rotting meat and disgusting liquid for food and drinks. Farms grow poisonous weeds. Any zombie acting drunk is just acting. Beds are facsimilies and horribly uncomfortable to the living. Half of the zombie only feign sleep, and half of them sleep in holes in the ground.
+ 
+There is diversity though. Many races have ended up here. Children too. There's also a mixture of speeds. Some of the zombies are shamblers and some can move normally. All are lucid and aware though. Those that aren't wander out of the city and are tended to by the Chasme, but the undead regenerative powers of the plane cause that to happen really slowly.
+
+### General City Encounters
+1. Orphan Pickpockets - A small group of zombie children shamble past the party at varying speeds and ineptly attempt to pickpocket them. If caught, the children are ashamed and apologetic. They're simply recreating things they did when they were alive.
+
+2. Town Crier - A zombie stands on a shoebox and attempts to give announcements to the street and boardwalk. His vocal cords give out halfway through and the remaining announcements are intelligible grunts and moans.
+
+3. Pet Escape - One of the zombies is out walking his XXXXXX. The decaying leash gives out and the creature attacks the the party for 1d4 rounds before the owner can catch up with it and calm it down.
+
+4. Busker - An acrobatic pair of zombies are performing a street act. The first half of the act is fairly normal. One of the acrobat's arms falls off in the middle of the act. The zombie crowd goes silent. The other acrobat picks up the arms, looks at them for a beat, walks over to his partner, rips his partner's leg off, then starts juggling them. If the party puts any money into the acrobats' hat, they'll continue adding more body parts to the loop until one acrobat is juggling every part of his partner.
+
+5. Religious Zealot - 
