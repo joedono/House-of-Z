@@ -63,7 +63,7 @@ There is diversity though. Many races have ended up here. Children too. There's 
    
 9. Fishing - The party's wanderings take them to docks on an inlet from the Sea of Blood. A trio of zombies are fly-fishing, attempting to catch something from the Sea of Blood. Of course, no sane person would attempt this. These zombies are just attempting to live out what they did when they were alive. However, one of them catches something. Something huge that leaps out of the blood, catches the zombie's line, and attempts to drag him into the Sea. The other two zombies will attempt to help him, but without intervention from the players, the zombie with the catch will be yanked off his feet and pulled into the Sea.
 
-10. something
+10. Lemonade Stand - A zombie will be attempting to sell a new sweet drink he had a dream about. He's calling it lemonade. The party can try it, but it will be made from cackler blood and be mildly poisonous.
 
 ### Audience with the King
 Word will travel slowly to Garlan that a party of still-living adventurers has arrived. Garlan will dispatch a messenger to bring Valmar and friends to the "castle" for an audience.
