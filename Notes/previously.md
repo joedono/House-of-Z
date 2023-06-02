@@ -885,7 +885,7 @@ After a night's rest in the Tiny Hut, which was disturbed by some creepy noises 
 Roll initiative.
 
 ## 2021-03-14
-Previously, on I've Got A Hole In My Pocket:
+Previously, on I've Got A Hole In My Pocket
 
 Many things were done! Ibal was acquitted of his crime after presenting all his evidence to a very grateful Kathra Dankil, a clerk in the queen's office who loved getting things off her to-do pile. He took one of his old wanted posters as a souvenir. Theryn enjoyed a nice little walk around the castle and made some new friends. Ardin bought everyone a set of stylish winter clothing from Threads & Thrashings, and some lumber and tools to make a dropbox. Fran and Valmar hired the Hansen family to watch their house for about two weeks while the party is out adventuring and waiting for other applicants to come in. Liara earned her passage into the Forbidden Section of the Wizard's Library and researched her "condition." The party bunked in for the night in a manor that's feeling more and more like a home. Liara had a nightmare about an army of snake people made of darkness threatening her before Valmar stepped in and saved her. He turned to face a growling darkness and told Liara it was "her turn now" before pushing her through a door of light.
 
@@ -896,7 +896,7 @@ The party packed up and set out for the mountains around Durrstaft. They were bo
 ...and heard growling amidst the trees.
 
 ## 2021-02-28
-Previously, on Women in Wine Cellars:
+Previously, on Women in Wine Cellars
 
 The party successfully rescued Isabella Elmwall from the wine cellar of her estate and escorted her and her remaining staff to the House of Sunlight for treatment. While there, she gave an account of what happened to her. Archebald made a "new friend" in Visera, an elven woman with piercing green eyes. Visera quickly wormed her way into the heart of Archebald and their sons. She was very interested in purchasing land, but seemed dissatisfied with all the prospects around Loftran that Archebald showed her. She convinced Archebald to build her an alchemical garden under his own mansion, where she grew powerful magical flowers. Visera bewitched the family, imprisoned Isabella, transformed into her, and took her place. She eventually poisoned the staff, drove the sons to insanity, and had Archebald killed by his own children. Ibal meticulously recorded all this in a journal, and the party left Isabella and her staff at the House of Sunlight for treatment.
 
@@ -909,7 +909,7 @@ The party agreed, but they still have quite a few things left to do before they 
 And so we begin, inside Tabitha's Alchemy Shop...
 
 ## 2021-02-14
-Previously, on The World of Goo:
+Previously, on The World of Goo
 
 The party had followed the trail of clues from Ibal's murder case back to Elmwall Mansion, where they believed the real culprit to be a member of the Elmwall estate. They found the staff of the estate had all been poisoned and were mentally checked-out. The party found the hanged body of Isaac Elmwall, and encountered the insane and rambling Bartel Elmwall in the study. Bartel repeated the phrase "she made me do it" a few times, before vomiting up some black goo and transforming into a grotesque beast. After a battle, the party searched the study, discovering a handful of magical items, a love letter from Archebald to a green-eyed elven woman named Visera, and blueprints for a secret room to be built off of the wine cellar.
 
