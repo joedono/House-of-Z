@@ -1,5 +1,20 @@
 # Previously
 
+## 2023-06-01
+Previously, on Sea Teacher
+
+The party gathers their things, and a few of Vartar's things, into the folding boat and makes ready for a journey across the sea to the Heavenly Cay to seek treatment for the king and see what can be done about Ibal's brother. They find several hazards while sailing, but manage to avoid the dangerous encounters. They do run into Frammel The Stubborn, the adult bronze dragon who traded stories and treasure with Captain Krusk during the party's first journey across the islands.
+
+The party sat and treated with Frammel, who was delighted to hear all of their stories. So delighted, in fact, that he offered to fly the party and their boat to within a day's sail of The Heavenly Cay, shaving nearly 3 days off of their travel time. The party gratefully accepted and sailed the rest of the way themselves through a light drizzle.
+
+The party docked at the Cay, had a humorous encounter with the dock clerk, and very quickly found Alannia, Ibal's sister. She had been waiting at the dock every day for Ibal, and promply spilled the bad news that Rhys had been executed for murder. She wanted to talk more, but saw that the party had something a little more pressing to deal with. She accompanied the party to The Purple Lotus restaurant, where Professor Galonodel was dining. He grew very excited when the party told him they had brought him a half-dead (and therefore willing) werewolf for his experiments. They left for The Ivory Tower and Professor Galonodel's lab.
+
+The party learned a great deal in Galonodel's lab. First, the king was presenting to the professor's instruments as a regular human with no evidence of lycanthropy or any other mutation or abnormality. The party showed the professor one of the red vials, which he identified as not just werewolf blood, but werewolf essence. Now understanding a little more, the professor surmised that Vartar had managed to accomplish what Galonodel was just starting to experiment with. He had extracted the werewolf curse from the king. The party then showed the professor one of the green vials, which the professor could not identify with just his equipment. However, it would be reasonable to assume that Vartar had performed the same extraction again, but targetted the mythical giants blood that was in King Samuel, and had successfully extracted it. If the legends are to be believed, the green blood is as close to the blood of Draffnir or one of his siblings that anyone today would be able to access. The professor compared it to having a portion of the king's soul taken out. He was confident that he'd be able to restore the king to his functional self overnight by giving him transfusions of normal blood, but he'd wait until the king was well again to get his consent about putting the giants essence back into him.
+
+With the immediate crisis in good hands, Alannia wanted to discuss Rhys' execution. She's not convinced that Rhys was guilty, partially because he's not a perfect person, but he's no murderer, but more importantly, there was another murder with the same MO two nights after Rhys' execution. The people in The Gilded Circle had started calling these the Lantern Ghost Murders, because they always happen on foggy nights and witnesses claim to see a shadowy form holding a lantern fleeing the scene. Alannia mentioned attempting to investigate a little herself, only to be spurned by the city watch and told to mind her own business. There was one constable who was more apologetic. It's possible she might be more forthcoming with information. Her name was Constable Jute. Alannia knows where Rhys was finally caught, standing over a dead body with a bloody knife and a lantern. She also knows where the latest murder took place. The professor suggests that the party also look into Hopene'er Asylum, a hospital in the Gilded Circle with a psychiatric ward where Rhys was held before his trial and execution. Maybe he said something to one of the orderlies or residents there that the party can use.
+
+You guys have a lot to look through tonight.
+
 ## 2023-05-25
 Previously, on Giving up the Hole
 

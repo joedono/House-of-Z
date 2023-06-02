@@ -53,10 +53,10 @@ Roll 1d12 per day at sea. The journey will take 10 days.
 * 1-3 - Clear Skies
 * 4-5 - Light Drizzle
 * 6 - Storm
-* 7 - Whirlpool - DONE
-* 8 - Berserker Raiding Party - DONE
-* 9 - Harpy Attack - DONE
-* 10 - Adult Bronze Dragon - DONE
+* 7 - Whirlpool
+* 8 - Berserker Raiding Party
+* 9 - Harpy Attack
+* 10 - Adult Bronze Dragon
 * 11 - Floating Debris
 * 12 - Ghost Ship
 
