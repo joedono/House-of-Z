@@ -18,6 +18,13 @@ Master Refrum is removed from the story. All introductory information can be got
 
 In addition to the information that Master Refrum/Allania has about the killings, questioning any of Rhys' former staff will reveal that he has a habit of sneaking out of his workshop at night. They all assume he visits the red light district. If the players visit there, they can locate Rhys' favorite places to hang out and his favorite consorts. They will report seeing Rhys slightly less frequently than usual in the past six months, but his coworkers will all swear that he visited his consorts with the same frequency as always. The only change in Rhys' recent behavior that his coworkers can report is him becoming more obsessed with tinkering with the C.H.U.M. design. This will be because of the images of the juvenile kraken that have been haunting his dreams. He even added an odd swirly symbol to the packaging, which will match the tattoo that Sgothgah put on the juvenile kraken in preparation for the ritual.
 
+Mr. Dory's office contains his spellbook, with the following spells in it:
+* Cloudkill
+* Invisibility
+* Alarm
+* Contact Other Plane
+* Telepathic Bond
+
 Sgothgah's devotion to Tharizdun is a deception. It's actually been receiving whispers from the ghost of Anguisa.
 
 Sgothgah is not attempting to simply raise the kraken as a thrall of Tharizdun. Anguisa has been whispering on how to prepare the kraken's soul by feeding it the energy of despair from the townsfolk. Once fully prepared, the kraken can be sacrificed in order to open a portal to the Abyss. This is where Anguisa will retrieve the demonic energy she will need to fuel her animated homunculus of Draffnir.
