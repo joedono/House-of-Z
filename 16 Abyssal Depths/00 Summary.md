@@ -21,6 +21,8 @@ In addition to the information that Master Refrum/Allania has about the killings
 Mr. Dory's office contains his spellbook, with the following spells in it:
 * Cloudkill
 * Invisibility
+* Fear
+* Fireball
 * Alarm
 * Contact Other Plane
 * Telepathic Bond
