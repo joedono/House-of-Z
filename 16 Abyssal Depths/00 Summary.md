@@ -26,6 +26,7 @@ Mr. Dory's office contains his spellbook, with the following spells in it:
 * Alarm
 * Contact Other Plane
 * Telepathic Bond
+* Detect Poison and Disease
 
 Sgothgah's devotion to Tharizdun is a deception. It's actually been receiving whispers from the ghost of Anguisa.
 
