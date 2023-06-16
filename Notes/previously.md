@@ -1,5 +1,18 @@
 # Previously
 
+## 2023-06-15
+Previously, on That's no Frog
+
+Alannia leaves the party to head for Rhys' shop to check up on his employees. Rhys obviously didn't leave any sort of instructions as to what to do with the shop in case of his demise or disappearance, so she's worried that the employees are coming into conflict over what to do with the shop.
+
+The party stops by the Deathbringers HQ to update them on their latest findings about Anguisa. Unfrotunately, Hope is out on some "classified" assignment, and another Deathbringer, Vesimer, is manning the front desk. Vesimer doesn't take his job too seriously and is more basking in the glory of power. He's not much help to the party, although he does reveal that they've also received a large number of the mysterious letters.
+
+The party starts making their way to Hopene'er Asylum to see what Rhys did on his last night on the material plane. They are accosted by beggers, who they immediately donate a little charity to. One of them warns them not to go near a street several blocks away, since that's where the latest Lantern Ghost murder took place. The party decided to investigate that site first.
+
+They find a bloody alleyway with three sets of webbed footprints leading to the northwest. There's no body, but there's plenty of blood. The party follows the footprints to a warehouse owned by a town council member named Dory. Dory earned his money and power renting storage space to alchemists in the Heavenly Cay and managed to amass quite the fortune. The party stakes out the warehouse a bit and hears growling from inside. They carefully enter, but are almost immediately attacked by a Red Slaad and three Manticores, which are fairly easily dispatched. And without blowing up any of the dangerous alchemical supplies, I might add.
+
+Having dealt with the immediate threat, the party ascends up the staircases in the warehouse until they reach the third floor and a door leading out the back. There's no more warehouse out that way, but there is a ship suspended by a crane portruding from the back of the warehouse. Maybe there's more to see in there.
+
 ## 2023-06-01
 Previously, on Sea Teacher
 

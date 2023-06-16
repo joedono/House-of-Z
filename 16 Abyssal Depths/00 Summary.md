@@ -33,6 +33,8 @@ Mr. Dory's fights with a spellbook, rather than inate spellcasting. His book has
 
 Sgothgah's devotion to Tharizdun is a deception. It's actually been receiving whispers from the ghost of Anguisa.
 
+The magical inside the hollow under the false stair in the Temple of Thrazidun is TODO
+
 Sgothgah is not attempting to simply raise the kraken as a thrall of Tharizdun. Anguisa has been whispering on how to prepare the kraken's soul by feeding it the energy of despair from the townsfolk. Once fully prepared, the kraken can be sacrificed in order to open a portal to the Abyss. This is where Anguisa will retrieve the demonic energy she will need to fuel her animated homunculus of Draffnir.
 
 If the party elects not to kill the juvenile kraken, the two abolets from The Endless Nadir will decide to kill it. Once dead, the kraken's body, carved with runes and the swirly tattoo, will open a portal to the Abyss. Anguisa will appear suddenly and fly through the portal. The party will either fly in after her or be sucked in by the torrent of water that gushes through the portal.
