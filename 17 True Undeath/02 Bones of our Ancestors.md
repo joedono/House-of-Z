@@ -17,7 +17,7 @@ The intact skull of Draffnir's brother sits at the peak of Skullmount, giving it
 
 Retaw treats the party as though they are lost children visiting their failure of a father. He'll be happy to see them but ashamed that they have to see him in such a state. Meeting Retaw will be the first time the party has a chance to hear the true story of the creation of the world, as well as the current state of affairs of the Dragons and Celestials, possibly providing the final piece to the puzzle about what Anguisa has been trying to do.
 
-Retaw will be able to completely explain the purpose of Anguisa's list.
+Retaw will be able to completely explain the purpose of Anguisa's list and what she needs from Thanatos, the Wand of Orcus. He is also the source of the letters from the dead that people on the Material Plane have been receiving.
 
 Unfortunately, the party won't be able to do anything to help Retaw out of his predicament. Trying to help Retaw will be the same effort as emptying the ocean with a teacup.
 
@@ -46,23 +46,14 @@ There is diversity though. Many races have ended up here. Children too. There's 
 
 ### General City Encounters
 1. Guards at the Gate - The gates to the city are guarded by a squardon of guards with spears. Two of them approach the party as they approach the gate. They groan out "papers please" and will attempt to bar the party from entering. They don't say anything else to the party, only repeat "papers please." They'll be satisfied and grant entry to the party if they are given anything resembling paper.
-   
 2. Orphan Pickpockets - A small group of zombie children shamble past the party at varying speeds and ineptly attempt to pickpocket them. If caught, the children are ashamed and apologetic. They're simply recreating things they did when they were alive.
-
 3. Town Crier - A zombie stands on a shoebox and attempts to give announcements to the street and boardwalk. His vocal cords give out halfway through and the remaining announcements are intelligible grunts and moans.
-
 4. Pet Escape - One of the zombies is out walking his Hell Hound. The decaying leash gives out and the creature attacks the the party for 1d4 rounds before the owner can catch up with it and calm it down.
-
 5. Busker - An acrobatic pair of zombies are performing a street act. The first half of the act is fairly normal. One of the acrobat's arms falls off in the middle of the act. The zombie crowd goes silent. The other acrobat picks up the arms, looks at them for a beat, walks over to his partner, rips his partner's leg off, then starts juggling them. If the party puts any money into the acrobats' hat, they'll continue adding more body parts to the loop until one acrobat is juggling every part of his partner.
-
 6. Campaigner - A zombie petitioner is attempting to drum up support for Charles Krimshaw, a political rival to Garlan and who is running against him in the next election. This petitioner is VERY against Garlan as a ruler. Doesn't like his policies, etc. This will likely be the first time the party hears Garlan's name.
-
 7. Disagreement - A pair of zombies accuse a zombie shoppkeeper of ripping them off or offering them a bad deal. A comical fight breaks out with loose fists fly in half-hearted blows. The fight ends abruptly when the merchant's head is knocked off. One of the patrons calmly gives the head back to the merchant, the offending patrons offer a muttered apology, and everyone walks away like nothing happened.
-
 8. Statues - Periodically throughout the city, the party will see groups of zombies tearing down an old statue and erecting a new one. The old one will resemble a bearded elf with various pieces missing, two left hands, and a tail. The new statue will resemble a dragonborn, also with pieces missing, and with a distinguished, but partially ruined, crest on his breast. A successful History check will let the party see the symbol of the Red Drakes in the ruined symbol. The statue is commemorating the election of Garlan as ruler of the City of Zombies.
-   
 9. Fishing - The party's wanderings take them to docks on an inlet from the Sea of Blood. A trio of zombies are fly-fishing, attempting to catch something from the Sea of Blood. Of course, no sane person would attempt this. These zombies are just attempting to live out what they did when they were alive. However, one of them catches something. Something huge that leaps out of the blood, catches the zombie's line, and attempts to drag him into the Sea. The other two zombies will attempt to help him, but without intervention from the players, the zombie with the catch will be yanked off his feet and pulled into the Sea.
-
 10. Lemonade Stand - A zombie will be attempting to sell a new sweet drink he had a dream about. He's calling it lemonade. The party can try it, but it will be made from cackler blood and be mildly poisonous.
 
 ### Audience with the King
@@ -76,3 +67,9 @@ Garlan was elected to the position of King less than a week ago, and doesn't rea
 
 ### Garlan's Quest
 If the party has not been to Skullmount yet, use this questline as a way to get them there and interacting with Retaw. Garlan is missing his lower jaw bone. He can still speak, but he is difficult to understand. The only bones here that don't technically belong to another creature are on Skullmount. If the party could go and retrieve a jawbone from the mountain of bones, Garlan would be very grateful.
+
+If the party has already been to Skullmount, then Garlan's lower jaw will have washed down the River Styx and be somewhere in the Bonemeal Desert.
+
+Garlan gives the party one of his finger bones. It will vibrate when the party is close to his jawbone.
+
+As a reward for returning his jawbone, Garlan will give the party his tail. Due to his death at the hands of the spirit of Anguisa, Zombie Garlan has a unique connection to her. When suspended in water, Garlan's Tail will point towards Anguisa. This gives the party perpetual directions for where Anguisa is. Currently, the tail will point west. Anguisa is attempting to raise an army in The Valley of the Crypt Things, but she's having trouble as the undead kings are locked in combat with each other.
