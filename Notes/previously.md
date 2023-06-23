@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-06-22
+Previously, on Home Invasion
+
+The party investigates and eventually breaks in to what is probably Mr. Dory's home. An old ship suspended by a crane 60ft over a mud pit behind Mr Dory's warehouse. The walkway around the crane is rickety and unstable. Part way through crossing over to the gangplank that leads onto the ship, the party is ambused by three squid-like creatures armed with tridents. Fran takes a tumble into the mud, but the monsters are dispatched. Not before one of them alerts whatever is inside the ship.
+
+The party examines the ship, and finds an aquaduct is flowing water through a grate in the roof. The water is filling the hold of the ship, which is accessible through several large holes in the floor of the cabin. Two huge boilers heat the place, making it all steamy and horribly unpleasant. Fran snuffs the fires heating the boilers and then pries open what used to be a door so the party can get inside.
+
+Inside is slimy and smells like someone took a swamp and compressed it into a house. The party travels through the interior of the cabin for a bit before being ambushed by more fish monsters and a human assasin covered in slime. The party takes a bit of a beating, but manages to pull through. The assassin's dying words are "You're too late. The spawn of Thrazidun will feed on your bones. Mr Dory will make sure of that".
+
+The party starts making their way toward the back of the cabin when the door opens seemingly of its own accord. A gurgly voice comes from the last room and complains about being unable to find good help, and then a flesh golem made of fish and crustacean parts rises out of one of the pools.
+
 ## 2023-06-15
 Previously, on That's no Frog
 
