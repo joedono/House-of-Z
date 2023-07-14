@@ -1,10 +1,7 @@
-Fran 
-Ibal 
-Darquin 
-Jasper 
-Valmar 
-Ardin 
-
 Mr Dory 24
-Flesh Golem 10
-
+Ibal 23
+Fran 22
+Darquin 17
+Ardin 12
+Jasper 6
+Valmar 7

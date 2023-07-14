@@ -1,5 +1,20 @@
 # Previously
 
+## 2023-07-13
+Previously, on Smelly Junk
+
+The fight with Mr Dory and his Flesh Golem begins. Mr Dory comes armed with several powerful spells and a ranid odor, but he wilts into surrender once the flesh golem is defeated. Through a strong chokehold applied by Ardin, Dory spills everything he knows. Ibal's brother, Rhys, did indeed commit the Lantern Ghost murders, but he was mind-controlled into doing it by Dory's master. The murders were meant to sow despair and fear in order to feed something called "the spawn of Tharizdun". Dory seemed to be implying that his master and fellow servants were nurturing something with the negative emotions. Dory also mentioned that his master came from the sea.
+
+A quick turnover of Dory's office revealed a pouch of rubies (6 x 500gp worth) and a book filled with prayers to Tharizdun written in a combination of Infernal and Abyssal. A quick religion check revealed that, in more historical religous texts, Tharizdun is mentioned as a lower deity of darkness. His name eventually disappears from the texts, and Zehir starts appearing instead. The symbol on the cover of the prayer book bears some resemblance to the sigils that were burned into the ground in Loftran that were turning people into snakes. Considering the fish people that the party has been dealing with up until this point, there is likely some similar magic at work here. Inside the book was a folded sheet of paper that read:
+
+"This book contains all the invocations and prayers you'll need to learn the truth, Mr. Dory. The dark god's faithful are wary of new converts. But learn the words, and they should accept you soon enough. Seek their pulpit in the evening shadow of Frother's Lamp. Praise Tharizdun!"
+
+Ibal recognizes Frother's Lamp as the name of a derelict lighthouse on the southern beach of The Gilded Circle district. The party proposes handing Mr Dory over to the authorities, but Dory claims that will do nothing, as he has every guard in the city in his pocket. So Ibal stabs him, and Ardin chokes him with a Shocking Grasp until he stops moving. Darquin spends a bit of time stealing some alchemical supplies and the party leaves for Ibal's home for the night. Their clockwork butler, Richard, tends to their cleanup and everyone enjoys a very comfortable night's rest.
+
+In the morning, Ibal updates his parents on everything that's happened. After learning about Rhys' mind-control, that Dory's master "came from the sea," and that the monsters the party faced were fish-humanoids or humans with slick and slimey skin, Alannia suspects that Dory's master might be an aboleth, but she wonders why an aboleth would be associated with a cult, given their disdain for anything religous. She also wonders what the "spawn" might refer to. Dory mentioned that the murders were nurturing something.
+
+The party now has two threads they can tug on: investigate the Hopene'er Asylum where Rhys spent his last night alive, and investigate "the evening shadow of Frother's Lamp" to try and find this "pulpit."
+
 ## 2023-06-22
 Previously, on Home Invasion
 
