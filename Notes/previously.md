@@ -1,5 +1,18 @@
 # Previously
 
+## 2023-07-20
+Previously, on We Don't Like Slave Traders
+
+The party heads towards Frother's Lamp to investigate whether a cult has set up shop there. Instead, they find a gang of thugs having their morning meeting. The party pulls out all the stops in this little skirmish. Darquin turns himself and Fran invisible so they can capture one of the thugs, drag him away, and interrogate him. They learn that the gang are not cultists, but that they extort money from new arrivals and sometimes capture people to be sold into slavery on undercrewed ships. The group lets this pitiful soul, Jimmy, go, and advance on the stone cabin where the rest of the thugs are.
+
+Darquin remains invisible. Ardin throws out a card from the Deck of Illusions and gets an Orc, which draws out the rest of the gang in a desperate attack. Ibal immediately clobbers one unconscious (Timmy). Jasper turns one into a sheep (Peter). Ardin blasts one of the other leaders into a wall, only for Valmar to pull him back with lightning. The rest of the lower thugs turn tail and run.
+
+Fran ties Peter up in his net and Jasper dispells the Polymorph. The party seems to successfully intimidate the gang leader into looking for other career prospects, then ask him if he's seen any fish people. Peter admits that Timmy has, but dismissed it as noghtmares. Ibal knocks Peter out and Darquin goes to wake up Timmy with lemonade and a slap to the face.
+
+Timmy brings the party to a riverbank a little ways away from the Frother's Lamp, where the prow of a galley ship sticks out of the rocks. There is a door in the rock face on the deck of the ship that leads into a building of sorts. The inside of the building is wet and moldy, like Mr Dory's "house" was. As the group catiously edges forward, they find a meeting chamber of sorts, with chairs and benches, and the rotting carcass of a shark strung up on the opposite wall. Just below the shark is a pool of water, the first stairs down visible above the gently lapping surface.
+
+Almost as soon as Ibal opens the door to this chamber, he notices four fish-people lurking in the shadows and two crab-like creatures break up from the floor. At the same time, two more crab creatures break the floor under Ardin, Jasper, and Valmar, plunging them into the grotto beneath the hallway. Lastly, the rotting shark corpse wriggles free of its rope, and starts swimming through the air towards the party.
+
 ## 2023-07-13
 Previously, on Smelly Junk
 
