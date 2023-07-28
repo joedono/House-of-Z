@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-07-27
+Previously on Wet Slapping Behind the Door
+
+The fight with the crab and fish creatures (and one VERY imaginary shark) ensues, with the party's magic users being pulled under broken floorboards into the grotto below. The party manages to whittle the enemy forced down to only two fish creatures when the monsters attempt some semblance of a retreat.
+
+Valmar notices a terrifying alien fish creature in the pool of water covering the stairs. The creature speaks into Valmar and Fran's mind, offering them a deal in lieu of further combat.
+
+The party cautiously approaches as the aboleth rises slightly above the water to converse with them. It claims that it has made its hiding place at Landgrave's Folley, a sunken island with a temple that was built by Bryson Landgrave long ago. Landgrave thought that if he could dig a hole deep enough, he could find a portal to another plane and untold riches. His work was plagued by mysterious accidents, so his clerics advised him to build a temple out of the excavated materials to appease whatever spirits or gods he had angered. On the day the temple was consecrated, an earthquake sank the island, leaving only the top portion of the temple spire visible over the ocean waves. The aboleth claimed that he was simply making a home in Landgrave's Folley, but he was attacked by two of his bretheren, who it claims were the ones actually responsible for the Lantern Ghost murders. The creature showed the party what looked like poisonous stings on the side of its body, supporting its claim that it was attacked. The aboleth promises the party that, if they help it defeat its two bretheren, it will leave to find another hiding place and let them have all the treasure that sank with Landgrave's Folley.
+
+The party reluctantly agreed to help the alien creature, who (belatedly) introduced itself as Sgothgah (s-KOTH-gah).
+
 ## 2023-07-20
 Previously, on We Don't Like Slave Traders
 
