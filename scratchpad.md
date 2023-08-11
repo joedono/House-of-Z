@@ -1,10 +1,11 @@
-Ibal - 25
-Fran - 22
+Ibal - 21
 Lair - 20
-Aboleth - 16
-Valmar - 15
-Skum 2 - 15
-Jasper - 11
-Skum 4 - 8
-Ardin - 7
-Darquin - 7
+Darquin - 18
+Ardin - 16
+Aboleth Red Ben - 16
+Valmar - 12
+Fran - 11
+Jasper - 10
+Dragon Spirit - 10
+Kraken - 7
+Aboleth Blue Jerry - 7

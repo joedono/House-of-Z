@@ -1,5 +1,20 @@
 # Previously
 
+## 2023-08-10
+Previously, on Never Trust the Fishes
+
+The party makes to follow Sgothgah down into the water, stopping for a brief moment after discovering a hidden compartment under the steps. Inside are six poushes with 100sp and 50gp in each one, 3 potions of healing, 4 potions of greater healing, and a Wand of the War Mage +2, which Valmar takes.
+
+Fran is the first to step fully into the water. He finds Sgothgah there waiting for him. Sgothgah immediately attempts to enslave Fran, and fails. Fran senses this and attacks, battering Sgothgah close to death. Valmar and Jasper step in and finish the job. Darquin harvests one poison tentacle from the body as the party debates what to do next.
+
+They decide to continue down the tunnel and see what this "spawnling" Mr Dory and Sgothgah were talking about. The tunnel twists south-westward for more than a mile before opening up on the ocean floor. Nearby, the sunken temple known as Landgrave's Folley is visible, along with a couple shipwrecks. Victims of the temple spire that pokes out above the surface above. The party moves to investigate the temple.
+
+Inside, they find an incredibly deep pit, two more aboleths arguing in Deep Speech, and one remaining Glyph of Warding. The two aboleths are amiable enough, especially after Darquin produces Sgothgah's severed tentacle. The two, now named Ben and Jerry, were sent to kill Sgothgah and deal with his spawnling, who they reveal to be a juvenile kraken, presumably still located in the deep pit. The party eventually agrees to help Ben and Jerry. Ardin produces the illusion of a veteran soldier, which walks over to the edge of the pit. It is immediately swiped at by a large tentacle as the juvenile kraken, still huge and threatening, emerges to battle the party and the aboleths.
+
+Thus far, the aboleths strikes and attempts to enslave the kraken have been ineffective.
+
+The current status effects in play are: Ibal has used Insightful Fighting on the Kraken, Darquin has cast Sanctuary on himself, Ardin is prone, and the kraken has grappled and restrained Ibal.
+
 ## 2023-07-27
 Previously on Wet Slapping Behind the Door
 
