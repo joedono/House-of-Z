@@ -1,5 +1,24 @@
 # Previously
 
+## 2023-08-17
+Previously, on Nether Toilets
+
+The battle with the juvenile kraken continues. The attacks of the aboleths are proving horribly ineffective on it, reducing Ben and Jerry to little more than cheerleaders. But, with some creative protections, the party is able to whittle down the kraken until it dies.
+
+As the red light leaves the kraken's eyes, it is funneled back up into the swirling tattoo on its body. The energy starts pulsing faster and faster. Just before the energy takes effect, the Ghost of Anguisa shows up, grapples Valmar, and drags him towards the body of the kraken. The red energy goes black and starts to ooze out of the kraken like slime. It quickly starts to run in a circle, affecting the current in the water and drawing the party and the aboleths toward it. It...opens. The black torrent now resembles water draining out of a bathtub. Anguisa flies into the torrent and the rest of the party are sucked in after her.
+
+After a harrowing journey through a wormhole made of red light, yellow light, and black darkness, the party is spit out onto a blasted rocky landscape. The rocks are dotted with bones. The air stings the eyes and nose. The sky is completely clouded over. There is a red glow on the horizon and mountains on either side of the hole. The black portal quickly vanishes, leaving a shallow hole. The party has landed on Thanatos, the 666th layer of the Abyss, domain of Orcus, and land of undeath.
+
+Fran is alarmed when Verna suddenly screams. The white transluscent form of a dwarven shield maiden is drawn out of the hammer and appears in front of him. Verna opens her eyes, her expression pained and terrified. She is drawn away from Fran. He reaches out and holds tight to her, being dragged this way and that, until she appears to shatter. Only her hand, now a translucent blue, is left in his. Fran grabs the hammer and presses it to where she should be. The rest of her form materializes, now a blue color, and her expression shows exhaustion, but relief. The spirit of Verna is now able to aid Fran more directly in battle and out.
+
+Ardin casts Banishment on the two aboleths, who are suffocating in the stinging air of this plane, and sends them back to the Elemental Plane of Water. They likely won't forget this favor. The only way to go is south-by-south-west. The north and west are blocked by mountains, and the east and south east are blocked by the Sea of Blood. In the distance, the party sees gravestones dotting the landscape. A massive giant's skull is perched on a mountain a few miles away. It shifts to look at Fran after he taunts it.
+
+The party makes an uneasy camp as quasits, demonic scavangers, begin to appear from behind rocks, presumably expecting easier prey. Fran remembers the last unaccounted-for ingredient on Anguia's list was the Abyss, and the hints the party have received that point at her trying to assemble some form of Draffnir for her war with the Celestials and requiring an enormous amount of magical undead energy to animate the body. Anguisa is here for something. As the party lays down for camp, Jasper finds the lost Eloreth Signit Ring, potentially good for unlocking access to the Eloreth account at the bank of Loftran...
+
+...assuming the party can get back alive.
+
+Remember to level up to 12. You are allowed to re-roll your hit die once if you roll a 1.
+
 ## 2023-08-10
 Previously, on Never Trust the Fishes
 
