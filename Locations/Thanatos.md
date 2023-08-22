@@ -131,7 +131,7 @@ The champions include fiendish death giants Lestra and Orbenet and a crawling he
 * https://www.dndbeyond.com/monsters/2560897-orcus - Ruler of Thanatos
 * https://www.dndbeyond.com/monsters/16988-quasit - Lower tier demon
 * https://www.dndbeyond.com/monsters/2560906-rutterkin
-* https://www.dndbeyond.com/monsters/2560915-sibriex
+* https://www.dndbeyond.com/monsters/2560915-sibriex - Rival ruler. Master of flesh molding
 * https://www.dndbeyond.com/monsters/17027-succubus
 * https://www.dndbeyond.com/monsters/2739104-tlacatecolo
 * https://www.dndbeyond.com/monsters/2560947-vargouille
