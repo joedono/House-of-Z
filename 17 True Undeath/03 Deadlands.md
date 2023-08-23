@@ -11,4 +11,4 @@ The party is able to avoid angering the grave tenders by promising their soul to
 ## Sinkholes
 Thousands of graves and graves-upon-graves have made the footing here EXTREMELY unstable. The party is very likely to discover a sinkhole or pit trap during their travel through the cemetary. If two or more of the party fall into the sinkholes, the Grave Tenders will choose that time to strike or negotiate.
 
-The sinkholes are also hazardous during battle.
+The sinkholes are also hazardous during battle. Any time a player moves, roll a d20. On a 15 or more, the player must roll a DC 15 Dex Save or fall prone into a 5ft deep hole.
