@@ -8,6 +8,8 @@ While the Chasmes and Barlguras are able to handle most of the tending, a large 
 
 The party is able to avoid angering the grave tenders by promising their soul to the cemetary after they die. The contract is sealed by giving the Chasme something a possession that uniquely belongs to each party-member. As the Chasme have no knowledge of the party and little magical detection abilities, the party might be able to convince them that something extremely commonplace is actually unique, such as a single gold coin or a field ration, which would invalidate the agreement, but not alert the Chasmes.
 
+Ardin gave the Chasme a card from the deck of illusions. King of clubs - Bandit captain and three bandits
+
 ## Sinkholes
 Thousands of graves and graves-upon-graves have made the footing here EXTREMELY unstable. The party is very likely to discover a sinkhole or pit trap during their travel through the cemetary. If two or more of the party fall into the sinkholes, the Grave Tenders will choose that time to strike or negotiate.
 

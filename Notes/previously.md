@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-08-24
+Previously, on Bug Zapping
+
+The party sets out to scale Skullmount with the folding boat and Fran's sailing skills. They successfully handle several hazards as they sail up the mountain, including the half-faded soul of Caleb. They make it up to the top, where the skull at the top introduces itself as Retaw, brother to Draffnir and one of the giants apparently responsible for creating humanity.
+
+Retaw takes credit for sending the dead letters, or having them sent. He has seen a vision of Anguisa's plans and was hoping to attract brave souls to stop her. He gives the party some advice on what Anguisa might be up to. She's going after some source of Abyss power, like the Wand of Orcus or the head of a powerful demon. Neither of these things are things she could get on her own, so she is likely searching for allies. She flew West, making her likely stop to be the Valley of the Crypt Things. Retaw recommended that the party head south to the City of Zombies, then north-east to the City of Liches, to look for allies. Retaw then granted the party with a swift sail down to ground level to continue their journey.
+
+The party made their way south through the Deadlands. Fran fell into a dug grave, apparently angering the Chasme grave-tenders in the area. The Chasme told the party they could either turn back, or pay with their soul. Darquin remembered that the contract to offer a Chasme one's soul involved offering the Chasme a possession that was unique to the individual, but that they could be deceived with something that wasn't unique. Each party member offered something decisively NOT unique to them and successfully deceived the Chasme (including Ardin, who offered a card out of the Deck of Illusions). The Chasme left the party in peace to continue their journey.
+
+The party arrived at the City of Zombies, a place that only barely qualifies as a "city". It has all the indications of being full of zombies, other than the zombies' hunger for flesh and brains. The party is even greeted by a zombie guard, after he puts his jaw back into place, that is.
+
 ## 2023-08-17
 Previously, on Nether Toilets
 
