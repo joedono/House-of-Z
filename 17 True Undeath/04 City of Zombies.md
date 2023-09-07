@@ -50,4 +50,8 @@ Garlan gives the party one of his finger bones. It will vibrate when the party i
 If Garlan's jaw bone washed ashore from the River Styx, the party will find it, along with a bunch of other lost things, in the care of three (Hydroloths)[https://www.dndbeyond.com/monsters/2560851-hydroloth]
 
 ### Reward
+Upon returning to the City of Zombies and returning Garlan's jawbone, he'll exclaim that he's so glad the party is here. Anguisa was here not one day ago. She seemed to be trying to be friendly to the zombies, but Garlan recognized her immediately and rebuffed her. She left before saying whatever she was going to say and flew off to the west.
+
 As a reward for returning his jawbone, Garlan will give the party his tail. Due to his death at the hands of the spirit of Anguisa, Zombie Garlan has a unique connection to her. When suspended in water, Garlan's Tail will point towards Anguisa. This gives the party perpetual directions for where Anguisa is. Currently, the tail will point west. Anguisa is attempting to raise an army in The Valley of the Crypt Things, but she's having trouble as the undead kings are locked in combat with each other.
+
+Garlan will also give the party a vial of green blood glamoured to look like water, that Anguisa dropped when she fled the city. This is King Samuel's blood, but the party will have no way of finding that out without purposeful investigation (or the gem of seeing).
