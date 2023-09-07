@@ -18,6 +18,18 @@ There is diversity though. Many races have ended up here. Children too. There's 
 9. Fishing - The party's wanderings take them to docks on an inlet from the Sea of Blood. A trio of zombies are fly-fishing, attempting to catch something from the Sea of Blood. Of course, no sane person would attempt this. These zombies are just attempting to live out what they did when they were alive. However, one of them catches something. Something huge that leaps out of the blood, catches the zombie's line, and attempts to drag him into the Sea. The other two zombies will attempt to help him, but without intervention from the players, the zombie with the catch will be yanked off his feet and pulled into the Sea.
 10. Lemonade Stand - A zombie will be attempting to sell a new sweet drink he had a dream about. He's calling it lemonade. The party can try it, but it will be made from cackler blood and be mildly poisonous.
 
+## Celebration
+The zombies are celebrating the election of a new monarch. There's a parade which more resembles a zombie attack, with zombies fleeing from other zombies who are really hamming up their moaning and mindlessness, but it's all in good fun. The players might mistake this for a real zombie attack, but they won't be attacked in return with any seriousness. Everyone will enjoy it as part of the festivity.
+
+There will be an athletic contest taking signups. The events are:
+1. A footrace. VERY easily won by any of the players. No roll required. They could walk at a brisk pace and win easily.
+2. A wrestling contest. The first few rounds will be easily won by any of the players. The final round will be against a former gluttonous half-orc who weighs over 600lb. Winning will require a skill challenge with DC 18. 3 successes before 4 failures. No weapons.
+3. A treasure/scavanger hunt. The party will be tasked with finding the twin of a perfect red star ruby somewhere in the city. The gem gives off a faint red glow. The MC gives the hint that the gem is in one of the major establishments in the city. It's actually in Reanimation, the school. The teacher, Edla Farcia, has it hidden behind one of her eyes, which glows with a dim red light. She's perfectly happy to let the party fish for it, or if they confront her enough, she'll fish it out herself.
+
+The winner of the contest gets a Dagger of Blindsight.
+
+If the party is smart, they'll also pocket the star ruby from the scavenger hunt, which is actually a Spell Gem (Star Ruby). They can also persuade the MC to give them its twin. The ruby with Edla is pre-charged with Maelstrom, a 5th level Druid spell. The ruby the MC shows everyone is empty.
+
 ## Audience with the King
 Word will travel slowly to Garlan that a party of still-living adventurers has arrived. Garlan will dispatch a messenger to bring Valmar and friends to the "castle" for an audience.
 

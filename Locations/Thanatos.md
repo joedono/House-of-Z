@@ -22,6 +22,28 @@ A massive (mostly symbolic) graveyard. There are billions of gravestones here, o
 ### City of Zombies
 A city of 10,000 zombies, victims of the evil of Orcus who seek a true death. They are ruled by a zombie king - an ordinary zombie on a throne, which will turn out to be Garlan, the dragonborn member of the Red Drakes who was reborn as a Revenant. He will have let go of his vengeance, believing it to be settled. However, his soul was captured by Orcus and brought here, tortured for years (Abyss time), before escaping and eventually being made lord of the City of Zombies. Garlan will be happy to help the players, and so will all the zombies in the city.
 
+The City of Zombies has all the trappings of a regular city. There are taverns, shops, festivals, markets, weddings, farms, maybe a little bit of industry. Nearly all of it is just appearances though. Since the zombies don't need to eat or sleep, they can't truly get drunk, and the environment of Thanatos doesn't permit anything truly nutritious to grow, most of the city industries aren't real. Taverns serve rotting meat and disgusting liquid for food and drinks. Farms grow poisonous weeds. Any zombie acting drunk is just acting. Beds are facsimilies and horribly uncomfortable to the living. Half of the zombie only feign sleep, and half of them sleep in holes in the ground.
+ 
+There is diversity though. Many races have ended up here. Children too. There's also a mixture of speeds. Some of the zombies are shamblers and some can move normally. All are lucid and aware though. Those that aren't wander out of the city and are tended to by the Chasme, but the undead regenerative powers of the plane cause that to happen really slowly.
+
+#### Tavern - The Shambling Alehouse
+Owned by Gwen Echeverria, a formerly half-elf female who died of the plague. She's reasonably well put-together for a zombie, still retaining much of her former beauty. The tavern sells a bastardization of "lemonade" that a recent arrival brought with him. It's dirty water mixed with a little bit of the Sea of Blood and could potentially be deadly to still-living mortals. It eats through the stomachs of zombies and burns the floor. Appropriately, there are burn marks all over the floor.
+
+#### Smithy - Blackened Steel
+Owned by Bart Fireglaive, a former dwarf male who died from an infection in his arm from an accident at work. His arm has completely rotted away by now, but he manages to work the smithy with one hand. Despite his former skill, the lack of materials means the weapons he makes are brittle and shatter easily, but it's what he knows and he has nothing better to do.
+
+#### Market
+Open-air market with stalls selling rotting versions of normal market wares. LOTS of rotten food and cooked meat of questionable origin.
+
+#### School - Reanimation
+The teacher is Edla Farcia, a formerly human female who died of old age. She teaches zombie children things they will never remember, but doesn't know what else to do with herself. She is constantly falling apart but has a supply of glue to keep things together.
+
+#### Guardhouse
+A number of zombie guards patrol the city, but their effectiveness is to be doubted. A slight breeze sends their bodyparts dropping to the ground due to how long most of them have been undead. The guard captain is Blaskel Stronghammer, a former dwarf. He has all the trappings of an old military blowhard and even managed to keep most of his moustach into undeath.
+
+#### Casino - The Golden Teeth
+Owned by Duncan Willis, a formerly human male who died from wounds sustained from enforcers when he tried to run off with his winnings. The casino actually deals in body parts, with zombies betting parts of themselves to get other parts. This results in a selection of haphazardly put-together zombies that are coming apart at the seams. The party will likely not want to bet anything here, since they don't take gold. But if they insist, the available games are cards and dice.
+
 ### The Sea of Blood
 A boiling sea of blood that forms Thanatos' south-eastern border. Horrible monstrosities dwell within the blood. It is a physical manifestation of death and suffering. Even touching the blood causes fire and necrotic damage to the living. Mortals that die in the blood are risen as undead (as usual) that bleed perpetually.
 
