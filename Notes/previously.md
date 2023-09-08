@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-09-07
+Previously, on Scooby-Dooby-Doooooo
+
+The party gains entrance to the City of Zombies and finds a shockingly friendly and even comical society. The various establishments and features of the city are decaying versions of what the city could have been in life, but the population is wrecked with decay. The group encounters various things, such as a horribly ineffective group of zombie children attempting to pickpocket Fran and Darquin, a zombie out walking his pet hellhound who is suddenly SO interested in the troll leg bone that Fran is carrying that it rips its owner's arm out of its socket, a lemonade stand that's selling a strange mixture of dirty water and boiling blood from the River Styx and just calling it "lemonade", and a casino that deals in body parts instead of money. The party learns from the guards that Anguisa's ghost was spotted that morning. She flew up to the castle and almost immediately left. The guards aren't sure what she wanted or why she left, but they're incredibly relieved she didn't cause any trouble.
+
+The party learns that the city recently elected a new king. They approach a group of zombies tearing down a statue of the old elven queen and putting up one of the new dragonborn king. Valmar, Ibal, Ardin, and Fran recognize the statue almost immediately. It's Garlan, the member of the Red Drakes that the party rescued from Frostfall Pass, who died at the hands of an Anguisa-possessed Valmar, and came back as a revenant to seek revenge on Valmar. Valmar is understandably wary of meeting Garlan, and uses the Hat of Disguise to make himself look like Mori. The party learns that an athletic contest is being held to commemorate Garlan's election, and the winner will get an audience with him. In the interest of gathering allies, the party enters the contest.
+
+The first event was a footrace, which the party easily won, as their competition could only shamble. Fran and Darquin put a little more effort into the contest with Fran coming out on top. The second event was a wrestling tournament. Fran made it through the rest of his competition easily, only to come face to face with Big Bubba, a remarkably well put-together ogre zombie. It was actually a close match, but Fran put the ogre down and won the contest. The final event was a tresure hunt. The crowd was tasked with finding the twin of a star ruby that the MC was carrying. After a bit of investigation, Ardin located the twin ruby behind the eye of the zombie schoolteacher. He deftly plucked it out with Mage Hand, and the party won the contest. For their prize, the party won a Flame Tongue Rapier, which was given to Ibal (changed from the Dagger of Blindsight. Sorry guys), and pocketed the star ruby that Ardin found. It turns out that it was a Spell Gem (Star Ruby), capable of holding up to a 7th level spell. It is currently holding Maelstrom, and so was given to Jasper.
+
+The party is fetched by a king's messenger and brought to the castle. Garlan indeed is king of this city and he warmly greets Ardin, Ibal, and Fran. Valmar is still in disguise, and isn't too sure he wants to reveal who he is. Garlan is using an interpreter, as he is missing his lower jawbone entirely.
+
 ## 2023-08-24
 Previously, on Bug Zapping
 

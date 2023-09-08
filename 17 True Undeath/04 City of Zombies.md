@@ -23,7 +23,7 @@ The zombies are celebrating the election of a new monarch. There's a parade whic
 
 There will be an athletic contest taking signups. The events are:
 1. A footrace. VERY easily won by any of the players. No roll required. They could walk at a brisk pace and win easily.
-2. A wrestling contest. The first few rounds will be easily won by any of the players. The final round will be against a former gluttonous half-orc who weighs over 600lb. Winning will require a skill challenge with DC 18. 3 successes before 4 failures. No weapons.
+2. A wrestling contest. The first few rounds will be easily won by any of the players. The final round will be against a former gluttonous half-orc who weighs over 600lb. Winning will require a skill challenge with DC 18. 3 successes before 4 failures.
 3. A treasure/scavanger hunt. The party will be tasked with finding the twin of a perfect red star ruby somewhere in the city. The gem gives off a faint red glow. The MC gives the hint that the gem is in one of the major establishments in the city. It's actually in Reanimation, the school. The teacher, Edla Farcia, has it hidden behind one of her eyes, which glows with a dim red light. She's perfectly happy to let the party fish for it, or if they confront her enough, she'll fish it out herself.
 
 The winner of the contest gets a Dagger of Blindsight.
