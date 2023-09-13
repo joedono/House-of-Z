@@ -49,6 +49,16 @@ Garlan gives the party one of his finger bones. It will vibrate when the party i
 ### River Styx
 If Garlan's jaw bone washed ashore from the River Styx, the party will find it, along with a bunch of other lost things, in the care of three (Hydroloths)[https://www.dndbeyond.com/monsters/2560851-hydroloth]
 
+Other treasure the party can find here are:
+* 1500gp
+* All-Purpose Tool +2
+* Potion of Healing (Superior) x4
+* Armor of Gleaming (Half Plate)
+* Bag of Holding
+* Charlatan's Die
+* Dimensional Shackles
+* Hook of Fisher's Delight
+
 ### Reward
 Upon returning to the City of Zombies and returning Garlan's jawbone, he'll exclaim that he's so glad the party is here. Anguisa was here not one day ago. She seemed to be trying to be friendly to the zombies, but Garlan recognized her immediately and rebuffed her. She left before saying whatever she was going to say and flew off to the west.
 
