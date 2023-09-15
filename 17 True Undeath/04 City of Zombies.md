@@ -35,7 +35,7 @@ Word will travel slowly to Garlan that a party of still-living adventurers has a
 
 The castle is, like the rest of the city, a poor imitation of a castle on the Material Plane. It is ripped banners, broken stone, barely lit torches, and reeks of death. The messenger will escort the party past the guards and into the castle to the throneroom, where Garlan waits.
 
-Garlan is only a little more lucid than the average citizen of the Coty of Zombies. He remembers Valmar, Fran, Ardin, and Ibal. He is quick to reassure Valmar that he doesn't bear him any further ill will. He vaguely remembers his time as a Revenant and insists that the vengeance curse that gripped him has faded and taken his basic urge for vengeance with it. Not to mention that the vengeance was technically fulfilled. He apologizes anyway.
+Garlan is only a little more lucid than the average citizen of the City of Zombies. He remembers Valmar, Fran, Ardin, and Ibal. He is quick to reassure Valmar that he doesn't bear him any further ill will. He vaguely remembers his time as a Revenant and insists that the vengeance curse that gripped him has faded and taken his basic urge for vengeance with it. Not to mention that the vengeance was technically fulfilled. He apologizes anyway.
 
 Garlan was elected to the position of King less than a week ago, and doesn't really want it. He's just the only dragonborn zombie in the city and was basically elected out of novelty. Things don't change much in the City of Zombies. He is only just starting to get used to his new position and doesn't want any help escaping to the material plane or some other after life.
 
@@ -53,7 +53,7 @@ Other treasure the party can find here are:
 * 1500gp
 * All-Purpose Tool +2
 * Potion of Healing (Superior) x4
-* Armor of Gleaming (Half Plate)
+* Armor of Gleaming (Splint)
 * Bag of Holding
 * Charlatan's Die
 * Dimensional Shackles
