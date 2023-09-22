@@ -1,5 +1,25 @@
 # Previously
 
+## 2023-09-21
+Previously, on MAAAAAATH
+
+The party continues their fight with the Hydroloths, making rather quick work of them by pushing the remaining two into the Sea of Blood. Ardin cures Fran of his memory curse, and the party sets about looting the pile of stuff. They find:
+
+- 1500gp
+- All-Purpose Tool +2 - https://www.dndbeyond.com/magic-items/2400634-all-purpose-tool
+- Potion of Healing (Superior) x4
+- Armor of Gleaming (Splint) - https://www.dndbeyond.com/magic-items/36571-armor-of-gleaming
+- Bag of Holding
+- Charlatan's Die - https://www.dndbeyond.com/magic-items/27039-charlatans-die
+- Dimensional Shackles - https://www.dndbeyond.com/magic-items/4620-dimensional-shackles
+- Hook of Fisher's Delight - https://www.dndbeyond.com/magic-items/2188379-hook-of-fishers-delight
+
+The party spends a bit of time debating what to do next before heading back to the City of Zombies to return Garlan's jawbone. The party is accosted by a petitioner attempting to drum up support for someone named Charles Krimshaw, believing that Garlan is corrupt and unfit to be king of the City of Zombies. The party dismisses him. Fran also runs into the ogre he fought during the athletic competition and buys him a drink of lemonade.
+
+Garlan is overjoyed to be able to speak again. Valmar is still in disguise. Garlan promotes his interpreter to royal advisor. In thanks, Garlan gives the party one of his dragon scales, which, due to his rather intense relationship with Anguisa, is attuned to her presence and will point in her direction when floating on water. He also gives the party a vial of clear liquid that Anguisa seems to have dropped when she was here. The party eventually identifies it as a vial of Giant's Blood under an illusion to look like water. They debate what to do with it and where to go, eventually deciding to keep the vial with them in the Bag of Holding and take their chances in The Burning Waste. A large portion of the Burning Waste is actually part of The Endless Maze, the level of the Abyss where Baphomet rules, encroaching on Thanatos. The party will take their chance in the maze, letting it decide if they find the Valley of the Crypt Things first, or if they exit out the northern face of the mountains and can make their way towards the City of Liches.
+
+The party hikes to the River Styx and boards their floating boat, cutting their travel time in half. On the "eve' of the last day, they are attecked by a small flock of Vrocks.
+
 ## 2023-09-14
 Previously, on All I Got Was a Boner
 

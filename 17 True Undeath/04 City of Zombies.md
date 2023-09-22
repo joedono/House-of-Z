@@ -51,13 +51,13 @@ If Garlan's jaw bone washed ashore from the River Styx, the party will find it, 
 
 Other treasure the party can find here are:
 * 1500gp
-* All-Purpose Tool +2
+* All-Purpose Tool +2 - https://www.dndbeyond.com/magic-items/2400634-all-purpose-tool
 * Potion of Healing (Superior) x4
-* Armor of Gleaming (Splint)
+* Armor of Gleaming (Splint) - https://www.dndbeyond.com/magic-items/36571-armor-of-gleaming
 * Bag of Holding
-* Charlatan's Die
-* Dimensional Shackles
-* Hook of Fisher's Delight
+* Charlatan's Die - https://www.dndbeyond.com/magic-items/27039-charlatans-die
+* Dimensional Shackles - https://www.dndbeyond.com/magic-items/4620-dimensional-shackles
+* Hook of Fisher's Delight - https://www.dndbeyond.com/magic-items/2188379-hook-of-fishers-delight
 
 ### Reward
 Upon returning to the City of Zombies and returning Garlan's jawbone, he'll exclaim that he's so glad the party is here. Anguisa was here not one day ago. She seemed to be trying to be friendly to the zombies, but Garlan recognized her immediately and rebuffed her. She left before saying whatever she was going to say and flew off to the west.
