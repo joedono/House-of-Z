@@ -5,8 +5,22 @@ This will be the party's first actual fight with Ghost Anguisa.
 
 The valley itself is a twisting valley with branches between two major mountains. The rocky walls of the valley are dotted with alcoves and caves big enough to hold citadels similar to Moria. Each citadel bears the insignias of one long-forgotten kingdom or another, twisted by time spent on this plane. The worked stone here is very well-kept by [Goristros](https://www.dndbeyond.com/monsters/17156-goristro) on loan from The Endless Maze. They stay out of the fighting, but work to make the cave system ever more elaborate. Baphomet's way of passing time, messing with Orcus, and gradually asserting his plane over Thanatos. The more lucid denizens of the Valley are constantly having their plans ruined by new walls or open pathways made by the minotaurs.
 
-## Finding the Valley
+## Finding the Valley - The Maze
 The Burning Waste and the mountains that surround the valley make up a trecherous labyrinth that eventually connects to The Endless Maze, the layer of the Abyss ruled over by Baphomet. Getting through the maze is a horrible ordeal. Use some portions of *The Maze* setting book to fill this in with appropriate hazards.
+
+### Navigating the Maze
+Use the rolls in *The Maze* setting book.
+
+### Finding the Exit
+At the end of every chamber, have someone roll a flat d20. Their roll determines whether they've found the exit. The DC depends on how many chambers they've cleared.
+1. DC 19
+2. DC 17
+3. DC 15
+4. DC 13
+5. DC 11
+6. DC 9
+
+When they finally pass, roll another d20. If it's even, the exit leads to the Valley of the Crypt Things. If it's odd, the exit leads north, to the Plains of Hunger.
 
 ## The Fight is Underway
 As the party nears the end of the maze section and gets to the valley itself, they'll hear the sounds of a distant battle. The sounds will eventually lead them to a cave exit on a high mountain, where they can look down and see a battle in progress on the valley floor and partway up one wall. Most noticible will be Anguisa, her dark form flying into the floor and back out again as she rends line after line of skeletal warriors and demons. If the party looks closely and makes an INT check, they can notice basic war tactics being played out and separate out the two forces Anguisa appears to be attacking and the one force she appears to be helping.
