@@ -1,7 +1,9 @@
-Hydroloth 1 25
-Ibal 24
-Fran 21
-Darquin 19
-Jasper 15
+Jasper 24
+Eagles 24
+Fran 22
+Ibal 21
+Darquin 17
+Vrock 3 13
 Ardin 12
-Valmar 6
+Valmar 11
+Vrock 1 4 Used spores Used scream

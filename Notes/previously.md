@@ -1,5 +1,10 @@
 # Previously
 
+## 2023-10-05
+Previously, on Go Eagles!!
+
+The party was ambushed on their folding boat by a flock of Vrocks and their invisible posse of Imps and Quasits. Through good use of summoned eagles and some high perception rolls, the party swept the deck with the demons and found 120gp in little pouches on the Imps necks. There's no way these demons were smart enough to come up with this attack pattern on their own. There's probably a smarter leader involved in this somehow.
+
 ## 2023-09-21
 Previously, on MAAAAAATH
 
