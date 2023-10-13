@@ -8,8 +8,61 @@ The valley itself is a twisting valley with branches between two major mountains
 ## Finding the Valley - The Maze
 The Burning Waste and the mountains that surround the valley make up a trecherous labyrinth that eventually connects to The Endless Maze, the layer of the Abyss ruled over by Baphomet. Getting through the maze is a horrible ordeal. Use some portions of *The Maze* setting book to fill this in with appropriate hazards.
 
+The first wall the players will see is a cliff-face dotted with dozens or hundreds of cave entrances. As they approach one, a translucent image of an imp will appear before them and offer these options
+1. The players are already hopelessly lost and want help getting out of the maze
+2. The players are servants of Orcus, Dagon, Yeenoghu, or one of the other Demon Princes and wish to make war upon Baphomet, the Minotaur Lord
+3. The players are adventurers on a holy quest to vanquish Baphomet, Ruler of Beasts
+4. The players are trying to get to the center of the Endless Maze and pledge their undying loyalty to Baphomet, the Horned King
+5. The players are attempting to cross the Endless Maze to reach somewhere else and have no goodwill or animosity towards Baphomet, Prince of Savagery
+
 ### Navigating the Maze
 Use the rolls in *The Maze* setting book.
+
+#### Chambers
+1. Chamber Roll d100
+2. Conditions Roll d100
+3. Entries d6
+4. Inhabitants d100
+
+##### First Chamber
+1. Standard Cube 1d10 Water
+2. Condition - Nothing
+3. 5 Entries
+4. Dark Stalker (Black Horse)
+   1. page 346
+
+##### Second Chamber
+1. Arena
+2. Condition - School Forbiddance - Evocation
+3. 3 Entries
+4. Mazeknight Captain (Red Pawn) + 1d6+1 Mazeknights
+   1. Red Pawn - page 343
+   2. 4 Mazeknights - page 342
+
+##### Third Chamber
+1. Arrival Circle
+2. Condition - Ghoul Pack
+   1. 2 Ghouls
+   2. page 328
+3. 3 Entries
+4. Earth Elemental
+   1. page 276
+
+##### Fourth Chamber
+1. Occupied Bonfire
+2. Condition - Double Monster
+3. 4 Entries
+4. Hitmen + Black Pawn
+   1. Hitmen - page 337
+   2. Black Pawn - page 338
+
+##### Final Chamber
+1. Caves
+2. Condition - Necromantic Mist
+   1. 3 Zombies to start
+3. 4 Entries
+4. Major Mirrorfolk (Black Bishop)
+   1. page 351
 
 ### Finding the Exit
 At the end of every chamber, have someone roll a flat d20. Their roll determines whether they've found the exit. The DC depends on how many chambers they've cleared.

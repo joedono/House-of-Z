@@ -1,5 +1,14 @@
 # Previously
 
+## 2023-10-12
+Previously, on Robo-Calling Demons
+
+The party sails to the base of the Maze Cliffs, sheer cliffs dotted with dozens or hundreds of cave openings. They see a handful of creatures fly out from some of the upper caves, fight each other, and kill each other. They also see a pair of minotaur demons exit a cave about a half mile away and begin clearing rock away from the entrance and reshaping it a little.
+
+After some intense investigation, the party activates a glyph of warding in one of the cave entrances, triggering a programmed illusion of a small imp robo-caller that presents the part with several choices and the option to hire a guide in exchange for a blood offering. Instead, Fran sends Verna in to scout. She journeys through several forks in the cave and finds a chamber mostly covered in 2-3 feet of water. She sees a shadow move under the water and promptly teleports back to Fran, who successfully makes a map of Verna's journey.
+
+The party manages to find their way to the water chamber, despite signs that the cave system is changing. They encounter several black lizardfolk creatures who promptly start fighting the party.
+
 ## 2023-10-05
 Previously, on Go Eagles!!
 
