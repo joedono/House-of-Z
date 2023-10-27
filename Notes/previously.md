@@ -1,5 +1,14 @@
 # Previously
 
+## 2023-10-26
+Previouly, on You Can't See Me
+
+The party finished off the aquatic hunters in the water chamber, located the star marking on one of the exits, and proceeded further into the maze. After several more branches, the path opened up into an arena where a squadron of undead knights were waiting to challenge the players. The force of the crowd's cheers and jeers was enough to cause actual damage in this place, and the party couldn't muster any of their Evocation magic.
+
+In spite of these handicaps, the party took down the knights. The chamber doors opened, and a human male stumbled into the chamber. He was awake just long enough to determine that the party are fellow maze wanderers, then he collapsed and fell fast asleep. The party made camp around the stranger. As they rested in the chamber, the chamber itself changed from a stone arena to a grassy glade. In the center of the new chamber was a metallic tree with deadly leaves, surrounded by a bottomless pit. The party elected NOT to investigate the deadly tree too closely.
+
+After they had finished resting, the man woke up and introduced himself as Gail Barnhill, a seasoned adventurer who had lost his companions after they fell through a portal and were lost in the Endless Maze. Darquin had riffled through Gail's belongings while he was asleep and found various adventuring gear, a spellbook, and a Bag of Sending. When Gail woke up, he mentioned knowing Tabitha. Through conversation, the party learned that Gail's party was the adventuring group that had mistaken Tabitha's Bag of Sending for a regular Bag of Holding and took a looong time realizing. Long enough that Tabitha suspended the other end of the Bag of Sending over a cauldron of acid, dissolving all of the gear Gail and his friends tried to store in the bag.
+
 ## 2023-10-12
 Previously, on Robo-Calling Demons
 

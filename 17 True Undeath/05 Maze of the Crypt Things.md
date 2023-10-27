@@ -39,6 +39,8 @@ Use the rolls in *The Maze* setting book.
    1. Red Pawn - page 343
    2. 4 Mazeknights - page 342
 
+The players meet Gail Barnhill, a human refugee who has been wandering the endless maze for a while. He's a Pact of the Fiend Warlock beholden to Baphomet. Baphomet has been trying to tempt him into the center of the maze and he's been trying to escape. Gail is the other end of the bag of sending that Mori has been receiving.
+
 ##### Third Chamber
 1. Arrival Circle
 2. Condition - Ghoul Pack
