@@ -51,7 +51,7 @@ The players meet Gail Barnhill, a human refugee who has been wandering the endle
    1. page 276
 
 ##### Fourth Chamber
-1. Occupied Bonfire
+1. Occupied Bonfire - page 105
 2. Condition - Double Monster
 3. 4 Entries
 4. Hitmen + Black Pawn
@@ -59,7 +59,7 @@ The players meet Gail Barnhill, a human refugee who has been wandering the endle
    2. Black Pawn - page 338
 
 ##### Final Chamber
-1. Caves
+1. Caves - page 95
 2. Condition - Necromantic Mist
    1. 3 Zombies to start
 3. 4 Entries

@@ -1,5 +1,16 @@
 # Previously
 
+## 2023-11-09
+Previously, on Rocks and Zombies
+
+The party and Gail trek through the maze a little more. Gail asking a bit about how the party got to the Maze and answering with some of his own experiences. Chambers in the maze apparently all have entrances that seal when people enter, and after some time or after the enemies inside are dead, the entrances open again. Gail doesn't know anything about the star marks the party has been following, but he's thrilled to have travelling companions for a change.
+
+The party finds a room with a teleportation circle inscribed in the center. Gail claims that this was the room he and his friends landed in when they made the poor decision to go through that portal way back when. He goes to a rock that is carved with the names of his adventuring mates and sobs, muttering about how the Maze has a sick sense of humor.
+
+As the group investigates the room, they find four sets of human remains and a strangely shaped rock. The remains quickly animate into ghouls and the rock comes apart from the wall and attacks. Gail reveals his powers are similar to Ardin, indicating him to be a warlock of some sort. After the battle, Gail and Ardin compare notes, and some religous investigation by Darquin reveals that Gail's patron is most likely Baphomet, the fiendish demon prince of the Endless Maze itself. This paints Gail in a suspicious light, but his story about how he came to own his spellbook seems legitimate.
+
+The party eventually finds a "window" out of the tunnel that appears to look thousands of feet down over the Valley of the Crypt Things, where a great battle is taking place. Ibal is able to identify that the battle is between three different armies, and spots the Ghost of Anguisa down there apparently aiding one of them. Gail is incredibly excited to have found a potential way out of the Maze and at least onto another level of the Abyss. He's eager to try his luck scaling down the cliff and investigating the cliffside caves directly beneath the "window", which seem to have a community of goblins scuttling among them.
+
 ## 2023-10-26
 Previouly, on You Can't See Me
 
