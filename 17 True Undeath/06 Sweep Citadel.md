@@ -40,13 +40,13 @@ There's just one problem. Blast needs a stronger material for the housing on the
 
 If the party wants to speak to King Sweep, Blast is able to arrange that.
 
-Blast recognizes Tabitha's Bag of Sending and asks after her, expressing regret that he became trapped on this plane several months ago and hasn't been in touch. He'll mention another party of adventurers with a similar bag were seen wandering the Burning Wastes a few tendays ago. He expects they're long gone by now. This will be the adventuring band that forgot they had a Bag of Sending and were sending all their junk into Tabitha's acid cauldron.
+Blast recognizes Tabitha's Bag of Sending and asks after her, expressing regret that he became trapped on this plane several months ago and hasn't been in touch. He'll mention another party of adventurers with a similar bag were seen wandering the Burning Wastes a few tendays ago. He expects they're long gone by now. This will be the adventuring band that forgot they had a Bag of Sending and were sending all their junk into Tabitha's acid cauldron. If Gail is still with the party, he'll be shy about admitting who he is, but Blast will recognize him.
 
 ## King of the Trash Heep
 King Sweep is super paranoid about the next skirmish, despite assurances from his staff that it's not likely to take place for another 8-10 hours. He won't be interested in talking to the party unless they make it known that their objective is to get rid of the dragon.
 
 ### What Sweep Knows
-1. If the party mentions his sons, Neep or Greep, he'll instantly warm up to the party and ask about Neep mostly. He sees Greep as a terrible disappointment who will never amount to anything.
+1. If the party mentions his sons, Neep or Greep, he'll instantly warm up to the party and ask about Neep mostly. He sees Greep as a terrible disappointment who will never amount to anything. Greep is the one who took control of Draffnir's Skull and was responsible for the City of Illusions.
 2. That the battle today was between Ashfall, Howlfish, and Eloreth. The dragon is helping Ashfall.
 3. King Howlfish is undead and appreciates a good joke
 4. Queen Eloreth is living and is desperately trying to find someone who knows Planeshift to send her home to Loftran on the Material Plane
@@ -54,10 +54,11 @@ King Sweep is super paranoid about the next skirmish, despite assurances from hi
 6. King Ashfall will have control over the Valley in only a couple days if the dragon continues to support him
 7. Sweep has no idea who the dragon is or what she wants
 8. Sweep is quite content being a king and isn't interested in leaving
+9. King Ensar is the figurehead monarch of the City of Liches and has come the closest to overthrowing Orcus
 
 ## What Now?
 The party has a couple threads to followup on.
 1. Search for a heat-resistant material for Blast to make them an airship. Found on the Frozen Sea when they find The Shadow.
 2. Talk to Queen Eloreth and find her someone who knows Planeshift. Jasper and Valmar can learn this after one more level up.
-3. Find the adventuring party who has been sending their equipment to Tabitha's acid cauldron
-4. Participate in the fighting with the goal of terminating Anguisa, or at least removing her support from King Ashfall and denying her an ally
+3. Participate in the fighting with the goal of terminating Anguisa, or at least removing her support from King Ashfall and denying her an ally
+4. Journey to the City of Liches to speak to King Ensar
