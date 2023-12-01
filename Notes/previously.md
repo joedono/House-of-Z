@@ -1,5 +1,22 @@
 # Previously
 
+## 2023-11-30
+Previously, on Bedknobs and Explosions
+
+Through various methods, the party safely descends down into the goblin civilization in the Valley of the Crypt Things. As they land, the city appears either desserted or under some sort of lockdown. The party is immediately hailed by a male goblin who is whisper-yelling for the party to come inside his home, since there's a lockdown in place while the fighting is going on.
+
+The goblin extends the party every hospitality. His name is Dent. He lives with his wife, Leaf, and his 5 children: Bump, Stump, Grump, Pump, and Thump. Leaf puts out a plate of exceptionally palatable food for their guests while they wait out the lockdown. While there, the party learns from Dent that the ghost dragon appeared in King Ashfall's army a tenday ago, and has been inching King Ashfall closer to victory over the other Crypt Things. Dent mentions that King Sweep and the other "living" Crypt Thing rulers are considerably nicer than the "non-living" rulers. Ashfall is one of the non-living rulers. King Sweep instituted a lockdown every time fighting breaks out, although it only lasts for a couple hours at most. The party waits out this skirmish in Dent's house.
+
+After the lockdown is lifted, the city screams to life. The activity in the city resembles the whiz-banging of Willy Wonka's Chocolate Factory. The party only walks the street for a few minutes before witnessing three goblins assembling a trash golem and bringing it to life, only for it to fall apart seconds later. The next minute, a disentegrate ray tears loose of its housing and proceeds to destroy a section of the street and several rock walls. A goblin a couple doors down lurches out with a C.H.U.M. that he picked up from somewhere, and attempts to help get the disentegrate ray under control. Unfortunately, the ray vaporizes the lower third of the C.H.U.M., leaving it essentially useless. The party manages to help get it under control and turn it off, but notices a goblin leading a team of other alchemists were assembling some sort of containment wall made of a material they call "Dustproofium". The lead goblin introduces himself as Blast and sells a brick of Dustproofium to Ardin, despite having no idea how to work the material into any form other than a brick. Fran asks Blast if he can provide any help with the party's transportation issues, and Blast invites them back to his lab.
+
+On the way, an ancient red dragon, a cloud giant, 5 heavily armed kobolds, and 3 liches suddenly appear in the middle of the street. Ibal and Darquin spot a kenku who has just tripped and spilled out a deck of cards all over the ground. They deduce that the sudden appearance of these hostile monsters is due to a spilled Deck of Illusions and advise the rest of the party to ignore the creatures. The party heads for Blast's lab.
+
+At the lab, the party sees all manner of crazy experiments going on. There's a haphazard potion laboratory, a group of goblins assembling a flesh golem, and other experiments. Dominating the space is a flying boat contraption being assembled by all manner of magical other creatures. The flying machine is nearly complete, but Blast needs special material to construct the boiler. Fires burn hotter in Thanatos, and none of the material readily available in the Valley will withstand it. One of Blast's employees heard a rumor that the right material can be salvaged from one of the ships marooned in the Frozen Sea up north. The party was headed in that general direction anyway, so they agreed to see what they could find.
+
+While waiting for King Sweep, the party checked out the laboratory, and was treated to a demonstration of various potions. They picked up a few, and then King Sweep arrived. Ibal and most of the rest of the party observed the proper etiquette when interacting with royalty (or someone who thinks himself to be royalty). Fran, on the other hand, attempted to steal some of the jeweled rings on Sweep's hand. Failing that, Fran settled for simply crushing his hand. King Sweep was ready to order Fran arrested or beheaded when Gail cast Calm Emotions and Ibal used the opportunity to convince Sweep to stand down.
+
+The party is ready for their audience with Our Lord and Savior, King Sweep.
+
 ## 2023-11-09
 Previously, on Rocks and Zombies
 
