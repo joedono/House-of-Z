@@ -1,5 +1,20 @@
 # Previously
 
+## 2023-12-07
+Previously, on Exit Signs
+
+The party begins their audience with Sweep. They learn several things. The most interesting being that one of the rulers from the valley currently engaged in the most active fighting is named Queen Eloreth. The party remembers that Eloreth was the name of the magical family back in Loftran who disappeared mysteriously and left their manor behind. Queen Amafrey of Loftran bequeethed the manor to the party as a reward for stopping the Zehir Yuan-Ti Conversion Ritual that was threatening to consume the city. King Sweep identifies Queen Eloreth as one of the "living rulers" in the valley. The party makes a note to make contact with Queen Eloreth and learn how she got here and what she's doing now.
+
+The party learns that there are two main doors that lead out of the Sweep Citadel. The Stone Door, which people are allowed through, exits the valley on the north side of the Burning Wastes and could provide an easy way to get to the road to the City of Liches. The Steel Door, which, according to one of the two sacred laws set down by Our Lord and Savior, King Sweep, is never to be opened and no one is allowed through it. According to Sweep, and confirmed by Verna's scouting, the Steel Door leads to the main area of the Valley of the Crypt Things, and to where the actual fighting takes place.
+
+The party finally learns that King Sweep is the father of Neep and Greep, the two goblins the party met in the City of Illusions. Greep being the actual main cause of the illusions themselves. Sweep asked VERY fondly after his son, Neep, but was overcome with fury and disappointment when asked about Greep. Apparently, there's some serious family drama there. Upon learning that Neep is still alive, King Sweep ordered Blast to re-prioritize his "secret project" before leaving. Blast confided in the party that, despite his research, he has no idea whether this "secret project" is going to work. The party deduces that this project is probably a way to return to the Material Plane.
+
+Fran has Verna scout ahead through the Steel Door. On the other side, she sees a vast ruined necropolis. She witnesses two squadrons of skeletons in different colored uniforms destroy each other before a big gorilla-like demon arrives to collect their weapons and skulls. Verna follows the demon, which finds another pile of destroyed skeletons and gathers up their skulls, before strolling towards a more put-together building that has active skeleton guards, and the Ghost of Anguisa perched on top.
+
+The party debates which door to go through, before eventually voting to take their chances with the Steel Door. In front of the cave leading to the Steel Door are 30-40 wooden signs that say things like "Do Not Enter", "Keep Out", and "Stay Away" in a variety of languages. There are no guards. As the party approaches the cave, the signs turn to face them, following them with their "faces". As the party gets closer to the cave entrance, the signs start whispering "keep out", "stay away", and similar. The signs get louder as the party gets closer to the cave. Valmar investigates one and sees a magical glyph carved into it. He figures out how to disarm it and he, Jasper, and Ardin set about disarming the signs. The problem is that there are 10-12 signs closer to the cave entrance, and they'll shout loud enough to attract attention if anyone gets close enough to disarm them. Ardin takes a minute and casts Silence, which stops the alarming signs from attracting attention, allowing the party to enter the cave. After a brief walk, the party finds the Steel Door, which is barred with a heavy steel beam, and warded with two Glyphs of Warding set to Explode. The party deals with these and opens the door, to see the ruined necropolis that Verna described.
+
+A lone skeleton wanders between two buildings and the wind whistles through the ruins.
+
 ## 2023-11-30
 Previously, on Bedknobs and Explosions
 

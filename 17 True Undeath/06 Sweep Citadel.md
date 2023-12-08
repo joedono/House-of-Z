@@ -62,3 +62,7 @@ The party has a couple threads to followup on.
 2. Talk to Queen Eloreth and find her someone who knows Planeshift. Jasper and Valmar can learn this after one more level up.
 3. Participate in the fighting with the goal of terminating Anguisa, or at least removing her support from King Ashfall and denying her an ally
 4. Journey to the City of Liches to speak to King Ensar
+
+Trying to go to talk to Queen Eloreth will prompt Sweep and his advisor to talk about the Steel Door, the door that the goblin scientists put up to separate Sweep Citadel from the rest of the Valley. Sweep will panic at the thought of opening the Steel Door and forbid it.
+
+Trying to leave and head north to the City of Liches will prompt Sweep and his advisor to talk about the Stone Door, the door that leads out of the Valley and into the rest of Thanatos. Sweep will be all too happy to be rid of his "guests", practically ordering his guards to force the party to leave immediately.
