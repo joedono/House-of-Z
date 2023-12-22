@@ -11,6 +11,5 @@ Barlgura Green 10
 Barlgura Red 10
 Valmar 8
 Barlgura Purple 7
-Skeleton Red 6
 Giant Skeleton Blue 4
 Skeleton Orange 4

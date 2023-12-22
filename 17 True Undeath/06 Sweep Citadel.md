@@ -66,19 +66,3 @@ The party has a couple threads to followup on.
 Trying to go to talk to Queen Eloreth will prompt Sweep and his advisor to talk about the Steel Door, the door that the goblin scientists put up to separate Sweep Citadel from the rest of the Valley. Sweep will panic at the thought of opening the Steel Door and forbid it.
 
 Trying to leave and head north to the City of Liches will prompt Sweep and his advisor to talk about the Stone Door, the door that leads out of the Valley and into the rest of Thanatos. Sweep will be all too happy to be rid of his "guests", practically ordering his guards to force the party to leave immediately.
-
-## Warzone
-The party has gone through the Steel Door, and now finds themselves in a vast necropolis. To the East is King Ashfall's stronghold, which is heavily guarded by skeletons, demons, and Anguisa. To the West is Queen Eloreth's stronghold and King Howlfish's sorry excuse for a stronghold. His territory was mostly taken over by Ashfall during the last skirmish. Queen Eloreth is mustering her forces in a desperate attempt to reclaim just enough of Howlfish's territory back to keep herself out of harm, but not so much that she risks Howlfish turning his remaining forces against her. She's the only one with any sense of tactics and understands the moods and tendencies of the other monarchs of the Valley.
-
-Ashfall is purple
-Eloreth is yellow
-Howlfish is orange
-
-The party will VERY likely run into at least a few patrols:
-* https://www.dndbeyond.com/monsters/16902-glabrezu
-* https://www.dndbeyond.com/monsters/17110-barlgura
-* https://www.dndbeyond.com/monsters/17015-skeleton
-* https://www.dndbeyond.com/monsters/1123084-frost-giant-skeleton
-
-There is every chance that they'll run into Anguisa herself.
-* https://www.dndbeyond.com/monsters/2059741-ghost-dragon
