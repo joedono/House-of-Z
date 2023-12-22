@@ -1,15 +1,16 @@
-Ibal 21
-Gail 21
-Fran 18
-Jasper 15
-Ardin 14
-Valmar 13
-Ghoul Pink 10
-Darquin 9
-Ghoul Blue 5
-
-Ghoul
-AC 16
-
-Earth Elemental
-AC 24
+Ibal 23
+Fran 21
+Jasper 20
+Glabrezu 19
+Giant Skeleton Red 19
+Gail 17
+Darquin 14
+Giant Skeleton Green 14
+Ardin 12
+Barlgura Green 10
+Barlgura Red 10
+Valmar 8
+Barlgura Purple 7
+Skeleton Red 6
+Giant Skeleton Blue 4
+Skeleton Orange 4
