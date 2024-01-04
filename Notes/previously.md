@@ -1,5 +1,18 @@
 # Previously
 
+## 2023-12-21
+Previously, on Don't Be Suspicious
+
+The party ventures into the Valley of the Crypt Things, the ruined city nestled in the valley on the western edge of Thanatos.
+
+They find a skirmish of skeletons, along with a barlgura demon waiting in the wings for the skirmish to die down. After the fight, the barlgura collects the chittering skulls and broken weapons. The barlgura discovers the party, but is swiftly taken down.
+
+The party takes a bit of time to riffle through the corpses and deduces that this was a clash between Eloreth and Ashfall forces. One skull bites Darquin's finger.
+
+In the time it takes the party to investigate, a MUCH larger contingent of Eloreth and Ashfall forces meet in the same area and start fighting. The party is eventually drawn into the fight between skeletons, barlgura, and one much larger demon. Gail traps the larger demon in a Forcecage spell as the rest of the party mops up the dregs with plenty of crowd control and giant spells.
+
+As the battle draws to a close, the demon trapped in the cage might have some choice words or actions for the party once it's let loose.
+
 ## 2023-12-07
 Previously, on Exit Signs
 
