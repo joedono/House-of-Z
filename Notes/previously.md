@@ -1,5 +1,24 @@
 # Previously
 
+## 2023-01-14
+Previously, on Actually Avoiding Deadly Doors For Once
+
+The party mops up the remaining skeletons, giant skeletons, and barlguras. Gail's Forcecage spell has another hour before it runs out, so he offers to dispel it once the party is ready if they'd like to interrogate the demon inside. The party decides to use the time to beat feet and make their way west.
+
+As the party travels, they discover the ruins of an ancient castle. Suspiciously, the area around the castle is completely devoid of bones. In other areas of the Valley, you couldn't walk 10 feet before tripping over a bone, but this area is completely devoid of them. Ibal snuck into the castle area to scout and discovered massive clawed footprints, scorch marks on the stone, and a dark doorway hidden behind a pile of rubble. Not wanting to chance an encounter with whatever could keep it's territory so devoid of signs of invasion, the party took a longer route and continued west.
+
+The party then ran into a literal wall. The wall looked poorly built and far newer than any of the surrounding ruins. It was made out of loose stone, bits of metal bands, and bones. Climbing up it looked like a hazardous experience, and being at the top would expose one to the dragon potentially patrolling around. The party turned south, where Darquin had spied a potential opening.
+
+The opening turned out to be a 15ft tunnel through a wider section of the wall. There was a closed gate at the far end of the tunnel, an open gate at the near opening, and a lever in the middle of the tunnel. The party took the safer route and used Mage Hand to pull the lever. The near gate crashed shut and the sound of stone crashing against metal rang out for 15-20 seconds. The party quickly moved into a building to hide as two dozen naked skeletons swarmed the gate, reaching through the holes in the gate towards the now enclosed interior. The same thing appeared to be happening on the far side of the tunnel, beyond the other, still-closed, gate. Looks like the party avoided becoming trapped. After a few minutes, the skeletons lost interest and began wandering away. The party decided to move farther south in case something more dangerous came to investigate the alarm. Along the way, the group avoided a tripwire trap.
+
+They eventually found a building that still stood tall enough to see over the wall. They climbed up and managed to spot a more intact building to the north-west that had yellow banners on it, marking it as Queen Eloreth's main base. Gail also spied a creature in a red cloak flitting around the buildings on the other side of the wall. Through various means, the party jumped on top of the wall and scaled down the other side.
+
+Making their way towards the Eloreth building, the party found a street where many naked skeletons had been chained and were hanging off of the walls on either side of the street. Assuming it to be another trap or alarm system, the party took a longer route... and ran into the red-clad creature. It turned out to be a horribly malnourished, but still very much alive, dwarf. Gail recognized the dwarf as Benni Bloodhammer, a former fellow adventurer. Benni took off at a run and hid inside what used to be a smithy/forge. Using some goodberries provided by Jasper and a bit of light provided by Ardin, Gail managed to gain Benni's trust. It was clear Benni's time in the Abyss had broken his mind, as he behaved like a wild animal. He was not totally without use though, as he hid the party in the forge basement when another marching squadron passed by outside. This squad included normal skeletons, several more giant skeletons, and two of the lobster-clawed demons.
+
+After the raiding party had passed, the party walked the rest of the way to the Eloreth HQ. They found two of the lobster-clawed demons (Glabrezu) guarding the outside. Since Gail was the only one in the group who spoke Abyssal, he was put forth to greet them. After some hostile discussion, Gale cast Fireball at the building across the street. The glabrezu dropped their hostility and escorted Gail and the rest of the party inside to see Queen Eloreth. Gail explained that the glabrezu had, among other things, been ordered to bring any still living strong magic users straight to the Queen. Gail thought it would be the quickest way in, even though it tapped him out of spells for now.
+
+The party is on their way to meet Queen Eloreth. At long last, a still-living member of House Eloreth who might be able to tell them what happened to the former owners of their manor.
+
 ## 2023-12-21
 Previously, on Don't Be Suspicious
 

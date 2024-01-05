@@ -94,6 +94,7 @@ If the party is captured alive, they'll be thrown into a dungeon to await the re
 
 Queen Eloreth has added a third order to the purpose of her consorts: bring her any living magic users. Therefore, if any of the party demonstrates substantial magical ability, all fighting will cease and the party will be brought before the queen.
 
+## Meeting the Queen
 Eloreth will make a show out of bringing the party in for a private audience. She'll have trouble getting her undead retinue to leave her alone with her guests, but she'll manage it. Once alone, Eloreth will ask who in the party knows magic, and then break down and beg them to send her home. Since none of the party knows Planeshift, they can't really help her yet. Valmar will be able to learn it with one level up, which the party can get either after participating in the Battle for the Valley.
 
 Since they can't help her leave, the party will have a choice. Queen Eloreth doesn't believe she will last the night without help. Her forces are being decimated by Anguisa and she's losing numbers left and right. She doesn't particularly care about the fighting, but she can't leave on her own without being potentially caught and slaughtered. The party could potentially be her escort out of the valley, but that would leave Anguisa with an unopposed ally in King Ashfall. She'd accomplish her goal and leave to go to the City of Liches to get information out of King Ensar.
