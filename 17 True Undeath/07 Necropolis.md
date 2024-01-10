@@ -106,3 +106,7 @@ The obvious course of action would be for the party to take out Anguisa here and
 The monarch doesn't need to be present to enact the ritual, they're just the only ones who know how to set up the site.
 
 Of course, the ritual site will be in Ashfall HQ and heavily guarded, which means DUNGEON CRAWL!!
+
+Eloreth will educate the party on the disused sewer system that runs under the Valley, giving the players the choice between an overland route or an underground route. The overland route is constantly patrolled by both Eloreth and Ashfall forces. While Eloreth can provide the party with colored banners to ensure that they aren't attacked by her own forces, flying any colors will mean Ashfall's soldiers will attack them on sight. Not to mention Anguisa patrols the overland route every so often. The underground route doesn't have any soldiers from either side, but it is home to subterranean demons, occasionally butts up against the Endless Maze plane of the Abyss, and all routes through the sewer eventually pass through the territory of something so big and bad that even the skeletal soldiers instinctually avoid it. That big bad is the Balor that lives under the Ancient Castle.
+
+The party must choose their route carefully.
