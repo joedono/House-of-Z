@@ -11,7 +11,13 @@ Eloreth will educate the party on the disused sewer system that runs under the V
 ### Overland Route
 The overland route is constantly patrolled by both Eloreth and Ashfall forces. While Eloreth can provide the party with colored banners to ensure that they aren't attacked by her own forces, flying any colors will mean Ashfall's soldiers will attack them on sight. Not to mention Anguisa patrols the overland route every so often.
 
-TODO
+#### Events
+The events the party may run into while hiking through the Valley to get to Ashfall's Base
+
+##### Friendly Skeletal Patrol
+##### Unfriendly Skeletal Patrol
+##### Anguisa Patrol
+##### Ruined Howlfish Patrol
 
 ### Sewer Route
 The underground route doesn't have any soldiers from either side, but it is home to subterranean demons, occasionally butts up against the Endless Maze plane of the Abyss, and all routes through the sewer eventually pass through the territory of something so big and bad that even the skeletal soldiers instinctually avoid it. That big bad is the Balor that lives under the Ancient Castle.
@@ -20,7 +26,28 @@ https://www.reddit.com/r/dndmaps/comments/14qbo06/sewer_complex_100x100/
 https://www.reddit.com/r/dndmaps/comments/ta7o57/huge_sewer_system_with_settlement_100x100_free/
 https://www.reddit.com/r/dndmaps/comments/y74396/for_the_next_trip_under_the_city_a_large_sewer/
 
-TODO
+#### Events
+The events the party may run into while navigating the sewers under the Valley
+
+##### Balor and Minions
+The sewer route has many paths that intersect with direct lines to the Ancient Castle, where the Balor lives. The party may run into the Balor with its minions as it's out patrolling its territory
+
+https://www.dndbeyond.com/monsters/16797-balor
+
+Minions
+* https://www.dndbeyond.com/monsters/2560749-canoloth
+* https://www.dndbeyond.com/monsters/2560906-rutterkin
+
+##### Soul Wind
+The myriad skeletons and undead that used to populate the Valley still have a slight attachment to the land. The ghosts of these creatures manifest beneath the necropolis in the form of a deadly wind that sweeps through the sewers and catacombs beneath. The wind blows in straight lines as best it can, so ducking into a corridor or hiding behind debris or a shield will prevent the effects.
+
+A creature exposed to the Soul Wind must make a DC 17 CON save. On a failure, they take 4d6 necrotic damage and gain 1 level of exhaustion. On a success, they take half the damage and gain no exhaustion.
+
+##### Pit
+The floor of the tunnel has collapsed into a seemingly bottomless pit. The pit actually leads to another layer of the Abyss, one that is immediately deadly to sentient creatures.
+
+##### Oozes
+#####
 
 ## Ashfall Base
 TODO
