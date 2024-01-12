@@ -10,8 +10,6 @@ The city bears some resemblance to Irithyll of the Boreal Valley from Dark Souls
 ## The Journey
 The party will run into a small tribe of demons in a village. It'll be a real "Children of the Corn" situation, where all of the inhabitants are insane and play by their own rules.
 
-TODO
-
 ## City of Reflection
 The city itself is silent, cold, and dead. It's layout resembles Loftran but is solely populated with liches and their servants. The city actually functions, unlike most of the other cities on Thanatos. The liches trade with each other and play political games with each other. The city has it's own high-brow brand of lawlessness, since King Ensar is in a vegetative state. It resembles a city run by mob-bosses or crime families. Every creature here is skeletal.
 
