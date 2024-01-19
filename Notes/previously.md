@@ -1,6 +1,17 @@
 # Previously
 
-## 2023-01-11
+## 2024-01-18
+Previously, on Fighter Gonna Fight
+
+The party makes rather quick work of the Phase Spiders and continues to explore the sewers. They encounter several dead ends before sending Jasper up a manhole as a fly to get their bearings. Jasper determines that the group is a couple short blocks south of the Ashfall Base before he gets attacked by an imp looking for dinner. Jasper dodges the imp's attack and flies back into the sewer. The group has a short conversation with Chazit the Imp, who promises to be their "friend for life" if they let him go. After determining that Chazit is no threat to them dead or alive, they let him go. He promptly turns invisible and flies out of the sewer.
+
+The party explores further and finds a hole in the sewer that leads to a cave. A short scouting by Fran reveals a line of naked skeletons marching through the tunnel in a single direction. The party determines that the line is coming from the ritual site they're looking for. But first they have to deal with a room filled with poisonous muchroom sports. A little pyrotechnic teamwork from Fran and Valmar produces a channel of safe air for the party to go through, but also attracts the attention of the three barlgura who are working the ritual circle. A fight ensues.
+
+During the fight, the barlgura start losing when one casts Entangle and tells the other one to "supercharge" the next skeleton. The other one jams a Javelin of Lightning into the lattice and the skeleton animates with crackling electricy. Ardin convinces the Entangle plants to stand down and the party takes out the two barlgura. The lightning skeleton erupts once and attempts to march in line with the other skeletons before being put down itself.
+
+Fran takes possession of the 4 remaining Javelins of Lightning. The group breaks apart and pockets the pieces of the lattice, just as an alarm sounds upstairs. Better hope that they're responding to Eloreth's attack...
+
+## 2024-01-11
 Previously, on Eloreth Phone Home
 
 The party is escorted into the Eloreth Base in the Valley of the Crypt Things. The base is cobbled together out of spare materials, but manages to pull off the feeling of a regal palace. There is the end of a skeleton soldier assembly line visible against one wall, where skeletons are in a line coming out of a door that leads downstairs and being outfitted with worn-down armor and weapons before being sent out into more skirmishes. The far wall of the large room has Queen Eloreth, dressed in demonic regalia, and sitting on a patchwork throne. She converses with Gail and the party's Glabrezu escorts in Abyssal before turning to the group and demanding which of them knows strong magic. Jasper, Valmar, and Ardin raise their hands. Darquin raises his hand hesitantly. After some prompting from Gail and an Insight check from Ibal, both Fran and Ibal raise confused hands as well. Eloreth seems satisfied by this and orders the party's escorts to stand down. She will meet with the party in private.
@@ -17,7 +28,7 @@ Eloreth gives the party some more information. The City of Liches is ruled by Ki
 
 The party start their journey through the sewers, encountering strange water and a teleporting spider.
 
-## 2023-01-14
+## 2024-01-14
 Previously, on Actually Avoiding Deadly Doors For Once
 
 The party mops up the remaining skeletons, giant skeletons, and barlguras. Gail's Forcecage spell has another hour before it runs out, so he offers to dispel it once the party is ready if they'd like to interrogate the demon inside. The party decides to use the time to beat feet and make their way west.
