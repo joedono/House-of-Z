@@ -1,7 +1,7 @@
-Fran 23
-Ibal 21
-Lightning Skeleton 16
-Jasper 15
-Darquin 13
-Valmar 9
-Ardin 7
+Valmar 21
+Jasper 18
+Spiders
+Fran 18
+Darquin 18
+Ibal 13
+Ardin 13

@@ -1,5 +1,18 @@
 # Previously
 
+## 2024-02-01
+Previously, on Must go Faster
+
+The alarm coming from above may have been due to the well-timed attack by Queen Eloreth's forces, but that didn't stop King Ashfall from sending a couple Armanite demons into the basement to make sure everything was alright down there. After some quick thinking, the party retreated out the hole they used to enter and blocked it up with the *appearance* of a few piles of rock, courtesy of Fran and Jasper's Minor Illusion spells. Just before leaving, Ardin saw fit to drop a card from his Deck of Illusions as another distraction, and wound up drawing a Cloud Giant. That kept the Armanites busy for a while.
+
+The party retreated back the way they had come, intending to follow the sewer all the way back to the Eloreth base, when they heard Abyssal roaring from further down the sewers. The creature was bellowing things like "who disturbs my home!?" and "I'll flay the skin from your bones" and "Go! Find the intruders". Ibal scouted ahead a little while the rest of the party retreated to a pipe they hoped would lead to the surface. Ibal managed to catch a glimpse of the creature before scurrying away. It was a Balor, a VERY powerful fiend and likely the secret ruler under the Ancient Castle, the reason why that area was untouched by any of the Valley's "normal" forces.
+
+With alternating cold and hot, and good old fashioned brute force, the party attempted to break their way through the bars over the pipe entrance. They managed to make an opening wide enough for all but Ardin when the Balor's henchmen found them. A small squadron of Canoloths and Rutterkins. A bloody battle ensued. The Armanites eventually found their way past the party's illusions and started investigating the sewers. The Balor was closing in. One of the Canoloths retreated, seeking help from its master, and ran into the Armanites. This bought the party precious time to climb up the inside of the pipe and attempt to remove the stone cover at the top.
+
+The Balor rounded the corner just as Ardin wild shaped into a sewer rat and entered the pipe. Distracted by Jaspers Giant Spiders, the Balor missed the party scaling the inside of the pipe. The party emerged onto the surface and relative safety as the Balor destroyed the spiders and moved on to the Armanites. With the sounds of a fight marking the obvious direction of King Ashfall's base, the party was able to sneak their way all the way back to the Eloreth base with little trouble.
+
+Eloreth will be ecstatic to hear of the quest's success.
+
 ## 2024-01-18
 Previously, on Fighter Gonna Fight
 
