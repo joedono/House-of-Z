@@ -142,3 +142,16 @@ Empty broken cages. Nothing else of note here.
 Damaging the lattice will, of course, set off an alarm. Barlgura and Armanite will start descending into the basement and try to cut the players off. The skeletons will do nothing. The party will (hopefully) attempt to escape through the sewers again. All they really have to do is escape past the Balor. The alarm will draw its anger as well and it will investigate with its minions. Once the other demons hear its roar, they'll back off and the players will be able to escape.
 
 If the party winds up in a fight with the Balor, it will demand in Abyssal, who woke it up. The party can make a DC 15 Deception check to convince it that the demons chasing them did it.
+
+## Return and Reward
+The party successfully dismantled Ashfall's ritual site without alerting Anguisa. Ashfall has been set on the long road to the bottom. Eloreth's forces will continue to bolster themselves using her ritual site. Eloreth won't be able to leave her base openly, but that won't stop the party from sending her back to the Material Plane from her basement.
+
+There's only one problem though. If the party goes into Eloreth's private chambers, then exits without her, they might be interrogated. The demons are rather dumb, but could quickly discover the ruse. Eloreth will bring this up as a concern, but not really have any idea how to solve it.
+
+If the party doesn't have a plan, Gail will volunteer himself. He knows the Mask of Many Faces and is confident he can pull off a convincing Eloreth for long enough to figure out an escape.
+
+With the main errand done, Eloreth will make a show of dismissing her "hired mercenaries" and explain to the party how to get out of the Valley and go North.
+
+She'll also mention King Howlfish's base to the party. Being situated in the northern section of the Valley, Howlfish would sponsor expeditions out into Thanatos. His forces weren't worth much in terms of strength or intelligence, but apparently one among his army was a native to a sand-swept land at one time and remembered how to make sand skiffs. If the party searches around the northern Valley, they might be able to find one they can use to get across the open land to the north of the valley and travel quickly to the City of Liches.
+
+If the party decides to take this chance, they'll run into a Ruined Howlfish Patrol.
