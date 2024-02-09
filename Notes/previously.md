@@ -1,5 +1,18 @@
 # Previously
 
+## 2024-02-08
+Previously, on The Fast and the Thanatos
+
+The party arrived back at the Eloreth Base, and started planning for how to send Queen Eloreth home. The big problem they would have if they were the last ones out of Eloreth's army to see her is that her guard would immediately suspect the party of foul play and start hunting them. The party agreed that they have enough to worry about. After tossing around a couple plans, Gail volunteered to disguise himself and take Eloreth's place for long enough for the party to finish their quest in Thanatos, on the condition that the party send Benni back with Eloreth. Gail was confident that he could take care of himself and slip away when the time was right, but he couldn't do that while looking after the insane Benni. The party agreed and Ardin cast Banishment on Eloreth and Benni, sending them back to the Material Plane... somewhere. Gail stepped into his role as the new ruler.
+
+Before she left, Queen Eloreth brought the party something her scouts had found, a mostly ruined land-skiff. With a little bit of scavanging, Darquin and Fran managed to assemble enough pieces into a working skiff. The party squeezed onto the skiff, and Ardin set his Decanter of Endless Water to "geyser" for propulsion. The nature of Thanatos, plus Ardin speaking the command word in Infernal, lent boiling heat to the water and increased its power. After an initial mishap of Valmar falling off the skiff, the party set out, working together to keep the skiff from running into any obstacles.
+
+On the way out, the party ran across a directionless squadron of Howlfish soldiers. Eloreth employed giant skeletons and Glabrezus. Ashfall employed humanoid skeletons, Barlguras, and Armanites. Howlfish, as it turns out, employed skeletal beasts like owlbears, minotaurs, and dinosaurs. After a short battle with a skeletal snake that hitched a ride on the skiff, and some expert maneuvering, the party managed to escape the squadron and exit the Valley of the Crypt Things.
+
+The party set out for the City of Liches, crossing a small branch of the Sea of Blood and the River Styx along the way. The party saw Anguisa fly out of the Valley of the Crypt Things and vanish behind The Final Hills a couple hundred miles away from them, thankfully. They should be left alone for a little while.
+
+The party passes around a mountain in The Frozen Waste and spots the Plains of Hunger, a vast bonemeal desert with a giant crowd of undead. Unlike the undead in the City of Zombies, these seem feral and hostile. The party manages to skirt around them to arrive at the City of Liches. Backlit by softly falling snow, the city is a wonder. It is actually well put-together, especially considering the City of Zombies and the Valley of the Crypt Things were pictures of disrepair. The party has been warned not to say "yes" to too many things while here.
+
 ## 2024-02-01
 Previously, on Must go Faster
 
