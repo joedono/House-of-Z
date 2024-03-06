@@ -1,5 +1,18 @@
 # Previously
 
+## 2024-02-15
+Previously, on City of Reflection
+
+The party approaches the gate of the City of Liches. Calling it a "gate" might be an overstatement. It's just a bridge over uneven ground. They spot a sign with the word "Loftran" on it, scratched over. Scratched into it is "City of Liches" and perched on top is a skeletal parrot who bids them welcome and demands they state their business. Apparently, the bird has seen better days, as all it does is repeat the same phrase over and over again. The party passes it by and enters the city.
+
+The city itself is bustling and strangely normal. Everything is blue-tinged and covered in a light coating of snow. There are well-dressed skeletons roaming everywhere, apparently engaging in normal activities for city life. There's a pair sitting at a stone table in what seems to be a park, playing some sort of card game. There are a few shops, most of which appear to be dark reflections of shops the party is familiar with from Loftran, such as Krikaw GNC. The party makes note to come back and check out some of these places after trying to meet with King Ensar. On the way, they are accosted by a skeleton handing out leaflets advertising some sort of underworld zoo that just opened up. They also spot a group of liches apparently praying to an idol of a serpant encircling a cloud.
+
+The party learns that the currency of the city is Soul Coins, which can be purchased from the Cold Coins exchange at a rate of 1 coin per 10gp.
+
+The party approaches the ancient castle. Unlike the rest of the city, the castle is bereft of signs of unlife. A thick layer of snow blankets the bridge leading inside and there are no footprints the party can see. The party cautiously enters the castle, hearing no signs of activity. They spot a 12-foot tall figure slumped in the throne, wearing royal clothing, but not moving. As they approach, a pile of snow moves and a small adorable ice golem charges out, demanding to know who the party is. She is extremely excited to have something to do and presents the party to the king, who doesn't react. The golem introduces herself as Shard, and claims she was King Ensar's familiar in life and companion in death. She laments on how King Ensar's soul has slipped away. The party realizes that "essence" is a close approximation of "soul" and produces the vial of Giants Blood that had been extracted from King Samuel. King Ensar immediately reacts to the vial. The party gives it to him, and he drinks in the contents. King Ensar immediately lets out a loud bellow and demands that Shard tell him where his wife is. King Ensar proves to be a somewhat jovial fellow who is glad to hear that his city has endured and that his descendents still rule.
+
+The king hears the story of the party's adventure, and tells them about Fool's Errand, a shop where they can buy ice skiffs to allow them to travel across the Frozen Wastes. Ensar reveals that the Frozen Wastes are dotted with gelatinous cubes that live just below the ice, making deadly pit traps with their bodies. He directs them to seek out The Shadow, presumably a deadly ship that ended up here that was captained by a friend of Ensar.
+
 ## 2024-02-08
 Previously, on The Fast and the Thanatos
 
