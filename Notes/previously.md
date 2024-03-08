@@ -1,5 +1,26 @@
 # Previously
 
+## 2024-03-07
+Previously, on CELEBRATION!!
+
+King Ensar appoints Shard to be the party's guide around the city. The party locates the Fool's Errand rather quickly. They spot the looming bulk of The Shadow out across the Frozen Waste and estimate that it will be a day and a half journey by sled to get there, assuming they can make the same speed they did while escaping the Valley of the Crypt Things. They price out renting 2 sleds for the journey and realize they need to find that bank to exchange their gold for soul coins.
+
+On the way, they visit The Third Finger, a teahouse with a few good varieties of tea. But again, no money.
+
+The party finds Cold Coins, a small stall in the middle of the road for exchanging gold for soul coins. Everyone exchanges a bit of capital for souls except for Fran. The clerk is a little TOO into gold coins as he counts them one by one while tossing them down a pipe to some underground hoard.
+
+As the party turns to leave, they witness the beginning of a duel for honor. The owner of the Embers and Ashes magic shop, a lich named Vectimarus, was accused of selling faulty product to another lich named Rashaan. A third skeleton is serving as MC with his Thaumatergy-enhanced voice. As Vectimarus and Rashaan count off their steps to being the duel, Vectimarus turns early and sucker-punches Rashaan... with a fully powered Lightning Bolt spell. Fran isn't having any of this dishonorable conduct and volunteers to be Rashaan's second. Rashaan appreciates the gesture, but insists on continuing the fight himself at first. The duel progresses with Vectimarus continuously gaining the upper hand. As a finishing blow, Vectimarus casts a Flame Strike on Rashaan. At the last moment, Fran steps in and shields Rashaan from the fatal attack. Rashaan invokes the right of second and Fran takes his place in the fight. He drinks a Potion of Growth and Darquin casts Haste on him. Now doing an average of 50 damage per turn, and with a quick Counterspell from Valmar to prevent Vectimarus' Disentegrate spell, it's a short fight that ends in Fran's victory.
+
+Rashaan is grateful for the help in restoring his honor. A group of liches from the crowd throw down their Embers and Ashes punch cards, wordlessly promising not to do business with Vectimarus ever again. Rashaan offers to buy the party drinks at the Eloreth Vineyard. The party is intrigues by the name and agrees.
+
+The Eloreth Vineyard is located in the same place as the Makaria Manor is in Loftran. The manor here is noble and resplendent. Next to it is a homely tavern that is lively with activity. Contrary to the high-brow community the party has experienced so far, the Eloreth Tavern is a very stereotypical tavern. Rashaan buys a round of drinks for the party. A pair of bards takes the stage to play some music and Fran makes Shard's evening by dancing with her. One of the bards is apparently semi-famous as Bonejingles. He puts down his hand drum and bangs out a song using his ribcage as a xylophone. There is much merry-making in the tavern today. Someone is celebrating something.
+
+During the revelry, Jasper spots a lich walking outside holding a chain that is attached to a collar around the neck of a familiar living person with blond hair, stark white skin, and two stumps sticking out of his back. Jasper recognizes Hairam, the celestial Deva who crashed into the party's Tiny Hut while they were on their way to Southspark and who took Anguisa's dragon egg from the party when they met again at the top of Mount Stratha.
+
+The lich is unwilling at first to part with her new "pet". She bought him for 1,500 souls, after all. She's willing to sell him for that much, for one body part from each party member, or for a "new experience." Thinking quickly, Darquin pulls out his brewer's supplies, orders a glass of Tempest's White wine from the Eloreth Tavern, combines it with some lemon flavoring and Jasper's Goodberries, and makes a reasonable facsimile of lemonade (in hell). The lich has never had an experience quite like lemonade, and parts with Hairam rather willingly. She leaves, and the party takes Hairam back into the Eloreth Tavern to hear his story.
+
+Hairam tells that he was taking the dragon egg back to his superiors on Mount Celestia. He stopped somewhere to camp for the night, and through some twist of fate, when he awoke, the bag of holding had fallen open and the egg was sitting there in the light of the sunrise. The egg immediately enthralled Hairam and he vowed to care for it. He put it back into the bag and continued home to his superiors. He was caught with the egg shortly thereafter. He was dishonorably discharged from the celestial army, his wings were cut, and he was banished. He landed on Thanatos. Dazed and horribly injured, he was captured by a demon, nursed back to something resembling health, and sold into slavery in the City of Liches.
+
 ## 2024-02-15
 Previously, on City of Reflection
 

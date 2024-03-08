@@ -18,19 +18,36 @@ The goal here is to eventually lead the party to the Frozen Waste, The Shadow, a
 
 ### Sights and Locations
 1. A functional central park with a pair of liches engaged in a game of chess. All of the greenery looks like its made of ice.
-2. The Third Finger - a busy teahouse. Owned by a skeletal elf named Almaith
-3. Thrashings & Threads - a dark reflection of Threads & Thrashings. A tailor. Owned by a skeletal half-orc named Ganeen
+2. The Third Finger - a busy teahouse. Owned by a skeletal half-orc named Ganeen
+3. Thrashings & Threads - a dark reflection of Threads & Thrashings. A tailor. Owned by a skeletal elf named Almaith
 4. Kikraw GNC - a dark reflection of Warwick GNC, sells snake oils and poisonous remedies. Owned by a skeletal human named Arther
 5. Draining Mines - mines located north-west of the city. They may once have been prosperous mines, but now the precious metals down there suck aether and life energy out of nearby creatures. No one goes down there anymore.
 6. Seat of War - has guardposts throughout the city, but all the guards are barely-lucid skeletons. There's very little law-enforcement in this city.
 7. Embers and Ashes - magic shop. Sells advanced potions and spell scrolls. Owned by a demi-lich named Bastion. Has an inept homunculous assistant named Spit.
-8. Fool's Errand - A traveler's shop. Rents skeletal horses and sells ice skiffs. The party will need these to traverse the Frozen Waste without worrying about the gelatinous cubes
+8. Fool's Errand - A traveler's shop. Rents skeletal horses and sells ice skiffs. The party will need these to traverse the Frozen Waste without worrying about the gelatinous cubes. Run by Krist, an elf skeleton. Rents skiffs for 5 souls / day.
 9. Cold Coins - a bank and exchange shop. Run by a smooth-talking lich named Zevlor. Will exchange gp for souls at a rate of 10gp / soul
 10. Ancient Castle - the seat of King Ensar's "power"
 11. House of Sunlight - A crater
 12. Eloreth Manor - A vineyard, owned by a lich family that keeps a fairy prisoner
 
 All the shops take payment in souls. All prices are appropriate at a rate of 10gp / soul.
+
+500 50 - Skiffs
+
+18 - Darquin
+10 - Ardin
+10 - Ibal
+5 - Jasper
+10 - Valmar
+
+1 Burning Love
+1 Flintlock's Delight
+3 Seasoned Moonrider
+
+Gut Wrecker
+Blackout Stout Darquin
+BlackLock Lager Fran
+Tempest's White Valmar
 
 ### Events
 Immediately upon entering the city, the party will be accosted by three "poor" liches offering paltry scraps and trinkets for everyone's souls. They're not so easily fooled as the Chasme in the Deadlands, but they're begging for scraps, not demanding payment. They can be shooed away like common beggers and won't bother the party too much.

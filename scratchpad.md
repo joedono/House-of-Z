@@ -5,4 +5,4 @@ Darquin 20
 Ardin 20
 Valmar 15
 
-40
+Vectimarus - 135 - 21 47 51 73 100
