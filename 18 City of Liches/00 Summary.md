@@ -23,7 +23,7 @@ The goal here is to eventually lead the party to the Frozen Waste, The Shadow, a
 4. Kikraw GNC - a dark reflection of Warwick GNC, sells snake oils and poisonous remedies. Owned by a skeletal human named Arther
 5. Draining Mines - mines located north-west of the city. They may once have been prosperous mines, but now the precious metals down there suck aether and life energy out of nearby creatures. No one goes down there anymore.
 6. Seat of War - has guardposts throughout the city, but all the guards are barely-lucid skeletons. There's very little law-enforcement in this city.
-7. Embers and Ashes - magic shop. Sells advanced potions and spell scrolls. Owned by a demi-lich named Bastion. Has an inept homunculous assistant named Spit.
+7. Embers and Ashes - magic shop. Sells advanced potions and spell scrolls. Owned by a lich named Vectimarus. Has an inept homunculous assistant named Spit.
 8. Fool's Errand - A traveler's shop. Rents skeletal horses and sells ice skiffs. The party will need these to traverse the Frozen Waste without worrying about the gelatinous cubes. Run by Krist, an elf skeleton. Rents skiffs for 5 souls / day.
 9. Cold Coins - a bank and exchange shop. Run by a smooth-talking lich named Zevlor. Will exchange gp for souls at a rate of 10gp / soul
 10. Ancient Castle - the seat of King Ensar's "power"
@@ -35,19 +35,38 @@ All the shops take payment in souls. All prices are appropriate at a rate of 10g
 500 50 - Skiffs
 
 18 - Darquin
-10 - Ardin
+9 - Ardin
 10 - Ibal
 5 - Jasper
 10 - Valmar
 
-1 Burning Love
-1 Flintlock's Delight
-3 Seasoned Moonrider
+Burning Love
+Flintlock's Delight
+Seasoned Moonrider
 
 Gut Wrecker
-Blackout Stout Darquin
-BlackLock Lager Fran
-Tempest's White Valmar
+Blackout Stout
+BlackLock Lager
+Tempest's White
+
+Skiff
+Ardin
+Jasper
+Fran
+Hairam
+
+Magic
+Ibal
+Shard
+Valmar
+Darquin
+
+* Oil of Sharpness - https://www.dndbeyond.com/magic-items/4688-oil-of-sharpness - 350gp
+* Potion of Superior Healing - https://www.dndbeyond.com/magic-items/4708-potion-of-healing - 350gp
+* Shield of the Silver Dragon - https://www.dndbeyond.com/magic-items/5554585-shield-of-the-silver-dragon - 6,500gp
+* Animated Shield - https://www.dndbeyond.com/magic-items/4571-animated-shield - 6,000gp
+* Spell Scroll of Phantom Steed - https://www.dndbeyond.com/spells/phantom-steed - 250gp
+* Spell Scroll of Illusory Script - https://www.dndbeyond.com/spells/illusory-script - 50gp
 
 ### Events
 Immediately upon entering the city, the party will be accosted by three "poor" liches offering paltry scraps and trinkets for everyone's souls. They're not so easily fooled as the Chasme in the Deadlands, but they're begging for scraps, not demanding payment. They can be shooed away like common beggers and won't bother the party too much.
@@ -66,3 +85,6 @@ A group of liches will be on their knees in prayer, breaking soul coins and rele
 
 ## Frozen Castle
 King Ensar "rules" from a frozen castle in the north-center of the city. He has no subjects. No one else visits him in the castle. Except for a tiny ice golem named Shard, who was Ensar's familiar in life and joined him in death. Shard has a sorrowful disposition. She longs for the king to "wake up" from his slumber, but she'll lament that she has no idea how to find his soul. If the party doesn't figure out that their vial of Giant's Blood would be useful as a substitute. Shard will also lament about the king's best friend, Zeethrae, and how she left him to go sailing. Hopefully, this leads the party to the Frozen Sea.
+
+https://www.dndbeyond.com/monsters/16840-deva
+https://www.dndbeyond.com/magic-items/4622-dragon-slayer-greatsword

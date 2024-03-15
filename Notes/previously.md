@@ -1,5 +1,19 @@
 # Previously
 
+## 2024-03-14
+Previously, on Gut Wrecker
+
+The party buys Hairam a drink to soothe his sorrows. He chokes down a Gut Wrecker and lets loose a belch so loud that it shakes the foundations of the Eloreth Tavern, much to the excitement and enjoyment of the other patrons. Hairam almost instantly gets super drunk. Fran gives Hairam his Dragonslayer Greatsword that he's not using. Hairam expresses a desire to get back to Mount Celestia. He's likely to be banished again, but that entails being thrown into a planar vortex and being dumped on a random plane of existance. Hairam figures he's just as likely to wind up in the Fey Wild as back in the Abyss, but he's game to take that chance to get out of hell.
+
+The party then splits up to go shopping, with half the group going to rent the skiffs and the other half taking the Frequent Flyer coupons to the Embers and Ashes magic shop. The party meets a couple of the shop's assistants, homunculi all named Spit, and purchases a collection of magic items:
+
+* Oil of Sharpness
+* Potion of Superior Healing
+* Shield of the Silver Dragon
+* Animated Shield
+* Spell Scroll of Phantom Steed
+* Spell Scroll of Illusory Script
+
 ## 2024-03-07
 Previously, on CELEBRATION!!
 
