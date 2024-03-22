@@ -1,6 +1,4 @@
-Ibal
-Jasper
-Fran
 Darquin
 Ardin
-Valmar
+Demilich
+Fran

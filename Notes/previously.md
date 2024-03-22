@@ -1,5 +1,16 @@
 # Previously
 
+## 2024-03-21
+Previously, on Killing the Unkillable
+
+Ardin, Fran, and Darquin decide on one last jaunt around the city before the party leaves on their sleds. They decided to check out the zoo/menagerie that the party was given an advertisement poster to when they entered the city.
+
+On their way there, they were offered "their greatest desire" by a demilich and its 3 minotaur skeleton minions. The demilich offered them a "night starry" potion in exchange for their souls. The party refused, of course. But the demilich wouldn't take no for an answer. After a close fight, in which Fran "died" rather abruptly, the party demolished the demilich and it's minions. They were unable to identify the "starry potion", but took it with them anyway.
+
+At the zoo, the party was treated to all manner of demons on display, most of which can be found in the House of Z discord chat channel. The highlights of the experience were a skeletal joust atop Nightmares, and a Daemogorth Titan on display in the big top. The titan offered the party power if they would set it free. They refused this offer as well and awkwardly backed out of the big top.
+
+Fran, Ardin, and Darquin rejoined the rest of the party at the Fool's Errand to prep for setting out across the Frozen Wastes.
+
 ## 2024-03-14
 Previously, on Gut Wrecker
 
