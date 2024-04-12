@@ -20,6 +20,8 @@ As the party clears the initial fog bank, they'll notice storm a considerable di
 
 Somewhere in the middle of the wastes, the party will be attacked by a squadron of ice mephits, water elementals, and water elemental myrmidons. If the combat drags on for too long, one of the ice mephits will fly high into the sky and detonate into a blue flare, attracting the attention of the Elder Tempest. The party will have a handful of hours before the gargantuan elemental is over them.
 
+The party find a Spear of Backbiting in one of the gelatinous cubes. https://www.dndbeyond.com/magic-items/9379-spear-of-backbiting
+
 ## The Shadow
 Zeethrae's vessel is mostly intact. She lives here with 6 other drow hunters, plotting on how to overthrow Orcus. They are VERY distrustful of outsiders, usually believing them to be Orcus' agents coming to foil their plans or capture them. In truth, Orcus couldn't care less. Zeethrae and her band aren't even any annoyance.
 

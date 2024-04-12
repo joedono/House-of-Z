@@ -1,5 +1,16 @@
 # Previously
 
+## 2024-04-11
+Previously, on It's Skiff'ing Time!!
+
+The party gives a farewell to Shard. She is forbidden from leaving the City of Liches, saying it might be "dangerous" for her. She bows to the party and heads back to the castle.
+
+The party mounts their skiffs, with Fran and Hairam taking the position of piloting, Jasper and Ardin taking up lookout, Ibal and Darquin taking up maintenance, and Valmar taking up "artillery". The group sets out onto the Frozen Wastes in search of the Shadow.
+
+Along the way, the group encounters various hazards, including gelatinous ice cubes, ice mephits, and frozen limbs sticking out of the ice. After blowing up a flock of ice mephits, the party attracts the attention of three water myrmidons who turn out to speak Grippli. Darquin convinces them that the party is friendly, and the myrmidons agree to show the party to the "drow ship". They also warn the party to be quiet, indicating the storm cloud that appears to be moving closer to them.
+
+Resuming their journey, the trailing skiff impacts a frozen corpse and breaks one of its pontoons. Ardin collects it and starts repairing it when a group of gelatinous cubes emerge to attack the party. The party dispatches them rather quickly. Hairam recovers a pristine looking spear from one of the cubes, unique in that all other equipment that was inside the cubes is rusted and pock-marked.
+
 ## 2024-03-21
 Previously, on Killing the Unkillable
 

@@ -1,4 +1,10 @@
-Darquin
-Ardin
-Demilich
-Fran
+Ibal 24
+Fran 20
+Jasper 19
+Darquin 19
+Ardin 15
+Hairam 13
+Valmar 6
+Cube 1
+Cube 2
+Cube 3
