@@ -1,5 +1,18 @@
 # Previously
 
+## 2024-04-25
+Previously, on Keeping the Fore-Skiff Straight and Narrow
+
+Ardin identifies the spear that Hairam found as a +2 Spear of Returning. Fran takes it and attunes to it while the group recovers from the cube attack.
+
+The group sets off again. The myrmidons split up and then come back to argue about which way to go. One wants to lead the group to the "dark ship" and the other wants to lead them to the "drow ship". The party decides on the "dark ship", which is in the direction of the storm. They reach it in short order and discover that it's a wooden ship. Definitely not what they're looking for. The group turn around and eventually run into a grouping of frozen moguls. Hairam flips the skiff over while steering around the moguls and winds up falling into a gelatinous cube. Fran ties a rope to himself and dives in to drag him out. The delay is long enough for the storm cloud to catch up with the group. At the center of the cloud is a massive elemental creature known as an Elder Tempest. The party scrambles onto their skiffs to flee.
+
+Fran recalls the quasi-religious ceremony the group witnessed in the City of Liches, where a group of liches were offering soul coins to an effigy that resembles the Tempest. He throws out his 5 remaining coins, which the Tempest vaporizes with lightning. The rest of the party tries various methods of distracting the Tempest or increasing the speed of their skiffs. The Tempest finally makes its wishes known by electrocuting the party through their soul coins. The rest of the party throw their coins into the air, except for Darquin. He throws his into a gelatinous cube Fran had avoided. The Tempest greedily vaporizes each set of coins with lightning. Once all the coines were gone, the Tempest sighed in satisfaction, which created a hurricane-force gale that blew the skiffs at quadruple speed in the direction they were going, overtaking the myrmidons.
+
+After another hour or two of travel, the party finally reaches the "drow ship," which has written in Elvish along its side, the word "Shadow." Satisfied with their work, the myrmidons leave the party.
+
+The Shadow had numerous ice spikes stabbing through it, and one jutting over the upper deck of the ship. Fran and Darquin use their magic boots to scout the upper deck. They spot two more gelatinous cubes that appear to be meandering harmlessly on the deck. Darquin examins the metal hull of the ship and determines that it used to be some elvish metal that has been warped by some alchemical or magical process, likely exposure to the frozen hellish environment. As Fran and Darquin formulate a plan of advance, Fran hears hushed voices speaking Undercommon from inside the ship. The voices say things like "did you hear that?", "intruders", "lock the doors", and "check the traps".
+
 ## 2024-04-11
 Previously, on It's Skiff'ing Time!!
 
