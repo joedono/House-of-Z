@@ -1,5 +1,20 @@
 # Previously
 
+## 2024-05-02
+Previously, on Chutes in the Dark
+
+The party investigates the Shadow. There are a couple gelatinous cubes wandering around the upper deck and one in the hold. The party cautiously moves around the ship, wary for traps. They spot two treasure chests in the hold and wisely decide to avoid them. Ibal unlocked one of the doors to the captain's quarters. The group, save Darquin, huddle in the room while Valmar attempts to use his Chime of Opening to open one of the treasure chests at a distance. Abruptly, the floor beneath the party opens and they slide down a chute that drops them outside the ship. Valmar, Jasper, and Ardin land in gelatinous cubes, but escape easily.
+
+Slightly frustrated, but no less cautious, the party makes their way back to the ship. Darquin investigates the room with the trap door, but is spotted by an elderly drow woman with a short sword. He attempts to show that he means her no harm, but she flees behind the door and locks it again. The rest of the party rejoin Darquin and eventually convince the drow woman to parlay with them.
+
+The woman introduces herself as Zeethrae, and her three-person crew as all that's left of her former pirate crew. LOTs of information is exchanged. Zeethrae and her crew are from the continent of Krisbane, who was one of the sisters of Draffnir. They react with some humor upon learning how little the party knows of the origins of the world. The party tell their story to Zeethrae, as she and her crew are starved for entertainment. In exchange, Zeethrae tells her story. She and her crew heard of lands beyond the oceans and resolved to explore them, and possibly catch a glimpse of the Dragon-Celestial War. They did spot a "small" skirmish, but soon after, were attacked by a kraken. They felled the beast, whose corpse created a maelstrom that sucked the Shadow down into it. The bottom of the maelstrom was a portal that landed the Shadow on Thanatos. Zeethrae and her remaining crew braved the Frozen Wastes and made it to the City of Liches, where they met Lord Ensar (not yet king).
+
+Zeethrae impressed Ensar, and became a member of his court. She was dissatisfied when he eventually became king, but didn't actually gain any more power. So she and Ensar hatched a plan to ursurp Orcus and rule Thanatos entirely. They snuck into Everlost and activated the Death Beacon, a giant emerald that lures drifting souls with its light to Thanatos, and also lures the undead and lower demons from Thanatos to Everlost. The flood of undead and demons was so overwhelming that Orcus himself came out to quell everything. While he was preoccupied, Ensar stole his wand. For a time, Ensar was the most powerful being in Thanatos, but the wand has a mind of its own. It wounded Ensar's soul, and his essence started leaking out of his body. His lucidity started to fade and Zeethrae was forced to flee with him back to the City of Liches. Soon, Ensar was a normal brain-dead skeleton. Not long after that, he was nothing but a corpse on a throne.
+
+As Zeethrae finishes her story, thunder and rain can be heard outside. The Elder Tempest has decided to visit the coast. The party is going no where tonight, but Zeethrae invites them to spend the night in the comfort of the ship. She mentions that the ship still has crates of magical weapons and armor, enough +1 and +2 gear to outfit an army.
+
+In the morning, Zeethrae and her crew agree to help the party dismantle the ship and go with them back to the City. Zeethrae gives the party a Spell Scroll of Tenser's Floating Disk. Keve and Imbros volunteer to help with their tools, and Geldar gives the party three Immovable Rods. Half the party sets to work outfitting the Folding Boat with parts from the ruined skiffs, creating what amounts to a super-skiff. The other half sets about dismantling the Shadow's hull.
+
 ## 2024-04-25
 Previously, on Keeping the Fore-Skiff Straight and Narrow
 
