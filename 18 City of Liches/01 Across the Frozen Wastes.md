@@ -69,3 +69,12 @@ Zeethrae will provide the party with a Spell Scroll of Tenser's Floating Disk if
 
 ## Elder Tempest Again
 A storm will brew outside the Shadow as the Elder Tempest comes back to visit the coast again. Zeethrae will encourage the party to rest in the Shadow before starting their harvesting operation on the ship.
+
+Ibal going work on the skiff
+
+Darquin knows Enlarge/Reduce
+Valmar provides the fire
+
+Fran
+Jasper
+Ardin

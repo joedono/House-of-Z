@@ -1,0 +1,2 @@
+# Frozener City
+Upon returning from their journey out onto the Frozen Wastes, the party discovers that the City of Liches is under ice, or at least, significantly more ice than usual. It turns out that the Daemogorth Titan escaped from the hell zoo, formed a pact with a lich named Pluthark. The pact enables Pluthark to cast Tsunami, which he has been doing every day in an insane effort to make the city his prisoner. The party can try to stop him and save the city, or they can attempt to extract only King Ensar. Zeethrae and her crew will vote for the latter.

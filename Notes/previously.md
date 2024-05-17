@@ -1,5 +1,22 @@
 # Previously
 
+## 2024-05-16
+Previously, on Hell Finally Froze Over
+
+The party spends time planning how they're going to tackle dismantling the ship and acquiring it's metal. They eventually settle on a three step plan
+
+1. Destroy or chase away the gelatinous cubes located under the ship, and use the decanter of endless water to fill in the holes, reinforcing the ice under the ship
+2. Using Tenser's Floating Disk and Wild Shape into a giant spider, climb on the outside of the ship and loosen the rivets holding the metal hull to the wooden frame
+3. Using Reduce and Fireball, dislodge the ship from the ice spikes and cause enough damage to break the metal pieces off of the ship for harvesting
+
+The plan works, and the party gains 6 sheets of frost-encrusted hell metal. While some of them were working on that, the rest were outfitting the larger form of the folding boat into a super skiff. With the addition of one of the sheets of hell metal, the super skiff could coast along the ice without worrying about being snagged by frozen limbs sticking out of the ice.
+
+The party made their way back to the City of Liches, parking the folding boat and the metal outside with Hairam, who refuses to enter the city again. Zeethrae and her crew were eager to reconnect with King Ensar.
+
+As the party approaches the city, they notice loud booming noises, like giant footsteps, echoing around the city. There is also significantly more ice coating the streets and buildings. The ice is as thick as 6 feet in some places. Fran finds the head of Vectimarus, the lich magic shop owner that he bested in an unfair duel several days ago. Vectimaru is frozen up to his shoulders and is EXTREMELY bitter about it. Fran eventually convinced him to make nice and help the group conscript other liches into their service in exchange for digging them out of the ice. Vectimarus explains that the large "special attraction" from the menagerie (earlier established to be a Daemorgorth Titan) escaped and formed a pact with someone. That someone was using the pact to conjure a giant wave of water to cover the city every day and coat it in an expanding layer of ice.
+
+The party, Vectimarus, Zeethrae, and her crew make their way into the city.
+
 ## 2024-05-02
 Previously, on Chutes in the Dark
 
