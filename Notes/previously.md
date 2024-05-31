@@ -1,5 +1,20 @@
 # Previously
 
+## 2024-05-30
+Previously, on Everyone gets a Cult
+
+The party skirts around the northern portion of the City of Liches, having determines that the Daemogorth Titan is stomping around the southern section.
+
+They encounter a dozen or so members of the Church of the Tempest, still prostrating themsleves in front of the tiny statue of the Elder Tempest. They've built a rather large pile of soul coins in offering, begging the Tempest to come back and save them from the Titan. A couple of the cultists lose hope and cry out that they should abandon the Tempest and worship the Titan instead. A fight starts to break out before Fran steps in. With a little help from Imbros casting Prestidigitation to put an icey mark on Fran's back, Fran is able to convince the cultists that he is a Chosen of the Tempest. The cultists immediately accept Fran as their leader and the party chisels the trapped cultists out of the ice.
+
+Next, Valmar's Hat of Disguise mysteriously disappears and a second Vectimarus approaches the party. Ibal's Unerring Eye immediately identifies the new arrival as an imposter. Fran steals back the Hat and reveals the imposter to actually be a skeletal goblin calling himself Mug. Mug complains that his plan didn't work and that the party was supposed to forget he existed. It turns out that everyone who stops looking at Mug forgets about him. Ardin quickly remedies this with Greater Restoration, and Vectimarus remembers that Mug stole a wand from him two years ago, and the cultists remember that Mug stole their offering chest with more than 30 soul coins in it. The party still eventually convinces Mug to stick around.
+
+Finally, the party encounters a fancy house that appears to not be frozen at all inside. They see two well-dressed skeletons sitting at a table appearing to hold or stay close to a source of intense light and warmth on the table. Jasper Wild Shapes into a cat and climbs through a second story window to investigate. The Tempest cultists explain that this is Lord and Lady Elderchain, two noble liches well-known for their hobby of collecting critters to keep as pets. Jasper sees a Quasit in the upstairs bedroom playing with a jewel of some kind before looking downstairs. He learns that the Elderchains are keeping their house warm by continuously casting Fireball and holding it, an act that is apparently causing them great strain.
+
+The party except for Ardin and Jasper, retreat a safe distance. Jasper thaws one of the windows and Ardin throws a card from his Deck of Illusions inside. The sudden appearance of a cleric of Pelor is obviously enough of a distraction to make the Elderchains lose their concentration. The Fireball spell erupts and destroys nearly all of the first floor of the house. The party decides to see what they can find in what's left.
+
+Fran and Ardin discover a few mimics disguised as chairs, all of which eventually flee the house with cries of "I'm free!!" Jasper befriends the Quasit that was playing in the bedroom and learns its name is Shovel. Jasper, Shovel, and Darquin discover the mini-zoo where the Elderchains kept their critters, and free a small group of 6 imps, gaining their loyalty. Ibal discovers a Cloak of the Bat amidst a walk-0in closet filled with fine clothes. The Cult of the Tempest raids the closet and all dress themselves in fine, if mismatched, clothing.
+
 ## 2024-05-16
 Previously, on Hell Finally Froze Over
 
