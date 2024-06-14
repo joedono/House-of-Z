@@ -1,5 +1,18 @@
 # Previously
 
+## 2024-06-13
+Previously, on Three Hats
+
+The party continues making their way to the Ancient Castle to see King Ensar. Along the way, a large pile of ice chunks calls out to the party. They eventually recognize it as Shard, who has grown in size significantly due to being washed over by the tsunami and rapidly frozen into more and more ice. She is currently frozen to the side of a building. The party manages to chisel her loose and she escorts them the rest of the way to the Ancient Castle.
+
+The group finds King Ensar holding on to the last dregs of his essence. He believes the hole in his soul is still leaking and he doesn't have much time left. The party puts their heads together and believes they might be able to recreate the essence draining equipment they've seen a couple times over the course of their adventure. All they need are a few specialized pieces of equipment and a source of giant essence to harvest. Vectimarus has some magical equipment at Embers and Ashes, his magic shop. Unfortunately, the shop is to the south, closer to where the Daemogorth Titan is patrolling. The party also identifies three potential sources of giant essence. Shard, in her new large form, might provide a miniscule amount of essence that might hold Ensar over for a period of time. The Titan itself is a potent source of giant essence, but is likely to be hostile. The greatest source of giant essence would be Retaw, the giant skeleton at the top of Skullmount, but that's on the other side of the plain.
+
+Since they will need the magical equipment regardless, the party sets off for Embers and Ashes. Shard, Zeethrae, and her crew stay behind with Ensar. Ibal scouts ahead and notices that the ice that coats the street slopes gently upwards as the party gets closer to the magic shop. He spots a few frozen skeletons, a couple floating demiliches, and some skeletal minotaurs, allowing the party to plot a route to the magic shop that avoids most of the hazards.
+
+As they get closer, the party recognizes Rashaan sitting on top of the ice mound covering the entirety of Embers and Ashes. The shop is clearly visible within the ice mound, as well as a truckload of junk, frozen in the ice. Rashaan is outfitted with all manner of mismatched noble clothing and accessories, jewels cover each hand, three hats adorn his head, his feet are in mismatched boots, and he has a cloak over each shoulder. It seems he's enjoying being one of the "haves" for once.
+
+As the party draws nearer, the time for Rashaan's daily ritual arrives, and a tsunami washes down from the top of the ice mound and speeds towards the party.
+
 ## 2024-05-30
 Previously, on Everyone gets a Cult
 

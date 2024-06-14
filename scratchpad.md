@@ -1,9 +1,6 @@
-Ibal 23
-Jasper 22
+Ibal 20
+Jasper 19
 Ardin 18
-Darquin 16
-Fran 15
-Hairam 5
-Valmar 5
-
-Elemental
+Darquin 17
+Fran 11
+Valmar 3
