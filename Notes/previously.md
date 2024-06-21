@@ -1,5 +1,14 @@
 # Previously
 
+## 2024-06-20
+Previously, on Freezing in the Streets
+
+Rashaan's Tsunami spell spills another layer of ice on the street, but the party manages to dodge it through one method or another. And the fight begins in earnest.
+
+Rashaan has the slim loyalty of a pair of Demiliches and Minotaur Skeletons, making him a credible threat to the party. They still manage to take him down without suffering too much damage, although one of the Demiliches managed to kill all of the imps and Shovel. Jasper revived Shovel with some Balms of the Summer Court. The party manages to take down Rashaan, but not before he summons help from his patron. The Daemogoth Titan stomps over, and the REAL fight begins.
+
+The red rectangle is Jasper's Wall of Fire spell. The Titan has entered into a parlay with Vectimarus. The party sees signs of changing loyalties.
+
 ## 2024-06-13
 Previously, on Three Hats
 
