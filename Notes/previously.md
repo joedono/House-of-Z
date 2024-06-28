@@ -1,5 +1,20 @@
 # Previously
 
+## 2024-06-27
+Previously, on Swamp Blood
+
+The battle continues with the Daemogorth Titan. Vectimarus wisely decides not to pact himself to this dangerous creature, but spends most of the fight reaching that decision.
+
+The rest of the fight goes somewhat smoothly. The only real casualty was Mug, who was then turned into an icey effigy by the Cult of the Tempest.
+
+Valmar quickly disentegrates a new doorway into Vectimarus' magic shop, and Darquin, Valmar, Vectimarus, and Ibal quickly get to work assembling the essence extracting apparatus. Fran and the Cult of the Tempest grab buckets and attempt to collect the watery blood that erupted out of the Daemogorth Titan as it died. Jasper and Ardin form a perimeter to try and keep the few onlookers from interfering. About 90 minutes later, the tinkering group emerge with their equipment and set up around the titan corpse. With a little coordination, and the extra blood that Fran and his cult managed to pull together, Darquin extracts a flask full of the Titan Essence. It is mostly bluish-white, but has sickly green streaks in it. The party takes the flask back to the castle and find Ensar in a similar state of near-complete catatonia as when they first arrived at the City of Liches.
+
+After a little bit of purifying, Darquin feeds the essence to Ensar. He returns to lucidity with a start, again demanding to know where his wife is. Zeethrae shockingly answers him, and he sweeps her up in an embrace that nearly injures her. Ensar is clearly more eager and energetic than the last time his essence was restored. He seems much more impulsive and eager to knock some heads and do some conquering. Valmar convinces him to wait on that stuff until the party can bring Ensar to Retaw the giant and make this fix a little more permanent.
+
+Shard escorts everyone out of the city, but stays behind, and the rest of Thanatos is a little warm for a creature made entirely of ice. The party regroups with Hairam, who kept their haul of Frozem Hell Metal safe. The party sets out towards the Valley of the Crypt Things.
+
+Congrats on reaching level 14!!
+
 ## 2024-06-20
 Previously, on Freezing in the Streets
 
