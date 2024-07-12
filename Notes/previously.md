@@ -1386,3 +1386,12 @@ After a little bit of purifying, Darquin feeds the essence to Ensar. He returns 
 Shard escorts everyone out of the city, but stays behind, and the rest of Thanatos is a little warm for a creature made entirely of ice. The party regroups with Hairam, who kept their haul of Frozem Hell Metal safe. The party sets out towards the Valley of the Crypt Things.
 
 Congrats on reaching level 14!!
+
+## 2024-07-11
+Previously, on Night Gas
+
+The party begins their trek south from the City of Liches. In tow, they have Hairam the wingless Deva, Ensar the giant former king, Zeethrae and her pirate crew, the Cult of the Tempest, Shovel the Quasit, and a folding boat turned ski-truck laden with Frozen Hell Metal and a myriad of magical weapons and armor. The party makes quick work out of crossing the River of Styx thanks to Valmar's Arcane Gate spell, Darquin's Reduce spell, Ensar's Summon Construct spell, and a bit of good old fashioned labor.
+
+As the party sets up camp for the night, Ensar regales the party with the story of the founding of Loftran. He spends a great deal of time describing the numerous fights he and his followers had with the magically charged fauna already living in the area. The story was exhaggerated, but most of the party knew the legends and were happy to hear the tale from their originator. Fran repays the story with the story of the party rescuing Kimg Samuel from the wizard.
+
+The next morning, the wailing roar is so much closer. Anguisa is flying between the mountains in the foothills of the Final Hills. She eventually finds the party and lays into them about constantly disrupting her plans, forcing her to resort to backup plan after backup plan. She reveals that she is here at the behest of her new master, a word she almost cannot say from the sheer revulsion she feels at having to serve another being, and that she intends to be rid of the party once and for all. She imbues a stone with a transportation spell, and summons a squadron of her newfound allies to fight the party.
