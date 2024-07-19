@@ -1395,3 +1395,8 @@ The party begins their trek south from the City of Liches. In tow, they have Hai
 As the party sets up camp for the night, Ensar regales the party with the story of the founding of Loftran. He spends a great deal of time describing the numerous fights he and his followers had with the magically charged fauna already living in the area. The story was exhaggerated, but most of the party knew the legends and were happy to hear the tale from their originator. Fran repays the story with the story of the party rescuing Kimg Samuel from the wizard.
 
 The next morning, the wailing roar is so much closer. Anguisa is flying between the mountains in the foothills of the Final Hills. She eventually finds the party and lays into them about constantly disrupting her plans, forcing her to resort to backup plan after backup plan. She reveals that she is here at the behest of her new master, a word she almost cannot say from the sheer revulsion she feels at having to serve another being, and that she intends to be rid of the party once and for all. She imbues a stone with a transportation spell, and summons a squadron of her newfound allies to fight the party.
+
+## 2024-07-18
+Previously, on Battle in the Mountains
+
+The battle with Anguisa and her summoned demons continues. Things look pretty dire until Zeethrae and her crew shake off the paralysis from Anguisa's Terrifying Breath attack and start contributing to the battle more.

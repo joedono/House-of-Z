@@ -23,10 +23,10 @@ The Devourers will hang back, not engaging in direct combat. They'll swoop forwa
 The Armanites, Nightmares, Imps, and Mariliths will be the primary force that directly engages with the party. The Armanites will strike out with their Lightning Lances and engage in melee when those are depleted.
 
 ## Allies
-* Zeethrae and her crew, who know some magic
-* Hairam the wingless Deva
-* Ensar the ancient king. Lich stat block
-* Shovel the quasit
-* The Cult of the Tempest
+* Zeethrae and her crew, who know some magic - https://www.dndbeyond.com/monsters/17135-drow-mage
+* Hairam the wingless Deva - https://www.dndbeyond.com/monsters/16840-deva
+* Ensar the ancient king. Lich stat block - https://www.dndbeyond.com/monsters/16943-lich
+* Shovel the quasit - https://www.dndbeyond.com/monsters/16988-quasit
+* The Cult of the Tempest - https://www.dndbeyond.com/monsters/17015-skeleton
 
 Shovel and the Cult will obey the orders of their bonded party memebers, Jasper and Fran respectively. Hairam will likely engage with Anguisa initially, but she'll be able to charm him due to his brief connection with her offspring. She won't be able to convince him to turn and attack the party, but he'll be frightened of Anguisa for most of the battle. Zeethrae and her crew will circle around Ensar at the start of the fight and lob out offensive cantrips and level 1 or 2 spells initially. After 2 turns, Ensar will insist on taking to the front lines and cast Summon Construct to summon a Stone Construct. The construct will remind the party of Shard, but will not speak. Ensar will then use the normal Lich stat block for the remainder of the fight. He'll take to the front lines in glorious combat, with Zeethrae and her crew struggling to keep up.
