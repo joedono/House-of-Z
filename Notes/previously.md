@@ -1400,3 +1400,12 @@ The next morning, the wailing roar is so much closer. Anguisa is flying between 
 Previously, on Battle in the Mountains
 
 The battle with Anguisa and her summoned demons continues. Things look pretty dire until Zeethrae and her crew shake off the paralysis from Anguisa's Terrifying Breath attack and start contributing to the battle more.
+
+## 2024-07-25
+Previously, on Near Death Experiences
+
+Round 3 of the battle begins as Anguisa retreats to a perch and the Devourers advanced on the party. Ensar has enslaved one of the Mariliths to his side. Between that and the rest of the party's attacks, the Devourers are defeated before they can do significant damage. Hairam heals Shovel and Zeethrae and her crew comfort the member of their number still under Anguisa's Terrifying Breath effect. Anguisa retreats to the sky and flies to the east, in the direction of the Final Hills.
+
+The party recuperates as Ensar asks about the party's long-time foe and her history.
+
+The party makes the rest of the journey to the Valley of the Crypt Things. A few of them hear a loud boom in the direction of either the Ancient Castle or the Steel Door. They make their way cautiously through the city, hampered slightly by the makeshift walls and some leftover traps. The party enters into the quadrant of the city that used to belong to King Ashfall, and finally find signs of activity. They hear the sounds of soldiers marching in plate metal, and slightly farther away, the sounds of crafting or repairs being done.

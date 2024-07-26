@@ -1,6 +1,8 @@
 # Power Corrupts
 Upon arriving back at the Valley of the Crypt Things, and continuing the theme of undead power corrupting those who don't immediately shun it, the party finds that the Valley of the Crypt Things has been nearly completely taken over by Gail and Benni, who has transformed into a Sire of Insanity. Gail has fully succumbed to the nature of the Valley, and now desires only to expand his territory and control the entire valley. He has long since dropped his Disguise Self cover, and his flesh has started to slough off, revealing the skeleton underneath. King Sweep is the last bastion of territory not under the control of Gail, but he won't last long without some serious help.
 
+https://www.dndbeyond.com/monsters/175311-sire-of-insanity
+
 ## Entrance
 The party enters the Valley of the Crypt Things from the north, putting them just barely outside of Gail's expanded territory. The last two bastions of resistance against Gail are the sewers, where the Balor lives, and Sweep Citadel. These two have caused Gail to continue to focus his efforts to the East and South of Eloreth's old base, leaving the northern quadrant of the Valley mostly untouched. The party have a number of possibilities for what can happen to them here.
 

@@ -9,4 +9,3 @@ Ensar 14
 Valmar 14
 Hairam 9
 Jasper 8
-Devourers 2
