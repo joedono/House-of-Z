@@ -17,7 +17,10 @@ Gail will ask the party to join his army and help trample the last dregs of resi
 
 If the party fails to convince Gail to abandon his post and join them, things might turn hostile. The party will have to fight their way out of the base and find safe haven. Gail is a level 17 Pact of the Fiend Warlock and Benni is a Sire of Insanity. Gail also has his formidible army of skeletons leftover from Eloreth's leadership and further enhanced by Gail sharing the power of his patron with his soldiers. Each one can cast Wall of Stone 1/day, working together to build a maze of sorts. The former Eloreth HQ allows Gail to use Baphomet's Lair Actions.
 
-https://www.dndbeyond.com/monsters/175311-sire-of-insanity
+* https://www.dndbeyond.com/monsters/175311-sire-of-insanity
+* https://www.dndbeyond.com/monsters/2560734-baphomet
+* https://www.dndbeyond.com/monsters/17118-bone-naga
+* https://www.dndbeyond.com/monsters/3081122-skeletal-knight
 
 ## Meeting the Balor
 The party might attempt to sneak through the sewers, or head there in pursuit of safety. The Balor has been severely wounded and is mounting a desperate defense in the sewers. The defense gives all the impressions of a powerful force, but is actually the last dregs of the Balor's servants. One big push could easily break their line. The Balor is eager to parlay with the party once it discovers their existence. It'll also recognize them by their scent. They were in its sewers before.

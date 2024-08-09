@@ -3,3 +3,5 @@ The party has managed to return to the Sweep Citadel with their cargo of Frozen 
 
 ## Construction Complete
 With construction of the airship complete, Blast is ready to get the heck out of dodge. The airship is big enough to carry roughly 50 creatures and their gear. Blast has a crew already picked out. The party will likely request that the airship's first stop be Skullmount to get Ensar taken care of.
+
+TODO
