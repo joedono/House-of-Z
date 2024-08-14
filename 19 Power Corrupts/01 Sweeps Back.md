@@ -79,6 +79,8 @@ Rain
 ## Construction Complete
 With construction of the airship complete, Blast is ready to get the heck out of dodge. The airship is big enough to carry roughly 50 creatures and their gear. Blast has a crew already picked out.
 
+The airship will be equipped with 4 ballistas, 2 cannons, and mounted with the laser that Light and Whizzbangs was working on. It also comes with a diving bell that can withstand extreme temperatures and pressures.
+
 As the party leaves, they can look back at the Valley and see that the bones of another monarch have reassembled themselves in the far north-west quadrant of the Valley and is sending out a small squadron of skeletons to conquer territory. The war begins anew, it seems.
 
 The party has two things on their todo list:
