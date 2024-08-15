@@ -40,6 +40,6 @@ Stages:
 10. Crystallization of heart (character death)
 
 ## Return Journey
-The journey out will be more hazardous than the journey in, as the soul fragment the party extracted will make them a beacon for the half-formed souls inside the mountain. There will bre 5-6 attacks, including some that will drag the bell deeper into the mountain or attempt to break inside. There may be actual combat involved if a leak happens
+The journey out will be more hazardous than the journey in, as the soul fragment the party extracted will make them a beacon for the half-formed souls inside the mountain. There will be 5-6 attacks, including some that will drag the bell deeper into the mountain or attempt to break inside. There may be actual combat involved if a leak happens
 
 Once out and retrieved by the airship, Ensar will be completely drawn to the soul crystal. Upon consuming it, he will have a perpetual soul generator as part of his essence, never losing his lucidity and never going empty. It's not a direct fix to his leak, but it's almost as good. Ensar will pledge his abilities to the party's goals for the near future.
