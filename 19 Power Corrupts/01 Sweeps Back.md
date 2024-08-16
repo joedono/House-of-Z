@@ -2,7 +2,7 @@
 The party has managed to return to the Sweep Citadel with their cargo of Frozen Hell Metal intact. Blast will be eager to finally finish his work on the furnace for his airship. It will take 4 days to construct the thing. Hopefully, the party dealt with the conflict in the Valley proper, or they'll have an attack on their hands during the downtime. Ensar's newly restored essence will last that long.
 
 ## Downtime
-With 4 days of downtime and no immediate threats, the party can leisure around the Sweep Citadle and see what else the small city has to offer.
+With 4 days of downtime and no immediate threats, the party can leisure around the Sweep Citadel and see what else the small city has to offer.
 
 ## Locations
 
@@ -39,7 +39,7 @@ There is no danger of the C.H.U.M. going out of control this time. Some of its t
 This is the building that was housing the large laser that rolled around the street when the party was here last. It's owned by a white-haired bugbear and a kenku that have named themselves Light and Shadow. They're still working out the kinks in their large laser. It's not in danger of going awry unless the party attempts to aid in the construction and fail.
 
 ### Illusionary Mettle
-The kenku who spilled out the Deck of Illusions sold the remaining cards in the deck to a changeling named Mettle. He hates when people ask how his name is spelled, saying it's Bravery not Steel. Mettle has been making bets with children in the Sweep Citadel. If they can stand for 5 minutes in the pen with a random illusion creature without screaming and running away, Mettle gives them a silver. As the party is approaching, Stump is screaming and fleeing the pen, bringing laughter from the rest of Dent's kids, Bump, Grump, Pump, and Thump
+The kenku who spilled out the Deck of Illusions sold the remaining cards in the deck to a changeling named Mettle. He hates when people ask how his name is spelled, saying it's Bravery not Steel. Mettle has been making bets with children in the Sweep Citadel. If they can stand for 1 minute in the pen with a random illusion creature without screaming and running away, Mettle gives them a silver. As the party is approaching, Stump is screaming and fleeing the pen, bringing laughter from the rest of Dent's kids, Bump, Grump, Pump, and Thump
 
 ### Instant Farm
 Acorn, the gnoll who accidentially caused a forest to sprout in the middle of the street, has *mostly* perfected his quick-grow formula and has made a killing selling spices and vegetables in a realm where nothing grows.
