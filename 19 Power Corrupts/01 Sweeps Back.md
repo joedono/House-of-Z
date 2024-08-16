@@ -9,7 +9,7 @@ With 4 days of downtime and no immediate threats, the party can leisure around t
 ### Blast Hanger
 Blast and his staff don't NEED any help in assembling the furnace, but they'll take any help offered by the party. They can use intelligence, skematic managing, and physical labor from anyone who volunteers. Players can make any skill check to contribute to one of these things. Blast will reward players who successfully contribute.
 
-Rewards
+Darquin's Rewards (pick any 4, including 4 of the same scroll)
 * Spell Scroll of Aura of Vitality
 * Spell Scroll of Bane
 * Spell Scroll of Banishment
@@ -23,7 +23,7 @@ The Alchemist Shop that had the Cloning Potion mishap is run by a half-orc named
 
 Another thing that might happen is the party will ask Alc to identify the starry potion they acquired from the Demilich. Alc's instruments will short out trying to identify it, but he'll be able to determine that it contains extremely powerful magic.
 
-Stock
+Alc's Stock
 * Potion of Superior Healing
 * Potion of Cloud Giant Strength
 * Potion of Flying
