@@ -1436,8 +1436,12 @@ The party investigated the kenku who purchased a Deck of Illusions, then tripped
 
 As the party was heading to their next investigation, they witnessed a squadron of goblins armed with rivet guns and welding torches and accompanied by the C.H.U.M. They were on their way to reinforce the Steel Door again.
 
+End of day 1
+
 Next, the party investigated the trash golem. They found a Firbolg named Bits who had apparently started a business as a trash collector. He would show up somewhere that had hired him to get rid of their trash, he would imbue the trash with some semblence of life, and have the trash walk itself to the disposal site, which turned out to be a cave that ended in a lava pit. Bits was rather secretive about the exact method of imbuing life into the trash, but the idea seems completely plausible, considering what the party has learned so far about how souls behave on Thanatos.
 
 Next, the party investigated the site of the Disentegrate Ray that broke loose and rolled around in the street. They found an albino bugbear named Light and a kenku named Shadow finishing work on what they now called the Disentegrate Cannon. Fran identified it as being designed to be mounted on the front of Blast's airship. The first floor of the building had been reinforced with the Dustproofium material. Light and Shadow had some humerous theories on the method of Dustproofium's production. Unfortunately, no one really knows how to make more and all that exists in the Sweep Citadel was used in reinforcing this building.
 
 Lastly, the party investigated the site of the Cloning Potion mishap, and found a potion shop simply named Alc's. The half-orc owner answered the party's questions about the Cloning potion, despite his efforts to direct them to his better selling items (normal potions). As the second day drew to a close, Alc attempted to use his equipment to identify the starry potion that Fran took off the dead Demilich in the City of Liches. The magic in the potion was strong enough to short out Alc's instruments. Alc was only able to say that the potion contained extremely powerful magic and should only be used in the most dire of circumstances.
+
+End of day 2.
