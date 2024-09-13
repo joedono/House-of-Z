@@ -32,6 +32,9 @@ Eventually, the two armies will meet in battle. Depending on what the party elec
 * Gail - https://www.dndbeyond.com/characters/128979133
 * Benni - https://www.dndbeyond.com/monsters/175311-sire-of-insanity
 * 500 armed zombies
+    * https://www.dndbeyond.com/monsters/16970-ogre-zombie
+    * https://www.dndbeyond.com/monsters/22571-greater-zombie
+* Death hunting chasme - https://www.dndbeyond.com/monsters/17140-chasme
 
 ## Airship Armaments
 * Ballista - Ranged Weapon Attack: +6 to hit, range 120/480 ft., one target. Hit: 16 (3d10) piercing damage.
