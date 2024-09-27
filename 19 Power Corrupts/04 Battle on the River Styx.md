@@ -9,17 +9,12 @@ Eventually, the two armies will meet in battle. Depending on what the party elec
 ## Anguisa's Army
 * Anguisa herself - https://www.dndbeyond.com/monsters/ghost-dragon
 * Armanite - https://www.dndbeyond.com/monsters/2560726-armanite
-* Babau - https://www.dndbeyond.com/monsters/2560730-babau
 * Barlgura - https://www.dndbeyond.com/monsters/17110-barlgura
-* Bulezau - https://www.dndbeyond.com/monsters/2560747-bulezau
 * Canoloth - https://www.dndbeyond.com/monsters/2560749-canoloth
 * Daemgoth - https://www.dndbeyond.com/monsters/2160302-daemogoth
-* Devourer - https://www.dndbeyond.com/monsters/17237-devourer
 * Eater of Hope - https://www.dndbeyond.com/monsters/909481-eater-of-hope
 * Glabrezu - https://www.dndbeyond.com/monsters/16902-glabrezu
-* Goristro - https://www.dndbeyond.com/monsters/17156-goristro
 * Marilith - https://www.dndbeyond.com/monsters/16952-marilith
-* Maw Demon - https://www.dndbeyond.com/monsters/2560869-maw-demon
 * Nightmare - https://www.dndbeyond.com/monsters/16964-nightmare
 * Vrock - https://www.dndbeyond.com/monsters/17047-vrock
 
