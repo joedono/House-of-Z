@@ -1487,3 +1487,8 @@ The party takes a long rest, each attending to whatever duties are important to 
 After deliberating a plan of attack, the party elects to go with Blast's suggestion to make use of the landing spurs on the airship and turn the whole thing into a sturdy bridge across the River Styx. The party and their allies position themselves along the ship. They delegate a squadron of zombies to man the ballistas on the ship and another squadron to serve as the vangard of their war column. Benni is situated next, with a plan to have Ensar encase him in a Globe of Invulnerability and allow his Aura of Mind Erosion to wreck havoc while he remained safe. The spellcasters, Blast, and Zeethrae would be placed near the rear to serve as artillery.
 
 With their plans set, Blast gives the word to land the airship and the battle commences. The flying Nightmares board the ship as the Mariliths engage the head column of zombies. The Vrocks harass the ship from the sides. Fran dives head first into the conflict. Ibal does as well, but plans a little more stealthliy. Ardin and Jasper unleash destruction from the rear of the ship. Thunder streaks across the sky.
+
+## 2024-10-10
+Previously, on The Battle Continues
+
+The battle continued.
