@@ -5,6 +5,15 @@ With Anguisa finally felled, the party has a few loose ends to tie up
 * How to get home
 * Wrapping up the long-neglected storylines back on the Material Plane
 
+
+## Wand of Orcus
+The Wand of Orcus will continue to pulse out necrotic energy at regular intervals unless the party does something about it. It only has a range of 500ft, so they could just leave it there to be picked up by a wandering demon. The wand will possess the demon to return the wand to Orcus, and the status quo will be restored.
+
+Alternatively, they could throw it into the River Styx. It'll be washed downstream and potentially end up in another layer of the Abyss, prompting another demon prince to pick it up and see it as an opportunity to go to war with a weakened Orcus.
+
+If the party elects to take it with them anywhere, it'll attempt to persuade them to wreck havoc and raise an army of undead.
+
+
 ## NPCs
 
 ### Ensar and Zeethrae
@@ -23,12 +32,6 @@ Blast will be EXTREMELY happy that his airship is now battle tested and found su
 ### Gail and Benni
 Gail and Benni have had enough of the Abyss and very much want to return home. Gail will entreat the players to find a way to cure Benni, to which Hairam will step up and use his Healing Touch to end the curse Gail placed on Benni and return him to his normal dwarvish self. Benni will also have all of his sanity restored, but his memories of the last few weeks will be hazy or missing completely. He won't remember being a Sire of Insanity. Gail and Benni will be very grateful to the party if they return them home. The two of them will settle down in Durrstaft.
 
-## Wand of Orcus
-The Wand of Orcus will continue to pulse out necrotic energy at regular intervals unless the party does something about it. It only has a range of 500ft, so they could just leave it there to be picked up by a wandering demon. The wand will possess the demon to return the wand to Orcus, and the status quo will be restored.
-
-Alternatively, they could throw it into the River Styx. It'll be washed downstream and potentially end up in another layer of the Abyss, prompting another demon prince to pick it up and see it as an opportunity to go to war with a weakened Orcus.
-
-If the party elects to take it with them anywhere, it'll attempt to persuade them to wreck havoc and raise an army of undead.
 
 ## Returning Home
 The party will be returned home at or near the point where they left, which puts them in the sunken tower known as Landgrave's Folly, 40ft underwater and a few hundred feet off the coast from the Heavenly Cay. 40ft is easily crossed in two rounds, which is more than enough time for each character to get to the surface. From there, they can either hang or sit on the portion of the spire sticking out of the water and wait for a passing ship, or attempt to make the swim back to the Cay. They'll encounter no complications on their way back if they swim.
